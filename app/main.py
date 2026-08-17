@@ -3,6 +3,7 @@ from contextlib import asynccontextmanager
 
 from elasticsearch import AsyncElasticsearch
 from fastapi import Depends, FastAPI, Query, Request
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
 from app.es_client import SearchUnavailableError, build_client, search_shlokas
@@ -21,6 +22,19 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
 
 app = FastAPI(title="Sadhana Search API", lifespan=lifespan)
+
+# Wildcard is safe here specifically because this endpoint takes no
+# credentials/cookies and returns nothing user-specific — a public,
+# read-only search API with no per-caller state to leak. Without this, the
+# Flutter *web* build's browser fetch calls are silently blocked by the
+# browser's same-origin policy (Android/iOS are unaffected — CORS is a
+# browser-only mechanism, invisible on native).
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["GET"],
+    allow_headers=["*"],
+)
 
 
 def get_es_client(request: Request) -> AsyncElasticsearch:

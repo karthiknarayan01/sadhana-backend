@@ -87,3 +87,12 @@ async def test_health_endpoint(client: AsyncClient) -> None:
     response = await client.get("/health")
     assert response.status_code == 200
     assert response.json() == {"status": "ok"}
+
+
+async def test_cors_allows_browser_clients_from_any_origin(client: AsyncClient) -> None:
+    # The Flutter *web* build calls this API from a browser tab, which
+    # enforces the same-origin policy client-side — httpx has no such
+    # restriction, so this only exercises the real behavior if an Origin
+    # header is sent, same as a real browser fetch would send.
+    response = await client.get("/search", params={"q": "Argala"}, headers={"Origin": "https://example.com"})
+    assert response.headers["access-control-allow-origin"] == "*"

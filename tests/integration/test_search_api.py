@@ -14,7 +14,7 @@ ARGALA_DOC = {
         "english": "Om namaste sharvamangale shive sarvartha sadhike",
         "devanagari": "ॐ नमस्ते शर्वमङ्गले शिवे सर्वार्थ साधिके",
     },
-    "meaning": {},
+    "meaning": {"english": "A hymn invoking the Goddess for auspiciousness and protection."},
     "source_attribution": {"text_source": "test fixture", "license": "public_domain"},
     "languages_available": ["english", "devanagari"],
 }
@@ -54,6 +54,16 @@ async def test_search_response_includes_every_language_for_client_side_switching
     assert set(result["languages_available"]) == {"english", "devanagari"}
     assert result["content"]["devanagari"] == ARGALA_DOC["content"]["devanagari"]
     assert result["name"]["devanagari"] == ARGALA_DOC["name"]["devanagari"]
+
+
+async def test_search_response_includes_the_meaning(client: AsyncClient) -> None:
+    # meaning is deliberately never searched/highlighted (see mapping.py's
+    # dynamic template) but must still round-trip to the client — it's the
+    # field the copyright-aware content pipeline exists to isolate, not one
+    # to silently drop.
+    response = await client.get("/search", params={"q": "Argala"})
+    result = response.json()["results"][0]
+    assert result["meaning"] == ARGALA_DOC["meaning"]
 
 
 async def test_search_highlights_the_matched_fragment(client: AsyncClient) -> None:

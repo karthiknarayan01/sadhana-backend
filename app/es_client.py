@@ -63,6 +63,7 @@ def _to_result(hit: dict) -> SearchResult:
         languages_available=source["languages_available"],
         name=source["name"],
         content=source["content"],
+        meaning=source.get("meaning", {}),
         highlight=Highlight(
             name=highlight.get("name.english", []),
             content=highlight.get("content.english", []),

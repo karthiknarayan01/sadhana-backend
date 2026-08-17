@@ -42,8 +42,15 @@ resource "google_project_iam_member" "deployer_roles" {
 # Needed to run `terraform init`/`apply` at all — the tfstate bucket itself
 # isn't Terraform-managed (bootstrap step 1, can't create the bucket that
 # stores its own state), so this grants against its name directly.
+#
+# storage.admin, not objectAdmin: this resource is self-referential — every
+# `terraform apply` the deployer SA runs re-reads this very IAM binding to
+# compute its diff, which needs bucket-level storage.buckets.getIamPolicy.
+# objectAdmin only grants object-level permissions, not that, which fails
+# every apply after the first (the first succeeds by luck, applied with a
+# human's broader local credentials during bootstrap).
 resource "google_storage_bucket_iam_member" "deployer_tfstate_access" {
   bucket = "${var.project_id}-tfstate"
-  role   = "roles/storage.objectAdmin"
+  role   = "roles/storage.admin"
   member = "serviceAccount:${google_service_account.deployer.email}"
 }

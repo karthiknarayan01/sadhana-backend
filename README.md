@@ -67,6 +67,9 @@ promotion PR (see `.github/workflows/enforce-dev-to-main.yml`).
 
 Elasticsearch runs self-hosted on a single private GCE VM (no external IP) —
 never exposed to the internet directly. This Cloud Run service is the only
-public entry point, reaching Elasticsearch over a private VPC. Cloud Armor
-rate-limits incoming requests per-IP. See `infra/terraform/` (added once the
-infra phase lands — not yet in this scaffold).
+public entry point, reaching Elasticsearch over a private VPC (Direct VPC
+egress) with Cloud Armor rate-limiting incoming requests per-IP ahead of it.
+See `infra/terraform/` and `infra/terraform/README.md` for the resources and
+one-time manual bootstrap (state bucket, Workload Identity Federation, the
+ES VM's bootstrap password and API key). Nothing there has been applied yet —
+`terraform apply` is a deliberate, explicit, human-run step.

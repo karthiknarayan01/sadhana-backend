@@ -17,11 +17,14 @@ else to share those with).
 - `sadhana-search-api`, a Cloud Run v2 service reaching ES over the VPC,
   `INGRESS_TRAFFIC_INTERNAL_LOAD_BALANCER`-only (bypassing the LB by hitting
   its own `*.run.app` URL is blocked, not just discouraged).
-- A minimal HTTP-only Load Balancer (reserved IP, serverless NEG, backend
-  service, URL map, HTTP proxy, forwarding rule) — it exists purely to give
-  Cloud Armor something to attach to (it can't attach to a bare Cloud Run
-  URL). No managed TLS cert/DNS/custom domain yet; add those once a domain
-  is wanted.
+- A Load Balancer (reserved IP, serverless NEG, backend service, URL map,
+  HTTPS proxy, forwarding rule, HTTP→HTTPS redirect) — partly to give Cloud
+  Armor something to attach to (it can't attach to a bare Cloud Run URL),
+  partly to terminate real TLS. No purchased domain or Cloud DNS zone: the
+  managed cert covers `<ip-with-dashes>.sslip.io`, a free wildcard DNS
+  service that resolves to the literal IP with zero registration — Google's
+  cert validation only checks DNS resolution, not ownership, so this is
+  satisfied without owning anything. See `local.public_domain` in `lb.tf`.
 - `google_compute_security_policy` (Cloud Armor) — per-IP throttle.
 - Artifact Registry repo, runtime + deployer service accounts, Secret
   Manager secret *resources* (values set by hand, never through Terraform).
@@ -65,34 +68,40 @@ gcloud iam service-accounts add-iam-policy-binding \
 Keep this step permanently manual — never let Terraform manage its own trust
 root.
 
-### 3. Generate the Elasticsearch bootstrap password
-
-The startup script reads this on first boot, so it must exist *before* the
-VM is created:
-
-```bash
-openssl rand -base64 24 | gcloud secrets create es-elastic-password --data-file=- --project=$PROJECT_ID
-# secret resource doesn't exist yet on a from-scratch project — this creates
-# it directly; once Terraform's secrets.tf also manages it, switch to
-# `gcloud secrets versions add` instead so the two don't fight over
-# ownership of the secret resource itself.
-```
-
-### 4. First apply
+### 3. First apply — secret resource only
 
 Run locally with your own `gcloud` user credentials (Owner/Editor on the
 project) — not the deploy SA, which doesn't exist with the right IAM until
-this apply creates it.
+a later apply creates it. Targeted deliberately: the ES VM's startup script
+reads `es-elastic-password` on first boot, so the *secret resource* must
+exist (via Terraform, so it isn't fighting Terraform for ownership later)
+and have a *value* (via the next step, by hand) before the VM itself is
+created — doing the full apply in one shot would boot the VM before a human
+had a chance to populate the password.
 
 ```bash
 cd infra/terraform
 terraform init -backend-config="bucket=${PROJECT_ID}-tfstate" -backend-config="prefix=backend"
+terraform apply -var="project_id=${PROJECT_ID}" -var="region=${REGION}" -var="image_tag=bootstrap" \
+  -target=google_secret_manager_secret.es_elastic_password
+```
+
+### 4. Populate the bootstrap password, then the full apply
+
+```bash
+openssl rand -base64 24 | gcloud secrets versions add es-elastic-password --data-file=- --project=$PROJECT_ID
+
 terraform apply -var="project_id=${PROJECT_ID}" -var="region=${REGION}" -var="image_tag=bootstrap"
 ```
 
 `image_tag=bootstrap` is a placeholder — nothing has been pushed to Artifact
 Registry yet, so `sadhana-search-api`'s first revision will fail to start.
-That's fine; the real image lands once the GitHub Actions deploy job runs.
+That's fine; the real image (and a working `es-api-key`, from the next step)
+land before anything actually needs to serve traffic. The managed SSL cert
+also starts as `PROVISIONING` here — poll with
+`gcloud compute ssl-certificates describe sadhana-ssl-cert --format="value(managed.status)"`
+until it reaches `ACTIVE` (sslip.io resolves instantly, so this is typically
+well under an hour, not the up-to-24h a real registrar can take).
 
 ### 5. Mint the Elasticsearch API key
 
@@ -152,11 +161,13 @@ redeploys — single-environment setup, `dev` is what's live.
 
 ## Risks / operating notes
 
-- **Cost**: the ES VM and the LB's forwarding rule are the two fixed
+- **Cost**: the ES VM and the LB's forwarding rules are the two fixed
   monthly costs regardless of traffic. Cloud Run scales to zero.
-- **No TLS yet**: the LB is plain HTTP until a domain is added — acceptable
-  for public, non-authenticated shloka search, not a pattern to copy for
-  anything handling credentials.
+- **sslip.io is a third-party free service, not a Google product** — if it
+  ever disappeared, the managed cert would stop renewing (certs auto-renew
+  only while the domain keeps resolving correctly). Low risk for a widely-used
+  service, but worth knowing; swapping to a real purchased domain later is a
+  one-line change to `local.public_domain` in `lb.tf`.
 - **Single-node ES has no HA** — deliberate, matches the plan's chosen
   hosting approach for this scale; a VM failure loses the index until
   re-ingested (cheap — the catalog is small and `ingest/run.py` is

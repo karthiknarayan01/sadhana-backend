@@ -30,5 +30,53 @@ jobs:
       # no docker-compose/services block needed here.
       - run: uv run pytest
 
-  # No deploy job yet — that lands once infra/terraform exists (see the
-  # project plan's phased build order). This is lint+test only for now.
+  # Builds+pushes the image, then applies infra/terraform (which owns the
+  # Cloud Run image reference — no imperative `gcloud run deploy`, to avoid
+  # state/reality drift on the next plan). Only ever runs on dev; main never
+  # redeploys (single-environment setup, dev is what's live). See
+  # infra/terraform/README.md for the one-time bootstrap this depends on —
+  # already done for the sadhana-backend-305666 project.
+  deploy:
+    needs: [lint, test]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/dev'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    env:
+      TF_VAR_project_id: ${{ vars.GCP_PROJECT_ID }}
+      TF_VAR_region: ${{ vars.GCP_REGION }}
+      TF_VAR_zone: ${{ vars.GCP_ZONE }}
+      TF_VAR_image_tag: ${{ github.sha }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: sadhana-backend-deployer@${{ vars.GCP_PROJECT_ID }}.iam.gserviceaccount.com
+
+      - uses: google-github-actions/setup-gcloud@v2
+
+      # GitHub-hosted runners are linux/amd64 natively, so this needs no
+      # --platform flag (unlike a local build on Apple Silicon) — Cloud Run
+      # only accepts linux/amd64 images.
+      - name: Build and push image
+        run: |
+          gcloud auth configure-docker ${{ vars.GCP_REGION }}-docker.pkg.dev --quiet
+          IMAGE=${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/sadhana-backend-images/search-api:${{ github.sha }}
+          docker build -t "$IMAGE" .
+          docker push "$IMAGE"
+
+      - uses: hashicorp/setup-terraform@v3
+
+      - name: Terraform init
+        working-directory: infra/terraform
+        run: |
+          terraform init \
+            -backend-config="bucket=${{ vars.GCP_PROJECT_ID }}-tfstate" \
+            -backend-config="prefix=backend"
+
+      - name: Terraform apply
+        working-directory: infra/terraform
+        run: terraform apply -auto-approve

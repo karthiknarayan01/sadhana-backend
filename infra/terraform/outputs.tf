@@ -1,6 +1,11 @@
 output "lb_ip" {
-  description = "Public IP the app should hit — http://<lb_ip>/search?q=... — fronted by Cloud Armor's rate limiter."
+  description = "The load balancer's reserved IP — public_url (below) is derived from it, this is mostly useful for confirming DNS/cert provisioning."
   value       = google_compute_global_address.lb_ip.address
+}
+
+output "public_url" {
+  description = "The real public entry point — https://<public_url>/search?q=... — fronted by Cloud Armor's rate limiter, TLS via a Google-managed cert on a free sslip.io domain. Plain HTTP on this same IP redirects here."
+  value       = "https://${local.public_domain}"
 }
 
 output "api_url" {

@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [dev, main]
+  pull_request:
+    branches: [dev, main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - run: uv sync
+      - run: uv run ruff check .
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - run: uv sync
+      # Docker is preinstalled on GitHub-hosted ubuntu-latest runners, so
+      # testcontainers can spin up its own ephemeral Elasticsearch directly —
+      # no docker-compose/services block needed here.
+      - run: uv run pytest
+
+  # No deploy job yet — that lands once infra/terraform exists (see the
+  # project plan's phased build order). This is lint+test only for now.

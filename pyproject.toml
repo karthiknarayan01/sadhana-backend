@@ -1,0 +1,49 @@
+[project]
+name = "sadhana-backend"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "pydantic-settings>=2.6",
+    "elasticsearch>=8.15,<9",
+    # AsyncElasticsearch's HTTP transport needs aiohttp explicitly — the
+    # elasticsearch package doesn't pull it in on its own.
+    "aiohttp>=3.10",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+    "httpx>=0.27",
+    "testcontainers[elasticsearch]>=4.8",
+    "ruff>=0.8",
+    # Ingestion tooling (see ingest/) — local-only, never shipped in the
+    # deployed image, so it lives here rather than in [project.dependencies].
+    "pyyaml>=6.0",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = [
+    "B008", # FastAPI's Depends(...) as a default arg is the intended pattern
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["app", "ingest", "tests"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]

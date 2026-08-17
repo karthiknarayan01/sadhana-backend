@@ -1,0 +1,79 @@
+import pytest
+from elasticsearch import AsyncElasticsearch
+from httpx import AsyncClient
+
+from ingest.mapping import INDEX_MAPPING
+
+INDEX = "shlokas"  # matches Settings.es_index's default
+
+ARGALA_DOC = {
+    "id": "argala-stotram",
+    "category": "stotram",
+    "name": {"english": "Argala Stotram", "devanagari": "अर्गला स्तोत्रम्"},
+    "content": {
+        "english": "Om namaste sharvamangale shive sarvartha sadhike",
+        "devanagari": "ॐ नमस्ते शर्वमङ्गले शिवे सर्वार्थ साधिके",
+    },
+    "meaning": {},
+    "source_attribution": {"text_source": "test fixture", "license": "public_domain"},
+    "languages_available": ["english", "devanagari"],
+}
+
+
+@pytest.fixture(autouse=True)
+async def seed_index(es_client: AsyncElasticsearch):
+    if await es_client.indices.exists(index=INDEX):
+        await es_client.indices.delete(index=INDEX)
+    await es_client.indices.create(index=INDEX, **INDEX_MAPPING)
+    await es_client.index(index=INDEX, id=ARGALA_DOC["id"], document=ARGALA_DOC, refresh=True)
+
+
+async def test_search_matches_by_name(client: AsyncClient) -> None:
+    response = await client.get("/search", params={"q": "Argala"})
+    assert response.status_code == 200
+    results = response.json()["results"]
+    assert len(results) == 1
+    assert results[0]["id"] == "argala-stotram"
+
+
+async def test_search_matches_by_content_fragment(client: AsyncClient) -> None:
+    # A user may only remember body text, not the title — this is the
+    # scenario that drove searching content.english too, not just name.
+    response = await client.get("/search", params={"q": "sharvamangale"})
+    assert response.status_code == 200
+    results = response.json()["results"]
+    assert len(results) == 1
+    assert results[0]["id"] == "argala-stotram"
+
+
+async def test_search_response_includes_every_language_for_client_side_switching(
+    client: AsyncClient,
+) -> None:
+    response = await client.get("/search", params={"q": "Argala"})
+    result = response.json()["results"][0]
+    assert set(result["languages_available"]) == {"english", "devanagari"}
+    assert result["content"]["devanagari"] == ARGALA_DOC["content"]["devanagari"]
+    assert result["name"]["devanagari"] == ARGALA_DOC["name"]["devanagari"]
+
+
+async def test_search_highlights_the_matched_fragment(client: AsyncClient) -> None:
+    response = await client.get("/search", params={"q": "sharvamangale"})
+    highlight = response.json()["results"][0]["highlight"]
+    assert any("sharvamangale" in fragment.lower() for fragment in highlight["content"])
+
+
+async def test_search_with_no_match_returns_empty_results(client: AsyncClient) -> None:
+    response = await client.get("/search", params={"q": "completely unrelated gibberish xyz"})
+    assert response.status_code == 200
+    assert response.json()["results"] == []
+
+
+async def test_search_requires_a_query_param(client: AsyncClient) -> None:
+    response = await client.get("/search")
+    assert response.status_code == 422
+
+
+async def test_health_endpoint(client: AsyncClient) -> None:
+    response = await client.get("/health")
+    assert response.status_code == 200
+    assert response.json() == {"status": "ok"}

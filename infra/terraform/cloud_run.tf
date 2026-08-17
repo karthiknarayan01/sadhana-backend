@@ -48,3 +48,16 @@ resource "google_cloud_run_v2_service" "api" {
     }
   }
 }
+
+# Without this, Cloud Run still requires an authenticated caller even though
+# ingress is already LB-only — the two are independent gates. The actual
+# public-facing protection is Cloud Armor's rate limit (cloud_armor.tf) plus
+# the ingress restriction above, not IAM; the API has no per-user concept to
+# authenticate against.
+resource "google_cloud_run_v2_service_iam_member" "api_public" {
+  project  = var.project_id
+  location = google_cloud_run_v2_service.api.location
+  name     = google_cloud_run_v2_service.api.name
+  role     = "roles/run.invoker"
+  member   = "allUsers"
+}

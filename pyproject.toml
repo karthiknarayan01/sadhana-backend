@@ -22,6 +22,10 @@ dev = [
     # Ingestion tooling (see ingest/) — local-only, never shipped in the
     # deployed image, so it lives here rather than in [project.dependencies].
     "pyyaml>=6.0",
+    # ingest/crawl/ — source crawlers, local-only, same reasoning as above.
+    "requests>=2.32",
+    "beautifulsoup4>=4.12",
+    "indic-transliteration>=2.3",
 ]
 
 [tool.pytest.ini_options]

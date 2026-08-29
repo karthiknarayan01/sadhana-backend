@@ -35,7 +35,9 @@ resource "google_compute_network_endpoint_group" "search_api" {
 }
 
 resource "google_compute_network_endpoint" "search_api" {
-  network_endpoint_group = google_compute_network_endpoint_group.search_api.id
+  project                = var.project_id
+  zone                   = var.zone
+  network_endpoint_group = google_compute_network_endpoint_group.search_api.name
   instance               = google_compute_instance.elasticsearch.name
   ip_address             = google_compute_instance.elasticsearch.network_interface[0].network_ip
   port                   = 8080

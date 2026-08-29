@@ -8,12 +8,7 @@ output "public_url" {
   value       = "https://${local.public_domain}"
 }
 
-output "api_url" {
-  description = "sadhana-search-api's *.run.app URL. Not the public URL (that's lb_ip, above) — useful for debugging the service directly, though its ingress is LB-only so this alone won't respond from the outside."
-  value       = google_cloud_run_v2_service.api.uri
-}
-
 output "es_internal_ip" {
-  description = "The Elasticsearch VM's private IP — only reachable from inside the VPC (Cloud Run's Direct VPC egress, or an IAP SSH tunnel)."
+  description = "The backend VM's private IP (Elasticsearch + search-api both run here) — only reachable from inside the VPC (the LB's NEG, or an IAP SSH tunnel). To debug search-api directly, SSH in (see README) and curl localhost:8080 rather than reaching it over the network — its ingress is LB-only."
   value       = google_compute_instance.elasticsearch.network_interface[0].network_ip
 }

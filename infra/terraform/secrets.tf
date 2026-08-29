@@ -20,7 +20,8 @@ resource "google_secret_manager_secret" "es_elastic_password" {
 # An Elasticsearch API key (not the elastic superuser password) scoped to
 # read-only search access — minted by hand *after* the VM's first boot, by
 # SSHing in via IAP and calling the local ES instance's own API (see
-# README). Only the Cloud Run runtime service account can read it.
+# README). Only the ES VM's own service account can read it (search-api
+# runs as a container on that same VM — see elasticsearch.tf).
 resource "google_secret_manager_secret" "es_api_key" {
   project   = var.project_id
   secret_id = "es-api-key"

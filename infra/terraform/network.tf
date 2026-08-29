@@ -1,8 +1,7 @@
-# A custom VPC exists for exactly one reason: giving the Cloud Run API
-# service a private path (Direct VPC egress — GA, not a
-# google_vpc_access_connector, which has an always-on ~$9/mo minimum for no
-# benefit at this scale) to the Elasticsearch VM, which has no external IP
-# and is never meant to be reachable from the internet.
+# A custom VPC exists so the LB's NEG has a network to place the backend VM
+# in, and so IAP has a private path to SSH into it — the VM (running both
+# Elasticsearch and search-api) has no external IP and is never meant to be
+# reachable from the internet except through the LB.
 resource "google_compute_network" "vpc" {
   project                 = var.project_id
   name                    = "sadhana-vpc"
@@ -18,9 +17,10 @@ resource "google_compute_subnetwork" "subnet" {
   network       = google_compute_network.vpc.id
   ip_cidr_range = "10.10.0.0/24"
 
-  # Cloud Run's Direct VPC egress needs Private Google Access to reach
-  # Google APIs (e.g. Secret Manager, for the runtime service account) from
-  # inside the VPC.
+  # The backend VM reaches Google APIs (Secret Manager, Artifact Registry)
+  # via its normal internet egress (see the NAT below), not this setting —
+  # kept on regardless since it's free and future resources placed in this
+  # subnet may need it.
   private_ip_google_access = true
 }
 

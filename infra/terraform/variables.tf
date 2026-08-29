@@ -13,13 +13,8 @@ variable "zone" {
   default     = "us-east1-b"
 }
 
-variable "image_tag" {
-  description = "Docker tag in Artifact Registry to deploy — the deploy workflow passes the git SHA."
-  type        = string
-}
-
 variable "es_machine_type" {
-  description = "Single-node Elasticsearch VM size. e2-small (2GB RAM) is enough for a v1 catalog of a few hundred shlokas; bump to e2-medium if the JVM heap starts swapping."
+  description = "Backend VM size — runs both Elasticsearch and search-api. e2-small (2GB RAM) is enough for a v1 catalog of a few hundred shlokas; bump to e2-medium if the JVM heap starts swapping or search-api's own memory use makes that worse."
   type        = string
   default     = "e2-small"
 }

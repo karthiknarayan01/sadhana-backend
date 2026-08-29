@@ -30,12 +30,15 @@ jobs:
       # no docker-compose/services block needed here.
       - run: uv run pytest
 
-  # Builds+pushes the image, then applies infra/terraform (which owns the
-  # Cloud Run image reference — no imperative `gcloud run deploy`, to avoid
-  # state/reality drift on the next plan). Only ever runs on dev; main never
-  # redeploys (single-environment setup, dev is what's live). See
-  # infra/terraform/README.md for the one-time bootstrap this depends on —
-  # already done for the sadhana-backend-305666 project.
+  # Builds+pushes the image, applies infra/terraform (VPC, firewall, LB, IAM
+  # — everything except search-api's actual running code), then deploys that
+  # image to the backend VM over SSH (search-api runs alongside Elasticsearch
+  # on one VM — see infra/terraform/elasticsearch.tf — instead of on Cloud
+  # Run, so there's no platform to redeploy it for us on a new image tag).
+  # Only ever runs on dev; main never redeploys (single-environment setup,
+  # dev is what's live). See infra/terraform/README.md for the one-time
+  # bootstrap this depends on — already done for the sadhana-backend-305666
+  # project.
   deploy:
     needs: [lint, test]
     if: github.event_name == 'push' && github.ref == 'refs/heads/dev'
@@ -47,7 +50,6 @@ jobs:
       TF_VAR_project_id: ${{ vars.GCP_PROJECT_ID }}
       TF_VAR_region: ${{ vars.GCP_REGION }}
       TF_VAR_zone: ${{ vars.GCP_ZONE }}
-      TF_VAR_image_tag: ${{ github.sha }}
     steps:
       - uses: actions/checkout@v5
 
@@ -80,3 +82,17 @@ jobs:
       - name: Terraform apply
         working-directory: infra/terraform
         run: terraform apply -auto-approve
+
+      # Runs after `terraform apply` so a brand-new VM already has the
+      # firewall/IAM/OS-Login grants this needs to SSH in at all. Scp's the
+      # script fresh every time rather than relying on a copy already on the
+      # VM, so a change to the script here takes effect on its very next
+      # deploy instead of waiting for some future VM recreation.
+      - name: Deploy search-api to the VM
+        run: |
+          gcloud compute scp infra/terraform/scripts/redeploy-api.sh \
+            sadhana-elasticsearch:/tmp/redeploy-api.sh \
+            --zone="${{ vars.GCP_ZONE }}" --tunnel-through-iap --quiet
+          gcloud compute ssh sadhana-elasticsearch \
+            --zone="${{ vars.GCP_ZONE }}" --tunnel-through-iap --quiet \
+            --command="sudo bash /tmp/redeploy-api.sh ${{ github.sha }}"

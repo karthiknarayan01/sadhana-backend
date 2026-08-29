@@ -1,16 +1,3 @@
-resource "google_service_account" "runtime" {
-  project      = var.project_id
-  account_id   = "sadhana-backend-runtime"
-  display_name = "sadhana-backend-runtime (Cloud Run search API)"
-}
-
-resource "google_secret_manager_secret_iam_member" "runtime_reads_es_api_key" {
-  project   = var.project_id
-  secret_id = google_secret_manager_secret.es_api_key.secret_id
-  role      = "roles/secretmanager.secretAccessor"
-  member    = "serviceAccount:${google_service_account.runtime.email}"
-}
-
 # The identity GitHub Actions impersonates via Workload Identity Federation
 # (see README's "First-time bootstrap" — the WIF trust binding itself is
 # never Terraform-managed, same reasoning as the sibling project: a bad
@@ -25,13 +12,19 @@ resource "google_service_account" "deployer" {
 
 resource "google_project_iam_member" "deployer_roles" {
   for_each = toset([
-    "roles/run.admin",
-    "roles/iam.serviceAccountUser",  # to act-as the runtime SA it also creates
-    "roles/iam.serviceAccountAdmin", # to grant secretAccessor on the runtime/es-vm SAs
+    "roles/iam.serviceAccountUser",  # to act-as the es-vm SA it also creates
+    "roles/iam.serviceAccountAdmin", # to grant secretAccessor on the es-vm SA
     "roles/artifactregistry.admin",  # creates the AR repo itself, not just pushes to it
-    "roles/compute.admin",           # VPC, subnet, firewall, the ES VM + its disk, the LB
+    "roles/compute.admin",           # VPC, subnet, firewall, the backend VM + its disk, the LB
     "roles/secretmanager.admin",     # creates the secret resources + grants accessor
     "roles/resourcemanager.projectIamAdmin",
+    # search-api now redeploys over SSH to the backend VM instead of via
+    # `gcloud run deploy`/Terraform's Cloud Run image reference — these two
+    # are what let the deploy job's `gcloud compute ssh`/`scp` calls
+    # authenticate via OS Login with no manually managed key material, and
+    # actually reach the VM (which has no external IP) through IAP.
+    "roles/iap.tunnelResourceAccessor",
+    "roles/compute.osAdminLogin",
   ])
 
   project = var.project_id

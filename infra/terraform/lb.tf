@@ -22,14 +22,34 @@ locals {
   public_domain = "${replace(google_compute_global_address.lb_ip.address, ".", "-")}.sslip.io"
 }
 
-resource "google_compute_region_network_endpoint_group" "search_api" {
-  project               = var.project_id
-  name                  = "sadhana-search-api-neg"
-  region                = var.region
-  network_endpoint_type = "SERVERLESS"
+# search-api runs as a container on the backend VM (see elasticsearch.tf)
+# rather than on Cloud Run, so the LB points at it by IP:port instead of at
+# a serverless NEG.
+resource "google_compute_network_endpoint_group" "search_api" {
+  project      = var.project_id
+  name         = "sadhana-search-api-neg"
+  zone         = var.zone
+  network      = google_compute_network.vpc.id
+  subnetwork   = google_compute_subnetwork.subnet.id
+  default_port = 8080
+}
 
-  cloud_run {
-    service = google_cloud_run_v2_service.api.name
+resource "google_compute_network_endpoint" "search_api" {
+  network_endpoint_group = google_compute_network_endpoint_group.search_api.id
+  instance               = google_compute_instance.elasticsearch.name
+  ip_address             = google_compute_instance.elasticsearch.network_interface[0].network_ip
+  port                   = 8080
+}
+
+# A serverless NEG got a health check for free from Cloud Run; a standalone
+# VM NEG doesn't, so this is new — reuses the API's own /health endpoint.
+resource "google_compute_health_check" "search_api" {
+  project = var.project_id
+  name    = "sadhana-search-api-health-check"
+
+  http_health_check {
+    port         = 8080
+    request_path = "/health"
   }
 }
 
@@ -38,9 +58,12 @@ resource "google_compute_backend_service" "search_api" {
   name                  = "sadhana-search-api-backend"
   load_balancing_scheme = "EXTERNAL_MANAGED"
   security_policy       = google_compute_security_policy.rate_limit.self_link
+  health_checks         = [google_compute_health_check.search_api.id]
 
   backend {
-    group = google_compute_region_network_endpoint_group.search_api.id
+    group                 = google_compute_network_endpoint_group.search_api.id
+    balancing_mode        = "RATE"
+    max_rate_per_endpoint = 100
   }
 }
 

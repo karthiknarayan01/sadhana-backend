@@ -1,20 +1,21 @@
-# The resource that actually enforces "Elasticsearch never touches the
-# internet": the ES VM has no external IP (see elasticsearch.tf) and this is
-# the *only* ingress rule targeting it — traffic from the subnet Cloud Run's
-# Direct VPC egress uses, on the ES port, nothing else. Everything else is
+# search-api and Elasticsearch now run on the same VM and talk over
+# localhost (see elasticsearch.tf), so nothing external needs to reach port
+# 9200 at all anymore — this rule, not a rule on 9200, is what actually
+# keeps Elasticsearch off the internet. Only the LB's own proxy/health-check
+# ranges (not the whole internet) can reach the API port; everything else is
 # implicitly denied by VPC default-deny.
-resource "google_compute_firewall" "allow_cloud_run_to_es" {
+resource "google_compute_firewall" "allow_lb_to_api" {
   project = var.project_id
-  name    = "sadhana-allow-cloud-run-to-es"
+  name    = "sadhana-allow-lb-to-api"
   network = google_compute_network.vpc.id
 
   direction     = "INGRESS"
-  source_ranges = [google_compute_subnetwork.subnet.ip_cidr_range]
+  source_ranges = ["130.211.0.0/22", "35.191.0.0/16"] # Google LB + health-check ranges
   target_tags   = ["elasticsearch"]
 
   allow {
     protocol = "tcp"
-    ports    = ["9200"]
+    ports    = ["8080"]
   }
 }
 

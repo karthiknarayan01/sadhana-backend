@@ -46,8 +46,13 @@ docker pull "${IMAGE}"
 # the deploy's downtime window: old container gone, new one not yet
 # serving, until `docker run` below finishes starting it.
 docker rm -f search-api >/dev/null 2>&1 || true
+# --network host, not -p 8080:8080: separate `docker run` containers each
+# get their own network namespace by default, so "localhost" inside
+# search-api's container is its own loopback, not the host's — it would
+# never reach ES's published :9200 no matter what -p mapping this container
+# has. Host networking is what makes ES_HOST=localhost actually true.
 docker run -d --name search-api --restart=always \
-  -p 8080:8080 \
+  --network host \
   -e ES_HOST="http://localhost:9200" \
   -e ES_INDEX="shlokas" \
   -e ES_API_KEY="${ES_API_KEY}" \

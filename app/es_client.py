@@ -28,16 +28,23 @@ def build_client() -> AsyncElasticsearch:
 
 
 async def search_shlokas(
-    client: AsyncElasticsearch, query: str, *, size: int = 10
-) -> list[SearchResult]:
+    client: AsyncElasticsearch, query: str, *, page: int = 0
+) -> tuple[list[SearchResult], bool]:
+    """Page size is always settings.search_page_size — page is the only
+    thing the caller controls (see app/main.py's /search). Returns
+    (results, has_more) rather than a bare list so the client knows
+    whether to bother asking for the next page.
+    """
     query = query.strip()[:MAX_QUERY_LENGTH]
     if not query:
-        return []
+        return [], False
 
+    from_ = page * settings.search_page_size
     try:
         response = await client.search(
             index=settings.es_index,
-            size=size,
+            from_=from_,
+            size=settings.search_page_size,
             query={
                 "multi_match": {
                     "query": query,
@@ -51,7 +58,10 @@ async def search_shlokas(
     except ESConnectionError as exc:
         raise SearchUnavailableError(str(exc)) from exc
 
-    return [_to_result(hit) for hit in response["hits"]["hits"]]
+    results = [_to_result(hit) for hit in response["hits"]["hits"]]
+    total = response["hits"]["total"]["value"]
+    has_more = from_ + len(results) < total
+    return results, has_more
 
 
 def _to_result(hit: dict) -> SearchResult:

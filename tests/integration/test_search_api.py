@@ -2,6 +2,7 @@ import pytest
 from elasticsearch import AsyncElasticsearch
 from httpx import AsyncClient
 
+from app.config import settings
 from ingest.mapping import INDEX_MAPPING
 
 INDEX = "shlokas"  # matches Settings.es_index's default
@@ -81,6 +82,51 @@ async def test_search_with_no_match_returns_empty_results(client: AsyncClient) -
 async def test_search_requires_a_query_param(client: AsyncClient) -> None:
     response = await client.get("/search")
     assert response.status_code == 422
+
+
+async def test_search_rejects_a_negative_page(client: AsyncClient) -> None:
+    response = await client.get("/search", params={"q": "Argala", "page": -1})
+    assert response.status_code == 422
+
+
+async def _seed_many(es_client: AsyncElasticsearch, count: int) -> None:
+    for i in range(count):
+        doc = {
+            "id": f"paginated-doc-{i}",
+            "category": "stotram",
+            "name": {"english": f"Paginated Doc {i}"},
+            "content": {"english": "paginationfixtureterm"},
+            "meaning": {},
+            "source_attribution": {"text_source": "test fixture", "license": "public_domain"},
+            "languages_available": ["english"],
+        }
+        await es_client.index(index=INDEX, id=doc["id"], document=doc)
+    await es_client.indices.refresh(index=INDEX)
+
+
+async def test_search_first_page_reports_has_more_when_more_exist(
+    client: AsyncClient, es_client: AsyncElasticsearch
+) -> None:
+    await _seed_many(es_client, settings.search_page_size + 1)
+    response = await client.get("/search", params={"q": "paginationfixtureterm"})
+    body = response.json()
+    assert len(body["results"]) == settings.search_page_size
+    assert body["has_more"] is True
+
+
+async def test_search_second_page_returns_the_remainder(
+    client: AsyncClient, es_client: AsyncElasticsearch
+) -> None:
+    await _seed_many(es_client, settings.search_page_size + 1)
+    first_page = await client.get("/search", params={"q": "paginationfixtureterm"})
+    second_page = await client.get("/search", params={"q": "paginationfixtureterm", "page": 1})
+    second_body = second_page.json()
+
+    assert len(second_body["results"]) == 1
+    assert second_body["has_more"] is False
+    first_ids = {r["id"] for r in first_page.json()["results"]}
+    second_ids = {r["id"] for r in second_body["results"]}
+    assert first_ids.isdisjoint(second_ids)
 
 
 async def test_health_endpoint(client: AsyncClient) -> None:

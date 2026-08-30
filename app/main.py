@@ -6,6 +6,7 @@ from fastapi import Depends, FastAPI, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
+from app.config import settings
 from app.es_client import SearchUnavailableError, build_client, search_shlokas
 from app.schemas import SearchResponse
 
@@ -22,6 +23,12 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
 
 app = FastAPI(title="Sadhana Search API", lifespan=lifespan)
+
+# Elasticsearch refuses from+size beyond index.max_result_window (default
+# 10,000) with a 400, rather than just returning nothing — bounding `page`
+# here means a stray/malicious page number gets a clean 422 from FastAPI's
+# own validation instead of an ES error leaking through.
+_MAX_PAGE = (10_000 // settings.search_page_size) - 1
 
 # Wildcard is safe here specifically because this endpoint takes no
 # credentials/cookies and returns nothing user-specific — a public,
@@ -58,7 +65,8 @@ async def health() -> dict[str, str]:
 @app.get("/search", response_model=SearchResponse)
 async def search(
     q: str = Query(..., min_length=1, max_length=200),
+    page: int = Query(0, ge=0, le=_MAX_PAGE),
     client: AsyncElasticsearch = Depends(get_es_client),
 ) -> SearchResponse:
-    results = await search_shlokas(client, q)
-    return SearchResponse(results=results)
+    results, has_more = await search_shlokas(client, q, page=page)
+    return SearchResponse(results=results, has_more=has_more)

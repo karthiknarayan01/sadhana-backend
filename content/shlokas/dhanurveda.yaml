@@ -1,0 +1,14 @@
+id: dhanurveda
+category: veda
+name:
+  english: dhanurveda
+  devanagari: धनुर्वेद
+content:
+  english: atha sharalakshanani atah param pravakshyami sharanam lakshanam shubham | sthulam na catisukshmam
+    ca na pakvam na kubhumijam | hinagranthividirnam ca varjayedidrisham sharam || 54||
+  devanagari: अथ शरलक्षणानि अतः परं प्रवक्ष्यामि शराणां लक्षणं शुभम् । स्थूलं न चातिसूक्ष्मं च न पक्वं
+    न कुभूमिजम् । हीनग्रन्थिविदीर्णं च वर्जयेदीदृशं शरम् ॥ ५४॥
+meaning: {}
+source_attribution:
+  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/dhanurveda.html
+  license: public_domain

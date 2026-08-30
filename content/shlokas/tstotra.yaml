@@ -1,0 +1,166 @@
+id: tstotra
+category: stotram
+name:
+  english: tstotra
+  devanagari: त्स्तोत्र
+content:
+  english: rinu guhyam sanatanam | yena sarvanarinvatsa samare vijayishyasi || 3 || adityahridayam punyam
+    sarvashatruvinashanam | jayavaham japennityamakshayyam paramam shubham || 4 || sarvamangaḻamangalyam
+    sarvapapapranashanam | cintashoka prashamanamayurvardhanamuttamam || 5 || rashmimantam samudyantam
+    devasura namaskritam | pujayasva vivasvantam bhaskaram bhuvaneshvaram || 6 || sarvadevatmako hyesha
+    tejasvi rashmibhavanah | yesha devasuraganan lokan pati gabhastibhih || 7 || yesha brahma ca vishnushca
+    shivah skandah prajapatih | mahendro dhanadah kalo yamah somohyapampatih || 8 || pitaro vasavahsadhya
+    hyashvinau maruto manuh | vayurvahnih prajaprana ritukarta prabhakarah || 9 || adityah savita suryah
+    khagah pusha gabhastiman | suvarnasadrisho bhanuh svarnareta divakarah || 10 || haridashvah sahasrarcih
+    saptasaptirmariciman | timironmathanah shambhustvashta martanda amshuman || 11 || hiranyagarbhah shishirastapano
+    bhaskaro ravih | agnigarbho'diteh putrah shankhah shishiranashanah || 12 || vyomanathastamobhedi rigyajussamaparagah
+    | ghanavrishtirapam mitro vindhyavithiplavangamah || 13 || atapi mandali mrityuh pingalah sarvatapanah
+    | kavirvishvo mahateja raktah sarvabhavodbhavah || 14 || nakshatra grahataranamadhipo vishvabhavanah
+    | tejasamapi tejasvi dvadashatmannamo'stute || 15 || namah purvaya giraye pashcimayadraye namah |
+    jyotirgananam pataye dinadhipataye namah || 16 || jayaya jayabhadraya haryashvaya namo namah | namo
+    namah sahasramsho adityaya namo namah || 17 || nama ugraya viraya sarangaya namo namah | namah padmaprabodhaya
+    martandaya namo namah || 18 || brahmeshanacyuteshaya suryayadityavarcase | bhasvate sarvabhakshaya
+    raudraya vapushe namah || 19 || tamoghnaya himaghnaya shatrughnayamitatmane | kritaghnaghnaya devaya
+    jyotisham pataye namah || 20 || taptacamikarabhaya vahnaye vishvakarmane | namastamo'bhinighnaya rucaye
+    lokasakshine || 21 || nashayatyesha vai bhutam tadeva srijati prabhuh | payatyesha tapatyesha varshatyesha
+    gabhastibhih || 22 || esha supteshu jagarti bhuteshu parinishthitah | esha evagnihotranca phalancaivagnihotrinam
+    || 23 || vedashca kratavashcaiva kratunam phalameva ca | yani krityani lokeshu sarva esha ravih prabhuh
+    || 24 || || phalashrutih || enamapatsu kricchreshu kantareshubhayeshuca | kirtayan purushah kashcinnavasidati
+    raghava || 25 || pujayasvainamekagro devadevam jagatpatim | etat trigunitam japtva yuddheshu vijayishyasi
+    || 26 || asmin kshane mahabaho ravanam tvam vadhishyasi | evamuktva tada'gastyo jagama ca yathagatam
+    || 27 || etacchrutva mahateja nashtashoko'bhavattada | dharayamasa suprito raghavah prayatatmavan
+    || 28 || adityam prekshya japtva tu param harshamavaptavan | triracamya shucirbhutva dhanuradaya viryavan
+    || 29 || ravanam prekshya hrishtatma yuddhaya samupagamat | sarvayatnena mahata vadhe tasya dhrito'bhavat
+    || 30 || atha raviravadannirikshya ramam muditamanah paramam prahrishyamanah | nishicarapatisankshayam
+    viditva suraganamadhyagato vacastvareti || 31 || || sarasvati prarthana || sarasvati namastubhyam
+    varade kamarupini | vidyarambham karishyami siddhirbhavatu me sada || 1 || padmapatra vishalakshi
+    padma kesaravarnini | nityam padmalayadevi sa mampatu sarasvati || 2 || yakundendu tusharaharadhavaḻa
+    yashubhra vastranvita yavina varadandamanditakara ya shveta padmasana | yabrahmacyuta shankaraprabhritibhirdevaissada
+    pujita samampatu sarasvati bhagavati nishsheshajadyapaha || 3 || || vighneshvara prarthana || shuklambaradharam
+    vishnum shashivarnam caturbhujam | prasanna vadanam dhyayet sarva vighnopashantaye || 1 || agajanana
+    padmarkam gajanana maharnisham | anekadantam bhaktanam ekadantamupasmahe || 2 || yam brahma vedantavido
+    vadanti pare pradhanam purusham tathanye | vishvodgateh karanamishvaramva tasmai namo vighnavinayakaya
+    || 3 || ekadantam mahakayam taptakamcana sannibham | lambodaram vishalaksham vande'ham gananayakam
+    || 4 || maunji krishnajinadharam naga yajnopavitinam | balendu shakalam mauḻau vande'ham gananayakam
+    || 5 || citraratna vicitranga citramala vibhushitam | kamarupadharam devam vande'ham gananayakam ||
+    6 || mushakottamamaruhya devasuramahahave | yoddhukamam mahaviryam vande'ham gananayakam || 7 || gajavaktram
+    surashreshtham karnacamara bhushitam | pashankushadharam devam vande'ham gananayakam || 8 || yakshakinnara
+    gandharva siddha vidyadharaissada | stuyamanam mahabahum vande'ham gananayakam || 9 || ambikahridayanandam
+    matribhih pariveshtitam | bhaktapriyam madonmattam vande'ham gananayakam || 10 || sarvavighnakaram
+    devam sarvavighna vivarjitam | sarvasiddhipradataram vande'ham gananayakam || 11 || mushakavahana
+    modakahasta camarakarna vilambitasutra | vamanarupa maheshvara putra vighnavinayaka padanamaste ||
+    12 || gajananam bhutaganadhisevitam kapittha jambuphalasara bhakshanam | umasutam shokavinashakaranam
+    namami vighneshvara padapankajam || 13 || ganashtakamidampunyam yahpathetsatatam narah | siddhyanti
+    sarvakaryani vidyavan dhanavan bhavet || 14 || asmad gurubhyo namah | asmatparama gurubhyo namah |
+    asmatsarva gurubhyo namah | shrimate shri adivan shathakopa yatindra maha deshikaya namah | yasyabhavadbhakta
+    janartihantuh pitritvamanyeshvavicarya turnam | stambhe'vatarastamananyalabhyam lakshmi nrisimham
+    sharanam prapadye || shriman venkata natharyah kavitarkika kesari | vedanta carya varyome sannidhattam
+    sadahridi || gurubhyastad gurubhyashca namovakamadhimahe | vrinimahe ca tatradyau dampati jagatam
+    pati || shrimannabhishtha varada | tvamasmi sharanam gatah || svashesha bhutena maya sviyaih sarva
+    paricchadaih | vidhatum pritamatmanam devah prakramate svayam | shuklambaradharam vishnum shashivarnam
+    caturbhujam | prasannavadanam dhyayet sarva vighnopashantaye || yasya dvirada vaktradyah parishadyah
+    parahshatam | vighnam nighnanti satatam vishvaksenam tamashraye || shrihayagrivastotram jnananandamayam
+    devam nirmalasphatikakritim | adharam sarvavidyanam hayagrivamupasmahe || 1 || jnananandamayam devam
+    svatassiddham shuddhasphatika manibhubhritpratibhatam sudhasadhricibhirdhutibhiravadatatribhuvanam
+    | anantaistrayyantairanuvihita heshahalahalam hatasheshavadyam hayavadanamidimahi mahah || 2 || svatassiddham
+    shuddhasphatika samaharassamnam pratipadamricam dhama yajusham layah pratyuhanam laharivitatirvedhajaladheh
+    | kathadarpakshubhyatkathakakulakolahalabhavam haratvantardhvantam hayavadana hesha halahalah || 3
+    || praci sandhya kacidantarnishayah prajnadrishteranjanashrirapurva | vaktri vedan bhatu me vajivaktra
+    vagishakhya vasudevasya murtih || 4 || vishuddha vijnanaghana svarupam vijnana vishranana baddhadiksham
+    | dayanidhim dehabhritam sharanyam devam hayagrivamaham prapadye || 5 || apaurusheyairapi vakprapancaih
+    adyapi te bhutimadrishtaparam | stuvannaham mugdha iti tvayaiva karunyato natha katakshaniyah || 6
+    || dakshinyaramya girishasya murtih devi sarojasanadharmapatni | vyasadayo'pi vyapadeshyavacah sphuranti
+    sarve tava shaktileshaih || 7 || mando'bhavishyanniyatam virinco vacam nidhe vancita bhagadheyah |
+    daityapanitan dayayaiva bhuyo'pi adhyapayishyo nigaman na cet tvam || 8 || vitarkadolam vyavadhuya
+    satve brihaspatim vartayase yatastvam | tenaiva deva tridasheshvaranam asprishta dolayitamadhirajyam
+    || 9 || agnou samiddharcishi saptatantoh atasthivan mantramayam shariram | akhanda sarairhavisham
+    pradanaih apyayanam vyomasadam vidhatse || 10 || yanmulamidrik pratibhati tattvam ya mulamamnaya mahadrumanam
+    | tattvena jananti vishuddha satvah tvamaksharamaksharamatrikam te || 11 || avyakritad vyakrita vanasi
+    tvam namani rupani ca yani purvam | shamsanti tesham caramam pratishtam vagishvara tvam tvadupajnavacah
+    || 12 || mugdhendu nishyanda vilobhaniyam murtim tavananda sudha prasutim | vipashcitashcetasi bhavayante
+    velamudaramiva dugdhasindhoh || 13 || manogatam pashyati yah sada tvam manishinam manasa rajahamsam
+    | svayam purobhava vivadabhajah kinkurvate tasya giro yatharham || 14 || api kshanardham kalayanti
+    ye tvam aplavayantam vishadairmayukhaih | vacam pravahairanivaritaiste mandakinim mandayitum kshamante
+    || 15 || svamin bhavaddhyana sudhabhishekat vahanti dhanyah pulakanubandham | alakshite kvapi nirudhamulam
+    angeshvivanandathum ankurantam || 16 || svamin pratica hridayena dhanyah tvaddhyana candrodaya vardhamanam
+    | amantamananda payodhimantah payobhirakshnam parivahayanti || 17 || svairanubhavastvadadhina bhavah
+    samriddhaviryastvadanugrahena | vipashcito natha taranti mayam vaiharikim mohana pinchikam te || 18
+    || pran nirmitanam tapasam vipakah pratyagranishshreyasa sampado me | samedhishiramstava padapadme
+    sankalpa cintamanayah pranamah || 19 || vilupta murdhanya lipikramanam surendra cudapada lalitanam
+    | tvadanghrirajiva rajah kananam bhuyan prasado mayi natha bhuyat || 20 || parisphurannupuracitrabhanu
+  devanagari: ृणु गुह्यं सनातनम् । येन सर्वानरीन्वत्स समरे विजयिष्यसि ॥ ३ ॥ आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्
+    । जयावहं जपेन्नित्यमक्षय्यं परमं शुभम् ॥ ४ ॥ सर्वमङ्गळमाङ्गल्यं सर्वपापप्रणाशनम् । चिन्ताशोक प्रशमनमायुर्वर्धनमुत्तमम्
+    ॥ ५ ॥ रश्मिमन्तं समुद्यन्तं देवासुर नमस्कृतम् । पूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम् ॥ ६ ॥ सर्वदेवात्मको
+    ह्येष तेजस्वी रश्मिभावनः । येष देवासुरगणान् लोकान् पाति गभस्तिभिः ॥ ७ ॥ येष ब्रह्मा च विष्णुश्च शिवः
+    स्कन्दः प्रजापतिः । महेन्द्रो धनदः कालो यमः सोमोह्यापाम्पतिः ॥ ८ ॥ पितरो वसवःसाध्या ह्यश्विनौ मरुतो
+    मनुः । वायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः ॥ ९ ॥ आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान् ।
+    सुवर्णसदृशो भानुः स्वर्णरेता दिवाकरः ॥ १० ॥ हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान् । तिमिरोन्मथनः
+    शम्भुस्त्वष्टा मार्ताण्ड अंशुमान् ॥ ११ ॥ हिरण्यगर्भः शिशिरस्तपनो भास्करो रविः । अग्निगर्भोऽदितेः पुत्रः
+    शङ्खः शिशिरनाशनः ॥ १२ ॥ व्योमनाथस्तमोभेदी ऋग्यजुस्सामपारगः । घनवृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः
+    ॥ १३ ॥ आतपी मण्डली मृत्युः पिङ्गलः सर्वतापनः । कविर्विश्वो महातेजा रक्तः सर्वभवोद्भवः ॥ १४ ॥ नक्षत्र
+    ग्रहताराणामधिपो विश्वभावनः । तेजसामपि तेजस्वी द्वादशात्मन्नमोऽस्तुते ॥ १५ ॥ नमः पूर्वाय गिरये पश्चिमायाद्रये
+    नमः । ज्योतिर्गणानां पतये दिनाधिपतये नमः ॥ १६ ॥ जयाय जयभद्राय हर्यश्वाय नमो नमः । नमो नमः सहस्रांशो
+    आदित्याय नमो नमः ॥ १७ ॥ नम उग्राय वीराय सारङ्गाय नमो नमः । नमः पद्मप्रबोधाय मार्ताण्डाय नमो नमः ॥
+    १८ ॥ ब्रह्मेशानाच्युतेशाय सूर्यायादित्यवर्चसे । भास्वते सर्वभक्षाय रौद्राय वपुषे नमः ॥ १९ ॥ तमोघ्नाय
+    हिमघ्नाय शत्रुघ्नायामितात्मने । कृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः ॥ २० ॥ तप्तचामीकराभाय वह्नये
+    विश्वकर्मणे । नमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे ॥ २१ ॥ नाशयत्येष वै भूतं तदेव सृजति प्रभुः । पायत्येष
+    तपत्येष वर्षत्येष गभस्तिभिः ॥ २२ ॥ एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः । एष एवाग्निहोत्रञ्च फलञ्चैवाग्निहोत्रिणाम्
+    ॥ २३ ॥ वेदाश्च क्रतवश्चैव क्रतूनां फलमेव च । यानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः ॥ २४ ॥ ॥ फलश्रुतिः
+    ॥ एनमापत्सु कृच्छ्रेषु कान्तारेषुभयेषुच । कीर्तयन् पुरुषः कश्चिन्नावसीदति राघव ॥ २५ ॥ पूजयस्वैनमेकाग्रो
+    देवदेवं जगत्पतिम् । एतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि ॥ २६ ॥ अस्मिन् क्षणे महाबाहो रावणं
+    त्वं वधिष्यसि । एवमुक्त्वा तदाऽगस्त्यो जगाम च यथागतम् ॥ २७ ॥ एतच्छ्रुत्वा महातेजा नष्टशोकोऽभवत्तदा
+    । धारयामास सुप्रीतो राघवः प्रयतात्मवान् ॥ २८ ॥ आदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान् । त्रिराचम्य
+    शुचिर्भूत्वा धनुरादाय वीर्यवान् ॥ २९ ॥ रावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत् । सर्वयत्नेन महता
+    वधे तस्य धृतोऽभवत् ॥ ३० ॥ अथ रविरवदन्निरीक्ष्य रामं मुदितमनाः परमं प्रहृष्यमाणः । निशिचरपतिसङ्क्षयं
+    विदित्वा सुरगणमध्यगतो वचस्त्वरेति ॥ ३१ ॥ ॥ सरस्वति प्रार्थना ॥ सरस्वती नमस्तुभ्यं वरदे कामरूपिणी ।
+    विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥ १ ॥ पद्मपत्र विशालाक्षी पद्म केसरवर्णिनी । नित्यं पद्मालयादेवी
+    सा माम्पातु सरस्वती ॥ २ ॥ याकुन्देन्दु तुषारहारधवळा याशुभ्र वस्त्रान्विता यावीणा वरदण्डमण्डितकरा या
+    श्वेत पद्मासना । याब्रह्माच्युत शङ्करप्रभृतिभिर्देवैस्सदा पूजिता सामाम्पातु सरस्वती भगवती निश्शेषजाड्यापहा
+    ॥ ३ ॥ ॥ विघ्नेश्वर प्रार्थना ॥ शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् । प्रसन्न वदनं ध्यायेत् सर्व
+    विघ्नोपशान्तये ॥ १ ॥ अगजानन पद्मार्कं गजानन महर्निशम् । अनेकदन्तं भक्तानां एकदन्तमुपास्महे ॥ २ ॥ यं
+    ब्रह्म वेदान्तविदो वदन्ति परे प्रधानं पुरुषं तथान्ये । विश्वोद्गतेः कारणमीश्वरंवा तस्मै नमो विघ्नविनायकाय
+    ॥ ३ ॥ एकदन्तं महाकायं तप्तकांचन सन्निभम् । लम्बोदरं विशालाक्षं वन्देऽहं गणनायकम् ॥ ४ ॥ मौञ्जी कृष्णाजिनधरं
+    नाग यज्ञोपवीतिनम् । बालेन्दु शकलं मौळौ वन्देऽहं गणनायकम् ॥ ५ ॥ चित्ररत्न विचित्राङ्ग चित्रमाला विभूषितम्
+    । कामरूपधरं देवं वन्देऽहं गणनायकम् ॥ ६ ॥ मूषकोत्तममारुह्य देवासुरमहाहवे । योद्धुकामं महावीर्यं वन्देऽहं
+    गणनायकम् ॥ ७ ॥ गजवक्त्रं सुरश्रेष्ठं कर्णचामर भूषितम् । पाशाङ्कुशधरं देवं वन्देऽहं गणनायकम् ॥ ८ ॥
+    यक्षकिन्नर गन्धर्व सिद्ध विद्याधरैस्सदा । स्तूयमानं महाबाहुं वन्देऽहं गणनायकम् ॥ ९ ॥ अम्बिकाहृदयानन्दं
+    मातृभिः परिवेष्टितम् । भक्तप्रियं मदोन्मत्तं वन्देऽहं गणनायकम् ॥ १० ॥ सर्वविघ्नकरं देवं सर्वविघ्न
+    विवर्जितम् । सर्वसिद्धिप्रदातारं वन्देऽहं गणनायकम् ॥ ११ ॥ मूषकवाहन मोदकहस्त चामरकर्ण विलम्बितसूत्र
+    । वामनरूप महेश्वर पुत्र विघ्नविनायक पादनमस्ते ॥ १२ ॥ गजाननं भूतगणाधिसेवितम् कपित्थ जम्बूफलसार भक्षणम्
+    । उमासुतं शोकविनाशकारणम् नमामि विघ्नेश्वर पादपङ्कजम् ॥ १३ ॥ गणाष्टकमिदम्पुण्यं यःपठेत्सततं नरः । सिद्ध्यन्ति
+    सर्वकार्याणि विद्यावान् धनवान् भवेत् ॥ १४ ॥ अस्मद् गुरुभ्यो नमः । अस्मत्परम गुरुभ्यो नमः । अस्मत्सर्व
+    गुरुभ्यो नमः । श्रीमते श्री आदिवण् शठकोप यतीन्द्र महा देशिकाय नमः । यस्याभवद्भक्त जनार्तिहन्तुः पितृत्वमन्येष्वविचार्य
+    तूर्णम् । स्तम्भेऽवतारस्तमनन्यलभ्यं लक्ष्मी नृसिंहं शरणं प्रपद्ये ॥ श्रीमान् वेङ्कट नाथार्यः कवितार्किक
+    केसरी । वेदान्ता चार्य वर्योमे सन्निधत्तां सदाहृदि ॥ गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे । वृणीमहे
+    च तत्राद्यौ दम्पती जगतां पती ॥ श्रीमन्नभीष्ठ वरद । त्वामस्मि शरणं गतः ॥ स्वशेष भूतेन मया स्वीयैः सर्व
+    परिच्छदैः । विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् । शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्
+    । प्रसन्नवदनं ध्यायेत् सर्व विघ्नोपशान्तये ॥ यस्य द्विरद वक्त्राद्याः पारिषद्याः परःशतम् । विघ्नं
+    निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥ श्रीहयग्रीवस्तोत्रम् ज्ञानानन्दमयं देवं निर्मलस्फटिकाकृतिम्
+    । आधारं सर्वविद्यानां हयग्रीवमुपास्महे ॥ १ ॥ ज्ञानानन्दमयं देवं स्वतस्सिद्धं शुद्धस्फटिक मणिभूभृत्प्रतिभटं
+    सुधासध्रीचीभिर्धुतिभिरवदातत्रिभुवनम् । अनन्तैस्त्रय्यन्तैरनुविहित हेषाहलहलं हताशेषावद्यं हयवदनमीडीमहि
+    महः ॥ २ ॥ स्वतस्सिद्धं शुद्धस्फटिक समाहारस्साम्नां प्रतिपदमृचां धाम यजुषां लयः प्रत्यूहानां लहरिविततिर्वेधजलधेः
+    । कथादर्पक्षुभ्यत्कथककुलकोलाहलभवं हरत्वन्तर्ध्वान्तं हयवदन हेषा हलहलः ॥ ३ ॥ प्राची सन्ध्या काचिदन्तर्निशायाः
+    प्रज्ञादृष्टेरञ्जनश्रीरपूर्वा । वक्त्री वेदान् भातु मे वाजिवक्त्रा वागीशाख्या वासुदेवस्य मूर्तिः ॥
+    ४ ॥ विशुद्ध विज्ञानघन स्वरूपं विज्ञान विश्राणन बद्धदीक्षम् । दयानिधिं देहभृतां शरण्यं देवं हयग्रीवमहं
+    प्रपद्ये ॥ ५ ॥ अपौरुषेयैरपि वाक्प्रपञ्चैः अद्यापि ते भूतिमदृष्टपाराम् । स्तुवन्नहं मुग्ध इति त्वयैव
+    कारुण्यतो नाथ कटाक्षणीयः ॥ ६ ॥ दाक्षिण्यरम्या गिरिशस्य मूर्तिः देवी सरोजासनधर्मपत्नी । व्यासादयोऽपि
+    व्यपदेश्यवाचः स्फुरन्ति सर्वे तव शक्तिलेशैः ॥ ७ ॥ मन्दोऽभविष्यन्नियतं विरिञ्चो वाचां निधे वञ्चित भागधेयः
+    । दैत्यापनीतान् दययैव भूयोऽपि अध्यापयिष्यो निगमान् न चेत् त्वाम् ॥ ८ ॥ वितर्कडोलां व्यवधूय सत्वे बृहस्पतिं
+    वर्तयसे यतस्त्वम् । तेनैव देव त्रिदशेश्वराणाम् अस्पृष्ट डोलायितमाधिराज्यम् ॥ ९ ॥ अग्नोउ समिद्धार्चिषि
+    सप्ततन्तोः आतस्थिवान् मन्त्रमयं शरीरम् । अखण्ड सारैर्हविषां प्रदानैः आप्यायनं व्योमसदां विधत्से ॥
+    १० ॥ यन्मूलमीदृक् प्रतिभाति तत्त्वं या मूलमाम्नाय महाद्रुमाणाम् । तत्त्वेन जानन्ति विशुद्ध सत्वाः
+    त्वामक्षरामक्षरमातृकां ते ॥ ११ ॥ अव्याकृताद् व्याकृत वानसि त्वं नामानि रूपाणि च यानि पूर्वम् । शंसन्ति
+    तेषां चरमां प्रतिष्टां वागीश्वर त्वां त्वदुपज्ञवाचः ॥ १२ ॥ मुग्धेन्दु निष्यन्द विलोभनीयां मूर्तिं
+    तवानन्द सुधा प्रसूतिम् । विपश्चितश्चेतसि भावयन्ते वेलामुदारामिव दुग्धसिन्धोः ॥ १३ ॥ मनोगतं पश्यति
+    यः सदा त्वां मनीषिणां मानस राजहंसम् । स्वयं पुरोभाव विवादभाजः किङ्कुर्वते तस्य गिरो यथार्हम् ॥ १४
+    ॥ अपि क्षणार्धं कलयन्ति ये त्वां आप्लावयन्तं विशदैर्मयूखैः । वाचां प्रवाहैरनिवारितैस्ते मन्दाकिनीं
+    मन्दयितुं क्षमन्ते ॥ १५ ॥ स्वामिन् भवद्ध्यान सुधाभिषेकात् वहन्ति धन्याः पुलकानुबन्धम् । अलक्षिते क्वापि
+    निरूढमूलं अङ्गेष्विवानन्दथुम् अङ्कुरन्तम् ॥ १६ ॥ स्वामिन् प्रतीचा हृदयेन धन्याः त्वद्ध्यन चन्द्रोदय
+    वर्धमानम् । अमान्तमानन्द पयोधिमन्तः पयोभिरक्ष्णां परिवाहयन्ति ॥ १७ ॥ स्वैरानुभावास्त्वदधीन भावाः समृद्धवीर्यास्त्वदनुग्रहेण
+    । विपश्चितो नाथ तरन्ति मायां वैहारिकीं मोहन पिञ्छिकां ते ॥ १८ ॥ प्राङ् निर्मितानां तपसां विपाकाः प्रत्यग्रनिश्श्रेयस
+    सम्पदो मे । समेधिषीरंस्तव पादपद्मे सङ्कल्प चिन्तामणयः प्रणामाः ॥ १९ ॥ विलुप्त मूर्धन्य लिपिक्रमाणां
+    सुरेन्द्र चूडापद लालितानाम् । त्वदङ्घ्रिराजीव रजः कणानां भूयान् प्रसादो मयि नाथ भूयात् ॥ २० ॥ परिस्फुरन्नूपुरचित्रभानु
+meaning: {}
+source_attribution:
+  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_deities_misc/tstotra.html
+  license: public_domain

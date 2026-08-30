@@ -88,11 +88,19 @@ jobs:
       # script fresh every time rather than relying on a copy already on the
       # VM, so a change to the script here takes effect on its very next
       # deploy instead of waiting for some future VM recreation.
+      #
+      # Uploads to the OS-Login user's own home dir, not /tmp: `sudo bash`
+      # executing the script doesn't change *its* ownership, but the first
+      # deploy's `scp` to a shared path like /tmp/redeploy-api.sh can race
+      # with or follow another process that leaves it root-owned (it did,
+      # in practice) — every later scp to that same path then fails with
+      # "Permission denied" as a non-root upload. $HOME is this user's own,
+      # so repeated overwrites there don't hit that.
       - name: Deploy search-api to the VM
         run: |
           gcloud compute scp infra/terraform/scripts/redeploy-api.sh \
-            sadhana-elasticsearch:/tmp/redeploy-api.sh \
+            sadhana-elasticsearch:'~/redeploy-api.sh' \
             --zone="${{ vars.GCP_ZONE }}" --tunnel-through-iap --quiet
           gcloud compute ssh sadhana-elasticsearch \
             --zone="${{ vars.GCP_ZONE }}" --tunnel-through-iap --quiet \
-            --command="sudo bash /tmp/redeploy-api.sh ${{ github.sha }}"
+            --command="sudo bash \$HOME/redeploy-api.sh ${{ github.sha }}"

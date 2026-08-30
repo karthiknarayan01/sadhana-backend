@@ -74,7 +74,14 @@ def main() -> None:
 
     written = 0
     skipped = 0
-    seen_ids: set[str] = set()
+    # Seeded from whatever's already in --out-dir, not just this invocation's
+    # own records — a crawl script that runs this CLI once per category (see
+    # ingest/crawl/README or the shell scripts that drive it) would otherwise
+    # have each invocation's collision-avoidance blind to every other
+    # invocation's output, letting two categories silently overwrite each
+    # other's same-titled entry via the final `mv` into content/shlokas/.
+    args.out_dir.mkdir(parents=True, exist_ok=True)
+    seen_ids: set[str] = {p.stem for p in args.out_dir.glob("*.yaml")}
 
     for record in records:
         name = build_name(record["title_devanagari"], record["title_raw"])

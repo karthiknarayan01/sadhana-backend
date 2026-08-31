@@ -1,13 +1,40 @@
 id: madhurashtakam
 category: stotram
 name:
-  english: madhurashtakam
-  devanagari: मधुराष्टकम्
+  english: Madhurashtakam
+  devanagari: मधुराष्टकम् (वल्लभाचार्यविरचितं अधरं मधुरं)
 content:
-  english: drishtam madhuram shishtam madhuram madhuradhipaterakhilam madhuram ||7|| gopa madhura gavo
-    madhura
-  devanagari: दृष्टं मधुरं शिष्टं मधुरं मधुराधिपतेरखिलं मधुरम् ।।७।। गोपा मधुरा गावो मधुरा
+  english: '|| madhurashtak || adharam madhuram vadanam madhuram nayanam madhuram hasitam madhuram|h |
+    hridayam madhuram gamanam madhuram madhuradhipaterakhilam madhuram|h || 1|| vacanam madhuram caritam
+    madhuram vasanam madhuram valitam madhuram|h | calitam madhuram bhramitam madhuram madhuradhipaterakhilam
+    madhuram|h || 2|| venurmadhuro renurmadhurah panirmadhurah padau madhurau | nrityam madhuram sakhyam
+    madhuram madhuradhipaterakhilam madhuram|h || 3|| gitam madhuram pitam madhuram bhuktam madhuram suptam
+    madhuram|h | rupam madhuram tilakam madhuram madhuradhipaterakhilam madhuram|h || 4|| karanam madhuram
+    taranam madhuram haranam madhuram ramanam madhuram|h | vamitam madhuram shamitam madhuram madhuradhipaterakhilam
+    madhuram|h || 5|| gunja madhura mala madhura yamuna madhura vici madhura | salilam madhuram kamalam
+    madhuram madhuradhipaterakhilam madhuram|h || 6|| gopi madhura lila madhura yuktam madhuram muktam
+    madhuram|h | drishtam madhuram shishtam madhuram madhuradhipaterakhilam madhuram|h || 7|| gopa madhura
+    gavo madhura yashtirmadhura srishtirmadhura | dalitam madhuram phalitam madhuram madhuradhipaterakhilam
+    madhuram|h || 8|| || iti shrimadvallabhacaryaviracitam madhurashtakam sampurnam ||'
+  devanagari: ॥ मधुराष्टक् ॥ अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम्।ह् । हृदयं मधुरं गमनं मधुरं
+    मधुराधिपतेरखिलं मधुरम्।ह् ॥ १॥ वचनं मधुरं चरितं मधुरं वसनं मधुरं वलितं मधुरम्।ह् । चलितं मधुरं भ्रमितं
+    मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ २॥ वेणुर्मधुरो रेणुर्मधुरः पाणिर्मधुरः पादौ मधुरौ । नृत्यं मधुरं
+    सख्यं मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ ३॥ गीतं मधुरं पीतं मधुरं भुक्तं मधुरं सुप्तं मधुरम्।ह् । रूपं
+    मधुरं तिलकं मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ ४॥ करणं मधुरं तरणं मधुरं हरणं मधुरं रमणं मधुरम्।ह् ।
+    वमितं मधुरं शमितं मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ ५॥ गुञ्जा मधुरा माला मधुरा यमुना मधुरा वीची मधुरा
+    । सलिलं मधुरं कमलं मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ ६॥ गोपी मधुरा लीला मधुरा युक्तं मधुरं मुक्तं
+    मधुरम्।ह् । दृष्टं मधुरं शिष्टं मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ ७॥ गोपा मधुरा गावो मधुरा यष्टिर्मधुरा
+    सृष्टिर्मधुरा । दलितं मधुरं फलितं मधुरं मधुराधिपतेरखिलं मधुरम्।ह् ॥ ८॥ ॥ इति श्रीमद्वल्लभाचार्यविरचितं
+    मधुराष्टकं सम्पूर्णं ॥
 meaning: {}
 source_attribution:
-  text_source: Sanskrit Wikisource — https://sa.wikisource.org/wiki/मधुराष्टकम्
+  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_vishhnu/madhurst.html
   license: public_domain
+tags:
+- aShTaka
+- vishhnu
+- krishna
+- vallabhaachaarya
+- vishnu
+- puShTimArgIya
+priority: true

@@ -1,0 +1,30 @@
+id: shraddha-suktam
+category: stotram
+name:
+  english: Shraddha Suktam
+  devanagari: श्रद्धासूक्तम् (१०।१५१)
+content:
+  english: rigvedasamhitayam dashamam mandalam, 151 ekapancashaduttarashatatamam suktam | rishih- shraddha
+    kamayani | devata- shraddha | chandah- 1, 4, 5 anushtup; 2 viradanushtup; 3 nicridanushtup | svarah-
+    gandharah | shraddhayagnih samidhyate shraddhaya huyate havih | shraddham bhagasya murdhani vacasa
+    vedayamasi || 10|151|01 priyam shraddhe dadatah priyam shraddhe didasatah | priyam bhojeshu yajvasvidam
+    ma uditam kridhi || 10|151|02 yatha deva asureshu shraddhamugreshu cakrire | evam bhojeshu yajvasvasmakamuditam
+    kridhi || 10|151|03 shraddham deva yajamana vayugopa upasate | shraddham hridayya1yakutya shraddhaya
+    vindate vasu || 10|151|04 shraddham pratarhavamahe shraddham madhyamdinam pari | shraddham suryasya
+    nimruci shraddhe shraddhapayeha nah || 10|151|05
+  devanagari: ऋग्वेदसंहितायां दशमं मण्डलं, १५१ एकपञ्चाशदुत्तरशततमं सूक्तम् । ऋषिः- श्रद्धा कामायनी । देवता-
+    श्रद्धा । छन्दः- १, ४, ५ अनुष्टुप्; २ विराडनुष्टुप्; ३ निचृदनुष्टुप् । स्वरः- गान्धारः । श्रद्धयाग्निः
+    समिध्यते श्रद्धया हूयते हविः । श्रद्धां भगस्य मूर्धनि वचसा वेदयामसि ॥ १०।१५१।०१ प्रियं श्रद्धे ददतः
+    प्रियं श्रद्धे दिदासतः । प्रियं भोजेषु यज्वस्विदं म उदितं कृधि ॥ १०।१५१।०२ यथा देवा असुरेषु श्रद्धामुग्रेषु
+    चक्रिरे । एवं भोजेषु यज्वस्वस्माकमुदितं कृधि ॥ १०।१५१।०३ श्रद्धां देवा यजमाना वायुगोपा उपासते । श्रद्धां
+    हृदय्य१याकूत्या श्रद्धया विन्दते वसु ॥ १०।१५१।०४ श्रद्धां प्रातर्हवामहे श्रद्धां मध्यंदिनं परि । श्रद्धां
+    सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेह नः ॥ १०।१५१।०५
+meaning: {}
+source_attribution:
+  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/shraddhAsUktam.html
+  license: public_domain
+tags:
+- veda
+- svara
+- sUkta
+priority: true

@@ -1,0 +1,31 @@
+id: agni-suktam-rugveda
+category: stotram
+name:
+  english: Agni Suktam (Rugveda)
+  devanagari: अग्निसूक्तम् (ऋग्वेद १।१)
+content:
+  english: rigvedasamhitayam prathamam mandalam | rishih madhucchanda vaishvamitrah , devata agnih , chanda
+    gayatri, svara shadja || agnimiḻe purohitam yajnasya devamritvijam | hotaram ratnadhatamam || 1|001|01
+    agnih purvebhirrishibhiridyo nutanairuta | sa deva~ eha vakshati || 1|001|02 agnina rayimashnavatposhameva
+    divedive | yashasam viravattamam || 1|001|03 agne yam yajnamadhvaram vishvatah paribhurasi | sa iddeveshu
+    gacchati || 1|001|04 agnirhota kavikratuh satyashcitrashravastamah | devo devebhira gamat || 1|001|05
+    yadanga dashushe tvamagne bhadram karishyasi | tavettatsatyamangirah || 1|001|06 upa tvagne divedive
+    doshavastardhiya vayam | namo bharanta emasi || 1|001|07 rajantamadhvaranam gopamritasya didivim |
+    vardhamanam sve dame || 1|001|08 sa nah piteva sunave'gne supayano bhava | sacasva nah svastaye ||
+    1|001|09
+  devanagari: ऋग्वेदसंहितायां प्रथमं मण्डलम् । ऋषिः मधुच्छन्दा वैश्वामित्रः , देवता अग्निः , छन्द गायत्री,
+    स्वर षड्ज ॥ अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥ १।००१।०१ अग्निः पूर्वेभिरृषिभिरीड्यो
+    नूतनैरुत । स देवाँ एह वक्षति ॥ १।००१।०२ अग्निना रयिमश्नवत्पोषमेव दिवेदिवे । यशसं वीरवत्तमम् ॥ १।००१।०३
+    अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥ १।००१।०४ अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः
+    । देवो देवेभिरा गमत् ॥ १।००१।०५ यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि । तवेत्तत्सत्यमङ्गिरः ॥ १।००१।०६
+    उप त्वाग्ने दिवेदिवे दोषावस्तर्धिया वयम् । नमो भरन्त एमसि ॥ १।००१।०७ राजन्तमध्वराणां गोपामृतस्य दीदिविम्
+    । वर्धमानं स्वे दमे ॥ १।००१।०८ स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥ १।००१।०९
+meaning: {}
+source_attribution:
+  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/agnisUktam.html
+  license: public_domain
+tags:
+- veda
+- svara
+- sUkta
+priority: true

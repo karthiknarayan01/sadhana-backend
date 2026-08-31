@@ -1,0 +1,16 @@
+id: shiva-ashtottara-sata-namavali
+category: stotram
+name:
+  english: Shiva Ashtottara Sata Namavali
+  devanagari: शिवाष्टोत्तरशतनामावलिः
+content:
+  english: shivashtottarashatanamavalih bhasmoddhulitavigrahaya ||iti shaktapramode shri shivashtottarashatanamavalih
+    sampurna||
+  devanagari: शिवाष्टोत्तरशतनामावलिः भस्मोद्धूलितविग्रहाय ॥इति शाक्तप्रमोदे श्री शिवाष्टोत्तरशतनामावलिः
+    सम्पूर्णा॥
+meaning: {}
+source_attribution:
+  text_source: namavali-manjari (community LaTeX stotra collection) — namavali-manjari-master/100/Shiva_108.tex
+  license: public_domain
+tags: []
+priority: true

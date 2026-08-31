@@ -3,8 +3,7 @@ text via the public MediaWiki API for pages in a given category. Wikisource
 exists specifically to host proofread public-domain source texts, so license
 is hardcoded to "public_domain" here; this adapter never touches a
 translation (Wikisource's Sanskrit-language wiki doesn't carry English
-translations inline) or any commentary beyond the page's largest contiguous
-Devanagari block.
+translations inline) or any commentary outside the page's Devanagari runs.
 """
 
 import sys
@@ -12,7 +11,7 @@ from collections.abc import Iterator
 
 import requests
 
-from ingest.crawl.common import PoliteSession, largest_devanagari_run
+from ingest.crawl.common import PoliteSession, devanagari_content
 
 API_URL = "https://sa.wikisource.org/w/api.php"
 PAGE_URL = "https://sa.wikisource.org/wiki/{}"
@@ -49,7 +48,7 @@ def fetch_devanagari(session: PoliteSession, title: str) -> str | None:
         return None
     if "error" in data:
         return None
-    return largest_devanagari_run(data["parse"]["text"])
+    return devanagari_content(data["parse"]["text"])
 
 
 def crawl(session: PoliteSession, category: str, limit: int) -> Iterator[dict]:

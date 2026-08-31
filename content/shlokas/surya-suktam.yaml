@@ -1,0 +1,34 @@
+id: surya-suktam
+category: stotram
+name:
+  english: Surya Suktam
+  devanagari: सूर्यसूक्तम् (ऋग्वेद १।११५।१-६ चित्रं देवानामुदगादनीकं)
+content:
+  english: 115 pancadashottarashatatamam suktam angirasah kutsa rishih, suryodevata, nicrit trishtup (1,2,6)
+    , virat trishtup (3), trishtupchandah (4,5), dhaivatah svarah | citram devanamudagadanikam cakshurmitrasya
+    varunasyagneh | apra dyavaprithivi antariksham surya atma jagatastasthushashca || 1|115|01 suryo devimushasam
+    rocamanam maryo na yoshamabhyeti pashcat | yatra naro devayanto yugani vitanvate prati bhadraya bhadram
+    || 1|115|02 bhadra ashva haritah suryasya citra etagva anumadyasah | namasyanto diva a prishthamasthuh
+    pari dyavaprithivi yanti sadyah || 1|115|03 tatsuryasya devatvam tanmahitvam madhya kartorvitatam
+    sam jabhara | yadedayukta haritah sadhasthadadratri vasastanute simasmai || 1|115|04 tanmitrasya varunasyabhicakshe
+    suryo rupam krinute dyorupasthe | anantamanyadrushadasya pajah krishnamanyaddharitah sam bharanti
+    || 1|115|05 adya deva udita suryasya niramhasah piprita niravadyat | tanno mitro varuno mamahantamaditih
+    sindhuh prithivi uta dyauh || 1|115|06
+  devanagari: ११५ पञ्चदशोत्तरशततमं सूक्तम् आङ्गिरसः कुत्स ऋषिः, सूर्योदेवता, निचृत् त्रिष्तुप् (१,२,६)
+    , विराट् त्रिष्टुप् (३), त्रिष्टुप्छन्दः (४,५), धैवतः स्वरः । चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य
+    वरुणस्याग्नेः । आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥ १।११५।०१ सूर्यो देवीमुषसं
+    रोचमानां मर्यो न योषामभ्येति पश्चात् । यत्रा नरो देवयन्तो युगानि वितन्वते प्रति भद्राय भद्रम् ॥ १।११५।०२
+    भद्रा अश्वा हरितः सूर्यस्य चित्रा एतग्वा अनुमाद्यासः । नमस्यन्तो दिव आ पृष्ठमस्थुः परि द्यावापृथिवी
+    यन्ति सद्यः ॥ १।११५।०३ तत्सूर्यस्य देवत्वं तन्महित्वं मध्या कर्तोर्विततं सं जभार । यदेदयुक्त हरितः
+    सधस्थादाद्रात्री वासस्तनुते सिमस्मै ॥ १।११५।०४ तन्मित्रस्य वरुणस्याभिचक्षे सूर्यो रूपं कृणुते द्योरुपस्थे
+    । अनन्तमन्यद्रुशदस्य पाजः कृष्णमन्यद्धरितः सं भरन्ति ॥ १।११५।०५ अद्या देवा उदिता सूर्यस्य निरंहसः
+    पिपृता निरवद्यात् । तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ १।११५।०६
+meaning: {}
+source_attribution:
+  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/sUryasUktamRigveda.html
+  license: public_domain
+tags:
+- veda
+- sUkta
+- svara
+priority: true

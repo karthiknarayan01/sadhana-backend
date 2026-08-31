@@ -107,6 +107,7 @@ def main() -> None:
                     translation_source=None,
                     license="public_domain",
                 ),
+                tags=record.get("tags", []),
             )
         except Exception as exc:  # noqa: BLE001 - one bad record shouldn't kill the whole run
             print(f"skip {entry_id}: {exc}", file=sys.stderr)

@@ -7,9 +7,12 @@ from app.schemas import Highlight, SearchResult
 # Search always happens against the English name/content fields only (the
 # spec: users type in English regardless of which language they want to
 # *read* results in) — the other languages on each document are returned
-# unindexed, for the client to switch to locally. See ingest/schema.py for
-# the document shape this query assumes.
-_SEARCH_FIELDS = ["name.english^3", "content.english"]
+# unindexed, for the client to switch to locally. tags (source-provided
+# deity/genre keywords, e.g. "durgA, devii, stotra" — see ingest/schema.py)
+# get a middling boost: more curated-relevant than a random content match,
+# but a title match is still the strongest signal something's the right
+# document.
+_SEARCH_FIELDS = ["name.english^3", "tags^2", "content.english"]
 MAX_QUERY_LENGTH = 200
 
 
@@ -46,11 +49,31 @@ async def search_shlokas(
             from_=from_,
             size=settings.search_page_size,
             query={
-                "multi_match": {
-                    "query": query,
-                    "fields": _SEARCH_FIELDS,
-                    "type": "best_fields",
-                    "fuzziness": "AUTO",
+                "function_score": {
+                    "query": {
+                        "multi_match": {
+                            "query": query,
+                            "fields": _SEARCH_FIELDS,
+                            "type": "best_fields",
+                            "fuzziness": "AUTO",
+                            # Default multi_match is effectively OR across
+                            # query terms — "rudra namakam" would happily
+                            # rank a rudra-only or namakam-only document
+                            # highly, not just ones actually about both.
+                            # "2<75%": queries of 2 terms or fewer need
+                            # every term to match; longer queries only need
+                            # 75%, so an extra stray/misspelled word doesn't
+                            # zero out an otherwise-good match.
+                            "minimum_should_match": "2<75%",
+                        }
+                    },
+                    # `priority` (see ingest/schema.py) marks entries whose
+                    # name matches vignanam.org's curated prayer index — a
+                    # soft relevance boost, not a filter: a strong match on
+                    # a non-priority document can still outrank a weak
+                    # priority match, this only tips ties and near-ties.
+                    "functions": [{"filter": {"term": {"priority": True}}, "weight": 1.5}],
+                    "boost_mode": "multiply",
                 }
             },
             highlight={"fields": {"name.english": {}, "content.english": {}}},

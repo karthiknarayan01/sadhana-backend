@@ -6,6 +6,7 @@ reaches ingest/run.py's validate+index step. See ingest/crawl/run.py.
 
 import re
 import time
+import unicodedata
 from pathlib import Path
 
 import requests
@@ -38,6 +39,16 @@ def to_plain_english(devanagari_text: str) -> str:
     iast = sanscript.transliterate(devanagari_text, sanscript.DEVANAGARI, sanscript.IAST)
     for src, dst in _DIACRITIC_FOLD.items():
         iast = iast.replace(src, dst).replace(src.upper(), dst.capitalize())
+    # Accented Vedic recitations (udatta/anudatta/svarita marks in the
+    # source Devanagari, e.g. namakam/chamakam) transliterate to correct
+    # scholarly IAST accent notation — combining marks stacked onto an
+    # already-precomposed base letter, not covered by the fold table above
+    # (that's precomposed diacritics only). Left in, they render as messy
+    # invisible/stray marks in a plain-reading context, so strip any
+    # Unicode combining mark (category Mn) wholesale; precomposed
+    # diacritics like the ā already handled above are single codepoints,
+    # so this pass doesn't touch them.
+    iast = "".join(ch for ch in iast if not unicodedata.combining(ch))
     return re.sub(r"\s+", " ", iast).strip()
 
 
@@ -55,16 +66,26 @@ def slugify(text: str) -> str:
     return re.sub(r"-{2,}", "-", re.sub(r"[^a-z0-9]+", "-", text.lower())).strip("-")
 
 
-def largest_devanagari_run(html: str) -> str | None:
-    """Pulls the single largest contiguous block of Devanagari-script text
-    out of a page's rendered HTML. This is the mechanism that keeps English
-    prose (translations, editorial notes, site navigation) out of what gets
-    staged — it structurally cannot select non-Devanagari text.
+def devanagari_content(html: str) -> str | None:
+    """Pulls every sufficiently-long block of Devanagari-script text out of
+    a page's rendered HTML and joins them in document order. This is the
+    mechanism that keeps English prose (translations, editorial notes, site
+    navigation) out of what gets staged — it structurally cannot select
+    non-Devanagari text.
+
+    Joins *every* qualifying run, not just the biggest: a single stotra's
+    text is routinely split into several runs by intervening HTML (per-verse
+    <p>/<span> wrapping, footnote markers, etc.), so keeping only the
+    largest one silently drops real verses — confirmed on Durga Suktam,
+    whose text used to start at verse 5 under a max()-only version of this
+    (verses 1-4 landed in two earlier, smaller runs), and found to be
+    routine across the corpus: ~95% of a 150-entry random sample had more
+    than one run.
     """
     text = BeautifulSoup(html, "html.parser").get_text(" ")
     runs = [re.sub(r"\s+", " ", m.group()).strip() for m in DEVANAGARI_RUN.finditer(text)]
     runs = [r for r in runs if len(r) >= MIN_RUN_LENGTH]
-    return max(runs, key=len) if runs else None
+    return " ".join(runs) if runs else None
 
 
 class PoliteSession:

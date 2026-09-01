@@ -2,47 +2,42 @@ id: narayana-suktam
 category: stotram
 name:
   english: Narayana Suktam
-  devanagari: नारायणसूक्तम्
 content:
-  english: taittiriyaranyakam, prapathakah - 10 anuvakah - 13 (10|13|1 10|13|2) om saha navavatu| saha
-    nau bhunaktu| saha viryam karavavahai | tejasvinavadhitamastu ma vidvishavahai || om shantih shantih
-    shantih || om || sahasrashirsham devam vishvaksham vishvashambhuvam | vishvam narayanam devamaksharam
-    paramam padam | vishvatah paramannityam vishvam narayana harim | vishvamevedam purushastadvishvamupajivati
-    | patim vishvasyatmeshvara shashvata shivamacyutam | narayanam mahajneyam vishvatmanam parayanam |
-    narayanaparo jyotiratma narayanah parah | narayana param brahma tattvam narayanah parah | narayanaparo
-    dhyata dhyanam narayanah parah | yacca kincijjagatsarvam drishyate shruyate'pi va || antarbahishca
-    tatsarvam vyapya narayanah sthitah | anantamavyayam kavi samudre'ntam vishvashambhuvam | padmakosha
-    pratikasha hridayam capyadhomukham | adho nishtya vitasyante nabhyamupari tishthati | jvalamalakulam
-    bhati vishvasyayatanam mahat | santata shilabhistulambatyakoshasannibham | tasyante sushira sukshmam
-    tasmin sarvam pratishthitam | tasya madhye mahanagagnirvishvarcirvishvatomukhah | so'grabhugvibhajantishthannaharamajarah
-    kavih | tiryagurdhvamadhashshayi rashmayastasya santata | santapayati svam dehamapadatalamastakah
-    | tasya madhye vahnishikha aniyordhva vyavasthitah | nilatoyadamadhyasthadvidyullekheva bhasvara |
-    nivarashukavattanvi pita bhasvatyanupama | tasyah shikhaya madhye paramatma vyavasthitah | sa brahma
-    sa shivah sa harih sendrah so'ksharah paramah svarat || rita satyam param brahma purusham krishnapingalam
-    | urdhvaretam virupaksham vishvarupaya vai namo namah | om narayanaya vidmahe vasudevaya dhimahi |
-    tanno vishnuh pracodayat | Encoded vith accents by ṟajagopal iyer
-  devanagari: तैत्तिरीयारण्यकम्, प्रपाठकः - १० अनुवाकः - १३ (१०।१३।१ १०।१३।२) ॐ सह नाववतु। सह नौ भुनक्तु।
-    सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः ॥ ॐ ॥ सहस्रशीर्षं
-    देवं विश्वाक्षं विश्वशम्भुवं । विश्वं नारायणं देवमक्षरं परमं पदम् । विश्वतः परमान्नित्यं विश्वं नारायण
-    हरिम् । विश्वमेवेदं पुरुषस्तद्विश्वमुपजीवति । पतिं विश्वस्यात्मेश्वर शाश्वत शिवमच्युतम् । नारायणं
-    महाज्ञेयं विश्वात्मानं परायणम् । नारायणपरो ज्योतिरात्मा नारायणः परः । नारायण परं ब्रह्म तत्त्वं नारायणः
-    परः । नारायणपरो ध्याता ध्यानं नारायणः परः । यच्च किञ्चिज्जगत्सर्वं दृश्यते श्रूयतेऽपि वा ॥ अन्तर्बहिश्च
-    तत्सर्वं व्याप्य नारायणः स्थितः । अनन्तमव्ययं कवि समुद्रेऽन्तं विश्वशम्भुवम् । पद्मकोश प्रतीकाश हृदयं
-    चाप्यधोमुखम् । अधो निष्ट्या वितस्यान्ते नाभ्यामुपरि तिष्ठति । ज्वालमालाकुलं भाति विश्वस्यायतनं महत्
-    । सन्तत शिलाभिस्तुलम्बत्याकोशसन्निभम् । तस्यान्ते सुषिर सूक्ष्मं तस्मिन् सर्वं प्रतिष्ठितम् । तस्य
-    मध्ये महानगग्निर्विश्वार्चिर्विश्वतोमुखः । सोऽग्रभुग्विभजन्तिष्ठन्नाहारमजरः कविः । तिर्यगूर्ध्वमधश्शायी
-    रश्मयस्तस्य सन्तता । सन्तापयति स्वं देहमापादतलमस्तकः । तस्य मध्ये वह्निशिखा अणीयोर्ध्वा व्यवस्थितः
-    । नीलतोयदमध्यस्थाद्विद्युल्लेखेव भास्वरा । नीवारशूकवत्तन्वी पीता भास्वत्यणूपमा । तस्याः शिखाया मध्ये
-    परमात्मा व्यवस्थितः । स ब्रह्म स शिवः स हरिः सेन्द्रः सोऽक्षरः परमः स्वराट् ॥ ऋत सत्यं परं ब्रह्म
-    पुरुषं कृष्णपिङ्गलम् । ऊर्ध्वरेतं विरूपाक्षं विश्वरूपाय वै नमो नमः । ॐ नारायणाय विद्महे वासुदेवाय
-    धीमहि । तन्नो विष्णुः प्रचोदयात् । Eन्चोदेद् विथ् आच्चेन्त्स् ब्य् ऱजगोपल् ईयेर्
+  english: om saha navavatu | saha nau bhunaktu | saha virya nkaravavahai | tejasvinavadhitamastu ma vidvishavahai
+    dhata purastadyamudajahara | shakrah pravidvan pradishashcatasrah | tamevam vi~dvanamrita iha bhavati
+    | nanyah pantha ayanaya vidyate || ndevam vishvaksham vi~shvashambhuvam | vishva mpadam | vishvatah
+    paramannityam nnarayanagm harim | vishvameveda vi~shvasyatmeshvaragm shashvatagm shiva macyutam |
+    narayana mparayanam | narayanaparo jyotiratma narayanah parah | narayanapara nnarayanah parah | narayanaparo
+    dhyata dhyana nnarayanah parah | yacca kincijjagatsarva 'pi va || antarbahishca tatsarvam ssthitah
+    | anantamavyaya nkavigm samudrem vi~shvashambhuvam | padmakosha pratikashagm hridaya ncapyadhomukham
+    | adho nishtya vitasyante nabhyamupari tishthati | jvalamalakula mbhati vishvasyayatana mmahat | santatagm
+    shilabhistu lambatyakoshasannibham | tasyante sushiragm sukshma mpratishthitam | tasya madhye mahanagni
+    rvishvatomukhah | so 'grabhugvibhajantishtha nnaharamajarah kavih | tiryagurdhvamadhashshayi rashmayastasya
+    santata | santapayati sva ndehamapadatalamastakah | tasya madhye vahnishikha aniyo rdhva vyavasthitah
+    | nilato dvidyullekheva bhasvara | nivarashukavattanvi pita bha svatyanupama | tasya shshikhaya madhye
+    parama tma vyavasthitah | sa brahma sa shiva ssvarat || ritagm satya nkrishnapingalam | urdhvaretam
+    vi~shvarupaya vai namo namah || o nnarayanaya vidmahe vasudevaya dhimahi | tanno vishnuh pracodaya
+  devanagari: ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्य॑ ङ्करवावहै । ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै
+    धा॒ता पु॒रस्ता॒द्यमु॑दाज॒हार॑ । श॒क्रः प्रवि॒द्वान् प्र॒दिश॒श्चत॑स्रः । तमे॒वं विँ॒द्वान॒मृत॑ इ॒ह
+    भ॑वति । नान्यः पन्था॒ अय॑नाय विद्यते ॥ न्दे॒वं॒ वि॒श्वाक्षं॑ विँ॒श्वश॑म्भुवम् । विश्व॑ म्प॒दम् । वि॒श्वतः॒
+    पर॑मान्नि॒त्यं॒ न्ना॑राय॒णग्ं ह॑रिम् । विश्व॑मे॒वेद विँश्व॑स्या॒त्मेश्व॑र॒ग्ं॒ शाश्व॑तग्ं शि॒व म॑च्युतम्
+    । ना॒राय॒ण म्प॒राय॑णम् । ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः । ना॒राय॒णपर॑ न्ना॑राय॒णः प॑रः
+    । ना॒राय॒णप॑रो ध्या॒ता॒ ध्या॒न न्ना॑राय॒णः प॑रः । यच्च॑ कि॒ञ्चिज्ज॑गत्स॒र्व॒ ऽपि॑ वा ॥ अन्त॑र्ब॒हिश्च॑
+    तत्स॒र्वं॒ स्स्थि॑तः । अनन्त॒मव्यय॑ ङ्क॒विग्ं स॑मु॒द्रें विँ॒श्वश॑म्भुवम् । प॒द्म॒को॒श प्र॑तीका॒श॒ग्ं॒
+    हृ॒दय॑ ञ्चाप्य॒धोमु॑खम् । अधो॑ नि॒ष्ट्या वि॑तस्या॒न्ते॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति । ज्वा॒ल॒मा॒लाकु॑ल
+    म्भा॒ती॒ वि॒श्वस्या॑यत॒न म्म॑हत् । सन्त॑तग्ं शि॒लाभि॑स्तु॒ लम्ब॑त्याकोश॒सन्नि॑भम् । तस्यान्ते॑ सुषि॒रग्ं
+    सू॒क्ष्म म्प्रति॑ष्ठितम् । तस्य॒ मध्ये॑ म॒हान॑ग्नि र्वि॒श्वतो॑मुखः । सो ऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒ न्नाहा॑रमज॒रः
+    क॒विः । ति॒र्य॒गू॒र्ध्वम॑धश्शा॒यी॒ र॒श्मय॑स्तस्य॒ सन्त॑ता । स॒न्ता॒पय॑ति स्व न्दे॒हमापा॑दतल॒मस्त॑कः
+    । तस्य॒ मध्ये॒ वह्नि॑शिखा अ॒णीयो र्ध्वा व्य॒वस्थि॑तः । नी॒लतो॑ द्वि॒द्युल्ले॑खेव॒ भास्व॑रा । नी॒वार॒शूक॑वत्त॒न्वी॒
+    पी॒ता भा स्वत्य॒णूप॑मा । तस्या श्शिखा॒या म॑ध्ये प॒रमा त्मा व्य॒वस्थि॑तः । स ब्रह्म॒ स शिव॒ स्स्व॒राट्
+    ॥ ऋतग्ं स॒त्य ङ्कृष्ण॒पिङ्ग॑लम् । ऊ॒र्ध्वरे॑तं विँ॒श्वरू॑पाय॒ वै नमो॒ नमः॑ ॥ ओ न्ना॒रा॒य॒णाय॑ वि॒द्महे॑
+    वासुदे॒वाय॑ धीमहि । तन्नो॑ विष्णुः प्रचो॒दया
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/narayanasukta.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Narayana Suktam
   license: public_domain
-tags:
-- sUkta
-- veda
-- narayana
-- svara
+tags: []
 priority: true
+aliases:
+- narayana
+- suktam

@@ -2,304 +2,421 @@ id: surya-sahasra-namavali
 category: stotram
 name:
   english: Surya Sahasra Namavali
-  devanagari: सूर्यसहस्रनामावली २
 content:
-  english: shrirudrayamale tantre shridevirahasye omhramhrimsahhamsahsoh suryaya svaha | om savitre namah
-    | bhaskaraya | bhagaya | bhagavate | sarvalokeshaya | bhuteshaya | bhutabhavanaya | bhutatmane | srishtikartre
-    | srashtre | kartre | hartre | jagatpataye | adityaya | varadaya | viraya | viralaya | vishvadipanaya
-    | vishvakrite | vishvahride namah | 20 om bhaktaya namah | bhoktre | bhimaya | bhayapahaya | vishvatmane
-    | purushaya | sakshine | param brahmane | paratparaya | pratapavate | vishvayonaye | vishveshaya |
-    vishvatomukhaya | kamine | yogine | mahabuddhaye | manasvine | manave | avyayaya | prajapataye namah
-    | 40 om vishvavandyaya namah | vanditaya | bhuvaneshvaraya | bhutabhavyabhavishyatmane | tattvatmane
-    | jnanavate | gunine | sattvikaya | rajasaya | tamasaya | tamasvine | karunanidhaye | sahasrakiranaya
-    | bhasvate | bhargavaya | bhrigave | ishvaraya | nirgunaya | nirmamaya | nityaya namah | 60 om nityanandaya
-    namah | nirashrayaya | tapasvine | kalakrite | kalaya | kamaniyatanave | krishaya | durdarshaya |
-    sudashaya | dashaya | dinabandhave | dayakaraya | dvibhujaya | ashtabhujaya | dhiraya | dashabahave
-    | dashatigaya | dashamshaphaladaya | vishnave | jigishave namah | 80 om jayavate namah | jayine |
-    jatilaya | nirbhayaya | bhanave | padmahastaya | kushirakaya | samahitagataye | dhatre | vidhatre
-    | kritamangalaya | martandaya | lokadhrite | tratre | rudraya | bhadrapradaya | prabhave | aratishamanaya
-    | shantaya | shankaraya namah | 100 om kamalasanaya namah | avicintyavapave | shreshthaya | mahacinakrameshvaraya
-    | mahartidamanaya | dantaya | mahamohaharaya | haraye | niyatatmane | kaleshaya | dineshaya | bhaktavatsalaya
-    | kalyanakarine | kamathakarkashaya | kamavallabhaya | vyomacarine | mahate | satyaya | shambhave
-    | ambhojavallabhaya namah | 120 om samagaya namah | pancamaya | dravyaya | dhruvaya | dinajanapriyaya
-    | trijataya | raktavahaya | raktavastraya | ratipriyaya | kalayogine | mahanadaya | nishcalaya | drishyarupadhrishe
-    | gambhiraghoshaya | nirghoshaya | ghatahastaya | mahomayaya | raktambaradharaya | raktaya | raktamalyanulepanaya
-    namah | 140 om sahasrahastaya namah | vijayaya | harigamine | harishvaraya | mundaya | kundine | bhujangeshaya
-    | rathine | surathapujitaya | nyagrodhavasine | nyagrodhaya | vrikshakarnaya | kulandharaya | shikhine
-    | candine | jatine | jvaline | jvalatejomayaya | vibhave | haimaya namah | 160 om hemakaraya namah
-    | harine | haridratnasanasthitaya | haridashvaya | jagadvasine | jagatam pataye | ingilaya | virocanaya
-    | vilasine | virupakshaya | vikartanaya | vinayakaya | vibhasaya | bhasaya | bhasam pataye | prabhave
-    it is patih as per buk | matimate | ratimate | svakshaya | vishalakshaya namah | 180 om vishampataye
-    namah | balarupaya | giricaraya | girpataye | gomatipataye | gangadharaya | ganadhyakshaya | ganasevyaya
-    | ganeshvaraya | girishanayanavasine | sarvavasine | satipriyaya | satyatmakaya | satyadharaya | satyasandhaya
-    | sahasragave | aparamahimne | muktaya | muktidaya | mokshakamadaya namah | 200 om murtimate namah
-    | durdharaya | amurtaye | trutirupaya | lavatmakaya | praneshaya | vyanadaya | apanasamanodanarupavate
-    | cashakaya | ghatikarupaya | muhurtaya | dinarupavate | pakshaya | masaya | ritave | varshaya | dinakaleshvareshvaraya
-    | ayanaya | yugarupaya | kritaya namah | 220 om tretayugaya namah | tripade | dvaparaya | kalaye |
-    kalaya | kalatmane | kalinashanaya | manvantaratmakaya | devaya | shakraya | tribhuvaneshvaraya |
-    vasavaya | agnaye | yamaya | rakshase | varunaya | yadasam pataye | vayave | vaishravanaya | shaivyaya
-    namah | 240 om girijaya namah | jalajasanaya | anantaya | anantamahimne | parameshthine | gatajvaraya
-    | kalpantakalanaya | kruraya | kalagnaye | kalasudanaya | mahapralayakrite | krityaya | kutyashine
-    | yugavartanaya | kalavartaya | yugadharaya | yugadaye | shahakeshvaraya | akashanidhirupaya | sarvakalapravartakaya
-    namah | 260 om acintyaya namah | subalaya | balaya | balakavallabhaya | varaya | varadaya | viryadaya
-    | vagmine | vakpataye | vagvilasadaya | sankhyeshvaraya | vedagamyaya | mantreshaya | tantranayakaya
-    | kulacaraparaya | nutyaya | nutitushtaya | nutipriyaya | alasaya | tulasisevyaya namah | 280 om stushtaya
-    namah | roganibarhanaya | praskandanaya | vibhagaya | niragaya | dashadikpataye | vairagyadaya | vimanasthaya
-    | ratnakumbhadharayudhaya | mahapadaya | mahahastaya | mahakayaya | mahashayaya | rigyajuhsamarupaya
-    | atharvanashakhinah tvashtre | sahasrashakhine | sadvrikshaya | mahakalpapriyaya | pumse | kalpavrikshaya
-    namah | 300 om mandaraya namah | mandaracalashobhanaya | merave | himalayaya | maline | malayaya |
-    malayadrumaya | santanakusumacchannaya | santanaphaladaya | viraje | kshirambhodhaye | ghritambhodhaye
-    | jaladhaye | kleshanashanaya | ratnakaraya | mahamanyaya | vainyaya | venudharaya | vanije | vasantaya
-    namah | 320 om marasamantaya namah | grishmaya | kalmashanashanaya | varshakalaya | varshapataye |
-    sharadambhojavallabhaya | hemantaya | hemakeyuraya | shishiraya | shishuviryadaya | sumataye | sugataye
-    | sadhave | vishnave | sambaya | ambikasutaya | saragrivaya | maharajaya | sunandaya | nandisevitaya
-    namah | 340 om sumerushikharavasine namah | saptapatalagocaraya | akashacarine | nityatmane | vibhutvavijayapradaya
-    | kulakantaya | kuladhishaya | vinayine | vijayine | viyade | vishvambharaya | viyaccarine | viyadrupaya
-    | viyadrathaya | surathaya | sugatastutyaya | venuvadanatatparaya | gopalaya | gomayaya | goptre namah
-    | 360 om pratishthayine namah | prajapataye | avedaniyaya | vedakshaya | mahadivyavapave | suraje
-    | nirjivaya | jivanaya | mantrine | maharnavaninadabhrite | vasave | avartanaya | nityaya | sarvamnayaprabhave
-    | sudhiye | nyayanirvapanaya | shuline | kapaline | padmamadhyagaya | trikonanilayaya namah | 380
-    om cetyaya namah | bindumandalamadhyagaya | bahumalaya | mahamalaya | divyamaladharaya | japaya |
-    japakusumasankashaya | japapujaphalapradaya | sahasramurdhne | devendraya | sahasranayanaya | ravaye
-    | sarvatattvashrayaya | bradhnaya | viravandyaya | vibhavasave | vishvavasave | vasupataye | vasunathaya
-    | visargavate namah | 400 om adaye namah | adityalokeshaya | sarvagamine | kalashrayaya | bhogeshaya
-    | devadevendraya | narendraya | havyavahanaya | vidyadhareshaya | vidyeshaya | yaksheshaya | rakshanaya
-    | gurave | rakshahkulaikavaradaya | gandharvakulapujitaya | apsarovanditaya | ajayyaya | jetre | daityanibarhanaya
-    | guhyakeshaya namah | 420 om pishaceshaya namah | kinnaripujitaya | kujaya | siddhasevyaya | samamnayaya
-    | sadhusevyaya | saritpataye | lalatakshaya | vishvadehaya | niyamine | niyatendriyaya | arkaya |
-    arkakantaratneshaya | anantabahave | alopakaya | alipatradharaya | anangaya | ambareshaya | ambarashrayaya
-    | akaramatrikanathaya namah | 440 om devanamadaye namah | akritaye | arogyakarine | anandavigrahaya
-    | nigrahaya | grahaya | alokakrite | adityaya | viradityaya | prajadhipaya | akasharupaya | svakaraya
-    | indradisurapujitaya | indirapujitaya | indave | indralokashrayasthitaya - inaya | ishanaya | ishvaraya
-    | candraya | ishaya namah | 460 om ikaravallabhaya namah | unnatasyaya | uruvapushe | unnatadricaraya
-    | gurave | utpalaya | uccalatketave | uccairhayagataye | sukhine | ukarakarasukhitaya | ushmayai |
-    nidhaye | ushanaya | anurusarathaye | ushnabhanave | ukaravallabhaya | rinahartre | rilihastaya |
-    riribhushanabhushitaya | liptangaya namah | 480 om l^imanusthayine namah | liligandayugojjvalaya |
-    enankamritadaya | cinapattabhrite | bahugocaraya | ekacakradharaya | ekaya | anekacakshushe | aikyadaya
-    | ekarabijaramanaya | eaioshthamritakaraya | onkarakaranm brahmane | aukaraya | aucityamandanaya |
-    oaudantalirahitaya | mahitaya | mahatam pataye | amvidyabhushanaya | bhushyaya | lakshmishaya namah
-    | 500 om ambijarupavate namah | ahsvarupaya | svaramayaya | sarvasvaraparatmakaya | amahsvarupamantrangaya
-    | kalikalanivartakaya | karmaikavaradaya | karmasakshine | kalmashanashanaya | kacadhvamsine | kapilaya
-    | kanakacalacarakaya | kantaya | kamaya | kapaye | kruraya | kiraya | keshinishudanaya (keshinisudanaya)
-    | krishnaya namah | 520 om kapalikaya namah | kubjaya | kamalashrayanaya | kuline | kapalamocakaya
-    | kashaya | kashmiraghanasarabhrite | kujatkinnaragiteshtaya | kururajaya | kulandharaya | kuvasine
-    | kulakauleshaya | kakaraksharamandanaya | khavasine | khetakeshanaya | khadgamundadharaya | khagaya
-    | khageshvaraya | khacaraya | khecariganasevitaya namah | 540 om kharamshave namah | khetakadharaya
-    | khalahartre | khavarnakaya | gantre | gitapriyaya | geyaya | gayavasine | ganashrayaya | gunatitaya
-    | golagataye | gucchalaya | gunisevitaya | gadadharaya | gadaharaya | gangeyavaradaya | pragine |
-    gingilaya | gatilaya | gantaya namah | 560 om gakaraksharabhaskaraya namah | ghrinimate | ghurghuraravaya
-    | ghantahastaya | ghatakaraya | ghanacchannaya | ghanagataye | ghanavahanatarpitaya | nantaya | neshaya
-    | nakarangaya | candrakunkumavasitaya | candrashrayaya | candradharaya | acyutaya | campakasannibhaya
-    | camikaraprabhaya | candabhanave | candeshavallabhaya | cancaccakorakokeshtaya namah | 580 om capalaya
-    namah | capalashrayaya | calatpatakaya | candadraye | civaraikadharaya | acaraya | citkalavardhitaya
-    | cintyaya | cintadhvamsine | cavarnavate | chatrabhrite | chalahrite | chandase | cchurikacchinnavigrahaya
-    | jambunadangadaya | ajataya | jinendraya | jambuvallabhaya | jambaraye | jangitaya namah | 600 om
-    jangine namah | janalokatamo'pahaya | jayakarine | jagaddhartre | jaramrityuvinashanaya | jagattratre
-    | jagaddhatre | jagaddhyeyaya | jagannidhaye | jagatsakshine | jagaccakshushe | jagannathapriyaya
-    | ajitaya | jakarakaramukutaya | jhanjachannakritaye | jhataya | jhillishvaraya | jhakareshaya | jhanjangulikarambujaya
-    | jhanaksharancitaya namah | 620 om tankaya namah | tittibhasanasamsthitaya | titkaraya | tankadharine
-    | thahsvarupaya | thathadhipaya | dambharaya | damarave | dindine | damarishaya | dalakritaye | dakinisevitaya
-    | dadhine | dadhagulphanguliprabhaya | neshapriyaya | navarneshaya | nakarapadapankajaya | taradhipeshvaraya
-    | tathyaya | tantrivadanatatparaya namah | 640 om tripureshaya namah | trinetreshaya | trayitanave
-    | adhokshajaya | tamaya | tamaraseshtaya | tamohartre | tamoripave | tandrahartre | tamorupaya | tapasam
-    phaladayakaya | tutyadikalanakantaya | takaraksharabhushanaya | sthanave | sthaline | sthitaya | nityaya
-    | sthaviraya | sthandilaya | sthiraya - sthulaya namah | 660 om thakarajanave namah | adhyatmane |
-    devanayakanayakaya | durjayaya | duhkhaghne | datre | daridryacchedanaya | damine | daurbhagyahartre
-    | devendraya | dvadasharabjamadhyagaya | dvadashantaikavasataye | dvadashatmane | divaspataye | durgamaya
-    | daityashamanaya | duragaya | duratikramaya | durdhyeyaya | dushtavamshaghnaya namah | 680 om dayanathaya
-    namah | dayakulaya | damodaraya | didhitimate | dakaraksharamatrikaya | dharmabandhave | dharmanidhaye
-    | dharmarajaya | dhanapradaya | dhanadeshtaya | dhanadhyakshaya | dharadarshaya | dhurandharaya |
-    dhurjatikshanavasine | dharmakshetraya | dharadhipaya | dharadharaya | dhurinaya | dharmatmane | dharmavatsalaya
-    namah | 700 om dharabhridvallabhaya namah | dharmine | dhakaraksharabhushanaya | narmapriyaya | nandirudraya
-    | netre | nitipriyaya | nayine | nalinivallabhaya | nunnaya | natyakrite | natyavardhanaya | naranathaya
-    | nripastutyaya | nabhogamine | namahpriyaya | namo'ntaya | namitarataye | naranarayanashrayaya |
-    narayanaya namah | 720 om nilarucaye namah | namrangaya | nilalohitaya | nadarupaya | nadamayaya |
-    nadabindusvarupakaya | nathaya | nagapataye | nagaya | nagarajashritaya | nagaya | nakasthitaya |
-    anekavapushe | nakaraksharamatrikaya | padmashrayaya | parasmai jyotishe | pivaramsaya | puteshvaraya
-    | pritipriyaya | premakaraya namah | 740 om pranatartibhayapahaya namah | paratratre | puradhvamsine
-    | puraraye | purasamsthitaya | purnanandamayaya | purnatejase | purneshvarishvaraya | patolavarnaya
-    | patimne | pataleshaya | paratmavate | parameshavapushe | pramshave | pramattaya | pranateshtadaya
-    | aparaparadaya | pinaya | pitambarapriyaya | pavaye namah | 760 om pacanaya namah | piculaya | plushtaya
-    | pramadajanasaukhyadaya | pramodine | pratipakshaghnaya | pakaraksharamatrikaya | bhogapavargasya
-    phalaya | phalinishaya | phalatmakaya | phulladambhojamadhyasthaya | phulladambhojadharakaya | sphutajjyotishe
-    - dyotaye | sphutakaraya | sphatikacalacarakaya | sphurjatkiranamaline | phakaraksharaparshvakaya
-    | balaya | balapriyaya | bantaya namah | 780 om biladhvantaharaya namah | baline | baladaye | barbaradhvamsine
-    | babbolamritapanakaya | budhaya | brihaspataye | vrikshaya | brihadashvaya | brihadgataye | baprishthaya
-    | bhimarupaya | bhamayaya | bheshvarapriyaya | bhagaya | bhrigave | bhrigusthayine | bhargavaya |
-    kavishekharaya | bhagyadaya namah | 800 om bhanudiptangaya namah | bhanabhaye | bhamatrikaya | mahakalaya
-    | mahadhyakshaya | mahanadaya | mahamataye | mahojjvalaya | manoharine | manogamine | manobhavaya
-    | manadaya | mallaghne | mallaya | merumandaramandiraya | mandaramalabharanaya | mananiyaya | manomayaya
-    | moditaya | madiraharaya namah | 820 om martandaya namah | mundamunditaya | mahavarahaya | mineshaya
-    | meshagaya | mithuneshtadaya | madalasaya | amarastutyaya | murarivaradaya | manave | madhavaya |
-    medinishaya | madhukaitabhanashanaya | malyavate | meghanaya | maraya | medhavine | musalayudhaya
-    | mukundaya | murarishanaya namah | 840 om maralaphaladaya namah | madaya | modanaya madanaya | modakaharaya
-    | makaraksharamatrikaya | yajvane | yajneshvaraya | yantaya | yoginam hridayasthitaya | yatrikaya
-    | yajnaphaladaya | yayine | yamalanayakaya | yoganidrapriyaya | yogakaranaya | yogivatsalaya | yashtidharine
-    | yantreshaya | yonimandalamadhyagaya | yuyutsujayadaya namah | 860 om yoddhre namah | yugadharmanuvartakaya
-    | yoginicakramadhyasthaya | yugaleshvarapujitaya | yantaya | yakshaikatilakaya | yakaraksharabhushanaya
-    | ramaya | ramanashilaya | ratnabhanave | urupriyaya | ratnamauline | ratnatungaya | ratnapithantarasthitaya
-    | ratnamshumaline | ratnadhyaya | ratnakankananupuraya | ratnangadalasadbahave | ratnapadukamanditaya
-    | rohinishashrayaya namah | 880 om rakshakaraya namah | ratrincarantakaya | rakarakshararupaya | lajjabijashritaya
-    | lavaya | lakshmibhanave | latavasine | lasatkantaye | lokabhrite | lokantakaharaya | lamavallabhaya
-    | lomashaya | aligaya | lingeshvaraya | linganadaya | lilakarine | lalambusaya | lakshmivate | lokavidhvamsine
-    | lakaraksharabhushanaya namah | 900 om vamanaya namah | viravirendraya | vacalaya | vakpatipriyaya
-    | vacamagocaraya | vantaya | vinavenudharaya | vanaya | vagbhavaya | valishadhvamsine | vidyanayakanayakaya
-    | vakaramatrikamaulaye | shambhaveshtapradaya | shukaya | shashine | shobhakaraya | shantaya | shantikrite
-    | shamanapriyaya | shubhankaraya namah | 920 om shuklavastraya namah | shripataye | shriyutaya | shrutaya
-    | shrutigamyaya | sharadbijamanditaya | shishtasevitaya | shishtacaraya | shubhacaraya | sheshaya
-    | shevalatadanaya | shipivishtaya | shibaye | shukrasevyaya | shaksharamatrikaya | shadananaya | shatkarakaya
-    | shodashasvarabhushitaya | shatpadasvanasantoshine | shadamnayapravartakaya namah | 940 om shadrasasvadasantushtaya
-    namah | shakaraksharamatrikaya | suryabhanave | surabhanave | suribhanave | sukhakaraya | samastadaityavamshaghnaya
-    | samastasurasevitaya | samastasadhakeshanaya | samastakulashekharaya | surasuryaya | sudhasuryaya
-    | svahsuryaya | sakshareshvaraya | haritsuryaya | haridbhanave | havirbhuje | havyavahanaya | halasuryaya
-    | homasuryaya namah | 960 om hutasuryaya namah | harishvaraya | hrambijasuryaya | hrimsuryaya | hakaraksharamatrikaya
-    | ḻambijamanditaya | suryaya | kshonisuryaya | kshamapataye | kshutsuryaya | kshantasuryaya | ḻankshahsuryaya
-    | sadashivaya | akarasuryaya | kshahsuryaya | sarvasuryaya | kripanidhaye | bhuhsuryaya | bhuvahsuryaya
-    | svahsuryaya namah | 980 om suryanayakaya namah | grahasuryaya | rikshasuryaya | lagnasuryaya | maheshvaraya
-    | rashisuryaya | yogasuryaya | mantrasuryaya | manuttamaya | tattvasuryaya | parasuryaya | vishnusuryaya
-    | pratapavate | rudrasuryaya | brahmasuryaya | virasuryaya | varottamaya | dharmasuryaya | karmasuryaya
-    | vishvasuryaya namah | vinayakaya namah | 1001 || iti shrirudrayamale tantre shridevirahasye suryasahasranamavalih
-    samapta |
-  devanagari: श्रीरुद्रयामले तन्त्रे श्रीदेवीरहस्ये ॐह्रांह्रींसःहंसःसोः सूर्याय स्वाहा । ॐ सवित्रे नमः
-    । भास्कराय । भगाय । भगवते । सर्वलोकेशाय । भूतेशाय । भूतभावनाय । भूतात्मने । सृष्टिकर्त्रे । स्रष्ट्रे
-    । कर्त्रे । हर्त्रे । जगत्पतये । आदित्याय । वरदाय । वीराय । वीरलाय । विश्वदीपनाय । विश्वकृते । विश्वहृदे
-    नमः । २० ॐ भक्ताय नमः । भोक्त्रे । भीमाय । भयापहाय । विश्वात्मने । पुरुषाय । साक्षिणे । परं ब्रह्मणे
-    । परात्पराय । प्रतापवते । विश्वयोनये । विश्वेशाय । विश्वतोमुखाय । कामिने । योगिने । महाबुद्धये । मनस्विने
-    । मनवे । अव्ययाय । प्रजापतये नमः । ४० ॐ विश्ववन्द्याय नमः । वन्दिताय । भुवनेश्वराय । भूतभव्यभविष्यात्मने
-    । तत्त्वात्मने । ज्ञानवते । गुणिने । सात्त्विकाय । राजसाय । तामसाय । तमस्विने । करुणानिधये । सहस्रकिरणाय
-    । भास्वते । भार्गवाय । भृगवे । ईश्वराय । निर्गुणाय । निर्ममाय । नित्याय नमः । ६० ॐ नित्यानन्दाय नमः
-    । निराश्रयाय । तपस्विने । कालकृते । कालाय । कमनीयतनवे । कृशाय । दुर्दर्शाय । सुदशाय । दाशाय । दीनबन्धवे
-    । दयाकराय । द्विभुजाय । अष्टभुजाय । धीराय । दशबाहवे । दशातिगाय । दशांशफलदाय । विष्णवे । जिगीषवे नमः
-    । ८० ॐ जयवते नमः । जयिने । जटिलाय । निर्भयाय । भानवे । पद्महस्ताय । कुशीरकाय । समाहितगतये । धात्रे
-    । विधात्रे । कृतमङ्गलाय । मार्तण्डाय । लोकधृते । त्रात्रे । रुद्राय । भद्रप्रदाय । प्रभवे । अरातिशमनाय
-    । शान्ताय । शङ्कराय नमः । १०० ॐ कमलासनाय नमः । अविचिन्त्यवपवे । श्रेष्ठाय । महाचीनक्रमेश्वराय । महार्तिदमनाय
-    । दान्ताय । महामोहहराय । हरये । नियतात्मने । कालेशाय । दिनेशाय । भक्तवत्सलाय । कल्याणकारिणे । कमठकर्कशाय
-    । कामवल्लभाय । व्योमचारिणे । महते । सत्याय । शम्भवे । अम्भोजवल्लभाय नमः । १२० ॐ सामगाय नमः । पञ्चमाय
-    । द्रव्याय । ध्रुवाय । दीनजनप्रियाय । त्रिजटाय । रक्तवाहाय । रक्तवस्त्राय । रतिप्रियाय । कालयोगिने
-    । महानादाय । निश्चलाय । दृश्यरूपधृषे । गम्भीरघोषाय । निर्घोषाय । घटहस्ताय । महोमयाय । रक्ताम्बरधराय
-    । रक्ताय । रक्तमाल्यानुलेपनाय नमः । १४० ॐ सहस्रहस्ताय नमः । विजयाय । हरिगामिने । हरीश्वराय । मुण्डाय
-    । कुण्डिने । भुजङ्गेशाय । रथिने । सुरथपूजिताय । न्यग्रोधवासिने । न्यग्रोधाय । वृक्षकर्णाय । कुलन्धराय
-    । शिखिने । चण्डिने । जटिने । ज्वालिने । ज्वालातेजोमयाय । विभवे । हैमाय नमः । १६० ॐ हेमकराय नमः । हारिणे
-    । हरिद्रत्नासनस्थिताय । हरिदश्वाय । जगद्वासिने । जगतां पतये । इङ्गिलाय । विरोचनाय । विलासिने । विरूपाक्षाय
-    । विकर्तनाय । विनायकाय । विभासाय । भासाय । भासां पतये । प्रभवे ईत् इस् पतिः अस् पेर् बूक् । मतिमते
-    । रतिमते । स्वक्षाय । विशालाक्षाय नमः । १८० ॐ विशाम्पतये नमः । बालरूपाय । गिरिचराय । गीर्पतये । गोमतीपतये
-    । गङ्गाधराय । गणाध्यक्षाय । गणसेव्याय । गणेश्वराय । गिरीशनयनावासिने । सर्ववासिने । सतीप्रियाय । सत्यात्मकाय
-    । सत्यधराय । सत्यसन्धाय । सहस्रगवे । अपारमहिम्ने । मुक्ताय । मुक्तिदाय । मोक्षकामदाय नमः । २०० ॐ मूर्तिमते
-    नमः । दुर्धराय । अमूर्तये । त्रुटिरूपाय । लवात्मकाय । प्राणेशाय । व्यानदाय । अपानसमानोदानरूपवते ।
-    चषकाय । घटिकारूपाय । मुहूर्ताय । दिनरूपवते । पक्षाय । मासाय । ऋतवे । वर्षाय । दिनकालेश्वरेश्वराय ।
-    अयनाय । युगरूपाय । कृताय नमः । २२० ॐ त्रेतायुगाय नमः । त्रिपादे । द्वापराय । कलये । कालाय । कालात्मने
-    । कलिनाशनाय । मन्वन्तरात्मकाय । देवाय । शक्राय । त्रिभुवनेश्वराय । वासवाय । अग्नये । यमाय । रक्षसे
-    । वरुणाय । यादसां पतये । वायवे । वैश्रवणाय । शैव्याय नमः । २४० ॐ गिरिजाय नमः । जलजासनाय । अनन्ताय
-    । अनन्तमहिम्ने । परमेष्ठिने । गतज्वराय । कल्पान्तकलनाय । क्रूराय । कालाग्नये । कालसूदनाय । महाप्रलयकृते
-    । कृत्याय । कुत्याशिने । युगवर्तनाय । कालावर्ताय । युगधराय । युगादये । शहकेश्वराय । आकाशनिधिरूपाय
-    । सर्वकालप्रवर्तकाय नमः । २६० ॐ अचिन्त्याय नमः । सुबलाय । बालाय । बलाकावल्लभाय । वराय । वरदाय । वीर्यदाय
-    । वाग्मिने । वाक्पतये । वाग्विलासदाय । साङ्ख्येश्वराय । वेदगम्याय । मन्त्रेशाय । तन्त्रनायकाय । कुलाचारपराय
-    । नुत्याय । नुतितुष्टाय । नुतिप्रियाय । अलसाय । तुलसीसेव्याय नमः । २८० ॐ स्तुष्टाय नमः । रोगनिबर्हणाय
-    । प्रस्कन्दनाय । विभागाय । नीरागाय । दशदिक्पतये । वैराग्यदाय । विमानस्थाय । रत्नकुम्भधरायुधाय । महापादाय
-    । महाहस्ताय । महाकायाय । महाशयाय । ऋग्यजुःसामरूपाय । अथर्वणशाखिनः त्वष्ट्रे । सहस्रशाखिने । सद्वृक्षाय
-    । महाकल्पप्रियाय । पुंसे । कल्पवृक्षाय नमः । ३०० ॐ मन्दाराय नमः । मन्दराचलशोभनाय । मेरवे । हिमालयाय
-    । मालिने । मलयाय । मलयद्रुमाय । सन्तानकुसुमच्छन्नाय । सन्तानफलदाय । विराजे । क्षीराम्भोधये । घृताम्भोधये
-    । जलधये । क्लेशनाशनाय । रत्नाकराय । महामान्याय । वैण्याय । वेणुधराय । वणिजे । वसन्ताय नमः । ३२० ॐ
-    मारसामन्ताय नमः । ग्रीष्माय । कल्मषनाशनाय । वर्षाकालाय । वर्षपतये । शरदम्भोजवल्लभाय । हेमन्ताय । हेमकेयूराय
-    । शिशिराय । शिशुवीर्यदाय । सुमतये । सुगतये । साधवे । विष्णवे । साम्बाय । अम्बिकासुताय । सारग्रीवाय
-    । महाराजाय । सुनन्दाय । नन्दिसेविताय नमः । ३४० ॐ सुमेरुशिखरावासिने नमः । सप्तपातालगोचराय । आकाशचारिणे
-    । नित्यात्मने । विभुत्वविजयप्रदाय । कुलकान्ताय । कुलाधीशाय । विनयिने । विजयिने । वियदे । विश्वम्भराय
-    । वियच्चारिणे । वियद्रूपाय । वियद्रथाय । सुरथाय । सुगतस्तुत्याय । वेणुवादनतत्पराय । गोपालाय । गोमयाय
-    । गोप्त्रे नमः । ३६० ॐ प्रतिष्ठायिने नमः । प्रजापतये । आवेदनीयाय । वेदाक्षाय । महादिव्यवपवे । सुराजे
-    । निर्जीवाय । जीवनाय । मन्त्रिणे । महार्णवनिनादभृते । वसवे । आवर्तनाय । नित्याय । सर्वाम्नायप्रभवे
-    । सुधिये । न्यायनिर्वापणाय । शूलिने । कपालिने । पद्ममध्यगाय । त्रिकोणनिलयाय नमः । ३८० ॐ चेत्याय नमः
-    । बिन्दुमण्डलमध्यगाय । बहुमालाय । महामालाय । दिव्यमालाधराय । जपाय । जपाकुसुमसङ्काशाय । जपपूजाफलप्रदाय
-    । सहस्रमूर्ध्ने । देवेन्द्राय । सहस्रनयनाय । रवये । सर्वतत्त्वाश्रयाय । ब्रध्नाय । वीरवन्द्याय । विभावसवे
-    । विश्वावसवे । वसुपतये । वसुनाथाय । विसर्गवते नमः । ४०० ॐ आदये नमः । आदित्यलोकेशाय । सर्वगामिने ।
-    कलाश्रयाय । भोगेशाय । देवदेवेन्द्राय । नरेन्द्राय । हव्यवाहनाय । विद्याधरेशाय । विद्येशाय । यक्षेशाय
-    । रक्षणाय । गुरवे । रक्षःकुलैकवरदाय । गन्धर्वकुलपूजिताय । अप्सरोवन्दिताय । अजय्याय । जेत्रे । दैत्यनिबर्हणाय
-    । गुह्यकेशाय नमः । ४२० ॐ पिशाचेशाय नमः । किन्नरीपूजिताय । कुजाय । सिद्धसेव्याय । समाम्नायाय । साधुसेव्याय
-    । सरित्पतये । ललाटाक्षाय । विश्वदेहाय । नियमिने । नियतेन्द्रियाय । अर्काय । अर्ककान्तरत्नेशाय । अनन्तबाहवे
-    । अलोपकाय । अलिपात्रधराय । अनङ्गाय । अम्बरेशाय । अम्बराश्रयाय । अकारमातृकानाथाय नमः । ४४० ॐ देवानामादये
-    नमः । आकृतये । आरोग्यकारिणे । आनन्दविग्रहाय । निग्रहाय । ग्रहाय । आलोककृते । आदित्याय । वीरादित्याय
-    । प्रजाधिपाय । आकाशरूपाय । स्वाकाराय । इन्द्रादिसुरपूजिताय । इन्दिरापूजिताय । इन्दवे । इन्द्रलोकाश्रयस्थिताय
-    - इनाय । ईशानाय । ईश्वराय । चन्द्राय । ईशाय नमः । ४६० ॐ ईकारवल्लभाय नमः । उन्नतास्याय । उरुवपुषे ।
-    उन्नताद्रिचराय । गुरवे । उत्पलाय । उच्चलत्केतवे । उच्चैर्हयगतये । सुखिने । उकाराकारसुखिताय । ऊष्मायै
-    । निधये । ऊषणाय । अनूरुसारथये । उष्णभानवे । ऊकारवल्लभाय । ऋणहर्त्रे । ॠलिहस्ताय । ऋॠभूषणभूषिताय ।
-    ऌप्ताङ्गाय नमः । ४८० ॐ ल्^ईमनुस्थायिने नमः । ऌॡगण्डयुगोज्ज्वलाय । एणाङ्कामृतदाय । चीनपट्टभृते । बहुगोचराय
-    । एकचक्रधराय । एकाय । अनेकचक्षुषे । ऐक्यदाय । एकारबीजरमणाय । एऐओष्ठामृताकराय । ओङ्कारकारण्ं ब्रह्मणे
-    । औकाराय । औचित्यमण्डनाय । ओऔदन्तालिरहिताय । महिताय । महतां पतये । अंविद्याभूषणाय । भूष्याय । लक्ष्मीशाय
-    नमः । ५०० ॐ अंबीजरूपवते नमः । अःस्वरूपाय । स्वरमयाय । सर्वस्वरपरात्मकाय । अंअःस्वरूपमन्त्राङ्गाय ।
-    कलिकालनिवर्तकाय । कर्मैकवरदाय । कर्मसाक्षिणे । कल्मषनाशनाय । कचध्वंसिने । कपिलाय । कनकाचलचारकाय ।
-    कान्ताय । कामाय । कपये । क्रूराय । कीराय । केशीनिषूदनाय (केशीनिसूदनाय) । कृष्णाय नमः । ५२० ॐ कापालिकाय
-    नमः । कुब्जाय । कमलाश्रयणाय । कुलिने । कपालमोचकाय । काशाय । काश्मीरघनसारभृते । कूजत्किन्नरगीतेष्टाय
-    । कुरुराजाय । कुलन्धराय । कुवासिने । कुलकौलेशाय । ककाराक्षरमण्डनाय । खवासिने । खेटकेशानाय । खड्गमुण्डधराय
-    । खगाय । खगेश्वराय । खचराय । खेचरीगणसेविताय नमः । ५४० ॐ खरांशवे नमः । खेटकधराय । खलहर्त्रे । खवर्णकाय
-    । गन्त्रे । गीतप्रियाय । गेयाय । गयावासिने । गणाश्रयाय । गुणातीताय । गोलगतये । गुच्छलाय । गुणिसेविताय
-    । गदाधराय । गदहराय । गाङ्गेयवरदाय । प्रगिने । गिङ्गिलाय । गटिलाय । गान्ताय नमः । ५६० ॐ गकाराक्षरभास्कराय
-    नमः । घृणिमते । घुर्घुरारावाय । घण्टाहस्ताय । घटाकराय । घनच्छन्नाय । घनगतये । घनवाहनतर्पिताय । ङान्ताय
-    । ङेशाय । ङकाराङ्गाय । चन्द्रकुङ्कुमवासिताय । चन्द्राश्रयाय । चन्द्रधराय । अच्युताय । चम्पकसन्निभाय
-    । चामीकरप्रभाय । चण्डभानवे । चण्डेशवल्लभाय । चञ्चच्चकोरकोकेष्टाय नमः । ५८० ॐ चपलाय नमः । चपलाश्रयाय
-    । चलत्पताकाय । चण्डाद्रये । चीवरैकधराय । अचराय । चित्कलावर्धिताय । चिन्त्याय । चिन्ताध्वंसिने । चवर्णवते
-    । छत्रभृते । छलहृते । छन्दसे । च्छुरिकाच्छिन्नविग्रहाय । जाम्बूनदाङ्गदाय । अजाताय । जिनेन्द्राय ।
-    जम्बुवल्लभाय । जम्बारये । जङ्गिटाय नमः । ६०० ॐ जङ्गिने नमः । जनलोकतमोऽपहाय । जयकारिणे । जगद्धर्त्रे
-    । जरामृत्युविनाशनाय । जगत्त्रात्रे । जगद्धात्रे । जगद्ध्येयाय । जगन्निधये । जगत्साक्षिणे । जगच्चक्षुषे
-    । जगन्नाथप्रियाय । अजिताय । जकाराकारमुकुटाय । झञ्जाछन्नाकृतये । झटाय । झिल्लीश्वराय । झकारेशाय । झञ्जाङ्गुलिकराम्बुजाय
-    । झञाक्षराञ्चिताय नमः । ६२० ॐ टङ्काय नमः । टिट्टिभासनसंस्थिताय । टीत्काराय । टङ्कधारिणे । ठःस्वरूपाय
-    । ठठाधिपाय । डम्भराय । डामरवे । डिण्डिने । डामरीशाय । डलाकृतये । डाकिनीसेविताय । डाढिने । डढगुल्फाङ्गुलिप्रभाय
-    । णेशप्रियाय । णवर्णेशाय । णकारपदपङ्कजाय । ताराधिपेश्वराय । तथ्याय । तन्त्रीवादनतत्पराय नमः । ६४०
-    ॐ त्रिपुरेशाय नमः । त्रिनेत्रेशाय । त्रयीतनवे । अधोक्षजाय । तामाय । तामरसेष्टाय । तमोहर्त्रे । तमोरिपवे
-    । तन्द्राहर्त्रे । तमोरूपाय । तपसां फलदायकाय । तुट्यादिकलनाकान्ताय । तकाराक्षरभूषणाय । स्थाणवे । स्थलिने
-    । स्थिताय । नित्याय । स्थविराय । स्थण्डिलाय । स्थिराय - स्थूलाय नमः । ६६० ॐ थकारजानवे नमः । अध्यात्मने
-    । देवनायकनायकाय । दुर्जयाय । दुःखघ्ने । दात्रे । दारिद्र्यच्छेदनाय । दमिने । दौर्भाग्यहर्त्रे । देवेन्द्राय
-    । द्वादशाराब्जमध्यगाय । द्वादशान्तैकवसतये । द्वादशात्मने । दिवस्पतये । दुर्गमाय । दैत्यशमनाय । दूरगाय
-    । दुरतिक्रमाय । दुर्ध्येयाय । दुष्टवंशघ्नाय नमः । ६८० ॐ दयानाथाय नमः । दयाकुलाय । दामोदराय । दीधितिमते
-    । दकाराक्षरमातृकाय । धर्मबन्धवे । धर्मनिधये । धर्मराजाय । धनप्रदाय । धनदेष्टाय । धनाध्यक्षाय । धरादर्शाय
-    । धुरन्धराय । धूर्जटीक्षणवासिने । धर्मक्षेत्राय । धराधिपाय । धाराधराय । धुरीणाय । धर्मात्मने । धर्मवत्सलाय
-    नमः । ७०० ॐ धराभृद्वल्लभाय नमः । धर्मिणे । धकाराक्षरभूषणाय । नर्मप्रियाय । नन्दिरुद्राय । नेत्रे ।
-    नीतिप्रियाय । नयिने । नलिनीवल्लभाय । नुन्नाय । नाट्यकृते । नाट्यवर्धनाय । नरनाथाय । नृपस्तुत्याय ।
-    नभोगामिने । नमःप्रियाय । नमोऽन्ताय । नमितारातये । नरनारायणाश्रयाय । नारायणाय नमः । ७२० ॐ नीलरुचये
-    नमः । नम्राङ्गाय । नीललोहिताय । नादरूपाय । नादमयाय । नादबिन्दुस्वरूपकाय । नाथाय । नागपतये । नागाय
-    । नगराजाश्रिताय । नगाय । नाकस्थिताय । अनेकवपुषे । नकाराक्षरमातृकाय । पद्माश्रयाय । परस्मै ज्योतिषे
-    । पीवरांसाय । पुटेश्वराय । प्रीतिप्रियाय । प्रेमकराय नमः । ७४० ॐ प्रणतार्तिभयापहाय नमः । परत्रात्रे
-    । पुरध्वंसिने । पुरारये । पुरसंस्थिताय । पूर्णानन्दमयाय । पूर्णतेजसे । पूर्णेश्वरीश्वराय । पटोलवर्णाय
-    । पटिम्ने । पाटलेशाय । परात्मवते । परमेशवपुषे । प्रांशवे । प्रमत्ताय । प्रणतेष्टदाय । अपारपारदाय ।
-    पीनाय । पीताम्बरप्रियाय । पवये नमः । ७६० ॐ पाचनाय नमः । पिचुलाय । प्लुष्टाय । प्रमदाजनसौख्यदाय । प्रमोदिने
-    । प्रतिपक्षघ्नाय । पकाराक्षरमातृकाय । भोगापवर्गस्य फलाय । फलिनीशाय । फलात्मकाय । फुल्लदम्भोजमध्यस्थाय
-    । फुल्लदम्भोजधारकाय । स्फुटज्ज्योतिषे - द्योतये । स्फुटाकाराय । स्फटिकाचलचारकाय । स्फूर्जत्किरणमालिने
-    । फकाराक्षरपार्श्वकाय । बालाय । बलप्रियाय । बान्ताय नमः । ७८० ॐ बिलध्वान्तहराय नमः । बलिने । बालादये
-    । बर्बरध्वंसिने । बब्बोलामृतपानकाय । बुधाय । बृहस्पतये । वृक्षाय । बृहदश्वाय । बृहद्गतये । बपृष्ठाय
-    । भीमरूपाय । भामयाय । भेश्वरप्रियाय । भगाय । भृगवे । भृगुस्थायिने । भार्गवाय । कविशेखराय । भाग्यदाय
-    नमः । ८०० ॐ भानुदीप्ताङ्गाय नमः । भनाभये । भमातृकाय । महाकालाय । महाध्यक्षाय । महानादाय । महामतये
-    । महोज्ज्वलाय । मनोहारिणे । मनोगामिने । मनोभवाय । मानदाय । मल्लघ्ने । मल्लाय । मेरुमन्दरमन्दिराय ।
-    मन्दारमालाभरणाय । माननीयाय । मनोमयाय । मोदिताय । मदिराहाराय नमः । ८२० ॐ मार्तण्डाय नमः । मुण्डमुण्डिताय
-    । महावराहाय । मीनेशाय । मेषगाय । मिथुनेष्टदाय । मदालसाय । अमरस्तुत्याय । मुरारिवरदाय । मनवे । माधवाय
-    । मेदिनीशाय । मधुकैटभनाशनाय । माल्यवते । मेघनाय । माराय । मेधाविने । मुसलायुधाय । मुकुन्दाय । मुररीशानाय
-    नमः । ८४० ॐ मरालफलदाय नमः । मदाय । मोदनाय मदनाय । मोदकाहाराय । मकाराक्षरमातृकाय । यज्वने । यज्ञेश्वराय
-    । यान्ताय । योगिनां हृदयस्थिताय । यात्रिकाय । यज्ञफलदाय । यायिने । यामलनायकाय । योगनिद्राप्रियाय ।
-    योगकारणाय । योगिवत्सलाय । यष्टिधारिणे । यन्त्रेशाय । योनिमण्डलमध्यगाय । युयुत्सुजयदाय नमः । ८६० ॐ
-    योद्ध्रे नमः । युगधर्मानुवर्तकाय । योगिनीचक्रमध्यस्थाय । युगलेश्वरपूजिताय । यान्ताय । यक्षैकतिलकाय
-    । यकाराक्षरभूषणाय । रामाय । रमणशीलाय । रत्नभानवे । उरुप्रियाय । रत्नमौलिने । रत्नतुङ्गाय । रत्नपीठान्तरस्थिताय
-    । रत्नांशुमालिने । रत्नाढ्याय । रत्नकङ्कणनूपुराय । रत्नाङ्गदलसद्बाहवे । रत्नपादुकामण्डिताय । रोहिणीशाश्रयाय
-    नमः । ८८० ॐ रक्षाकराय नमः । रात्रिञ्चरान्तकाय । रकाराक्षररूपाय । लज्जाबीजाश्रिताय । लवाय । लक्ष्मीभानवे
-    । लतावासिने । लसत्कान्तये । लोकभृते । लोकान्तकहराय । लामावल्लभाय । लोमशाय । अलिगाय । लिङ्गेश्वराय
-    । लिङ्गनादाय । लीलाकारिणे । ललम्बुसाय । लक्ष्मीवते । लोकविध्वंसिने । लकाराक्षरभूषणाय नमः । ९०० ॐ वामनाय
-    नमः । वीरवीरेन्द्राय । वाचालाय । वाक्पतिप्रियाय । वाचामगोचराय । वान्ताय । वीणावेणुधराय । वनाय । वाग्भवाय
-    । वालिशध्वंसिने । विद्यानायकनायकाय । वकारमातृकामौलये । शाम्भवेष्टप्रदाय । शुकाय । शशिने । शोभाकराय
-    । शान्ताय । शान्तिकृते । शमनप्रियाय । शुभङ्कराय नमः । ९२० ॐ शुक्लवस्त्राय नमः । श्रीपतये । श्रीयुताय
-    । श्रुताय । श्रुतिगम्याय । शरद्बीजमण्डिताय । शिष्टसेविताय । शिष्टाचाराय । शुभाचाराय । शेषाय । शेवालताडनाय
-    । शिपिविष्टाय । शिबये । शुक्रसेव्याय । शाक्षरमातृकाय । षडाननाय । षट्करकाय । षोडशस्वरभूषिताय । षट्पदस्वनसन्तोषिने
-    । षडाम्नायप्रवर्तकाय नमः । ९४० ॐ षड्रसास्वादसन्तुष्टाय नमः । षकाराक्षरमातृकाय । सूर्यभानवे । सूरभानवे
-    । सूरिभानवे । सुखाकराय । समस्तदैत्यवंशघ्नाय । समस्तसुरसेविताय । समस्तसाधकेशानाय । समस्तकुलशेखराय ।
-    सुरसूर्याय । सुधासूर्याय । स्वःसूर्याय । साक्षरेश्वराय । हरित्सूर्याय । हरिद्भानवे । हविर्भुजे । हव्यवाहनाय
-    । हालासूर्याय । होमसूर्याय नमः । ९६० ॐ हुतसूर्याय नमः । हरीश्वराय । ह्रांबीजसूर्याय । ह्रींसूर्याय
-    । हकाराक्षरमातृकाय । ळंबीजमण्डिताय । सूर्याय । क्षोणीसूर्याय । क्षमापतये । क्षुत्सूर्याय । क्षान्तसूर्याय
-    । ळङ्क्षःसूर्याय । सदाशिवाय । अकारसूर्याय । क्षःसूर्याय । सर्वसूर्याय । कृपानिधये । भूःसूर्याय । भुवःसूर्याय
-    । स्वःसूर्याय नमः । ९८० ॐ सूर्यनायकाय नमः । ग्रहसूर्याय । ऋक्षसूर्याय । लग्नसूर्याय । महेश्वराय ।
-    राशिसूर्याय । योगसूर्याय । मन्त्रसूर्याय । मनूत्तमाय । तत्त्वसूर्याय । परासूर्याय । विष्णुसूर्याय
-    । प्रतापवते । रुद्रसूर्याय । ब्रह्मसूर्याय । वीरसूर्याय । वरोत्तमाय । धर्मसूर्याय । कर्मसूर्याय ।
-    विश्वसूर्याय नमः । विनायकाय नमः । १००१ ॥ इति श्रीरुद्रयामले तन्त्रे श्रीदेवीरहस्ये सूर्यसहस्रनामावलिः
-    समाप्ता ।
+  english: om vishvavide namah | om vishvajite namah | om vishvakartre namah | om vishvatmane namah |
+    om vishvatomukhaya namah | om vishveshvaraya namah | om vishvayonaye namah | om niyatatmane namah
+    | om jitendriyaya namah | om kalashrayaya namah | om kalakartre namah | om kalaghne namah | om kalanashanaya
+    namah | om mahayogine namah | om mahasiddhaye namah | om mahatmane namah | om sumahabalaya namah |
+    om prabhave namah | om vibhave namah | om bhutanathaya namah | om bhutatmane namah | om bhuvaneshvaraya
+    namah | om bhutabhavyaya namah | om bhavitatmane namah | om bhutantahkaranaya namah | om shivaya namah
+    | om sharanyaya namah | om kamalanandaya namah | om nandanaya namah | om nandavardhanaya namah | om
+    varenyaya namah | om varadaya namah | om yogine namah | om susamyuktaya namah | om prakashakaya namah
+    | om praptayanaya namah | om parapranaya namah | om putatmane namah | om priyataya namah | om priyaya
+    namah | om nayaya namah | om sahasrapade namah | om sadhave namah | om divyakundalamanditaya namah
+    | om avyangadharine namah | om dhiratmane namah | om savitre namah | om vayuvahanaya namah | om samahitamataye
+    namah | om datre namah | om vidhatre namah | om kritamangalaya namah | om kapardine namah | om kalpapade
+    namah | om rudraya namah | om sumanaya namah | om dharmavatsalaya namah | om samayuktaya namah | om
+    vimuktatmane namah | om kritatmane namah | om kritinam varaya namah | om avicintyavapushe namah |
+    om shreshthaya namah | om mahayogine namah | om maheshvaraya namah | om kantaya namah | om kamaraye
+    namah | om adityaya namah | om niyatatmane namah | om nirakulaya namah | om kamaya namah | om karunikaya
+    namah | om kartre namah | om kamalakarabodhanaya namah | om saptasaptaye namah | om acintyatmane namah
+    | om mahakarunikottamaya namah | om sanjivanaya namah | om jivanathaya namah | om jayaya namah | om
+    jivaya namah | om jagatpataye namah | om ayuktaya namah | om vishvanilayaya namah | om samvibhagine
+    namah | om vrishadhvajaya namah | om vrishakapaye namah | om kalpakartre namah | om kalpantakaranaya
+    namah | om ravaye namah | om ekacakrarathaya namah | om maunine namah | om surathaya namah | om rathinam
+    varaya namah | om sakrodhanaya namah | om rashmimaline namah | om tejorashaye namah | om vibhavasave
+    namah | om divyakrite namah | om dinakrite namah | om devaya namah | om devadevaya namah | om divaspataye
+    namah | om dinanathaya namah | om haraya namah | om hotre namah | om divyabahave namah | om divakaraya
+    namah | om yajnaya namah | om yajnapataye namah | om pushne namah | om svarnaretase namah | om paravaraya
+    namah | om paraparajnaya namah | om taranaye namah | om amshumaline namah | om manoharaya namah |
+    om prajnaya namah | om prajnapataye namah | om suryaya namah | om savitre namah | om vishnave namah
+    | om amshumate namah | om sadagataye namah | om gandhavahaya namah | om vihitaya namah | om vidhaye
+    namah | om ashugaya namah | om patangaya namah | om patagaya namah | om sthanave namah | om vihangaya
+    namah | om vihagaya namah | om varaya namah | om haryashvaya namah | om haritashvaya namah | om haridashvaya
+    namah | om jagatpriyaya namah | om tryambakaya namah | om sarvadamanaya namah | om bhavitatmane namah
+    | om bhishagvaraya namah | om alokakrite namah | om lokanathaya namah | om lokalokanamaskritaya namah
+    | om kalaya namah | om kalpantakaya namah | om vahnaye namah | om tapanaya namah | om sampratapanaya
+    namah | om vilocanaya namah | om virupakshaya namah | om sahasrakshaya namah | om purandaraya namah
+    | om sahasrarashmaye namah | om mihiraya namah | om vividhambarabhushanaya namah | om khagaya namah
+    | om pratardanaya namah | om dhanyaya namah | om hayagaya namah | om vagvisharadaya namah | om shrimate
+    namah | om ashishiraya namah | om vagmine namah | om shripataye namah | om shriniketanaya namah |
+    om shrikanthaya namah | om shridharaya namah | om shrimate namah | om shrinivasaya namah | om vasupradaya
+    namah | om kamacarine namah | om mahamayaya namah | om mahograya namah | om aviditamayaya namah |
+    om tirthakriyavate namah | om sunayaya namah | om vibhaktaya namah | om bhaktavatsalaya namah | om
+    kirtaye namah | om kirtikaraya namah | om nityaya namah | om kundaline namah | om kavacine namah |
+    om rathine namah | om hiranyaretase namah | om saptashvaya namah | om prayatatmane namah | om parantapaya
+    namah | om buddhimate namah | om amarashreshthaya namah | om rocishnave namah | om pakashasanaya namah
+    | om samudraya namah | om dhanadaya namah | om dhatre namah | om mandhatre namah | om kashmalapahaya
+    namah | om tamoghnaya namah | om dhvantaghne namah | om vahnaye namah | om hotre namah | om antahkaranaya
+    namah | om guhaya namah | om pashumate namah | om prayatanandaya namah | om bhuteshaya namah | om
+    shrimatam varaya namah | om nityaya namah | om aditaya namah | om nityarathaya namah | om sureshaya
+    namah | om surapujitaya namah | om ajitaya namah | om vijitaya namah | om jetre namah | om jangamasthavaratmakaya
+    namah | om jivanandaya namah | om nityagamine namah | om vijetre namah | om vijayapradaya namah |
+    om parjanyaya namah | om agnaye namah | om sthitaye namah | om stheyaya namah | om sthaviraya namah
+    | om niranjanaya namah | om pradyotanaya namah | om ratharudhaya namah | om sarvalokaprakashakaya
+    namah | om dhruvaya namah | om meshine namah | om mahaviryaya namah | om hamsaya namah | om samsaratarakaya
+    namah | om srishtikartre namah | om kriyahetave namah | om martandaya namah | om marutam pataye namah
+    | om marutvate namah | om dahanaya namah | om tvashtre namah | om bhagaya namah | om bhargaya namah
+    | om aryamne namah | om kapaye namah | om varuneshaya namah | om jagannathaya namah | om kritakrityaya
+    namah | om sulocanaya namah | om vivasvate namah | om bhanumate namah | om karyaya namah | om karanaya
+    namah | om tejasam nidhaye namah | om asangagamine namah | om tigmamshave namah | om dharmamshave
+    namah | om diptadidhitaye namah | om sahasradidhitaye namah | om bradhnaya namah | om sahasramshave
+    namah | om divakaraya namah | om gabhastimate namah | om didhitimate namah | om sragvine namah | om
+    manikuladyutaye namah | om bhaskaraya namah | om surakaryajnaya namah | om sarvajnaya namah | om tikshnadidhitaye
+    namah | om surajyeshthaya namah | om surapataye namah | om bahujnaya namah | om vacasam pataye namah
+    | om tejonidhaye namah | om brihattejase namah | om brihatkirtaye namah | om brihaspataye namah |
+    om ahimate namah | om urjitaya namah | om dhimate namah | om amuktaya namah | om kirtivardhanaya namah
+    | om mahavaidyaya namah | om ganapataye namah | om dhaneshaya namah | om gananayakaya namah | om tivrapratapanaya
+    namah | om tapine namah | om tapanaya namah | om vishvatapanaya namah | om kartasvaraya namah | om
+    hrishikeshaya namah | om padmanandaya namah | om atinanditaya namah | om padmanabhaya namah | om amritaharaya
+    namah | om sthitimate namah | om ketumate namah | om nabhase namah | om anadyantaya namah | om acyutaya
+    namah | om vishvaya namah | om vishvamitraya namah | om ghrinaye namah | om viraje namah | om amuktakavacaya
+    namah | om vagmine namah | om kancukine namah | om vishvabhavanaya namah | om animittagataye namah
+    | om shreshthaya namah | om sharanyaya namah | om sarvatomukhaya namah | om vigahine namah | om venurasahaya
+    namah | om samayuktaya namah | om samakratave namah | om dharmaketave namah | om dharmarataye namah
+    | om samhartre namah | om samyamaya namah | om yamaya namah | om pranatartiharaya namah | om vayave
+    namah | om siddhakaryaya namah | om janeshvaraya namah | om nabhase namah | om vigahanaya namah |
+    om satyaya namah | om savitre namah | om atmane namah | om manoharaya namah | om harine namah | om
+    haraye namah | om haraya namah | om vayave namah | om ritave namah | om kalanaladyutaye namah | om
+    sukhasevyaya namah | om mahatejase namah | om jagatamekakaranaya namah | om mahendraya namah | om
+    vishtutaya namah | om stotraya namah | om stutihetave namah | om prabhakaraya namah | om sahasrakaraya
+    namah | om ayushmate namah | om aroshaya namah | om sukhadaya namah | om sukhine namah | om vyadhighne
+    namah | om sukhadaya namah | om saukhyaya namah | om kalyanaya namah | om kalatam varaya namah | om
+    arogyakaranaya namah | om siddhaye namah | om riddhaye namah | om vriddhaye namah | om brihaspataye
+    namah | om hiranyaretase namah | om arogyaya namah | om vidushe namah | om bradhnaya namah | om budhaya
+    namah | om mahate namah | om pranavate namah | om dhritimate namah | om gharmaya namah | om gharmakartre
+    namah | om rucipradaya namah | om sarvapriyaya namah | om sarvasahaya namah | om sarvashatruvinashanaya
+    namah | om pramshave namah | om vidyotanaya namah | om dyotaya namah | om sahasrakiranaya namah |
+    om kritine namah | om keyurine namah | om bhushanodbhasine namah | om bhasitaya namah | om bhasanaya
+    namah | om analaya namah | om sharanyartiharaya namah | om hotre namah | om khadyotaya namah | om
+    khagasattamaya namah | om sarvadyotaya namah | om bhavadyotaya namah | om sarvadyutikaraya namah |
+    om mataya namah | om kalyanaya namah | om kalyanakaraya namah | om kalyaya namah | om kalyakaraya
+    namah | om kavaye namah | om kalyanakrite namah | om kalyavapave namah | om sarvakalyanabhajanaya
+    namah | om shantipriyaya namah | om prasannatmane namah | om prashantaya namah | om prashamapriyaya
+    namah | om udarakarmane namah | om sunayaya namah | om suvarcase namah | om varcasojjvalaya namah
+    | om varcasvine namah | om varcasamishaya namah | om trailokyeshaya namah | om vashanugaya namah |
+    om tejasvine namah | om suyashase namah | om varshmine namah | om varnadhyakshaya namah | om balipriyaya
+    namah | om yashasvine namah | om tejonilayaya namah | om tejasvine namah | om prakritisthitaya namah
+    | om akashagaya namah | om shighragataye namah | om ashugaya namah | om gatimate namah | om khagaya
+    namah | om gopataye namah | om grahadeveshaya namah | om gomate namah | om ekaya namah | om prabhanjanaya
+    namah | om janitre namah | om prajanaya namah | om jivaya namah | om dipaya namah | om sarvaprakashakaya
+    namah | om sarvasakshine namah | om yoganityaya namah | om nabhasvate namah | om asurantakaya namah
+    | om rakshoghnaya namah | om vighnashamanaya namah | om kiritine namah | om sumanahpriyaya namah |
+    om maricimaline namah | om sumataye namah | om kritabhikhyavisheshakaya namah | om shishtacaraya namah
+    | om shubhacaraya namah | om svacaracaratatparaya namah | om mandaraya namah | om matharaya namah
+    | om venave namah | om kshudhapaya namah | om kshmapataye namah | om gurave namah | om suvishishtaya
+    namah | om vishishtatmane namah | om vidheyaya namah | om jnanashobhanaya namah | om mahashvetaya
+    namah | om priyaya namah | om jneyaya namah | om samagaya namah | om mokshadayakaya namah | om sarvavedapragitatmane
+    namah | om sarvavedalayaya namah | om mahate namah | om vedamurtaye namah | om caturvedaya namah |
+    om vedabhrite namah | om vedaparagaya namah | om kriyavate namah | om asitaya namah | om jishnave
+    namah | om variyamshave namah | om varapradaya namah | om vratacarine namah | om vratadharaya namah
+    | om lokabandhave namah | om alankritaya namah | om alankaraksharaya namah | om vedyaya namah | om
+    vidyavate namah | om viditashayaya namah | om akaraya namah | om bhushanaya namah | om bhushyaya namah
+    | om bhushnave namah | om bhuvanapujitaya namah | om cakrapanaye namah | om dhvajadharaya namah |
+    om sureshaya namah | om lokavatsalaya namah | om vagmipataye namah | om mahabahave namah | om prakritaye
+    namah | om vikritaye namah | om gunaya namah | om andhakarapahaya namah | om shreshthaya namah | om
+    yugavartaya namah | om yugadikrite namah | om aprameyaya namah | om sadayogine namah | om nirahankaraya
+    namah | om ishvaraya namah | om shubhapradaya namah | om shubhaya namah | om shastre namah | om shubhakarmane
+    namah | om shubhapradaya namah | om satyavate namah | om shrutimate namah | om uccairnakaraya namah
+    | om vriddhidaya namah | om analaya namah | om balabhrite namah | om baladaya namah | om bandhave
+    namah | om matimate namah | om balinam varaya namah | om anangaya namah | om nagarajendraya namah
+    | om padmayonaye namah | om ganeshvaraya namah | om samvatsaraya namah | om ritave namah | om netre
+    namah | om kalacakrapravartakaya namah | om padmekshanaya namah | om padmayonaye namah | om prabhavate
+    namah | om amaraya namah | om prabhave namah | om sumurtaye namah | om sumataye namah | om somaya
+    namah | om govindaya namah | om jagadadijaya namah | om pitavasase namah | om krishnavasase namah
+    | om digvasase namah | om indriyatigaya namah | om atindriyaya namah | om anekarupaya namah | om skandaya
+    namah | om parapuranjayaya namah | om shaktimate namah | om jaladhrige namah | om bhasvate namah |
+    om mokshahetave namah | om ayonijaya namah | om sarvadarshine namah | om jitadarshaya namah | om duhsvapnashubhanashanaya
+    namah | om mangalyakartre namah | om taranaye namah | om vegavate namah | om kashmalapahaya namah
+    | om spashtaksharaya namah | om mahamantraya namah | om vishakhaya namah | om yajanapriyaya namah
+    | om vishvakarmane namah | om mahashaktaye namah | om dyutaye namah | om ishaya namah | om vihangamaya
+    namah | om vicakshanaya namah | om dakshaya namah | om indraya namah | om pratyushaya namah | om priyadarshanaya
+    namah | om akhinnaya namah | om vedanilayaya namah | om vedavide namah | om viditashayaya namah |
+    om prabhakaraya namah | om jitaripave namah | om sujanaya namah | om arunasarathaye namah | om kunashine
+    namah | om surataya namah | om skandaya namah | om mahitaya namah | om abhimataya namah | om gurave
+    namah | om graharajaya namah | om grahapataye namah | om grahanakshatramandalaya namah | om bhaskaraya
+    namah | om satatanandaya namah | om nandanaya namah | om naravahanaya namah | om mangalaya namah |
+    om mangalavate namah | om mangalyaya namah | om mangalavahaya namah | om mangalyacarucaritaya namah
+    | om shirnaya namah | om sarvavrataya namah | om vratine namah | om caturmukhaya namah | om padmamaline
+    namah | om putatmane namah | om pranatartighne namah | om akincanaya namah | om satamishaya namah
+    | om nirgunaya namah | om gunavate namah | om shucaye namah | om sampurnaya namah | om pundarikakshaya
+    namah | om vidheyaya namah | om yogatatparaya namah | om sahasramshave namah | om kratumataye namah
+    | om sarvajnaya namah | om sumataye namah | om suvace namah | om suvahanaya namah | om malyadamne
+    namah | om kritaharaya namah | om haripriyaya namah | om brahmane namah | om pracetase namah | om
+    prathitaya namah | om prayatatmane namah | om sthiratmakaya namah | om shatavindave namah | om shatamukhaya
+    namah | om gariyase namah | om analaprabhaya namah | om dhiraya namah | om mahattaraya namah | om
+    vipraya namah | om puranapurushottamaya namah | om vidyarajadhirajaya namah | om vidyavate namah |
+    om bhutidaya namah | om sthitaya namah | om anirdeshyavapushe namah | om shrimate namah | om vipapmane
+    namah | om bahumangalaya namah | om svahsthitaya namah | om surathaya namah | om svarnaya namah |
+    om mokshadaya namah | om baliketanaya namah | om nirdvandvaya namah | om dvandvaghne namah | om svargaya
+    namah | om sarvagaya namah | om samprakashakaya namah | om dayalave namah | om sukshmadhiye namah
+    | om kshantaye namah | om kshemakshemasthitipriyaya namah | om bhudharaya namah | om bhupataye namah
+    | om vaktre namah | om pavitratmane namah | om trilocanaya namah | om mahavarahaya namah | om priyakrite
+    namah | om datre namah | om bhoktre namah | om abhayapradaya namah | om cakravartine namah | om dhritikaraya
+    namah | om sampurnaya namah | om maheshvaraya namah | om caturvedadharaya namah | om acintyaya namah
+    | om vinindyaya namah | om vividhashanaya namah | om vicitrarathaya namah | om ekakine namah | om
+    saptasaptaye namah | om paratparaya namah | om sarvodadhisthitikaraya namah | om sthitistheyaya namah
+    | om sthitipriyaya namah | om nishkalaya namah | om pushkalaya namah | om vibhave namah | om vasumate
+    namah | om vasavapriyaya namah | om pashumate namah | om vasavasvamine namah | om vasudhamne namah
+    | om vasupradaya namah | om balavate namah | om jnanavate namah | om tattvaya namah | om onkaraya
+    namah | om trishusamsthitaya namah | om sankalpayonaye namah | om dinakrite namah | om bhagavate namah
+    | om karanapahaya namah | om nilakanthaya namah | om dhanadhyakshaya namah | om caturvedapriyamvadaya
+    namah | om vashatkaraya namah | om udgatre namah | om hotre namah | om svahakaraya namah | om hutahutaye
+    namah | om janardanaya namah | om jananandaya namah | om naraya namah | om narayanaya namah | om ambudaya
+    namah | om sandehanashanaya namah | om vayave namah | om dhanvine namah | om suranamaskritaya namah
+    | om vigrahine namah | om vimalaya namah | om vindave namah | om vishokaya namah | om vimaladyutaye
+    namah | om dyutimate namah | om dyotanaya namah | om vidyute namah | om vidyavate namah | om viditaya
+    namah | om baline namah | om gharmadaya namah | om himadaya namah | om hasaya namah | om krishnavartmane
+    namah | om sutajitaya namah | om savitribhavitaya namah | om rajne namah | om vishvamitraya namah
+    | om ghrinaye namah | om viraje namah | om saptarcishe namah | om saptaturagaya namah | om saptalokanamaskritaya
+    namah | om sampurnaya namah | om jagannathaya namah | om sumanase namah | om shobhanapriyaya namah
+    | om sarvatmane namah | om sarvakrite namah | om srishtaye namah | om saptimate namah | om saptamipriyaya
+    namah | om sumedhase namah | om medhikaya namah | om medhyaya namah | om medhavine namah | om madhusudanaya
+    namah | om angirahpataye namah | om kalajnaya namah | om dhumaketave namah | om suketanaya namah |
+    om sukhine namah | om sukhapradaya namah | om saukhyaya namah | om kantaye namah | om kantipriyaya
+    namah | om munaye namah | om santapanaya namah | om santapanaya namah | om atapaya namah | om tapasam
+    pataye namah | om umapataye namah | om sahasramshave namah | om priyakarine namah | om priyankaraya
+    namah | om pritaye namah | om vimanyave namah | om ambhotthaya namah | om khanjanaya namah | om jagatam
+    pataye namah | om jagatpitre namah | om pritamanase namah | om sarvaya namah | om kharvaya namah |
+    om guhaya namah | om acalaya namah | om sarvagaya namah | om jagadanandaya namah | om jagannetre namah
+    | om surarighne namah | om shreyase namah | om shreyaskaraya namah | om jyayase namah | om mahate
+    namah | om uttamaya namah | om udbhavaya namah | om uttamaya namah | om merumeyaya namah | om dharanaya
+    namah | om dharanidharaya namah | om dharadhyakshaya namah | om dharmarajaya namah | om dharmadharmapravartakaya
+    namah | om rathadhyakshaya namah | om rathagataye namah | om tarunaya namah | om tanitaya namah |
+    om analaya namah | om uttaraya namah | om anuttaraya namah | om tapine namah | om avakpataye namah
+    | om apam pataye namah | om punyasankirtanaya namah | om punyaya namah | om hetave namah | om lokatrayashrayaya
+    namah | om svarbhanave namah | om vigatanandaya namah | om vishishtotkrishtakarmakrite namah | om
+    vyadhipranashanaya namah | om kshemaya namah | om shuraya namah | om sarvajitam varaya namah | om
+    ekarathaya namah | om rathadhishaya namah | om shanaishcarasya pitre namah | om vaivasvatagurave namah
+    | om mrityave namah | om dharmanityaya namah | om mahavrataya namah | om pralambaharasancarine namah
+    | om pradyotaya namah | om dyotitanalaya namah | om santapahrite namah | om parasmai namah | om mantraya
+    namah | om mantramurtaye namah | om mahabalaya namah | om shreshthatmane namah | om supriyaya namah
+    | om shambhave namah | om marutamishvareshvaraya namah | om samsaragativicchettre namah | om samsararnavatarakaya
+    namah | om saptajihvaya namah | om sahasrarcishe namah | om ratnagarbhaya namah | om aparajitaya namah
+    | om dharmaketave namah | om ameyatmane namah | om dharmadharmavarapradaya namah | om lokasakshine
+    namah | om lokagurave namah | om lokeshaya namah | om candavahanaya namah | om dharmayupaya namah
+    | om yupavrikshaya namah | om dhanushpanaye namah | om dhanurdharaya namah | om pinakadhrite namah
+    | om mahotsahaya namah | om mahamayaya namah | om mahashanaya namah | om viraya namah | om shaktimatam
+    shreshthaya namah | om sarvashastrabhritam varaya namah | om jnanagamyaya namah | om duraradhyaya
+    namah | om lohitangaya namah | om vivardhanaya namah | om khagaya namah | om andhaya namah | om dharmadaya
+    namah | om nityaya namah | om dharmakrite namah | om citravikramaya namah | om bhagavate namah | om
+    atmavate namah | om mantraya namah | om tryaksharaya namah | om nilalohitaya namah | om ekaya namah
+    | om anekaya namah | om trayine namah | om kalaya namah | om savitre namah | om samitinjayaya namah
+    | om sharngadhanvane namah | om analaya namah | om bhimaya namah | om sarvapraharanayudhaya namah
+    | om sukarmane namah | om parameshthine namah | om nakapaline namah | om divisthitaya namah | om vadanyaya
+    namah | om vasukaye namah | om vaidyaya namah | om atreyaya namah | om parakramaya namah | om dvaparaya
+    namah | om paramodaraya namah | om paramaya namah | om brahmacaryavate namah | om udicyaveshaya namah
+    | om mukutine namah | om padmahastaya namah | om himamshubhrite namah | om sitaya namah | om prasannavadanaya
+    namah | om padmodaranibhananaya namah | om sayam diva divyavapushe namah | om anirdeshyaya namah |
+    om mahalayaya namah | om maharathaya namah | om mahate namah | om ishaya namah | om sheshaya namah
+    | om sattvarajastamase namah | om dhritatapatrapratimaya namah | om vimarshine namah | om nirnayaya
+    namah | om sthitaya namah | om ahimsakaya namah | om shuddhamataye namah | om advitiyaya namah | om
+    vivardhanaya namah | om sarvadaya namah | om dhanadaya namah | om mokshaya namah | om viharine namah
+    | om bahudayakaya namah | om caruratriharaya namah | om nathaya namah | om bhagavate namah | om sarvagaya
+    namah | om avyayaya namah | om manoharavapushe namah | om shubhraya namah | om shobhanaya namah |
+    om suprabhavanaya namah | om suprabhavaya namah | om supratapaya namah | om sunetraya namah | om digvidikpataye
+    namah | om rajnipriyaya namah | om shabdakaraya namah | om graheshaya namah | om timirapahaya namah
+    | om saimhikeyaripave namah | om devaya namah | om varadaya namah | om varanayakaya namah | om caturbhujaya
+    namah | om mahayogine namah | om yogishvarapataye namah | om anadirupaya namah | om aditijaya namah
+    | om ratnakantaye namah | om prabhamayaya namah | om jagatpradipaya namah | om vistirnaya namah |
+    om mahavistirnamandalaya namah | om ekacakrarathaya namah | om svarnarathaya namah | om svarnashariradhrishe
+    namah | om niralambaya namah | om gaganagaya namah | om dharmakarmaprabhavakrite namah | om dharmatmane
+    namah | om karmanam sakshine namah | om pratyakshaya namah | om parameshvaraya namah | om merusevine
+    namah | om sumedhavine namah | om merurakshakaraya namah | om mahate namah | om adharabhutaya namah
+    | om ratimate namah | om dhanadhanyakrite namah | om papasantapahartre namah | om manovanchitadayakaya
+    namah | om rogahartre namah | om rajyadayine namah | om ramaniyagunaya namah | om anrinine namah |
+    om kalatrayanantarupaya namah | om munivrindanamaskritaya namah | om sandhyaragakaraya namah | om
+    siddhaya namah | om sandhyavandanavanditaya namah | om samrajyadananirataya namah | om samaradhanatoshavate
+    namah | om bhaktaduhkhakshayakaraya namah | om bhavasagaratarakaya namah | om bhayapahartre namah
+    | om bhagavate namah | om aprameyaparakramaya namah | om manusvamine namah om manupataye namah | om
+    manyaya namah | om manvantaradhipaya namah | iti shri surya sahasranamavali ||
+  devanagari: ॐ विश्वविदे नमः । ॐ विश्वजिते नमः । ॐ विश्वकर्त्रे नमः । ॐ विश्वात्मने नमः । ॐ विश्वतोमुखाय
+    नमः । ॐ विश्वेश्वराय नमः । ॐ विश्वयोनये नमः । ॐ नियतात्मने नमः । ॐ जितेन्द्रियाय नमः । ॐ कालाश्रयाय
+    नमः । ॐ कालकर्त्रे नमः । ॐ कालघ्ने नमः । ॐ कालनाशनाय नमः । ॐ महायोगिने नमः । ॐ महासिद्धये नमः । ॐ
+    महात्मने नमः । ॐ सुमहाबलाय नमः । ॐ प्रभवे नमः । ॐ विभवे नमः । ॐ भूतनाथाय नमः । ॐ भूतात्मने नमः । ॐ
+    भुवनेश्वराय नमः । ॐ भूतभव्याय नमः । ॐ भावितात्मने नमः । ॐ भूतान्तःकरणाय नमः । ॐ शिवाय नमः । ॐ शरण्याय
+    नमः । ॐ कमलानन्दाय नमः । ॐ नन्दनाय नमः । ॐ नन्दवर्धनाय नमः । ॐ वरेण्याय नमः । ॐ वरदाय नमः । ॐ योगिने
+    नमः । ॐ सुसंयुक्ताय नमः । ॐ प्रकाशकाय नमः । ॐ प्राप्तयानाय नमः । ॐ परप्राणाय नमः । ॐ पूतात्मने नमः
+    । ॐ प्रियताय नमः । ॐ प्रियाय नमः । ॐ नयाय नमः । ॐ सहस्रपादे नमः । ॐ साधवे नमः । ॐ दिव्यकुण्डलमण्डिताय
+    नमः । ॐ अव्यङ्गधारिणे नमः । ॐ धीरात्मने नमः । ॐ सवित्रे नमः । ॐ वायुवाहनाय नमः । ॐ समाहितमतये नमः
+    । ॐ दात्रे नमः । ॐ विधात्रे नमः । ॐ कृतमङ्गलाय नमः । ॐ कपर्दिने नमः । ॐ कल्पपादे नमः । ॐ रुद्राय नमः
+    । ॐ सुमनाय नमः । ॐ धर्मवत्सलाय नमः । ॐ समायुक्ताय नमः । ॐ विमुक्तात्मने नमः । ॐ कृतात्मने नमः । ॐ
+    कृतिनां वराय नमः । ॐ अविचिन्त्यवपुषे नमः । ॐ श्रेष्ठाय नमः । ॐ महायोगिने नमः । ॐ महेश्वराय नमः । ॐ
+    कान्ताय नमः । ॐ कामारये नमः । ॐ आदित्याय नमः । ॐ नियतात्मने नमः । ॐ निराकुलाय नमः । ॐ कामाय नमः ।
+    ॐ कारुणिकाय नमः । ॐ कर्त्रे नमः । ॐ कमलाकरबोधनाय नमः । ॐ सप्तसप्तये नमः । ॐ अचिन्त्यात्मने नमः । ॐ
+    महाकारुणिकोत्तमाय नमः । ॐ सञ्जीवनाय नमः । ॐ जीवनाथाय नमः । ॐ जयाय नमः । ॐ जीवाय नमः । ॐ जगत्पतये नमः
+    । ॐ अयुक्ताय नमः । ॐ विश्वनिलयाय नमः । ॐ संविभागिने नमः । ॐ वृषध्वजाय नमः । ॐ वृषाकपये नमः । ॐ कल्पकर्त्रे
+    नमः । ॐ कल्पान्तकरणाय नमः । ॐ रवये नमः । ॐ एकचक्ररथाय नमः । ॐ मौनिने नमः । ॐ सुरथाय नमः । ॐ रथिनां
+    वराय नमः । ॐ सक्रोधनाय नमः । ॐ रश्मिमालिने नमः । ॐ तेजोराशये नमः । ॐ विभावसवे नमः । ॐ दिव्यकृते नमः
+    । ॐ दिनकृते नमः । ॐ देवाय नमः । ॐ देवदेवाय नमः । ॐ दिवस्पतये नमः । ॐ दीननाथाय नमः । ॐ हराय नमः । ॐ
+    होत्रे नमः । ॐ दिव्यबाहवे नमः । ॐ दिवाकराय नमः । ॐ यज्ञाय नमः । ॐ यज्ञपतये नमः । ॐ पूष्णे नमः । ॐ
+    स्वर्णरेतसे नमः । ॐ परावराय नमः । ॐ परापरज्ञाय नमः । ॐ तरणये नमः । ॐ अंशुमालिने नमः । ॐ मनोहराय नमः
+    । ॐ प्राज्ञाय नमः । ॐ प्राज्ञपतये नमः । ॐ सूर्याय नमः । ॐ सवित्रे नमः । ॐ विष्णवे नमः । ॐ अंशुमते
+    नमः । ॐ सदागतये नमः । ॐ गन्धवहाय नमः । ॐ विहिताय नमः । ॐ विधये नमः । ॐ आशुगाय नमः । ॐ पतङ्गाय नमः
+    । ॐ पतगाय नमः । ॐ स्थाणवे नमः । ॐ विहङ्गाय नमः । ॐ विहगाय नमः । ॐ वराय नमः । ॐ हर्यश्वाय नमः । ॐ हरिताश्वाय
+    नमः । ॐ हरिदश्वाय नमः । ॐ जगत्प्रियाय नमः । ॐ त्र्यम्बकाय नमः । ॐ सर्वदमनाय नमः । ॐ भावितात्मने नमः
+    । ॐ भिषग्वराय नमः । ॐ आलोककृते नमः । ॐ लोकनाथाय नमः । ॐ लोकालोकनमस्कृताय नमः । ॐ कालाय नमः । ॐ कल्पान्तकाय
+    नमः । ॐ वह्नये नमः । ॐ तपनाय नमः । ॐ सम्प्रतापनाय नमः । ॐ विलोचनाय नमः । ॐ विरूपाक्षाय नमः । ॐ सहस्राक्षाय
+    नमः । ॐ पुरन्दराय नमः । ॐ सहस्ररश्मये नमः । ॐ मिहिराय नमः । ॐ विविधाम्बरभूषणाय नमः । ॐ खगाय नमः ।
+    ॐ प्रतर्दनाय नमः । ॐ धन्याय नमः । ॐ हयगाय नमः । ॐ वाग्विशारदाय नमः । ॐ श्रीमते नमः । ॐ अशिशिराय नमः
+    । ॐ वाग्मिने नमः । ॐ श्रीपतये नमः । ॐ श्रीनिकेतनाय नमः । ॐ श्रीकण्ठाय नमः । ॐ श्रीधराय नमः । ॐ श्रीमते
+    नमः । ॐ श्रीनिवासाय नमः । ॐ वसुप्रदाय नमः । ॐ कामचारिणे नमः । ॐ महामायाय नमः । ॐ महोग्राय नमः । ॐ
+    अविदितामयाय नमः । ॐ तीर्थक्रियावते नमः । ॐ सुनयाय नमः । ॐ विभक्ताय नमः । ॐ भक्तवत्सलाय नमः । ॐ कीर्तये
+    नमः । ॐ कीर्तिकराय नमः । ॐ नित्याय नमः । ॐ कुण्डलिने नमः । ॐ कवचिने नमः । ॐ रथिने नमः । ॐ हिरण्यरेतसे
+    नमः । ॐ सप्ताश्वाय नमः । ॐ प्रयतात्मने नमः । ॐ परन्तपाय नमः । ॐ बुद्धिमते नमः । ॐ अमरश्रेष्ठाय नमः
+    । ॐ रोचिष्णवे नमः । ॐ पाकशासनाय नमः । ॐ समुद्राय नमः । ॐ धनदाय नमः । ॐ धात्रे नमः । ॐ मान्धात्रे नमः
+    । ॐ कश्मलापहाय नमः । ॐ तमोघ्नाय नमः । ॐ ध्वान्तघ्ने नमः । ॐ वह्नये नमः । ॐ होत्रे नमः । ॐ अन्तःकरणाय
+    नमः । ॐ गुहाय नमः । ॐ पशुमते नमः । ॐ प्रयतानन्दाय नमः । ॐ भूतेशाय नमः । ॐ श्रीमतां वराय नमः । ॐ नित्याय
+    नमः । ॐ अदिताय नमः । ॐ नित्यरथाय नमः । ॐ सुरेशाय नमः । ॐ सुरपूजिताय नमः । ॐ अजिताय नमः । ॐ विजिताय
+    नमः । ॐ जेत्रे नमः । ॐ जङ्गमस्थावरात्मकाय नमः । ॐ जीवानन्दाय नमः । ॐ नित्यगामिने नमः । ॐ विजेत्रे
+    नमः । ॐ विजयप्रदाय नमः । ॐ पर्जन्याय नमः । ॐ अग्नये नमः । ॐ स्थितये नमः । ॐ स्थेयाय नमः । ॐ स्थविराय
+    नमः । ॐ निरञ्जनाय नमः । ॐ प्रद्योतनाय नमः । ॐ रथारूढाय नमः । ॐ सर्वलोकप्रकाशकाय नमः । ॐ ध्रुवाय नमः
+    । ॐ मेषिने नमः । ॐ महावीर्याय नमः । ॐ हंसाय नमः । ॐ संसारतारकाय नमः । ॐ सृष्टिकर्त्रे नमः । ॐ क्रियाहेतवे
+    नमः । ॐ मार्तण्डाय नमः । ॐ मरुतां पतये नमः । ॐ मरुत्वते नमः । ॐ दहनाय नमः । ॐ त्वष्ट्रे नमः । ॐ भगाय
+    नमः । ॐ भर्गाय नमः । ॐ अर्यम्णे नमः । ॐ कपये नमः । ॐ वरुणेशाय नमः । ॐ जगन्नाथाय नमः । ॐ कृतकृत्याय
+    नमः । ॐ सुलोचनाय नमः । ॐ विवस्वते नमः । ॐ भानुमते नमः । ॐ कार्याय नमः । ॐ कारणाय नमः । ॐ तेजसां निधये
+    नमः । ॐ असङ्गगामिने नमः । ॐ तिग्मांशवे नमः । ॐ धर्मांशवे नमः । ॐ दीप्तदीधितये नमः । ॐ सहस्रदीधितये
+    नमः । ॐ ब्रध्नाय नमः । ॐ सहस्रांशवे नमः । ॐ दिवाकराय नमः । ॐ गभस्तिमते नमः । ॐ दीधितिमते नमः । ॐ स्रग्विणे
+    नमः । ॐ मणिकुलद्युतये नमः । ॐ भास्कराय नमः । ॐ सुरकार्यज्ञाय नमः । ॐ सर्वज्ञाय नमः । ॐ तीक्ष्णदीधितये
+    नमः । ॐ सुरज्येष्ठाय नमः । ॐ सुरपतये नमः । ॐ बहुज्ञाय नमः । ॐ वचसां पतये नमः । ॐ तेजोनिधये नमः । ॐ
+    बृहत्तेजसे नमः । ॐ बृहत्कीर्तये नमः । ॐ बृहस्पतये नमः । ॐ अहिमते नमः । ॐ ऊर्जिताय नमः । ॐ धीमते नमः
+    । ॐ आमुक्ताय नमः । ॐ कीर्तिवर्धनाय नमः । ॐ महावैद्याय नमः । ॐ गणपतये नमः । ॐ धनेशाय नमः । ॐ गणनायकाय
+    नमः । ॐ तीव्रप्रतापनाय नमः । ॐ तापिने नमः । ॐ तापनाय नमः । ॐ विश्वतापनाय नमः । ॐ कार्तस्वराय नमः ।
+    ॐ हृषीकेशाय नमः । ॐ पद्मानन्दाय नमः । ॐ अतिनन्दिताय नमः । ॐ पद्मनाभाय नमः । ॐ अमृताहाराय नमः । ॐ स्थितिमते
+    नमः । ॐ केतुमते नमः । ॐ नभसे नमः । ॐ अनाद्यन्ताय नमः । ॐ अच्युताय नमः । ॐ विश्वाय नमः । ॐ विश्वामित्राय
+    नमः । ॐ घृणये नमः । ॐ विराजे नमः । ॐ आमुक्तकवचाय नमः । ॐ वाग्मिने नमः । ॐ कञ्चुकिने नमः । ॐ विश्वभावनाय
+    नमः । ॐ अनिमित्तगतये नमः । ॐ श्रेष्ठाय नमः । ॐ शरण्याय नमः । ॐ सर्वतोमुखाय नमः । ॐ विगाहिने नमः ।
+    ॐ वेणुरसहाय नमः । ॐ समायुक्ताय नमः । ॐ समाक्रतवे नमः । ॐ धर्मकेतवे नमः । ॐ धर्मरतये नमः । ॐ संहर्त्रे
+    नमः । ॐ संयमाय नमः । ॐ यमाय नमः । ॐ प्रणतार्तिहराय नमः । ॐ वायवे नमः । ॐ सिद्धकार्याय नमः । ॐ जनेश्वराय
+    नमः । ॐ नभसे नमः । ॐ विगाहनाय नमः । ॐ सत्याय नमः । ॐ सवित्रे नमः । ॐ आत्मने नमः । ॐ मनोहराय नमः ।
+    ॐ हारिणे नमः । ॐ हरये नमः । ॐ हराय नमः । ॐ वायवे नमः । ॐ ऋतवे नमः । ॐ कालानलद्युतये नमः । ॐ सुखसेव्याय
+    नमः । ॐ महातेजसे नमः । ॐ जगतामेककारणाय नमः । ॐ महेन्द्राय नमः । ॐ विष्टुताय नमः । ॐ स्तोत्राय नमः
+    । ॐ स्तुतिहेतवे नमः । ॐ प्रभाकराय नमः । ॐ सहस्रकराय नमः । ॐ आयुष्मते नमः । ॐ अरोषाय नमः । ॐ सुखदाय
+    नमः । ॐ सुखिने नमः । ॐ व्याधिघ्ने नमः । ॐ सुखदाय नमः । ॐ सौख्याय नमः । ॐ कल्याणाय नमः । ॐ कलतां वराय
+    नमः । ॐ आरोग्यकारणाय नमः । ॐ सिद्धये नमः । ॐ ऋद्धये नमः । ॐ वृद्धये नमः । ॐ बृहस्पतये नमः । ॐ हिरण्यरेतसे
+    नमः । ॐ आरोग्याय नमः । ॐ विदुषे नमः । ॐ ब्रध्नाय नमः । ॐ बुधाय नमः । ॐ महते नमः । ॐ प्राणवते नमः ।
+    ॐ धृतिमते नमः । ॐ घर्माय नमः । ॐ घर्मकर्त्रे नमः । ॐ रुचिप्रदाय नमः । ॐ सर्वप्रियाय नमः । ॐ सर्वसहाय
+    नमः । ॐ सर्वशत्रुविनाशनाय नमः । ॐ प्रांशवे नमः । ॐ विद्योतनाय नमः । ॐ द्योताय नमः । ॐ सहस्रकिरणाय
+    नमः । ॐ कृतिने नमः । ॐ केयूरिणे नमः । ॐ भूषणोद्भासिने नमः । ॐ भासिताय नमः । ॐ भासनाय नमः । ॐ अनलाय
+    नमः । ॐ शरण्यार्तिहराय नमः । ॐ होत्रे नमः । ॐ खद्योताय नमः । ॐ खगसत्तमाय नमः । ॐ सर्वद्योताय नमः ।
+    ॐ भवद्योताय नमः । ॐ सर्वद्युतिकराय नमः । ॐ मताय नमः । ॐ कल्याणाय नमः । ॐ कल्याणकराय नमः । ॐ कल्याय
+    नमः । ॐ कल्यकराय नमः । ॐ कवये नमः । ॐ कल्याणकृते नमः । ॐ कल्यवपवे नमः । ॐ सर्वकल्याणभाजनाय नमः । ॐ
+    शान्तिप्रियाय नमः । ॐ प्रसन्नात्मने नमः । ॐ प्रशान्ताय नमः । ॐ प्रशमप्रियाय नमः । ॐ उदारकर्मणे नमः
+    । ॐ सुनयाय नमः । ॐ सुवर्चसे नमः । ॐ वर्चसोज्ज्वलाय नमः । ॐ वर्चस्विने नमः । ॐ वर्चसामीशाय नमः । ॐ
+    त्रैलोक्येशाय नमः । ॐ वशानुगाय नमः । ॐ तेजस्विने नमः । ॐ सुयशसे नमः । ॐ वर्ष्मिणे नमः । ॐ वर्णाध्यक्षाय
+    नमः । ॐ बलिप्रियाय नमः । ॐ यशस्विने नमः । ॐ तेजोनिलयाय नमः । ॐ तेजस्विने नमः । ॐ प्रकृतिस्थिताय नमः
+    । ॐ आकाशगाय नमः । ॐ शीघ्रगतये नमः । ॐ आशुगाय नमः । ॐ गतिमते नमः । ॐ खगाय नमः । ॐ गोपतये नमः । ॐ ग्रहदेवेशाय
+    नमः । ॐ गोमते नमः । ॐ एकाय नमः । ॐ प्रभञ्जनाय नमः । ॐ जनित्रे नमः । ॐ प्रजनाय नमः । ॐ जीवाय नमः ।
+    ॐ दीपाय नमः । ॐ सर्वप्रकाशकाय नमः । ॐ सर्वसाक्षिने नमः । ॐ योगनित्याय नमः । ॐ नभस्वते नमः । ॐ असुरान्तकाय
+    नमः । ॐ रक्षोघ्नाय नमः । ॐ विघ्नशमनाय नमः । ॐ किरीटिने नमः । ॐ सुमनःप्रियाय नमः । ॐ मरीचिमालिने नमः
+    । ॐ सुमतये नमः । ॐ कृताभिख्यविशेषकाय नमः । ॐ शिष्टाचाराय नमः । ॐ शुभाचाराय नमः । ॐ स्वचाराचारतत्पराय
+    नमः । ॐ मन्दाराय नमः । ॐ माठराय नमः । ॐ वेणवे नमः । ॐ क्षुधापाय नमः । ॐ क्ष्मापतये नमः । ॐ गुरवे नमः
+    । ॐ सुविशिष्टाय नमः । ॐ विशिष्टात्मने नमः । ॐ विधेयाय नमः । ॐ ज्ञानशोभनाय नमः । ॐ महाश्वेताय नमः ।
+    ॐ प्रियाय नमः । ॐ ज्ञेयाय नमः । ॐ सामगाय नमः । ॐ मोक्षदायकाय नमः । ॐ सर्ववेदप्रगीतात्मने नमः । ॐ सर्ववेदलयाय
+    नमः । ॐ महते नमः । ॐ वेदमूर्तये नमः । ॐ चतुर्वेदाय नमः । ॐ वेदभृते नमः । ॐ वेदपारगाय नमः । ॐ क्रियावते
+    नमः । ॐ असिताय नमः । ॐ जिष्णवे नमः । ॐ वरीयांशवे नमः । ॐ वरप्रदाय नमः । ॐ व्रतचारिणे नमः । ॐ व्रतधराय
+    नमः । ॐ लोकबन्धवे नमः । ॐ अलङ्कृताय नमः । ॐ अलङ्काराक्षराय नमः । ॐ वेद्याय नमः । ॐ विद्यावते नमः ।
+    ॐ विदिताशयाय नमः । ॐ आकाराय नमः । ॐ भूषणाय नमः । ॐ भूष्याय नमः । ॐ भूष्णवे नमः । ॐ भुवनपूजिताय नमः
+    । ॐ चक्रपाणये नमः । ॐ ध्वजधराय नमः । ॐ सुरेशाय नमः । ॐ लोकवत्सलाय नमः । ॐ वाग्मिपतये नमः । ॐ महाबाहवे
+    नमः । ॐ प्रकृतये नमः । ॐ विकृतये नमः । ॐ गुणाय नमः । ॐ अन्धकारापहाय नमः । ॐ श्रेष्ठाय नमः । ॐ युगावर्ताय
+    नमः । ॐ युगादिकृते नमः । ॐ अप्रमेयाय नमः । ॐ सदायोगिने नमः । ॐ निरहङ्काराय नमः । ॐ ईश्वराय नमः । ॐ
+    शुभप्रदाय नमः । ॐ शुभाय नमः । ॐ शास्त्रे नमः । ॐ शुभकर्मणे नमः । ॐ शुभप्रदाय नमः । ॐ सत्यवते नमः ।
+    ॐ श्रुतिमते नमः । ॐ उच्चैर्नकाराय नमः । ॐ वृद्धिदाय नमः । ॐ अनलाय नमः । ॐ बलभृते नमः । ॐ बलदाय नमः
+    । ॐ बन्धवे नमः । ॐ मतिमते नमः । ॐ बलिनां वराय नमः । ॐ अनङ्गाय नमः । ॐ नागराजेन्द्राय नमः । ॐ पद्मयोनये
+    नमः । ॐ गणेश्वराय नमः । ॐ संवत्सराय नमः । ॐ ऋतवे नमः । ॐ नेत्रे नमः । ॐ कालचक्रप्रवर्तकाय नमः । ॐ
+    पद्मेक्षणाय नमः । ॐ पद्मयोनये नमः । ॐ प्रभावते नमः । ॐ अमराय नमः । ॐ प्रभवे नमः । ॐ सुमूर्तये नमः
+    । ॐ सुमतये नमः । ॐ सोमाय नमः । ॐ गोविन्दाय नमः । ॐ जगदादिजाय नमः । ॐ पीतवाससे नमः । ॐ कृष्णवाससे नमः
+    । ॐ दिग्वाससे नमः । ॐ इन्द्रियातिगाय नमः । ॐ अतीन्द्रियाय नमः । ॐ अनेकरूपाय नमः । ॐ स्कन्दाय नमः ।
+    ॐ परपुरञ्जयाय नमः । ॐ शक्तिमते नमः । ॐ जलधृगे नमः । ॐ भास्वते नमः । ॐ मोक्षहेतवे नमः । ॐ अयोनिजाय
+    नमः । ॐ सर्वदर्शिने नमः । ॐ जितादर्शाय नमः । ॐ दुःस्वप्नाशुभनाशनाय नमः । ॐ माङ्गल्यकर्त्रे नमः । ॐ
+    तरणये नमः । ॐ वेगवते नमः । ॐ कश्मलापहाय नमः । ॐ स्पष्टाक्षराय नमः । ॐ महामन्त्राय नमः । ॐ विशाखाय
+    नमः । ॐ यजनप्रियाय नमः । ॐ विश्वकर्मणे नमः । ॐ महाशक्तये नमः । ॐ द्युतये नमः । ॐ ईशाय नमः । ॐ विहङ्गमाय
+    नमः । ॐ विचक्षणाय नमः । ॐ दक्षाय नमः । ॐ इन्द्राय नमः । ॐ प्रत्यूषाय नमः । ॐ प्रियदर्शनाय नमः । ॐ
+    अखिन्नाय नमः । ॐ वेदनिलयाय नमः । ॐ वेदविदे नमः । ॐ विदिताशयाय नमः । ॐ प्रभाकराय नमः । ॐ जितरिपवे नमः
+    । ॐ सुजनाय नमः । ॐ अरुणसारथये नमः । ॐ कुनाशिने नमः । ॐ सुरताय नमः । ॐ स्कन्दाय नमः । ॐ महिताय नमः
+    । ॐ अभिमताय नमः । ॐ गुरवे नमः । ॐ ग्रहराजाय नमः । ॐ ग्रहपतये नमः । ॐ ग्रहनक्षत्रमण्डलाय नमः । ॐ भास्कराय
+    नमः । ॐ सततानन्दाय नमः । ॐ नन्दनाय नमः । ॐ नरवाहनाय नमः । ॐ मङ्गलाय नमः । ॐ मङ्गलवते नमः । ॐ माङ्गल्याय
+    नमः । ॐ मङ्गलावहाय नमः । ॐ मङ्गल्यचारुचरिताय नमः । ॐ शीर्णाय नमः । ॐ सर्वव्रताय नमः । ॐ व्रतिने नमः
+    । ॐ चतुर्मुखाय नमः । ॐ पद्ममालिने नमः । ॐ पूतात्मने नमः । ॐ प्रणतार्तिघ्ने नमः । ॐ अकिञ्चनाय नमः ।
+    ॐ सतामीशाय नमः । ॐ निर्गुणाय नमः । ॐ गुणवते नमः । ॐ शुचये नमः । ॐ सम्पूर्णाय नमः । ॐ पुण्डरीकाक्षाय
+    नमः । ॐ विधेयाय नमः । ॐ योगतत्पराय नमः । ॐ सहस्रांशवे नमः । ॐ क्रतुमतये नमः । ॐ सर्वज्ञाय नमः । ॐ
+    सुमतये नमः । ॐ सुवाचे नमः । ॐ सुवाहनाय नमः । ॐ माल्यदाम्ने नमः । ॐ कृताहाराय नमः । ॐ हरिप्रियाय नमः
+    । ॐ ब्रह्मणे नमः । ॐ प्रचेतसे नमः । ॐ प्रथिताय नमः । ॐ प्रयतात्मने नमः । ॐ स्थिरात्मकाय नमः । ॐ शतविन्दवे
+    नमः । ॐ शतमुखाय नमः । ॐ गरीयसे नमः । ॐ अनलप्रभाय नमः । ॐ धीराय नमः । ॐ महत्तराय नमः । ॐ विप्राय नमः
+    । ॐ पुराणपुरुषोत्तमाय नमः । ॐ विद्याराजाधिराजाय नमः । ॐ विद्यावते नमः । ॐ भूतिदाय नमः । ॐ स्थिताय
+    नमः । ॐ अनिर्देश्यवपुषे नमः । ॐ श्रीमते नमः । ॐ विपाप्मने नमः । ॐ बहुमङ्गलाय नमः । ॐ स्वःस्थिताय नमः
+    । ॐ सुरथाय नमः । ॐ स्वर्णाय नमः । ॐ मोक्षदाय नमः । ॐ बलिकेतनाय नमः । ॐ निर्द्वन्द्वाय नमः । ॐ द्वन्द्वघ्ने
+    नमः । ॐ स्वर्गाय नमः । ॐ सर्वगाय नमः । ॐ सम्प्रकाशकाय नमः । ॐ दयालवे नमः । ॐ सूक्ष्मधिये नमः । ॐ क्षान्तये
+    नमः । ॐ क्षेमाक्षेमस्थितिप्रियाय नमः । ॐ भूधराय नमः । ॐ भूपतये नमः । ॐ वक्त्रे नमः । ॐ पवित्रात्मने
+    नमः । ॐ त्रिलोचनाय नमः । ॐ महावराहाय नमः । ॐ प्रियकृते नमः । ॐ दात्रे नमः । ॐ भोक्त्रे नमः । ॐ अभयप्रदाय
+    नमः । ॐ चक्रवर्तिने नमः । ॐ धृतिकराय नमः । ॐ सम्पूर्णाय नमः । ॐ महेश्वराय नमः । ॐ चतुर्वेदधराय नमः
+    । ॐ अचिन्त्याय नमः । ॐ विनिन्द्याय नमः । ॐ विविधाशनाय नमः । ॐ विचित्ररथाय नमः । ॐ एकाकिने नमः । ॐ
+    सप्तसप्तये नमः । ॐ परात्पराय नमः । ॐ सर्वोदधिस्थितिकराय नमः । ॐ स्थितिस्थेयाय नमः । ॐ स्थितिप्रियाय
+    नमः । ॐ निष्कलाय नमः । ॐ पुष्कलाय नमः । ॐ विभवे नमः । ॐ वसुमते नमः । ॐ वासवप्रियाय नमः । ॐ पशुमते
+    नमः । ॐ वासवस्वामिने नमः । ॐ वसुधाम्ने नमः । ॐ वसुप्रदाय नमः । ॐ बलवते नमः । ॐ ज्ञानवते नमः । ॐ तत्त्वाय
+    नमः । ॐ ओङ्काराय नमः । ॐ त्रिषुसंस्थिताय नमः । ॐ सङ्कल्पयोनये नमः । ॐ दिनकृते नमः । ॐ भगवते नमः ।
+    ॐ कारणापहाय नमः । ॐ नीलकण्ठाय नमः । ॐ धनाध्यक्षाय नमः । ॐ चतुर्वेदप्रियंवदाय नमः । ॐ वषट्काराय नमः
+    । ॐ उद्गात्रे नमः । ॐ होत्रे नमः । ॐ स्वाहाकाराय नमः । ॐ हुताहुतये नमः । ॐ जनार्दनाय नमः । ॐ जनानन्दाय
+    नमः । ॐ नराय नमः । ॐ नारायणाय नमः । ॐ अम्बुदाय नमः । ॐ सन्देहनाशनाय नमः । ॐ वायवे नमः । ॐ धन्विने
+    नमः । ॐ सुरनमस्कृताय नमः । ॐ विग्रहिने नमः । ॐ विमलाय नमः । ॐ विन्दवे नमः । ॐ विशोकाय नमः । ॐ विमलद्युतये
+    नमः । ॐ द्युतिमते नमः । ॐ द्योतनाय नमः । ॐ विद्युते नमः । ॐ विद्यावते नमः । ॐ विदिताय नमः । ॐ बलिने
+    नमः । ॐ घर्मदाय नमः । ॐ हिमदाय नमः । ॐ हासाय नमः । ॐ कृष्णवर्त्मने नमः । ॐ सुताजिताय नमः । ॐ सावित्रीभाविताय
+    नमः । ॐ राज्ञे नमः । ॐ विश्वामित्राय नमः । ॐ घृणये नमः । ॐ विराजे नमः । ॐ सप्तार्चिषे नमः । ॐ सप्ततुरगाय
+    नमः । ॐ सप्तलोकनमस्कृताय नमः । ॐ सम्पूर्णाय नमः । ॐ जगन्नाथाय नमः । ॐ सुमनसे नमः । ॐ शोभनप्रियाय नमः
+    । ॐ सर्वात्मने नमः । ॐ सर्वकृते नमः । ॐ सृष्टये नमः । ॐ सप्तिमते नमः । ॐ सप्तमीप्रियाय नमः । ॐ सुमेधसे
+    नमः । ॐ मेधिकाय नमः । ॐ मेध्याय नमः । ॐ मेधाविने नमः । ॐ मधुसूदनाय नमः । ॐ अङ्गिरःपतये नमः । ॐ कालज्ञाय
+    नमः । ॐ धूमकेतवे नमः । ॐ सुकेतनाय नमः । ॐ सुखिने नमः । ॐ सुखप्रदाय नमः । ॐ सौख्याय नमः । ॐ कान्तये
+    नमः । ॐ कान्तिप्रियाय नमः । ॐ मुनये नमः । ॐ सन्तापनाय नमः । ॐ सन्तपनाय नमः । ॐ आतपाय नमः । ॐ तपसां
+    पतये नमः । ॐ उमापतये नमः । ॐ सहस्रांशवे नमः । ॐ प्रियकारिणे नमः । ॐ प्रियङ्कराय नमः । ॐ प्रीतये नमः
+    । ॐ विमन्यवे नमः । ॐ अम्भोत्थाय नमः । ॐ खञ्जनाय नमः । ॐ जगतां पतये नमः । ॐ जगत्पित्रे नमः । ॐ प्रीतमनसे
+    नमः । ॐ सर्वाय नमः । ॐ खर्वाय नमः । ॐ गुहाय नमः । ॐ अचलाय नमः । ॐ सर्वगाय नमः । ॐ जगदानन्दाय नमः ।
+    ॐ जगन्नेत्रे नमः । ॐ सुरारिघ्ने नमः । ॐ श्रेयसे नमः । ॐ श्रेयस्कराय नमः । ॐ ज्यायसे नमः । ॐ महते नमः
+    । ॐ उत्तमाय नमः । ॐ उद्भवाय नमः । ॐ उत्तमाय नमः । ॐ मेरुमेयाय नमः । ॐ धरणाय नमः । ॐ धरणीधराय नमः ।
+    ॐ धराध्यक्षाय नमः । ॐ धर्मराजाय नमः । ॐ धर्माधर्मप्रवर्तकाय नमः । ॐ रथाध्यक्षाय नमः । ॐ रथगतये नमः
+    । ॐ तरुणाय नमः । ॐ तनिताय नमः । ॐ अनलाय नमः । ॐ उत्तराय नमः । ॐ अनुत्तराय नमः । ॐ तापिने नमः । ॐ अवाक्पतये
+    नमः । ॐ अपां पतये नमः । ॐ पुण्यसङ्कीर्तनाय नमः । ॐ पुण्याय नमः । ॐ हेतवे नमः । ॐ लोकत्रयाश्रयाय नमः
+    । ॐ स्वर्भानवे नमः । ॐ विगतानन्दाय नमः । ॐ विशिष्टोत्कृष्टकर्मकृते नमः । ॐ व्याधिप्रणाशनाय नमः । ॐ
+    क्षेमाय नमः । ॐ शूराय नमः । ॐ सर्वजितां वराय नमः । ॐ एकरथाय नमः । ॐ रथाधीशाय नमः । ॐ शनैश्चरस्य पित्रे
+    नमः । ॐ वैवस्वतगुरवे नमः । ॐ मृत्यवे नमः । ॐ धर्मनित्याय नमः । ॐ महाव्रताय नमः । ॐ प्रलम्बहारसञ्चारिणे
+    नमः । ॐ प्रद्योताय नमः । ॐ द्योतितानलाय नमः । ॐ सन्तापहृते नमः । ॐ परस्मै नमः । ॐ मन्त्राय नमः । ॐ
+    मन्त्रमूर्तये नमः । ॐ महाबलाय नमः । ॐ श्रेष्ठात्मने नमः । ॐ सुप्रियाय नमः । ॐ शम्भवे नमः । ॐ मरुतामीश्वरेश्वराय
+    नमः । ॐ संसारगतिविच्छेत्त्रे नमः । ॐ संसारार्णवतारकाय नमः । ॐ सप्तजिह्वाय नमः । ॐ सहस्रार्चिषे नमः
+    । ॐ रत्नगर्भाय नमः । ॐ अपराजिताय नमः । ॐ धर्मकेतवे नमः । ॐ अमेयात्मने नमः । ॐ धर्माधर्मवरप्रदाय नमः
+    । ॐ लोकसाक्षिणे नमः । ॐ लोकगुरवे नमः । ॐ लोकेशाय नमः । ॐ चण्डवाहनाय नमः । ॐ धर्मयूपाय नमः । ॐ यूपवृक्षाय
+    नमः । ॐ धनुष्पाणये नमः । ॐ धनुर्धराय नमः । ॐ पिनाकधृते नमः । ॐ महोत्साहाय नमः । ॐ महामायाय नमः । ॐ
+    महाशनाय नमः । ॐ वीराय नमः । ॐ शक्तिमतां श्रेष्ठाय नमः । ॐ सर्वशस्त्रभृतां वराय नमः । ॐ ज्ञानगम्याय
+    नमः । ॐ दुराराध्याय नमः । ॐ लोहिताङ्गाय नमः । ॐ विवर्धनाय नमः । ॐ खगाय नमः । ॐ अन्धाय नमः । ॐ धर्मदाय
+    नमः । ॐ नित्याय नमः । ॐ धर्मकृते नमः । ॐ चित्रविक्रमाय नमः । ॐ भगवते नमः । ॐ आत्मवते नमः । ॐ मन्त्राय
+    नमः । ॐ त्र्यक्षराय नमः । ॐ नीललोहिताय नमः । ॐ एकाय नमः । ॐ अनेकाय नमः । ॐ त्रयिने नमः । ॐ कालाय नमः
+    । ॐ सवित्रे नमः । ॐ समितिञ्जयाय नमः । ॐ शार्ङ्गधन्वने नमः । ॐ अनलाय नमः । ॐ भीमाय नमः । ॐ सर्वप्रहरणायुधाय
+    नमः । ॐ सुकर्मणे नमः । ॐ परमेष्ठिने नमः । ॐ नाकपालिने नमः । ॐ दिविस्थिताय नमः । ॐ वदान्याय नमः । ॐ
+    वासुकये नमः । ॐ वैद्याय नमः । ॐ आत्रेयाय नमः । ॐ पराक्रमाय नमः । ॐ द्वापराय नमः । ॐ परमोदाराय नमः
+    । ॐ परमाय नमः । ॐ ब्रह्मचर्यवते नमः । ॐ उदीच्यवेषाय नमः । ॐ मुकुटिने नमः । ॐ पद्महस्ताय नमः । ॐ हिमांशुभृते
+    नमः । ॐ सिताय नमः । ॐ प्रसन्नवदनाय नमः । ॐ पद्मोदरनिभाननाय नमः । ॐ सायं दिवा दिव्यवपुषे नमः । ॐ अनिर्देश्याय
+    नमः । ॐ महालयाय नमः । ॐ महारथाय नमः । ॐ महते नमः । ॐ ईशाय नमः । ॐ शेषाय नमः । ॐ सत्त्वरजस्तमसे नमः
+    । ॐ धृतातपत्रप्रतिमाय नमः । ॐ विमर्षिणे नमः । ॐ निर्णयाय नमः । ॐ स्थिताय नमः । ॐ अहिंसकाय नमः । ॐ
+    शुद्धमतये नमः । ॐ अद्वितीयाय नमः । ॐ विवर्धनाय नमः । ॐ सर्वदाय नमः । ॐ धनदाय नमः । ॐ मोक्षाय नमः ।
+    ॐ विहारिणे नमः । ॐ बहुदायकाय नमः । ॐ चारुरात्रिहराय नमः । ॐ नाथाय नमः । ॐ भगवते नमः । ॐ सर्वगाय नमः
+    । ॐ अव्ययाय नमः । ॐ मनोहरवपुषे नमः । ॐ शुभ्राय नमः । ॐ शोभनाय नमः । ॐ सुप्रभावनाय नमः । ॐ सुप्रभावाय
+    नमः । ॐ सुप्रतापाय नमः । ॐ सुनेत्राय नमः । ॐ दिग्विदिक्पतये नमः । ॐ राज्ञीप्रियाय नमः । ॐ शब्दकराय
+    नमः । ॐ ग्रहेशाय नमः । ॐ तिमिरापहाय नमः । ॐ सैंहिकेयरिपवे नमः । ॐ देवाय नमः । ॐ वरदाय नमः । ॐ वरनायकाय
+    नमः । ॐ चतुर्भुजाय नमः । ॐ महायोगिने नमः । ॐ योगीश्वरपतये नमः । ॐ अनादिरूपाय नमः । ॐ अदितिजाय नमः
+    । ॐ रत्नकान्तये नमः । ॐ प्रभामयाय नमः । ॐ जगत्प्रदीपाय नमः । ॐ विस्तीर्णाय नमः । ॐ महाविस्तीर्णमण्डलाय
+    नमः । ॐ एकचक्ररथाय नमः । ॐ स्वर्णरथाय नमः । ॐ स्वर्णशरीरधृषे नमः । ॐ निरालम्बाय नमः । ॐ गगनगाय नमः
+    । ॐ धर्मकर्मप्रभावकृते नमः । ॐ धर्मात्मने नमः । ॐ कर्मणां साक्षिणे नमः । ॐ प्रत्यक्षाय नमः । ॐ परमेश्वराय
+    नमः । ॐ मेरुसेविने नमः । ॐ सुमेधाविने नमः । ॐ मेरुरक्षाकराय नमः । ॐ महते नमः । ॐ आधारभूताय नमः । ॐ
+    रतिमते नमः । ॐ धनधान्यकृते नमः । ॐ पापसन्तापहर्त्रे नमः । ॐ मनोवाञ्छितदायकाय नमः । ॐ रोगहर्त्रे नमः
+    । ॐ राज्यदायिने नमः । ॐ रमणीयगुणाय नमः । ॐ अनृणिने नमः । ॐ कालत्रयानन्तरूपाय नमः । ॐ मुनिवृन्दनमस्कृताय
+    नमः । ॐ सन्ध्यारागकराय नमः । ॐ सिद्धाय नमः । ॐ सन्ध्यावन्दनवन्दिताय नमः । ॐ साम्राज्यदाननिरताय नमः
+    । ॐ समाराधनतोषवते नमः । ॐ भक्तदुःखक्षयकराय नमः । ॐ भवसागरतारकाय नमः । ॐ भयापहर्त्रे नमः । ॐ भगवते
+    नमः । ॐ अप्रमेयपराक्रमाय नमः । ॐ मनुस्वामिने नमः ॐ मनुपतये नमः । ॐ मान्याय नमः । ॐ मन्वन्तराधिपाय
+    नमः । इति श्री सूर्य सहस्रनामावली ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_z_misc_navagraha/sUryasahasranAmAvalI2.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Surya Sahasra Namavali
   license: public_domain
-tags:
-- sahasranAmAvalI
-- navagraha
+tags: []
 priority: true
+aliases:
+- surya
+- sahasranama

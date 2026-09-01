@@ -2,40 +2,37 @@ id: venu-gopala-ashtakam
 category: stotram
 name:
   english: Venu Gopala Ashtakam
-  devanagari: वेणुगोपालाष्टकम्
 content:
-  english: kalita-kanaka-celam khanditapat-kucelam galadhrita-vanamalam garvitarati-kalam | kalimala-harashilam
-    kanti-dhutendranilam vinamadavana-shilam venugopalamide || 1|| vrajayuvati-vilolam vandananandalolam
-    karadhrita-gurushailam kanjagarbhadhipalam | abhimata-phaladana-shrijitamartya-salam vinamadavana-shilam
-    venugopalamide || 2|| ghanatara-karunashri-kalpavalyalavalam kalashajaladhi-kanya-modaka-shrikapolam
-    | shvasita-vinata-lokananta-dushkarma-tulam vinamadavana-shilam venugopalamide || 3|| shubhada-suguna-jalam
-    suri-lokanukulam ditija-tati-karalam divya-darayitelam | mridu madhuravacah shridurita shrirasalam
-    (?) vinamadavana-shilam venugopalamide || 4|| mrigamada-tilaka-shrimadhura sviyaphalam (?) jagadudayalaya-sthityatmakatmiya-khelam
-    | sakala-munijanali-manasantarmaralam vinamadavana-shilam venugopalamide || 5|| asura-harana-khelam
-    kandukotkshepa-lilam vilasita shara kalam vishva-purnantaralam | shucirucirayasashri(?)dhikkrita-shri-mrinalam
-    vinamadavana-shilam venugopalamide || 6|| sva-paricarana-labdha-shri-dharashadhipalam svamahima-lavalila-jata-vidhyandagolam
-    | gurutara-bhavaduhkhanika-vahpurakulam vinamadavana-shilam venugopalamide || 7|| carana-kamala-shobha-patita-shri-pravalam
-    sakala-sukriti-raksha-daksha-karunya-helam | ruci-vijita-tamalam rukmini-punyamulam vinamadavana-shilam
-    venugopalamide || 8|| shrivenugopala kripalavala shrirukmini-lola suvarna-cela | kritim mama tvam
-    kripaya grihitva srajam yatha mam kuru duhkhaduram || 9|| iti shrivenugopalashtakam sampurnam |
-  devanagari: कलित-कनक-चेलं खण्डितापत्-कुचेलं गलधृत-वनमालं गर्विताराति-कालम् । कलिमल-हरशीलं कान्ति-धूतेन्द्रनीलं
-    विनमदवन-शीलं वेणुगोपालमीडे ॥ १॥ व्रजयुवति-विलोलं वन्दनानन्दलोलं करधृत-गुरुशैलं कञ्जगर्भाधिपालम् ।
-    अभिमत-फलदान-श्रीजितामर्त्य-सालं विनमदवन-शीलं वेणुगोपालमीडे ॥ २॥ घनतर-करुणाश्री-कल्पवल्यालवालं कलशजलधि-कन्या-मोदक-श्रीकपोलम्
-    । श्वसित-विनत-लोकानन्त-दुष्कर्म-तूलं विनमदवन-शीलं वेणुगोपालमीडे ॥ ३॥ शुभद-सुगुण-जालं सूरि-लोकानुकूलं
-    दितिज-तति-करालं दिव्य-दारायितेलम् । मृदु मधुरवचः श्रीदूरित श्रीरसालं (?) विनमदवन-शीलं वेणुगोपालमीडे
-    ॥ ४॥ मृगमद-तिलक-श्रीमधुर स्वीयफालं (?) जगदुदयलय-स्थित्यात्मकात्मीय-खेलम् । सकल-मुनिजनाली-मानसान्तर्मरालं
-    विनमदवन-शीलं वेणुगोपालमीडे ॥ ५॥ असुर-हरण-खेलं कन्दुकोत्क्षेप-लीलं विलसित शर कालं विश्व-पूर्णान्तरालम्
-    । शुचिरुचिरयसश्रि(?)धिक्कृत-श्री-मृणालं विनमदवन-शीलं वेणुगोपालमीडे ॥ ६॥ स्व-परिचरण-लब्ध-श्री-धराशाधिपालं
-    स्वमहिम-लवलीला-जात-विध्यण्डगोलम् । गुरुतर-भवदुःखानीक-वाःपूरकूलं विनमदवन-शीलं वेणुगोपालमीडे ॥ ७॥ चरण-कमल-शोभा-पातित-श्री-प्रवालं
-    सकल-सुकृति-रक्षा-दक्ष-कारुण्य-हेलम् । रुचि-विजित-तमालं रुक्मिणी-पुण्यमूलं विनमदवन-शीलं वेणुगोपालमीडे
-    ॥ ८॥ श्रीवेणुगोपाल कृपालवाल श्रीरुक्मिणी-लोल सुवर्ण-चेल । कृतिं मम त्वं कृपया गृहीत्वा स्रजं यथा मां
-    कुरु दुःखदूरम् ॥ ९॥ इति श्रीवेणुगोपालाष्टकं सम्पूर्णम् ।
+  english: kalitakanakacelam khanditapatkucelam galadhritavanamalam garvitaratikalam | kalimalaharashilam
+    kantidhutendranilam vinamadavanashilam venugopalamide || || vrajayuvativilolam vandananandalolam karadhritagurushailam
+    kanjagarbhadipalam | abhimataphaladanam shrijitamartyasalam vinamadavanashilam venugopalamide || ||
+    ghanatarakarunashrikalpavallyalavalam kalashajaladhikanyamodakashrikapolam | plushitavinatalokanantadushkarmatulam
+    vinamadavanashilam venugopalamide || || shubhadasugunajalam surilokanukulam ditijatatikaralam divyadarayitelam
+    | mridumadhuravacahshri duritashrirasalam vinamadavanashilam venugopalamide || || mrigamadatilakashrimedurasviyaphalam
+    jagadudayalayasthityatmakatmiyakhelam | sakalamunijanalimanasantarmaralam vinamadavanashilam venugopalamide
+    || || asuraharanakhelanam nandakotkshepalilam vilasitasharakalam vishvapurnantaralam | shucirucirayashashshridhikkrita
+    shrimrinalam vinamadavanashilam venugopalamide || || svaparicaranalabdha shridharashadhipalam svamahimalavalilajatavidhyandagolam
+    | gurutarabhavaduhkhanika vahpurakulam vinamadavanashilam venugopalamide || || caranakamalashobhapalita
+    shripravalam sakalasukritirakshadakshakarunya helam | rucivijitatamalam rukminipunyamulam vinamadavanashilam
+    venugopalamide || || shrivenugopala kripalavalam shrirukminilolasuvarnacelam | kritim mama tvam kripaya
+    grihitva srajam yatha mam kuru duhkhaduram || || iti shri venugopalashtakam |
+  devanagari: कलितकनकचेलं खण्डितापत्कुचेलं गलधृतवनमालं गर्वितारातिकालम् । कलिमलहरशीलं कान्तिधूतेन्द्रनीलं
+    विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ व्रजयुवतिविलोलं वन्दनानन्दलोलं करधृतगुरुशैलं कञ्जगर्भादिपालम् । अभिमतफलदानं
+    श्रीजितामर्त्यसालं विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ घनतरकरुणाश्रीकल्पवल्ल्यालवालं कलशजलधिकन्यामोदकश्रीकपोलम्
+    । प्लुषितविनतलोकानन्तदुष्कर्मतूलं विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ शुभदसुगुणजालं सूरिलोकानुकूलं दितिजततिकरालं
+    दिव्यदारायितेलम् । मृदुमधुरवचःश्री दूरितश्रीरसालं विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ मृगमदतिलकश्रीमेदुरस्वीयफालं
+    जगदुदयलयस्थित्यात्मकात्मीयखेलम् । सकलमुनिजनालीमानसान्तर्मरालं विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ असुरहरणखेलनं
+    नन्दकोत्क्षेपलीलं विलसितशरकालं विश्वपूर्णान्तरालम् । शुचिरुचिरयशश्श्रीधिक्कृत श्रीमृणालं विनमदवनशीलं
+    वेणुगोपालमीडे ॥ ॥ स्वपरिचरणलब्ध श्रीधराशाधिपालं स्वमहिमलवलीलाजातविध्यण्डगोलम् । गुरुतरभवदुःखानीक वाःपूरकूलं
+    विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ चरणकमलशोभापालित श्रीप्रवालं सकलसुकृतिरक्षादक्षकारुण्य हेलम् । रुचिविजिततमालं
+    रुक्मिणीपुण्यमूलं विनमदवनशीलं वेणुगोपालमीडे ॥ ॥ श्रीवेणुगोपाल कृपालवालां श्रीरुक्मिणीलोलसुवर्णचेलाम्
+    । कृतिं मम त्वं कृपया गृहीत्वा स्रजं यथा मां कुरु दुःखदूरम् ॥ ॥ इति श्री वेणुगोपालाष्टकम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_vishhnu/veNugopAlAShTakam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Venu Gopala Ashtakam
   license: public_domain
-tags:
-- vishhnu
-- krishna
-- aShTaka
+tags: []
 priority: true
+aliases:
+- venugopala
+- ashtakam

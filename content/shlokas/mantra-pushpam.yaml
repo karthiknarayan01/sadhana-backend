@@ -2,96 +2,48 @@ id: mantra-pushpam
 category: stotram
 name:
   english: Mantra Pushpam
-  devanagari: मन्त्रपुष्पम् (तैत्तिरीयारण्यके प्रथमप्रपाठकः द्वाविंशोऽनुवाकः)
 content:
-  english: sasvarah om om bhadram karnebhih shrinuyama devah | bhadram pashyemakshabhiryajatrah | sthirairangaistushtuvasastanubhih
-    | vyashema devahitam yadayuh | svasti na indro vriddhashravah | svasti nah pusha vishvavedah | svasti
-    nastarkshyo arishtanemih | svasti no brihaspatirdadhatu|| om shantih shantih shantih || yo'pam pushpam
-    veda| pushpavan prajavan pashuman bhavati | candrama va apam pushpam| pushpavan prajavan pashuman
-    bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati || 1|| agnirva apamayatanam| ayatanavan
-    bhavati | yo'gnerayatanam veda | ayatanavan bhavati | apo va agnerayatanam | ayatanavan bhavati |
-    ya evam veda | yo'pamayatanam veda | ayatanavan bhavati || 2|| vayurva apamayatanam| ayatanavan bhavati
-    | yo vayorayatanam veda | ayatanavan bhavati | apo vai vayorayatanam| ayatanavan bhavati | ya evam
-    veda | yo'pamayatanam veda | ayatanavan bhavati || 3|| asau vai tapannapamayatanam| ayatanavan bhavati
-    | yo'mushya tapata ayatanam veda | ayatanavan bhavati | apo va amushya tapata ayatanam| ayatanavan
-    bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati || 4|| candrama va apamayatanam
-    | ayatanavan bhavati | yashcandramasa ayatanam veda | ayatanavan bhavati | apo vai candramasa ayatanam|
-    ayatanavan bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati || 5|| nakshatrani va
-    apamayatanam| ayatanavan bhavati | yo nakshatranamayatanam veda| ayatanavan bhavati | apo vai nakshatranamayatanam|
-    ayatanavan bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati || 6|| parjanyo va apamayatanam|
-    ayatanavan bhavati | yah parjanyasya''yatanam veda | ayatanavan bhavati | apo vai parjanyasya''yatanam|
-    ayatanavan bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati || 7|| samvatsaro va
-    apamayatanam| ayatanavan bhavati | yassamvatsarasya''yatanam veda | ayatanavan bhavati | apo vai samvatsarasya''yatanam
-    | ayatanavan bhavati | ya evam veda| yo'psu navam pratishthitam veda | pratyeva tishthati || 8|| rajadhirajaya
-    prasahyasahine | namo vayam vaishravanaya kurmahe | sa me kamankamakamaya mahyam | kameshvaro vaishravano
-    dadatu | kuberaya vaishravanaya | maharajaya namah | om shantih shantih shantih || taittiriyaranyakam
-    arunaprashnah 77-84 nihsvarah om om bhadram karnebhih shrinuyama devah | bhadram pashyemakshabhiryajatrah
-    | sthirairangaistushtuvasastanubhih | vyashema devahitam yadayuh | svasti na indro vriddhashravah
-    | svasti nah pusha vishvavedah | svasti nastarkshyo arishtanemih | svasti no brihaspatirdadhatu||
-    om shantih shantih shantih || yo'pam pushpam veda| pushpavan prajavan pashuman bhavati | candrama
-    va apam pushpam| pushpavan prajavan pashuman bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan
-    bhavati || 1|| agnirva apamayatanam| ayatanavan bhavati | yo'gnerayatanam veda | ayatanavan bhavati
-    | apo va agnerayatanam | ayatanavan bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati
-    || 2|| vayurva apamayatanam| ayatanavan bhavati | yo vayorayatanam veda | ayatanavan bhavati | apo
-    vai vayorayatanam| ayatanavan bhavati | ya evam veda | yo'pamayatanam veda | ayatanavan bhavati ||
-    3|| asau vai tapannapamayatanam| ayatanavan bhavati | yo'mushya tapata ayatanam veda | ayatanavan
-    bhavati | apo va amushya tapata ayatanam| ayatanavan bhavati | ya evam veda | yo'pamayatanam veda
-    | ayatanavan bhavati || 4|| candrama va apamayatanam | ayatanavan bhavati | yashcandramasa ayatanam
-    veda | ayatanavan bhavati | apo vai candramasa ayatanam| ayatanavan bhavati | ya evam veda | yo'pamayatanam
-    veda | ayatanavan bhavati || 5|| nakshatrani va apamayatanam| ayatanavan bhavati | yo nakshatranamayatanam
-    veda| ayatanavan bhavati | apo vai nakshatranamayatanam| ayatanavan bhavati | ya evam veda | yo'pamayatanam
-    veda | ayatanavan bhavati || 6|| parjanyo va apamayatanam| ayatanavan bhavati | yah parjanyasya''yatanam
-    veda | ayatanavan bhavati | apo vai parjanyasya''yatanam| ayatanavan bhavati | ya evam veda | yo'pamayatanam
-    veda | ayatanavan bhavati || 7|| samvatsaro va apamayatanam| ayatanavan bhavati | yassamvatsarasya''yatanam
-    veda | ayatanavan bhavati | apo vai samvatsarasya''yatanam | ayatanavan bhavati | ya evam veda| yo'psu
-    navam pratishthitam veda | pratyeva tishthati || 8|| rajadhirajaya prasahyasahine | namo vayam vaishravanaya
-    kurmahe | sa me kamankamakamaya mahyam | kameshvaro vaishravano dadatu | kuberaya vaishravanaya |
-    maharajaya namah | om shantih shantih shantih || taittiriyaranyakam arunaprashnah 77-84 taittiriyaranyake
-    prathamaprapathakah dvavimsho'nuvakah Encoded vith accents by ṟajagopal iyer
-  devanagari: सस्वरः ॐ ॐ भद्रं कर्णेभिः शृणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवासस्तनूभिः
-    । व्यशेम देवहितं यदायुः । स्वस्ति न इन्द्रो वृद्धश्रवाः । स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो
-    अरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु॥ ॐ शान्तिः शान्तिः शान्तिः ॥ योऽपां पुष्पं वेद। पुष्पवान्
-    प्रजावान् पशुमान् भवति । चन्द्रमा वा अपां पुष्पम्। पुष्पवान् प्रजावान् पशुमान् भवति । य एवं वेद ।
-    योऽपामायतनं वेद । आयतनवान् भवति ॥ १॥ अग्निर्वा अपामायतनम्। आयतनवान् भवति । योऽग्नेरायतनं वेद । आयतनवान्
-    भवति । आपो वा अग्नेरायतनम् । आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ २॥ वायुर्वा
-    अपामायतनम्। आयतनवान् भवति । यो वायोरायतनं वेद । आयतनवान् भवति । आपो वै वायोरायतनम्। आयतनवान् भवति
-    । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ३॥ असौ वै तपन्नपामायतनम्। आयतनवान् भवति । योऽमुष्य
-    तपत आयतनं वेद । आयतनवान् भवति । आपो वा अमुष्य तपत आयतनम्। आयतनवान् भवति । य एवं वेद । योऽपामायतनं
-    वेद । आयतनवान् भवति ॥ ४॥ चन्द्रमा वा अपामायतनम् । आयतनवान् भवति । यश्चन्द्रमस आयतनं वेद । आयतनवान्
-    भवति । आपो वै चन्द्रमस आयतनम्। आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ५॥ नक्षत्राणि
-    वा अपामायतनम्। आयतनवान् भवति । यो नक्षत्राणामायतनं वेद। आयतनवान् भवति । आपो वै नक्षत्राणामायतनम्।
-    आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ६॥ पर्जन्यो वा अपामायतनम्। आयतनवान्
-    भवति । यः पर्जन्यस्याऽऽयतनं वेद । आयतनवान् भवति । आपो वै पर्जन्यस्याऽऽयतनम्। आयतनवान् भवति । य एवं
-    वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ७॥ संवत्सरो वा अपामायतनम्। आयतनवान् भवति । यस्संवत्सरस्याऽऽयतनं
-    वेद । आयतनवान् भवति । आपो वै संवत्सरस्याऽऽयतनम् । आयतनवान् भवति । य एवं वेद। योऽप्सु नावं प्रतिष्ठितां
-    वेद । प्रत्येव तिष्ठति ॥ ८॥ राजाधिराजाय प्रसह्यसाहिने । नमो वयं वैश्रवणाय कुर्महे । स मे कामान्कामकामाय
-    मह्यम् । कामेश्वरो वैश्रवणो ददातु । कुबेराय वैश्रवणाय । महाराजाय नमः । ॐ शान्तिः शान्तिः शान्तिः ॥
-    तैत्तिरीयारण्यकम् अरुणप्रश्नः ७७-८४ निःस्वरः ॐ ॐ भद्रं कर्णेभिः शृणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्राः
-    । स्थिरैरङ्गैस्तुष्टुवासस्तनूभिः । व्यशेम देवहितं यदायुः । स्वस्ति न इन्द्रो वृद्धश्रवाः । स्वस्ति
-    नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु॥ ॐ शान्तिः शान्तिः
-    शान्तिः ॥ योऽपां पुष्पं वेद। पुष्पवान् प्रजावान् पशुमान् भवति । चन्द्रमा वा अपां पुष्पम्। पुष्पवान्
-    प्रजावान् पशुमान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ १॥ अग्निर्वा अपामायतनम्। आयतनवान्
-    भवति । योऽग्नेरायतनं वेद । आयतनवान् भवति । आपो वा अग्नेरायतनम् । आयतनवान् भवति । य एवं वेद । योऽपामायतनं
-    वेद । आयतनवान् भवति ॥ २॥ वायुर्वा अपामायतनम्। आयतनवान् भवति । यो वायोरायतनं वेद । आयतनवान् भवति ।
-    आपो वै वायोरायतनम्। आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ३॥ असौ वै तपन्नपामायतनम्।
-    आयतनवान् भवति । योऽमुष्य तपत आयतनं वेद । आयतनवान् भवति । आपो वा अमुष्य तपत आयतनम्। आयतनवान् भवति ।
-    य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ४॥ चन्द्रमा वा अपामायतनम् । आयतनवान् भवति । यश्चन्द्रमस
-    आयतनं वेद । आयतनवान् भवति । आपो वै चन्द्रमस आयतनम्। आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद ।
-    आयतनवान् भवति ॥ ५॥ नक्षत्राणि वा अपामायतनम्। आयतनवान् भवति । यो नक्षत्राणामायतनं वेद। आयतनवान् भवति
-    । आपो वै नक्षत्राणामायतनम्। आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ६॥ पर्जन्यो
-    वा अपामायतनम्। आयतनवान् भवति । यः पर्जन्यस्याऽऽयतनं वेद । आयतनवान् भवति । आपो वै पर्जन्यस्याऽऽयतनम्।
-    आयतनवान् भवति । य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ७॥ संवत्सरो वा अपामायतनम्। आयतनवान्
-    भवति । यस्संवत्सरस्याऽऽयतनं वेद । आयतनवान् भवति । आपो वै संवत्सरस्याऽऽयतनम् । आयतनवान् भवति । य एवं
-    वेद। योऽप्सु नावं प्रतिष्ठितां वेद । प्रत्येव तिष्ठति ॥ ८॥ राजाधिराजाय प्रसह्यसाहिने । नमो वयं वैश्रवणाय
-    कुर्महे । स मे कामान्कामकामाय मह्यम् । कामेश्वरो वैश्रवणो ददातु । कुबेराय वैश्रवणाय । महाराजाय नमः
-    । ॐ शान्तिः शान्तिः शान्तिः ॥ तैत्तिरीयारण्यकम् अरुणप्रश्नः ७७-८४ तैत्तिरीयारण्यके प्रथमप्रपाठकः द्वाविंशोऽनुवाकः
-    Eन्चोदेद् विथ् आच्चेन्त्स् ब्य् ऱजगोपल् ईयेर्
+  english: shshrinuyama devah | bhadra mpashyemakshabhiryajatrah | sthirairangai stushtuvagmsastanubhih
+    | vyashema devahitam ya~dayuh || svasti na indro vriddhashravah | svasti nah pusha vishvavedah | svastinastarkshyo
+    arishtanemih | svasti no brihaspatirdadhatu || om shanti nbhavati | candrama va apa nbhavati || agnirva
+    apamayatanam | ayatanava nbhavati | apova agnerayatanam | ayatanava nbhavati || vayurva apamayatanam
+    | ayatanava nbhavati | yo vayorayatanam nbhavati | apo vai vayorayatanam | ayatanava nbhavati || asau
+    vai tapannapamayatanam | ayatanava 'mushyatapata ayatanam nbhavati | apo va amushyatapata ayatanam
+    | ayatanava nbhavati || candrama va apamayatanam | ayatanava nbhavati | yashcandramasa ayatanam nbhavati
+    | apo vai candramasa ayatanam | ayatanava nbhavati || nakshatrani va apamayatanam | ayatanava nbhavati
+    | yo nakshatranamayatanam nbhavati | apo vai nakshatranamayatanam | ayatanava nbhavati || parjanyo
+    va apamayatanam | ayatanava nbhavati | yah parjanyasyayatanam nbhavati | apo vai parjanyasyayatanam
+    | ayatanava va~tsaro va apamayatanam | ayatanava nbhavati | apo vai sam va~tsarasyayatanam | ayatanava
+    ve~da | pratyeva tishthati || om rajadhirajaya prasahya sahine shravanaya kurmahe | sa me kaman kama
+    kamaya mahyam shravano dadatu | kuberaya vaishravanaya | maharajaya namah || o ntatpurornamah || antashcarati
+    bhuteshu guhayam vi~shvamurtishu | tvam mindrastvagm rudrastvam ntadapa apo jyotiraso mbrahma bhurbhuvassuvarom
+    | ishanassarva vidyanamishvarassarvabhutanam brahmadhipati rbrahma shivo me astu sadashivom | tadvishnoh
+    mpadagm sada pashyanti surayah | diviva cakshuratatam | tadvipraso vipanyavo jagrivagm sassamindhate
+    | vishnoryatparama mpadam | ritagm satya nkrishnapingalam | urdhvaretam vi~shvarupaya vai namo namah
+    || o nnarayanaya vidmahe vasudevaya dhimahi | tanno vishnuh pracodaya
+  devanagari: श्शृणु॒याम॑ देवाः । भ॒द्र म्प॑श्येमा॒क्षभि॒र्यज॑त्राः । स्थि॒रैरङ्गै स्तुष्टु॒वाग्ंस॑स्त॒नूभिः॑
+    । व्यशे॑म दे॒वहि॑तं॒ यँदायुः॑ ॥ स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः । स्व॑स्ति नः॑ पू॒षा वि॒श्ववे॑दाः
+    । स्व॒॒स्तिन॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः । स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥ ॐ शान्ति॒ न्भ॑वति । च॒न्द्रमा॒
+    वा अ॒पा न्भवति ॥ अ॒ग्निर्वा अ॒पामा॒यत॑नम् । आ॒यत॑नवा न्भवति । आपो॒वा अ॒ग्नेरा॒यत॑नम् । आ॒यत॑नवा न्भवति
+    ॥ वा॒युर्वा अ॒पामा॒यत॑नम् । आ॒यत॑नवा न्भवति । यो वा॒योरा॒यत॑नं॒ न्भवति । आपो॒ वै वा॒योरा॒यत॑नम् ।
+    आ॒यत॑नवा न्भवति ॥ अ॒सौ वै तप॑न्न॒पामा॒यत॑नम् । आ॒यत॑नवा ऽमुष्य॒तप॑त आ॒यत॑नं॒ न्भवति । आपो॒ वा अ॒मुष्य॒तप॑त
+    आ॒यत॑नम् । आ॒यत॑नवा न्भवति ॥ च॒न्द्रमा॒ वा अ॒पामा॒यत॑नम् । आ॒यत॑नवा न्भवति । यश्च॒न्द्रम॑स आ॒यत॑नं॒
+    न्भवति । आपो॒ वै च॒न्द्रम॑स आ॒यत॑नम् । आ॒यत॑नवा न्भवति ॥ नक्ष॑त्राणि॒ वा अ॒पामा॒यत॑नम् । आ॒यत॑नवा
+    न्भवति । यो नक्ष॑त्राणामा॒यत॑नं॒ न्भवति । आपो॒ वै नक्ष॑त्राणामा॒यत॑नम् । आ॒यत॑नवा न्भवति ॥ प॒र्जन्यो॒
+    वा अ॒पामा॒यत॑नम् । आ॒यत॑नवा न्भवति । यः प॒र्जन्य॑स्या॒यत॑नं॒ न्भवति । आपो॒ वै प॒र्जन्य॑स्या॒यत॑नम्
+    । आ॒यत॑नवा वँ॒त्स॒रो वा अ॒पामा॒यत॑न॒म् । आ॒यत॑नवा न्भवति । आपो॒ वै सं॑ वँत्स॒रस्या॒यत॑नम् । आ॒यत॑नवा
+    वेँद॑ । प्रत्ये॒व ति॑ष्ठति ॥ ॐ रा॒जा॒धि॒रा॒जाय॑ प्रसह्य सा॒हिने श्रव॒णाय॑ कुर्महे । स मे॒ कामा॒न्
+    काम॒ कामा॑य॒ मह्यम् श्रव॒णो द॑दातु । कु॒बे॒राय॑ वैश्रव॒णाय॑ । म॒हा॒राजाय॒ नमः॑ ॥ ओ न्तत्पुरो॒र्नमः
+    ॥ अन्तश्चरति॑ भूते॒षु गुहायां विँ॑श्वमू॒र्तिषु । त्वं मिन्द्रस्त्वग्ं रुद्रस्त्वं न्त॑दाप॒ आपो॒ ज्योती॒रसो॒
+    म्ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । ईशानस्सर्व॑ विद्या॒नामीश्वरस्सर्व॑भूता॒नां ब्रह्माधि॑पति॒ र्ब्रह्मा॑
+    शि॒वो मे॑ अस्तु सदाशि॒वोम् । तद्विष्णोः म्प॒दग्ं सदा॑ पश्यन्ति सू॒रयः॑ । दि॒वीव॒ चक्षु॒रात॑तम् । तद्विप्रा॑सो
+    विप॒न्यवो॑ जागृ॒वाग्ं सस्समि॑न्धते । विष्णो॒र्यत्प॑र॒म म्प॒दम् । ऋतग्ं स॒त्य ङ्कृष्ण॒पिङ्ग॑लम् । ऊ॒र्ध्वरे॑तं
+    विँ॒श्वरू॑पाय॒ वै नमो॒ नमः॑ ॥ ओ न्ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासुदे॒वाय॑ धीमहि । तन्नो॑ विष्णुः प्रचो॒दया
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/mantrapushpa.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Mantra Pushpam
   license: public_domain
-tags:
-- veda
-- svara
-- mantra
+tags: []
 priority: true
+aliases:
+- mantra

@@ -2,26 +2,22 @@ id: sampurna-visva-ratnam-saare-jahan-se-accha-in-samskritam
 category: stotram
 name:
   english: Sampurna Visva Ratnam (Saare Jahan Se Accha in Samskritam)
-  devanagari: सम्पूर्ण विश्वरत्नम् (१ हिन्दी सारे जहाँ से अच्छा)
 content:
   english: sampurnavishvaratnam khalu bharatam svakiyam | pushpam vayam tu sarve khalu desha vatikeyam
-    || dhru|| sarvocca parvato yo gaganasya bhala cumbi | sah sainikah suvirah prahari ca sah svakiyah
-    || 1|| krode sahasradhara pravahanti yasya nadyah | udyanamabhiposhyam bhuvigauravam svakiyam || 2||
-    dharmasya nasti shiksha katuta mitho vidheya | eke vayam tu deshah khalu bharatam svakiyam || 3||
-    sampurnavishvaratnam khalu bharatam svakiyam | sampurnavishvaratnam | hindi deshabhaktipara gita sare
-    jaha~ se accha anuvada mula kavi mohammada iqbala shanskrit translation of hindi patriotic song sare
-    jahanse accha
-  devanagari: सम्पूर्णविश्वरत्नं खलु भारतं स्वकीयम् । पुष्पं वयं तु सर्वे खलु देश वाटिकेयम् ॥ ध्रु॥ सर्वोच्च
-    पर्वतो यो गगनस्य भाल चुम्बी । सः सैनिकः सुवीरः प्रहरी च सः स्वकीयः ॥ १॥ क्रोडे सहस्रधारा प्रवहन्ति
-    यस्य नद्यः । उद्यानमाभिपोष्यम् भुविगौरवं स्वकीयम् ॥ २॥ धर्मस्य नास्ति शिक्षा कटुता मिथो विधेया । एके
-    वयं तु देशः खलु भारतं स्वकीयम् ॥ ३॥ सम्पूर्णविश्वरत्नं खलु भारतं स्वकीयम् । सम्पूर्णविश्वरत्नम् ।
-    हिन्दी देशभक्तिपर गीत सारे जहाँ से अच्छा अनुवाद मूल कवि मोहम्मद इक़्बाल षन्स्क्रित् त्रन्स्लतिओन् ओफ़्
-    ःइन्दि पत्रिओतिच् सोन्ग् सारे जहाण्से अच्छा
+    || sarvocca parvato yo gaganasya bhala cumbi | sah sainikah suvirah prahari ca sah svakiyah || krode
+    sahasradhara pravahanti yasya nadyah | udyanamabhiposhyam bhuvigauravam svakiyam || dharmasya nasti
+    shiksha katuta mitho vidheya | eke vayam tu deshah khalu bharatam svakiyam || sampurnavishvaratnam
+    khalu bharatam svakiyam | sampurnavishvaratnam |
+  devanagari: सम्पूर्णविश्वरत्नं खलु भारतं स्वकीयम् । पुष्पं वयं तु सर्वे खलु देश वाटिकेयम् ॥ सर्वोच्च
+    पर्वतो यो गगनस्य भाल चुम्बी । सः सैनिकः सुवीरः प्रहरी च सः स्वकीयः ॥ क्रोडे सहस्रधारा प्रवहन्ति यस्य
+    नद्यः । उद्यानमाभिपोष्यं भुविगौरवं स्वकीयम् ॥ धर्मस्य नास्ति शिक्षा कटुता मिथो विधेया । एके वयं तु
+    देशः खलु भारतं स्वकीयम् ॥ सम्पूर्णविश्वरत्नं खलु भारतं स्वकीयम् । सम्पूर्णविश्वरत्नम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_z_misc_general/sampUrNavishvaratnam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Sampurna Visva Ratnam (Saare
+    Jahan Se Accha in Samskritam)
   license: public_domain
-tags:
-- misc
-- sanskritgeet
+tags: []
 priority: true
+aliases:
+- kritam

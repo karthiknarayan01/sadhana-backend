@@ -2,59 +2,52 @@ id: sri-dattatreya-stotram
 category: stotram
 name:
   english: Sri Dattatreya Stotram
-  devanagari: श्रीदत्तात्रेयस्तोत्रम्
 content:
-  english: shridattatreyastotram bhrigu rishi shridattatreyastotram bhrigu rishi balakaprabha imdranila
-    jathilam | bhasmamgara gotvalam | shantamnada vilida cittapavanam | shardula canmambaram | brahmadyesanakadi
-    visvari vridam | siddhaisamaradhitam | atreyam samupasmagheghrudimuda | gheyam sada yogibhih | digambaram
-    bhasmavilepitamgam | cakram trishulam damarum gadamca | padmasanastam shashisujnanetram | dattatreyam
-    gheya vabhishta siddhye | om namoshri gurumdattam | datta devam jagadagurum | nishkalam nirgunam vamde
-    | dattatreyam namamyaham | brahmalokeshabhutesha | shamkha cakra gadadharam | panipatradharamdevam
-    | dattatreyam namamyaham | suresha vamditam devam | trailokya lokavamditam | hariharatmakamdevam |
-    dattatreyam namamyaham | nirmalam nila varnamca | sumdaram shamashobhitam | sulocanam vishalaksham
-    | dattatreyam namamyaham | trishulam damarummala | jatamukutamamditam | mamditam kumdalam karne |
-    dattatreyam namamyaham | vibhutimbhushitamdeham | hara keyura shobhitam | anantapranavakaram | shri
-    dattatreyam namamyaham | prasannavadanam devam | bhukti bhukti pradayakam | janardhanam jagatranam
-    | dattatreyam namamyaham | rajarajam nidacaram | kartaviryavarapradam | subhadrambhadrakalyanam |
-    dattatreyam namamyaham | anasuya priyakaram | atriputram sureshvaram | vikhyata yoginammoksham | dattatreyam
-    namamyaham | digambara tanumshreshtham | brahmasajjyapradesthitam | hamsamkham satmakam nityam | dattatreyam
-    namamyaham | kadayogi kadabhogi | balalila vinodagraha | dashanairatnasamkashaihi | dattatreyam namamyaham
-    | bhutavata bhavatrasaha | grahapidatathaivaca | daridryabhyasandvambhi | dattatreyam namamyaham |
-    caturdashyam budhevare | janmamargashireshubhe | sarakam vipulam vamde | dattatreyam namamyaham |
-    raktotpala dalampadam | sarvatirtham samud bhavam | vamditam yogi viddtbaihi | dattatreyam namamyaham
-    | jnanadada prabhusakshadi | gatirmoksha pradayine | atmabhurishvara krishnaka | dattatreyam namamyaham
-    | bhriguvinacitamidam | dattatreyaparayanam vidam | sakshat yad vccayam brahma | dattatreyam namamyaham
-    | praninamsad bajantunam | karmapasha prabhamjanam | dattatreya stutistotram | sarvamkamanavapunyata
-    | abudhrolaghade putram | dhanadhanya samanvitah | rajamajyobhavet lakshmih | aprapyam prapnujatanaraha
-    | trisamdyamjapamanastu | dattatreya stutim sada | tasyaroga bhayamnasti | dirghayurvijayibhavete
-    | kushmamda dakini bhakshaka | pishaca brahmarakshasah | stotrasya shrudamatrena | gacchamjatranasamshayah
-    | etad dvishati shlokanam | avrittim puru vimshamtim | tasyavritti sahastrena | darshanamnatra samshayah
-    |
-  devanagari: श्रीदत्तात्रेयस्तोत्रम् भृगु ऋषी श्रीदत्तात्रेयस्तोत्रम् भृगु ऋषी बालाकप्रभा इंद्रनील जठीलं
-    । भस्मांगरा गोत्वलं । शान्तंनाद विलीद चित्तपवनं । शार्दूल चन्मांबरं । ब्रह्मद्येसनकादी विस्वरी व्रीदं
-    । सिद्धैसमाराधितं । आत्रेयं समूपास्मघेघ्रुदीमूदा । घेयं सदा योगीभीः । दिगंबरं भस्मविलेपितांगं । चक्रं
-    त्रिशूलं डमरूं गदांच । पद्मासनस्तं शशीसूज्ञनेत्रं । दत्तात्रेयं घेय वभीष्ट सिद्ध्ये । ॐ नमोश्री गुरूंदत्तं
-    । दत्त देवं जगदगुरुं । निष्कलं निर्गुणं वंदे । दत्तात्रेयं नमाम्यहं । ब्रह्मालोकेशभूतेश । शंख चक्र
-    गदाधरं । पाणीपात्रधरंदेवं । दत्तात्रेयं नमाम्यहं । सुरेश वंदितं देवं । त्रैलोक्य लोकवंदितं । हरिहरात्मकंदेवं
-    । दत्तात्रेयं नमाम्यहं । निर्मलं नील वर्णंच । सुंदरं शामशोभितं । सुलोचनं विशालाक्षं । दत्तात्रेयं
-    नमाम्यहं । त्रिशूलं डमरूंमाला । जटामुकुटमंडितं । मंडितं कुंडलं कर्णे । दत्तात्रेयं नमाम्यहं । विभूतींभूषितंदेहं
-    । हार केयूर शोभितं । अनन्तप्रणवाकारं । श्री दत्तात्रेयं नमाम्यहं । प्रसन्नवदनं देवं । भुक्ति भुक्ती
-    प्रदायकं । जनार्धनम् जगत्राणं । दत्तात्रेयं नमाम्यहं । राजराजं निदाचारं । कार्तवीर्यवरप्रदं । सुभद्रंभद्रकल्याणम्
-    । दत्तात्रेयं नमाम्यहं । अनसूया प्रियकरं । अत्रिपुत्रं सुरेश्वरं । विख्यात योगीनांमोक्षं । दत्तात्रेयं
-    नमाम्यहं । दिगंबर तनूंश्रेष्ठं । ब्रह्मसज्ज्यप्रदेस्थितं । हंसंखं सात्मकं नित्यं । दत्तात्रेयं नमाम्यहं
-    । कदायोगी कदाभोगी । बाललीला विनोदग्रह । दशनैरत्नसंकाशैही । दत्तात्रेयं नमाम्यहं । भूतवाता भवत्रासह
-    । ग्रहपीडातथैवच । दरिद्र्यभ्यसन्द्वंभी । दत्तात्रेयं नमाम्यहं । चतुर्दश्यां बुधेवारे । जन्ममार्गशीरेशुभे
-    । सारकं विपुलं वंदे । दत्तात्रेयं नमाम्यहं । रक्तोत्पल दलंपादं । सर्वतीर्थं समुद् भवं । वंदितं योगी
-    विद्द्त्बैही । दत्तात्रेयं नमाम्यहं । ज्ञानदादा प्रभूसाक्षादी । गतिर्मोक्ष प्रदायिने । आत्मभूरीश्वर
-    कृष्णक । दत्तात्रेयं नमाम्यहं । भृगूविनचितमिदं । दत्तात्रेयपारायणां विदं । साक्षात् यद् व्च्चयं ब्रह्मा
-    । दत्तात्रेयं नमाम्यहं । प्राणीनांसद् बजन्तुनां । कर्मपाश प्रभंजनं । दत्तात्रेय स्तुतीस्तोत्रं । सर्वांकामानवापुण्यात
-    । अबुध्रोलघदे पुत्रं । धनधान्य समन्वितः । राजमाज्योभवेत् लक्ष्मीः । अप्राप्यं प्राप्नुजातनरह । त्रिसंद्यंजपमानस्तु
-    । दत्तात्रेय स्तुतीं सदा । तस्यरोग भयंनास्ती । दिर्घायुर्विजयीभवेते । कुष्मांड डाकिनी भक्षक । पिशाच
-    ब्रह्मराक्षसः । स्तोत्रस्य श्रुदमात्रेण । गच्छंजत्रणसंशयः । एतद् द्विशती श्लोकानां । आवृत्तीं पुरु
-    विंशंतीं । तस्यावृत्ती सहस्त्रेण । दर्शनंनात्र संशयः ।
+  english: jatadharam pandurangam shulahastam kripanidhim | sarvarogaharam devam dattatreyamaham bhaje
+    || || asya shridattatreyastotramantrasya bhagavannaradrishih | anushtup chandah | shridattah paramatma
+    devata | shridattatreya prityarthe jape viniyogah || narada uvaca | jagadutpattikartre ca sthitisamharahetave
+    | bhavapashavimuktaya dattatreya namo'stu te || || jarajanmavinashaya dehashuddhikaraya ca | digambara
+    dayamurte dattatreya namo'stu te || || karpurakantidehaya brahmamurtidharaya ca | vedashastraparijnaya
+    dattatreya namo'stu te || || hrasvadirghakrishasthulanamagotravivarjita | pancabhutaikadiptaya dattatreya
+    namo'stu te || || yajnabhokte ca yajnaya yajnarupadharaya ca | yajnapriyaya siddhaya dattatreya namo'stu
+    te || || adau brahma harirmadhye hyante devassadashivah | murtitrayasvarupaya dattatreya namo'stu
+    te || || bhogalayaya bhogaya yogayogyaya dharine | jitendriya jitajnaya dattatreya namo'stu te ||
+    || digambaraya divyaya divyarupadharaya ca | sadoditaparabrahma dattatreya namo'stu te || || jambudvipe
+    mahakshetre matapuranivasine | jayamana satam deva dattatreya namo'stu te || || bhikshatanam grihe
+    grame patram hemamayam kare | nanasvadamayi bhiksha dattatreya namo'stu te || || brahmajnanamayi mudra
+    vastre cakashabhutale | prajnanaghanabodhaya dattatreya namo'stu te || || avadhuta sadananda parabrahmasvarupine
+    | videhadeharupaya dattatreya namo'stu te || || satyarupa sadacara satyadharmaparayana | satyashrayaparokshaya
+    dattatreya namo'stu te || || shulahastagadapane vanamalasukandhara | yajnasutradhara brahman dattatreya
+    namo'stu te || || ksharaksharasvarupaya paratparataraya ca | dattamuktiparastotra dattatreya namo'stu
+    te || || datta vidyadhya lakshmisha datta svatmasvarupine | gunanirgunarupaya dattatreya namo'stu
+    te || || shatrunashakaram stotram jnanavijnanadayakam | sarvapapam shamam yati dattatreya namo'stu
+    te || || idam stotram mahaddivyam dattapratyakshakarakam | dattatreyaprasadacca naradena prakirtitam
+    || || iti shrinaradapurane naradaviracitam shri dattatreya stotram |
+  devanagari: जटाधरं पाण्डुराङ्गं शूलहस्तं कृपानिधिम् । सर्वरोगहरं देवं दत्तात्रेयमहं भजे ॥ ॥ अस्य श्रीदत्तात्रेयस्तोत्रमन्त्रस्य
+    भगवान्नारदृषिः । अनुष्टुप् छन्दः । श्रीदत्तः परमात्मा देवता । श्रीदत्तात्रेय प्रीत्यर्थे जपे विनियोगः
+    ॥ नारद उवाच । जगदुत्पत्तिकर्त्रे च स्थितिसंहारहेतवे । भवपाशविमुक्ताय दत्तात्रेय नमोऽस्तु ते ॥ ॥ जराजन्मविनाशाय
+    देहशुद्धिकराय च । दिगम्बर दयामूर्ते दत्तात्रेय नमोऽस्तु ते ॥ ॥ कर्पूरकान्तिदेहाय ब्रह्ममूर्तिधराय
+    च । वेदशास्त्रपरिज्ञाय दत्तात्रेय नमोऽस्तु ते ॥ ॥ ह्रस्वदीर्घकृशस्थूलनामगोत्रविवर्जित । पञ्चभूतैकदीप्ताय
+    दत्तात्रेय नमोऽस्तु ते ॥ ॥ यज्ञभोक्ते च यज्ञाय यज्ञरूपधराय च । यज्ञप्रियाय सिद्धाय दत्तात्रेय नमोऽस्तु
+    ते ॥ ॥ आदौ ब्रह्मा हरिर्मध्ये ह्यन्ते देवस्सदाशिवः । मूर्तित्रयस्वरूपाय दत्तात्रेय नमोऽस्तु ते ॥ ॥
+    भोगालयाय भोगाय योगयोग्याय धारिणे । जितेन्द्रिय जितज्ञाय दत्तात्रेय नमोऽस्तु ते ॥ ॥ दिगम्बराय दिव्याय
+    दिव्यरूपधराय च । सदोदितपरब्रह्म दत्तात्रेय नमोऽस्तु ते ॥ ॥ जम्बूद्वीपे महाक्षेत्रे मातापुरनिवासिने
+    । जयमान सतां देव दत्तात्रेय नमोऽस्तु ते ॥ ॥ भिक्षाटनं गृहे ग्रामे पात्रं हेममयं करे । नानास्वादमयी
+    भिक्षा दत्तात्रेय नमोऽस्तु ते ॥ ॥ ब्रह्मज्ञानमयी मुद्रा वस्त्रे चाकाशभूतले । प्रज्ञानघनबोधाय दत्तात्रेय
+    नमोऽस्तु ते ॥ ॥ अवधूत सदानन्द परब्रह्मस्वरूपिणे । विदेहदेहरूपाय दत्तात्रेय नमोऽस्तु ते ॥ ॥ सत्यरूप
+    सदाचार सत्यधर्मपरायण । सत्याश्रयपरोक्षाय दत्तात्रेय नमोऽस्तु ते ॥ ॥ शूलहस्तगदापाणे वनमालासुकन्धर ।
+    यज्ञसूत्रधर ब्रह्मन् दत्तात्रेय नमोऽस्तु ते ॥ ॥ क्षराक्षरस्वरूपाय परात्परतराय च । दत्तमुक्तिपरस्तोत्र
+    दत्तात्रेय नमोऽस्तु ते ॥ ॥ दत्त विद्याढ्य लक्ष्मीश दत्त स्वात्मस्वरूपिणे । गुणनिर्गुणरूपाय दत्तात्रेय
+    नमोऽस्तु ते ॥ ॥ शत्रुनाशकरं स्तोत्रं ज्ञानविज्ञानदायकम् । सर्वपापं शमं याति दत्तात्रेय नमोऽस्तु ते
+    ॥ ॥ इदं स्तोत्रं महद्दिव्यं दत्तप्रत्यक्षकारकम् । दत्तात्रेयप्रसादाच्च नारदेन प्रकीर्तितम् ॥ ॥ इति
+    श्रीनारदपुराणे नारदविरचितं श्री दत्तात्रेय स्तोत्रम् ।
 meaning: {}
 source_attribution:
-  text_source: Sanskrit Wikisource — https://sa.wikisource.org/wiki/श्रीदत्तात्रेयस्तोत्रम्
+  text_source: vignanam.org (downloaded and provided by the project owner) — Sri Dattatreya Stotram
   license: public_domain
 tags: []
 priority: true
+aliases:
+- sri
+- dattatreya
+- stotram

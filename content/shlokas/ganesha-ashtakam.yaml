@@ -2,53 +2,46 @@ id: ganesha-ashtakam
 category: stotram
 name:
   english: Ganesha Ashtakam
-  devanagari: गणेशाष्टकम् १ (गणेशपुराणान्तर्गतम् यतोऽनन्तशक्तेः)
 content:
-  english: yato'nantashakteranantashca jiva yato nirgunadaprameya gunaste | yato bhati sarvam tridha bhedabhinnam
-    sada tam ganesham namamo bhajamah || 1|| yatashcavirasijjagatsarvameta- ttathabjasano vishvago vishvagopta
-    | tathendradayo devasangha manushyah sada tam ganesham namamo bhajamah || 2|| yato vahnibhanu bhavo
-    bhurjalam ca yatah sagarashcandrama vyoma vayuh | yatah sthavara jangama vrikshasangha- stada tam
-    ganesham namamo bhajamah || 3|| yato danava kinnara yakshasangha yatashcarana varanah shvapadashca
-    | yatah pakshikita yato virudhashca sada tam ganesham namamo bhajamah || 4|| yato buddhirajnananasho
-    mumukshoh yatah sampado bhaktasantoshikah syuh | yato vighnanasho yatah karyasiddhih sada tam ganesham
-    namamo bhajamah || 5|| yatah putrasampadyato vanchitartho yato'bhaktavighnastatha'nekarupah | yatah
-    shokamohau yatah kama eva sada tam ganesham namamo bhajamah || 6|| yato'nantashaktih sa shesho babhuva
+  english: sarve ucuh | yato'nantashakteranantashca jiva yato nirgunadaprameya gunaste | yato bhati sarvam
+    tridha bhedabhinnam sada tam ganesham namamo bhajamah || || yatashcavirasijjagatsarvameta ttathabjasano
+    vishvago vishvagopta | tathendradayo devasangha manushyah sada tam ganesham namamo bhajamah || ||
+    yato vahnibhanu bhavo bhurjalam ca yatah sagarashcandrama vyoma vayuh | yatah sthavara jangama vrikshasanghah
+    sada tam ganesham namamo bhajamah || || yato danavah kinnara yakshasangha yatashcarana varanah shvapadashca
+    | yatah pakshikita yato virudhashca sada tam ganesham namamo bhajamah || || yato buddhirajnananasho
+    mumuksho ryatah sampado bhaktasantoshadah syuh | yato vighnanasho yatah karyasiddhih sada tam ganesham
+    namamo bhajamah || || yatah putrasampadyato vanchitartho yato'bhaktavighnastatha'nekarupah | yatah
+    shokamohau yatah kama eva sada tam ganesham namamo bhajamah || || yato'nantashaktih sa shesho babhuva
     dharadharane'nekarupe ca shaktah | yato'nekadha svargaloka hi nana sada tam ganesham namamo bhajamah
-    || 7|| yato vedavaco'tikuntha manobhih sada neti netiti yatta grinanti | parabrahmarupam cidanandabhutam
-    sada tam ganesham namamo bhajamah || 8|| iti shriganeshapurane upasanakhande ekanavatitamo'dhyaye
-    ganeshashtakam sampurnam || - || shriganeshapuranam upasana (purva)khandah | adhyaya 91 | 1|91 44-51||
-    - || shriganeshapuranam upasana (purva)khandah | adhyaya 91 | 1|91 44-51|| (phalashrutih | shriganesha
-    uvaca | punaruce ganadhishah stotrametatpathennarah | trisandhyam tridinam tasya sarvakaryam bhavishyati
-    || 9|| yo japedashtadivasam shlokashtakamidam shubham | ashtavaram caturthyam tu so'shtasiddhiravapnuyat
-    || 10|| yah pathenmasamatram tu dashavaram dine dine | sa mocayedbandhagatam rajavadhyam na samshayah
-    || 11|| vidyakamo labhedvidyam putrarthi putramapnuyat | vanchitan labhate sarvamekavimshativaratah
-    || 12|| yo japetparaya bhaktya gajananapau narah | evamuktva tato devashcantardhanam gatah prabhuh
-    || 13||) - || shriganeshapuranam upasana (purva)khandah | adhyaya 92 | 1|92 8-12|| - || shriganeshapuranam
-    upasana (purva)khandah | adhyaya 92 | 1|92 8-12||
-  devanagari: यतोऽनन्तशक्तेरनन्ताश्च जीवा यतो निर्गुणादप्रमेया गुणास्ते । यतो भाति सर्वं त्रिधा भेदभिन्नं
-    सदा तं गणेशं नमामो भजामः ॥ १॥ यतश्चाविरासीज्जगत्सर्वमेत- त्तथाब्जासनो विश्वगो विश्वगोप्ता । तथेन्द्रादयो
-    देवसङ्घा मनुष्याः सदा तं गणेशं नमामो भजामः ॥ २॥ यतो वह्निभानू भवो भूर्जलं च यतः सागराश्चन्द्रमा व्योम
-    वायुः । यतः स्थावरा जङ्गमा वृक्षसङ्घा- स्तदा तं गणेशं नमामो भजामः ॥ ३॥ यतो दानवा किन्नरा यक्षसङ्घा
-    यतश्चारणा वारणाः श्वापदाश्च । यतः पक्षिकीटा यतो वीरुधश्च सदा तं गणेशं नमामो भजामः ॥ ४॥ यतो बुद्धिरज्ञाननाशो
-    मुमुक्षोः यतः सम्पदो भक्तसन्तोषिकाः स्युः । यतो विघ्ननाशो यतः कार्यसिद्धिः सदा तं गणेशं नमामो भजामः
-    ॥ ५॥ यतः पुत्रसम्पद्यतो वाञ्छितार्थो यतोऽभक्तविघ्नास्तथाऽनेकरूपाः । यतः शोकमोहौ यतः काम एव सदा तं
-    गणेशं नमामो भजामः ॥ ६॥ यतोऽनन्तशक्तिः स शेषो बभूव धराधारणेऽनेकरूपे च शक्तः । यतोऽनेकधा स्वर्गलोका
-    हि नाना सदा तं गणेशं नमामो भजामः ॥ ७॥ यतो वेदवाचोऽतिकुण्ठा मनोभिः सदा नेति नेतीति यत्ता गृणन्ति ।
-    परब्रह्मरूपं चिदानन्दभूतं सदा तं गणेशं नमामो भजामः ॥ ८॥ इति श्रीगणेशपुराणे उपासनाखण्डे एकनवतितमोऽध्याये
-    गणेशाष्टकं सम्पूर्णम् ॥ - ॥ श्रीगणेशपुराणं उपासना (पूर्व)खण्डः । अध्याय ९१ । १।९१ ४४-५१॥ - ॥ श्रीगणेशपुराणं
-    उपासना (पूर्व)खण्डः । अध्याय ९१ । १।९१ ४४-५१॥ (फलश्रुतिः । श्रीगणेश उवाच । पुनरूचे गणाधीशः स्तोत्रमेतत्पठेन्नरः
-    । त्रिसन्ध्यं त्रिदिनं तस्य सर्वकार्यं भविष्यति ॥ ९॥ यो जपेदष्टदिवसं श्लोकाष्टकमिदं शुभम् । अष्टवारं
-    चतुर्थ्यां तु सोऽष्टसिद्धीरवाप्नुयात् ॥ १०॥ यः पठेन्मासमात्रं तु दशवारं दिने दिने । स मोचयेद्बन्धगतं
-    राजवध्यं न संशयः ॥ ११॥ विद्याकामो लभेद्विद्यां पुत्रार्थी पुत्रमाप्नुयात् । वाञ्छितान् लभते सर्वमेकविंशतिवारतः
-    ॥ १२॥ यो जपेत्परया भक्त्या गजाननपऊ नरः । एवमुक्त्वा ततो देवश्चान्तर्धानं गतः प्रभुः ॥ १३॥) - ॥ श्रीगणेशपुराणं
-    उपासना (पूर्व)खण्डः । अध्याय ९२ । १।९२ ८-१२॥ - ॥ श्रीगणेशपुराणं उपासना (पूर्व)खण्डः । अध्याय ९२ ।
-    १।९२ ८-१२॥
+    || || yato vedavaco vikuntha manobhih sada neti netiti yatta grinanti | parabrahmarupam cidanandabhutam
+    sada tam ganesham namamo bhajamah || || shriganesha uvaca | punaruce ganadhishah stotrametatpathennarah
+    | trisandhyam tridinam tasya sarvakaryam bhavishyati || || yo japedashtadivasam shlokashtakamidam
+    shubham | ashtavaram caturthyam tu so'shtasiddhiravapnuyat || || yah pathenmasamatram tu dashavaram
+    dine dine | sa mocayedbandhagatam rajavadhyam na samshayah || || vidyakamo labhedvidyam putrarthi
+    putramapnuyat | vanchita~llabhate sarvanekavimshativaratah || || yo japetparaya bhaktya gajananaparo
+    narah | evamuktva tato devashcantardhanam gatah prabhuh || || iti shriganeshapurane upasanakhande
+    shriganeshashtakam |
+  devanagari: सर्वे उचुः । यतोऽनन्तशक्तेरनन्ताश्च जीवा यतो निर्गुणादप्रमेया गुणास्ते । यतो भाति सर्वं
+    त्रिधा भेदभिन्नं सदा तं गणेशं नमामो भजामः ॥ ॥ यतश्चाविरासीज्जगत्सर्वमेत त्तथाब्जासनो विश्वगो विश्वगोप्ता
+    । तथेन्द्रादयो देवसङ्घा मनुष्याः सदा तं गणेशं नमामो भजामः ॥ ॥ यतो वह्निभानू भवो भूर्जलं च यतः सागराश्चन्द्रमा
+    व्योम वायुः । यतः स्थावरा जङ्गमा वृक्षसङ्घाः सदा तं गणेशं नमामो भजामः ॥ ॥ यतो दानवाः किन्नरा यक्षसङ्घा
+    यतश्चारणा वारणाः श्वापदाश्च । यतः पक्षिकीटा यतो वीरुधश्च सदा तं गणेशं नमामो भजामः ॥ ॥ यतो बुद्धिरज्ञाननाशो
+    मुमुक्षो र्यतः सम्पदो भक्तसन्तोषदाः स्युः । यतो विघ्ननाशो यतः कार्यसिद्धिः सदा तं गणेशं नमामो भजामः
+    ॥ ॥ यतः पुत्रसम्पद्यतो वाञ्छितार्थो यतोऽभक्तविघ्नास्तथाऽनेकरूपाः । यतः शोकमोहौ यतः काम एव सदा तं गणेशं
+    नमामो भजामः ॥ ॥ यतोऽनन्तशक्तिः स शेषो बभूव धराधारणेऽनेकरूपे च शक्तः । यतोऽनेकधा स्वर्गलोका हि नाना
+    सदा तं गणेशं नमामो भजामः ॥ ॥ यतो वेदवाचो विकुण्ठा मनोभिः सदा नेति नेतीति यत्ता गृणन्ति । परब्रह्मरूपं
+    चिदानन्दभूतं सदा तं गणेशं नमामो भजामः ॥ ॥ श्रीगणेश उवाच । पुनरूचे गणाधीशः स्तोत्रमेतत्पठेन्नरः । त्रिसन्ध्यं
+    त्रिदिनं तस्य सर्वकार्यं भविष्यति ॥ ॥ यो जपेदष्टदिवसं श्लोकाष्टकमिदं शुभम् । अष्टवारं चतुर्थ्यां तु
+    सोऽष्टसिद्धीरवाप्नुयात् ॥ ॥ यः पठेन्मासमात्रं तु दशवारं दिने दिने । स मोचयेद्बन्धगतं राजवध्यं न संशयः
+    ॥ ॥ विद्याकामो लभेद्विद्यां पुत्रार्थी पुत्रमाप्नुयात् । वाञ्छिताँल्लभते सर्वानेकविंशतिवारतः ॥ ॥ यो
+    जपेत्परया भक्त्या गजाननपरो नरः । एवमुक्त्वा ततो देवश्चान्तर्धानं गतः प्रभुः ॥ ॥ इति श्रीगणेशपुराणे
+    उपासनाखण्डे श्रीगणेशाष्टकम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_ganesha/gaNeshAShTakam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Ganesha Ashtakam
   license: public_domain
-tags:
-- aShTaka
-- ganesha
-- gaNeshapurANa
+tags: []
 priority: true
+aliases:
+- ganesha
+- ashtakam

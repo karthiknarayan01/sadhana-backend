@@ -2,190 +2,183 @@ id: vedanta-dindima
 category: stotram
 name:
   english: Vedanta Dindima
-  devanagari: वेदान्तडिण्डिमः (नृसिंहसरस्वतीविरचितम्)
 content:
-  english: vedantadindimastattvamekamudghoshayanti yat | astampurastattattejah dakshinamurti samjnitam
-    || 1|| atmanatmapadarthau dvau bhoktribhogyatvalakshanau | brahmaivatma na dehadiriti vedantadindimah
-    || 2|| jnanajnane padarthau dvavatmano bandhamuktidau | jnananmuktirnibandho'nyaditi vedantadindimah
-    || 3|| jnatrijneyapadarthau dvau bhasyabhasakalakshanau | jnata brahma jagajjneyamiti vedantadindimah
-    || 4|| sukhaduhkhapadarthau dvau priyavipriyakarakau | sukhambrahma jagadduhkhamiti vedantadindimah
-    || 5|| samashtivyashtirupau dvau padarthau sarvasammatau | samashtirishvaro vyashtirjivo vedantadindimah
-    || 6|| jnanakarmapadarthau dvau vastukartratmatantrakau | jnananmoksho na karmabhya iti vedantadindimah
-    || 7|| shrotavyashravyarupau dvau padarthau sukhaduhkhadau | shrotavyambrahma naivanyaditi vedantadindimah
-    || 8|| cintyacintyapadarthau dvau vishrantishrantidayakau | cintyambrahma paramnanyaditi vedantadindimah
-    || 9|| dhyeyadhyeyapadarthau dvau dhisamadhyasamadhidau | dhyatavyambrahma naivanyaditi vedantadindimah
-    || 10|| yogino bhogino vapi tyagino ragino'pi ca | jnananmoksho na sandeha iti vedantadindimah ||
-    11|| na varnashramasanketairna karmopasanadibhih | brahmajnanam vina moksha iti vedantadindimah ||
-    12|| asatyah sarvasamsaro rasabhasadidushitah | upekshyo brahma vijneyamiti vedantadindimah || 13||
-    vrithakriya vrithalapanvrithavadanmanorathan | tyaktvaikambrahma vijneyamiti vedantadindimah || 14||
-    sthito brahmatmana jivo brahma jivatmana sthitam | iti sampashyatam muktiriti vedantadindimah || 15||
-    jivo brahmatmana jneyo jneyam jivatmana param | muktistadaikyavijnanaditi vedantadindimah || 16||
-    sarvatmatvat param brahma shroturatmataya sthitam | nayasastattvavijnaptvaviti vedantadindimah ||
-    17|| aihikam camushmikam ca tapantam karmasancayam | tyaktva brahmaiva vijneyamiti vedantadindimah
-    || 18|| advaitadvaitavadau dvau sukshmasthuladasham gatau | advaitavadanmokshah syaditi vedantadindimah
-    || 19|| karmino vinivartante nivartanta upasakah | jnanino na nivartanta iti vedantadindimah || 20||
-    parokshatsaphalam karma jnanam pratyakshasatphalam | jnanamevabhyasettasmaditi vedantadindimah ||
-    21|| vritha shramo'yam vidusham vrithayam karminam shramah | yadi na brahmavijnanamiti vedantadindimah
-    || 22|| alam yagairalam yogairalam bhogairalam dhanaih | parasmin brahmani jnata iti vedantadindimah
-    || 23|| alam vedairalam shastrairalam smritipuranakaih | paramatmani vijnane iti vedantadindimah ||
-    24|| narca na yajushartho'sti na samnartho'sti kashcana | jate brahmatmavijnane iti vedantadindimah
-    || 25|| karmani cittashuddhyarthamaikagryarthamupasana | mokshartham brahmavijnanamiti vedantadindimah
-    || 26|| sancitagamikarmani dahyante jnanavahnina | prarabdhanyapyanubhavaditi vedantadindimah || 27||
-    na punyakarmano vriddhirna hanih papakarmanah | nityasangatmanishthanamiti vedantadindimah || 28||
-    buddhipurvabuddhipurvakritanam papakarmanam | prayashcittamaho jnanamiti vedantadindimah || 29|| drigdrishyau
-    dvau padarthau tau parasparavilakshanau | drigbrahma drishyam maya syaditi vedantadindimah || 30||
-    avidyopadhiko jivo mayopadhika ishvarah | mayavidyagunatitam brahma vedantadindimah || 31|| sakaram
-    ca nirakaram sagunam cagunatmakam | tattvam tadbrahma paramamiti vedantadindimah || 32|| dvijatvam
-    vidhyanushthanadvipratvam veda pathatah | brahmanyam brahmavijnanaditi vedantadindimah || 33|| sarvatmana
-    sthitam brahma sarvam brahmatmana sthitam | na karyam karanadbhinnamiti vedantadindimah || 34|| sattasphuranasaukhyani
-    bhasante sarvavastushu | tasmadbrahmamayam sarvamiti vedantadindimah || 35|| avasthatritayam yasya
-    kridabhumitaya sthitam | tadeva brahma janiyaditi vedantadindimah || 36|| yannadau yacca nastyante
-    tanmadhye bhatamapyasat | ato mithya jagatsarvamiti vedantadindimah || 37|| yadastyadau yadastyante
-    yanmadhye bhati tatsvayam | brahmaivaikamidam satyamiti vedantadindimah || 38|| purusharthatrayavishtah
-    purushah pashavo dhruvam | moksharthi purushashreshtha iti vedantadindimah || 39|| ghatakudyadikam
-    sarvam mrittikamatrameva ca | tatha brahma jagatsarvamiti vedantadindimah || 40|| shannihatya trayam
-    hitva dvayam bhittva'khilatigam | ekam buddhva'shnute mokshamiti vedantadindimah || 41|| bhitvashat
-    pancabhitva'tha gatvagre caturastrikam | dvayam hitvashrayedekamiti vedantadindimah || 42|| deho nahamaham
-    dehi dehasakshiti nishcayat | janmamrityuprahino'saviti vedantadindimah || 43|| prano nahamaham devah
-    pranasakshiti nishcayat | kshutpipasopashantih syaditi vedantadindimah || 44|| mano nahamaham devo
-    manahsakshiti nishcayat | shokamohapahanih syaditi vedantadindimah || 45|| buddhirnahamaham devo buddhisakshiti
-    nishcayat | kartribhavanivrittih syaditi vedantadindimah || 46|| najnanam syamaham devo'jnanasakshiti
-    nishcayat | sarvanarthanivrittih syaditi vedantadindimah || 47|| aham sakshiti yo vidyadvivicyaivam
-    punah punah | sa eva mukto'sau vidvaniti vedantadindimah || 48|| naham maya na tatkaryam tatsakshi
-    paramo'smyaham | iti nihsamshayajnananmuktirvedantadindimah || 49|| naham sarvamaham sarvam mama sarvamiti
-    sphutam | jnate tattve kuto duhkhamiti vedantadindimah || 50|| dehadipancakoshastha ya satta pratibhasate
-    | sa sattatma na sandeha iti vedantadindimah || 51|| dehadipancakoshastha ya sphurtiranubhuyate |
-    sa sphurtiratma naivanyaditi vedantadindimah || 52|| dehadipancakoshastha ya pritiranubhuyate | sa
-    pritiratma kutastha iti vedantadindimah || 53|| vyomadipancabhutastha ya satta bhasate nrinam | sa
-    satta paramam brahma iti vedantadindimah || 54|| vyomadipancabhutastha ya cidekanubhuyate | sa cideva
-    param brahma iti vedantadindimah || 55|| vyomadipancabhutastha ya pritiranubhuyate | sa pritireva
-    brahma syaditi vedantadindimah || 56|| dehadikoshaga satta ya sa vyomadibhutaga | manabhavanna tadbheda
-    iti vedantadindimah || 57|| dehadikoshaga sphurtirya sa vyomadibhutaga | manabhavanna tadbheda iti
-    vedantadindimah || 58|| dehadikoshaga pritirya sa vyomadibhutaga | manabhavanna tadbheda iti vedantadindimah
-    || 59|| saccidanandarupatvadbrahmaivatma na samshayah | shrutipramanusandhanaditi vedantadindimah
-    || 60 || na namarupe niyate sarvatra vyabhicaratah | anamarupah sarvah syaditi vedantadindimah ||
-    61|| na jivabrahmanorbhedah sattarupena vidyate | sattabhede na manam syaditi vedantadindimah || 62||
-    na jivabrahmanorbhedah sphurtirupena vidyate | sphurtibhede na manam syaditi vedantadindimah || 63||
-    na jivabrahmanorbhedah priyarupena vidyate | priyabhede na manam syaditi vedantadindimah || 64|| na
-    jivabrahmanorbhedo namna rupena vidyate | namno rupasya mithyatvaditi vedantadindimah || 65|| na jivabrahmanorbhedah
-    pindabrahmandabhedatah | vyashteh samashterekatvaditi vedantadindimah || 66|| brahma satyam jaganmithya
-    jivo brahmaiva naparah | jivanmuktastu tadvidvaniti vedantadindimah || 67|| anamarupam sakalam sanmayam
-    cinmayam priyam | kuto bhedah kuto bandhah iti vedantadindimah || 68|| na satyah kathyate loko namadervyabhicaratah
-    | vatuh kulata ityaderiti vedantadindimah || 69 || namarupatmakam vishvamindrajalam vidurbudhah |
-    anamatvadarupatvaditi vedantadindimah || 70|| abhedadarshanam mokshah sam saro bhedadarshanam | sarvavedantasiddhanta
-    iti vedantadindimah || 71|| na matabhiniveshena na bhashaveshamatratah | muktirvinatmavijnanamiti
-    vedantadindimah || 72|| na kamyapratishiddhabhih kriyabhirmokshavasana | ishvaranugrahat sa syaditi
-    vedantadindimah || 73|| avijnate janma nashtam vijnate janma sarthakam | jnaturatma na dure syaditi
-    vedantadindimah || 74|| dashamasya parijnane nayaso'sti yatha tatha | svasya brahmatmavijnane iti
-    vedantadindimah || 75|| upekshyaupadhikandoshangrihyante vishaya yatha | upekshya drishyam tadbrahma
-    iti vedantadindimah || 76|| sukhamalpam bahuklesham vishayagrahinam nrinam | anantam brahmanishthanamiti
-    vedantadindimah || 77|| dhanairva dhanadaih putrairdaragarasahodaraih | dhruvam pranaharairduhkhamiti
-    vedantadindimah || 78|| supterutthaya suptyantam brahmaikam pravicintyatam | natidure nrinam mrityuriti
-    vedantadindimah || 79|| pancanamapi koshanam mayanarthatmatocita | tatsakshibrahmavijnanaditi vedantadindimah
-    || 80 || dashamasya parijnanannavajnasya yatha sukham | tatha jivasya satpraptiriti vedantadindimah
-    || 81|| navabhyo'sti parah pratyan naiva veda param param | tadvijnanadbhavettulya muktirvedantadindimah
-    || 82|| navabhasannava jnatva navopadhinnavatmana | mithya jnatvavashishte tu maunam vedantadindimah
-    || 83|| parame brahmani svasmin pravilapyakhilam jagat | gayannadvaitamatmanamaste vedantadindimah
-    || 84|| pratilomanulomabhyam vishvaropapavadayoh | cintane shishyate tattvamiti vedantadindimah ||
-    85|| namarupabhimanah syatsam sarah sarvadehinam | saccidanandadrishtih syanmuktirvedantadindimah
-    || 86|| saccidanandasatyatve mithyatve namarupayoh | vijnate kimidam jneyamiti vedantadindimah ||
-    87|| salambanam niralambam sarvalambavalambitam | avalambenakhilalamba iti vedantadindimah || 88||
-    na kuryanna vijaniyat sarvam brahmetyanusmaran | yatha sukham tatha tishthediti vedantadindimah ||
-    89|| svakarmapashavashagah prajno'nyo va jano dhruvam | prajnah sukham nayetkalamiti vedantadindimah
-    || 90|| na vidvam sam tapeccittam karane'karane dhruvam | sarvamatmeti vijnanaditi vedantadindimah
-    || 91|| naivabhasam sprishetkarma mithyopadhimapi svayam | kuto'dhishthanamatyacchamiti vedantadindimah
-    || 92|| aho'smakamalam mohairatma brahmeti nirbhayam | shrutibheriravo'dyapi shruyate shrutiranjanah
-    || 93|| vedantabherijhankarah prativadibhayankarah | shruyatam brahmanaih shrimaddakshinamurtyanugrahat
-    || 94|| iti vedantadindimah sampurnah | om tatsat |
-  devanagari: वेदान्तडिण्डिमास्तत्त्वमेकमुद्घोषयन्ति यत् । आस्ताम्पुरस्तात्तत्तेजः दक्षिणामूर्ति संज्ञितम्
-    ॥ १॥ आत्मानात्मपदार्थौ द्वौ भोक्तृभोग्यत्वलक्षणौ । ब्रह्मैवात्मा न देहादिरिति वेदान्तडिण्डिमः ॥ २॥
-    ज्ञानाज्ञाने पदार्थौ द्वावात्मनो बन्धमुक्तिदौ । ज्ञानान्मुक्तिर्निबन्धोऽन्यदिति वेदान्तडिण्डिमः ॥
-    ३॥ ज्ञातृज्ञेयपदार्थौ द्वौ भास्यभासकलक्षणौ । ज्ञाता ब्रह्म जगज्ज्ञेयमिति वेदान्तडिण्डिमः ॥ ४॥ सुखदुःखपदार्थौ
-    द्वौ प्रियविप्रियकारकौ । सुखंब्रह्म जगद्दुःखमिति वेदान्तडिण्डिमः ॥ ५॥ समष्टिव्यष्टिरूपौ द्वौ पदार्थौ
-    सर्वसंमतौ । समष्टिरीश्वरो व्यष्टिर्जीवो वेदान्तडिण्डिमः ॥ ६॥ ज्ञानकर्मपदार्थौ द्वौ वस्तुकर्त्रात्मतन्त्रकौ
-    । ज्ञानान्मोक्षो न कर्मभ्य इति वेदान्तडिण्डिमः ॥ ७॥ श्रोतव्याश्राव्यरूपौ द्वौ पदार्थौ सुखदुःखदौ ।
-    श्रोतव्यंब्रह्म नैवान्यदिति वेदान्तडिण्डिमः ॥ ८॥ चिन्त्याचिन्त्यपदार्थौ द्वौ विश्रान्तिश्रान्तिदायकौ
-    । चिन्त्यंब्रह्म परंनान्यदिति वेदान्तडिण्डिमः ॥ ९॥ ध्येयाध्येयपदार्थौ द्वौ धीसमाध्यसमाधिदौ । ध्यातव्यंब्रह्म
-    नैवान्यदिति वेदान्तडिण्डिमः ॥ १०॥ योगिनो भोगिनो वापि त्यागिनो रागिणोऽपि च । ज्ञानान्मोक्षो न सन्देह
-    इति वेदान्तडिण्डिमः ॥ ११॥ न वर्णाश्रमसङ्केतैर्न कर्मोपासनादिभिः । ब्रह्मज्ञानं विना मोक्ष इति वेदान्तडिण्डिमः
-    ॥ १२॥ असत्यः सर्वसंसारो रसाभासादिदूषितः । उपेक्ष्यो ब्रह्म विज्ञेयमिति वेदान्तडिण्डिमः ॥ १३॥ वृथाक्रिया
-    वृथालापान्वृथावादान्मनोरथान् । त्यक्त्वैकंब्रह्म विज्ञेयमिति वेदान्तडिण्डिमः ॥ १४॥ स्थितो ब्रह्मात्मना
-    जीवो ब्रह्म जीवात्मना स्थितम् । इति संपश्यतां मुक्तिरिति वेदान्तडिण्डिमः ॥ १५॥ जीवो ब्रह्मात्मना ज्ञेयो
-    ज्ञेयं जीवात्मना परम् । मुक्तिस्तदैक्यविज्ञानादिति वेदान्तडिण्डिमः ॥ १६॥ सर्वात्मत्वात् परं ब्रह्म
-    श्रोतुरात्मतया स्थितम् । नायासस्तत्त्वविज्ञप्त्वाविति वेदान्तडिण्डिमः ॥ १७॥ ऐहिकं चामुष्मिकं च तापान्तं
-    कर्मसञ्चयम् । त्यक्त्वा ब्रह्मैव विज्ञेयमिति वेदान्तडिण्डिमः ॥ १८॥ अद्वैतद्वैतवादौ द्वौ सूक्ष्मस्थूलदशां
-    गतौ । अद्वैतवादान्मोक्षः स्यादिति वेदान्तडिण्डिमः ॥ १९॥ कर्मिणो विनिवर्तन्ते निवर्तन्त उपासकाः । ज्ञानिनो
-    न निवर्तन्त इति वेदान्तडिण्डिमः ॥ २०॥ परोक्षात्सफलं कर्म ज्ञानं प्रत्यक्षसत्फलम् । ज्ञानमेवाभ्यसेत्तस्मादिति
-    वेदान्तडिण्डिमः ॥ २१॥ वृथा श्रमोऽयं विदुषां वृथायं कर्मिणां श्रमः । यदि न ब्रह्मविज्ञानमिति वेदान्तडिण्डिमः
-    ॥ २२॥ अलं यागैरलं योगैरलं भोगैरलं धनैः । परस्मिन् ब्रह्मणि ज्ञात इति वेदान्तडिण्डिमः ॥ २३॥ अलं वेदैरलं
-    शास्त्रैरलं स्मृतिपुराणकैः । परमात्मनि विज्ञाने इति वेदान्तडिण्डिमः ॥ २४॥ नर्चा न यजुषार्थोऽस्ति न
-    साम्नार्थोऽस्ति कश्चन । जाते ब्रह्मात्मविज्ञाने इति वेदान्तडिण्डिमः ॥ २५॥ कर्माणि चित्तशुद्ध्यर्थमैकाग्र्यार्थमुपासना
-    । मोक्षार्थं ब्रह्मविज्ञानमिति वेदान्तडिण्डिमः ॥ २६॥ सञ्चितागामिकर्माणि दह्यन्ते ज्ञानवह्निना । प्रारब्धान्यप्यनुभवादिति
-    वेदान्तडिण्डिमः ॥ २७॥ न पुण्यकर्मणो वृद्धिर्न हानिः पापकर्मणः । नित्यासङ्गात्मनिष्ठानामिति वेदान्तडिण्डिमः
-    ॥ २८॥ बुद्धिपूर्वाबुद्धिपूर्वकृतानां पापकर्मणाम् । प्रायश्चित्तमहो ज्ञानमिति वेदान्तडिण्डिमः ॥ २९॥
-    दृग्दृश्यौ द्वौ पदार्थौ तौ परस्परविलक्षणौ । दृग्ब्रह्म दृश्यं माया स्यादिति वेदान्तडिण्डिमः ॥ ३०॥
-    अविद्योपाधिको जीवो मायोपाधिक ईश्वरः । मायाविद्यागुणातीतं ब्रह्म वेदान्तडिण्डिमः ॥ ३१॥ साकारं च निराकारं
-    सगुणं चागुणात्मकम् । तत्त्वं तद्ब्रह्म परममिति वेदान्तडिण्डिमः ॥ ३२॥ द्विजत्वं विध्यनुष्ठानाद्विप्रत्वं
-    वेद पाठतः । ब्राह्मण्यं ब्रह्मविज्ञानादिति वेदान्तडिण्डिमः ॥ ३३॥ सर्वात्मना स्थितं ब्रह्म सर्वं ब्रह्मात्मना
-    स्थितम् । न कार्यं कारणाद्भिन्नमिति वेदान्तडिण्डिमः ॥ ३४॥ सत्तास्फुरणसौख्यानि भासन्ते सर्ववस्तुषु
-    । तस्माद्ब्रह्ममयं सर्वमिति वेदान्तडिण्डिमः ॥ ३५॥ अवस्थात्रितयं यस्य क्रीडाभूमितया स्थितम् । तदेव
-    ब्रह्म जानीयादिति वेदान्तडिण्डिमः ॥ ३६॥ यन्नादौ यच्च नास्त्यन्ते तन्मध्ये भातमप्यसत् । अतो मिथ्या
-    जगत्सर्वमिति वेदान्तडिण्डिमः ॥ ३७॥ यदस्त्यादौ यदस्त्यन्ते यन्मध्ये भाति तत्स्वयम् । ब्रह्मैवैकमिदं
-    सत्यमिति वेदान्तडिण्डिमः ॥ ३८॥ पुरुषार्थत्रयाविष्टाः पुरुषाः पशवो ध्रुवम् । मोक्षार्थी पुरुषश्रेष्ठ
-    इति वेदान्तडिण्डिमः ॥ ३९॥ घटकुड्यादिकं सर्वं मृत्तिकामात्रमेव च । तथा ब्रह्म जगत्सर्वमिति वेदान्तडिण्डिमः
-    ॥ ४०॥ षण्निहत्य त्रयं हित्वा द्वयं भित्त्वाऽखिलातिगम् । एकं बुद्ध्वाऽश्नुते मोक्षमिति वेदान्तडिण्डिमः
-    ॥ ४१॥ भित्वाषट् पञ्चभित्वाऽथ गत्वाग्रे चतुरस्त्रिकम् । द्वयं हित्वाश्रयेदेकमिति वेदान्तडिण्डिमः ॥
-    ४२॥ देहो नाहमहं देही देहसाक्षीति निश्चयात् । जन्ममृत्युप्रहीणोऽसाविति वेदान्तडिण्डिमः ॥ ४३॥ प्राणो
-    नाहमहं देवः प्राणसाक्षीति निश्चयात् । क्षुत्पिपासोपशान्तिः स्यादिति वेदान्तडिण्डिमः ॥ ४४॥ मनो नाहमहं
-    देवो मनःसाक्षीति निश्चयात् । शोकमोहापहानिः स्यादिति वेदान्तडिण्डिमः ॥ ४५॥ बुद्धिर्नाहमहं देवो बुद्धिसाक्षीति
-    निश्चयात् । कर्तृभावनिवृत्तिः स्यादिति वेदान्तडिण्डिमः ॥ ४६॥ नाज्ञानं स्यामहं देवोऽज्ञानसाक्षीति निश्चयात्
-    । सर्वानर्थनिवृत्तिः स्यादिति वेदान्तडिण्डिमः ॥ ४७॥ अहं साक्षीति यो विद्याद्विविच्यैवं पुनः पुनः ।
-    स एव मुक्तोऽसौ विद्वानिति वेदान्तडिण्डिमः ॥ ४८॥ नाहं माया न तत्कार्यं तत्साक्षी परमोऽस्म्यहम् । इति
-    निःसंशयज्ञानान्मुक्तिर्वेदान्तडिण्डिमः ॥ ४९॥ नाहं सर्वमहं सर्वं मम सर्वमिति स्फुटम् । ज्ञाते तत्त्वे
-    कुतो दुःखमिति वेदान्तडिण्डिमः ॥ ५०॥ देहादिपञ्चकोशस्था या सत्ता प्रतिभासते । सा सत्तात्मा न सन्देह
-    इति वेदान्तडिण्डिमः ॥ ५१॥ देहादिपञ्चकोशस्था या स्फूर्तिरनुभूयते । सा स्फूर्तिरात्मा नैवान्यदिति वेदान्तडिण्डिमः
-    ॥ ५२॥ देहादिपञ्चकोशस्था या प्रीतिरनुभूयते । सा प्रीतिरात्मा कूटस्थ इति वेदान्तडिण्डिमः ॥ ५३॥ व्योमादिपञ्चभूतस्था
-    या सत्ता भासते नृणाम् । सा सत्ता परमं ब्रह्म इति वेदान्तडिण्डिमः ॥ ५४॥ व्योमादिपञ्चभूतस्था या चिदेकानुभूयते
-    । सा चिदेव परं ब्रह्म इति वेदान्तडिण्डिमः ॥ ५५॥ व्योमादिपञ्चभूतस्था या प्रीतिरनुभूयते । सा प्रीतिरेव
-    ब्रह्म स्यादिति वेदान्तडिण्डिमः ॥ ५६॥ देहादिकोशगा सत्ता या सा व्योमादिभूतगा । मानाभावान्न तद्भेद इति
-    वेदान्तडिण्डिमः ॥ ५७॥ देहादिकोशगा स्फूर्तिर्या सा व्योमादिभूतगा । मानाभावान्न तद्भेद इति वेदान्तडिण्डिमः
-    ॥ ५८॥ देहादिकोशगा प्रीतिर्या सा व्योमादिभूतगा । मानाभावान्न तद्भेद इति वेदान्तडिण्डिमः ॥ ५९॥ सच्चिदानन्दरूपत्वाद्ब्रह्मैवात्मा
-    न संशयः । श्रुतिप्रमानुसन्धानादिति वेदान्तडिण्डिमः ॥ ६० ॥ न नामरूपे नियते सर्वत्र व्यभिचारतः । अनामरूपः
-    सर्वः स्यादिति वेदान्तडिण्डिमः ॥ ६१॥ न जीवब्रह्मणोर्भेदः सत्तारूपेण विद्यते । सत्ताभेदे न मानं स्यादिति
-    वेदान्तडिण्डिमः ॥ ६२॥ न जीवब्रह्मणोर्भेदः स्फूर्तिरूपेण विद्यते । स्फूर्तिभेदे न मानं स्यादिति वेदान्तडिण्डिमः
-    ॥ ६३॥ न जीवब्रह्मणोर्भेदः प्रियरूपेण विद्यते । प्रियभेदे न मानं स्यादिति वेदान्तडिण्डिमः ॥ ६४॥ न जीवब्रह्मणोर्भेदो
-    नाम्ना रूपेण विद्यते । नाम्नो रूपस्य मिथ्यात्वादिति वेदान्तडिण्डिमः ॥ ६५॥ न जीवब्रह्मणोर्भेदः पिण्डब्रह्माण्डभेदतः
-    । व्यष्टेः समष्टेरेकत्वादिति वेदान्तडिण्डिमः ॥ ६६॥ ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः । जीवन्मुक्तस्तु
-    तद्विद्वानिति वेदान्तडिण्डिमः ॥ ६७॥ अनामरूपं सकलं सन्मयं चिन्मयं प्रियम् । कुतो भेदः कुतो बन्धः इति
-    वेदान्तडिण्डिमः ॥ ६८॥ न सत्यः कथ्यते लोको नामादेर्व्यभिचारतः । वटुः कुलट इत्यादेरिति वेदान्तडिण्डिमः
-    ॥ ६९ ॥ नामरूपात्मकं विश्वमिन्द्रजालं विदुर्बुधाः । अनामत्वादरूपत्वादिति वेदान्तडिण्डिमः ॥ ७०॥ अभेददर्शनं
-    मोक्षः सं सारो भेददर्शनम् । सर्ववेदान्तसिद्धान्त इति वेदान्तडिण्डिमः ॥ ७१॥ न मताभिनिवेशेन न भाषावेषमात्रतः
-    । मुक्तिर्विनात्मविज्ञानमिति वेदान्तडिण्डिमः ॥ ७२॥ न काम्यप्रतिषिद्धाभिः क्रियाभिर्मोक्षवासना । ईश्वरानुग्रहात्
-    सा स्यादिति वेदान्तडिण्डिमः ॥ ७३॥ अविज्ञाते जन्म नष्टं विज्ञाते जन्म सार्थकम् । ज्ञातुरात्मा न दूरे
-    स्यादिति वेदान्तडिण्डिमः ॥ ७४॥ दशमस्य परिज्ञाने नायासोऽस्ति यथा तथा । स्वस्य ब्रह्मात्मविज्ञाने इति
-    वेदान्तडिण्डिमः ॥ ७५॥ उपेक्ष्यौपाधिकान्दोषान्गृह्यन्ते विषया यथा । उपेक्ष्य दृश्यं तद्ब्रह्म इति वेदान्तडिण्डिमः
-    ॥ ७६॥ सुखमल्पं बहुक्लेशं विषयग्राहिणां नृणाम् । अनन्तं ब्रह्मनिष्ठानामिति वेदान्तडिण्डिमः ॥ ७७॥ धनैर्वा
-    धनदैः पुत्रैर्दारागारसहोदरैः । ध्रुवं प्राणहरैर्दुःखमिति वेदान्तडिण्डिमः ॥ ७८॥ सुप्तेरुत्थाय सुप्त्यन्तं
-    ब्रह्मैकं प्रविचिन्त्यताम् । नातिदूरे नृणां मृत्युरिति वेदान्तडिण्डिमः ॥ ७९॥ पञ्चानामपि कोशानां मायानर्थात्मतोचिता
-    । तत्साक्षिब्रह्मविज्ञानादिति वेदान्तडिण्डिमः ॥ ८० ॥ दशमस्य परिज्ञानान्नवज्ञस्य यथा सुखम् । तथा जीवस्य
-    सत्प्राप्तिरिति वेदान्तडिण्डिमः ॥ ८१॥ नवभ्योऽस्ति परः प्रत्यङ् नैव वेद परं परम् । तद्विज्ञानाद्भवेत्तुल्या
-    मुक्तिर्वेदान्तडिण्डिमः ॥ ८२॥ नवाभासान्नव ज्ञात्वा नवोपाधीन्नवात्मना । मिथ्या ज्ञात्वावशिष्टे तु मौनं
-    वेदान्तडिण्डिमः ॥ ८३॥ परमे ब्रह्मणि स्वस्मिन् प्रविलाप्याखिलं जगत् । गायन्नद्वैतमात्मानमास्ते वेदान्तडिण्डिमः
-    ॥ ८४॥ प्रतिलोमानुलोमाभ्यां विश्वारोपापवादयोः । चिन्तने शिष्यते तत्त्वमिति वेदान्तडिण्डिमः ॥ ८५॥ नामरूपाभिमानः
-    स्यात्सं सारः सर्वदेहिनाम् । सच्चिदानन्ददृष्टिः स्यान्मुक्तिर्वेदान्तडिण्डिमः ॥ ८६॥ सच्चिदानन्दसत्यत्वे
-    मिथ्यात्वे नामरूपयोः । विज्ञाते किमिदं ज्ञेयमिति वेदान्तडिण्डिमः ॥ ८७॥ सालम्बनं निरालम्बं सर्वालम्बावलम्बितम्
-    । अवलम्बेनाखिलालम्ब इति वेदान्तडिण्डिमः ॥ ८८॥ न कुर्यान्न विजानीयात् सर्वं ब्रह्मेत्यनुस्मरन् । यथा
-    सुखं तथा तिष्ठेदिति वेदान्तडिण्डिमः ॥ ८९॥ स्वकर्मपाशवशगः प्राज्ञोऽन्यो वा जनो ध्रुवम् । प्राज्ञः सुखं
-    नयेत्कालमिति वेदान्तडिण्डिमः ॥ ९०॥ न विद्वां सं तपेच्चित्तं करणेऽकरणे ध्रुवम् । सर्वमात्मेति विज्ञानादिति
-    वेदान्तडिण्डिमः ॥ ९१॥ नैवाभासं स्पृशेत्कर्म मिथ्योपाधिमपि स्वयम् । कुतोऽधिष्ठानमत्यच्छमिति वेदान्तडिण्डिमः
-    ॥ ९२॥ अहोऽस्माकमलं मोहैरात्म ब्रह्मेति निर्भयम् । श्रुतिभेरीरवोऽद्यापि श्रूयते श्रुतिरञ्जनः ॥ ९३॥
-    वेदान्तभेरीझङ्कारः प्रतिवादिभयङ्करः । श्रूयतां ब्राह्मणैः श्रीमद्दक्षिणामूर्त्यनुग्रहात् ॥ ९४॥ इति
-    वेदान्तडिण्डिमः सम्पूर्णः । ॐ तत्सत् ।
+  english: vedantadindimastatvamekamuddhoshayanti yat | astam purastantattejo dakshinamurtisanjnitam ||
+    atma'natma padarthau dvau bhoktribhogyatvalakshanau | brahmeva''tmana dehadiriti vedantadindimah ||
+    jnana'jnane padarthom dvavatmano bandhamuktidau | jnananmukti nirbandho'nyaditi vedantadindimah ||
+    jnatri jneyam padarthau dvau bhasya bhasakalakshanau | jnata brahma jagat jneya miti vedantadindimah
+    || sukhaduhkhe padarthau dvau priyavipriyakarakau | sukham brahma jagahuhkha miti vedantadindimah||
+    samashtivyashtirupau dvau padarthau sarvasammatau | samashtirishvaro vyashtirjivo vedantadindimah
+    || jnanam karma padarthau dvau vastukatratma tantrakau | jnananmoksho na karmabhya iti vedantadindimah
+    || shrotavya'shravyarupi dvau padarthom sukhaduhkhadau | shrotavyam brahma naiva'nya diti vedantadindimah||
+    cintya'cintye padathau dvau vishranti shrantidayakau | cintyam brahma param na'nya diti vedantadindimah||
+    dhyeya'dhveye padarthau dvau dvau dhisamadhyasamadhidau | dhyatavyam brahma naiva'nya diti vedantadindimah||
+    yogino bhogino va'pi tyagino ragino'pi ca | jnananmoksho na sandeha iti vedantadindimah || na varnashrama
+    sanketaih na kopasanadibhih| brahmajnanam vina mokshah iti vedantadindimah || asatyassarvasamsaro
+    rasamasadidushitah | upekshyo brahma vijneya miti vedantadindimah || vritha kriyam vritha'lapan vrithavadan
+    manorathan | tyatvaikam brahma vijneya miti vedantadindimah || sthito brahmatmana jivo brahma jivatmana
+    sthitam | iti sampashyatam mukti riti vedantadindimah|| jivo brahmatmana jneyo jneyam jivatmana param
+    | muktista daikyavijnana miti vedantadindimah || sarvatmana param brahma shroturatmataya sthitam |
+    na''yasa stava vijnaptau iti vedantadindimah || aihikam ca''mudhmikam ca tapantam karmasancayam |
+    tyatva brahmaiva vijneya miti vedantadindimah || advaitadvaitavadau dvau sukshmasthuladasham gatau
+    | advaitavadanmokshassya diti vedantadindimah || karmino vinivartante nivartanta upasakah| jnanino
+    na nivartante iti vedantadindimah || paroksha'satphalam karmajnanam pratyakshasatphalam | jnanameva'bhyasettasmat
+    iti vedantadindimah || vritha shramo'yam vidusha vritha'yam karminam shramah | yadi na brahmavijnanam
+    iti || vedantadindimah || alam yagairalam yogairalam bhogai ralam dhanaih | parasminbrahmani jnata
+    iti vedantadindimah || alam vedairalam shastrairalamam smritipuranakaih | paramatmani vijnate iti
+    vedantadindimah || narca na yajusho'rtho'sti na sannartho'ti kashcana | jate brahmatmavijnane iti
+    vedantadindimah || karmani cittashuddhyartham maikagryartha mupasanam | mokshartham brahmavijnana
+    miti vedantadindimah || sancitagamikarmani dahyante jnanakarmana | prarabdhanubhavanmoksha iti vedantadindimah||
+    na punyakarmana vriddhih na hanih papakarmana | nityasangatmanishthanamiti vedantadindimah|| drigdrishyau
+    dvau padarthau tau parasparavilakshanau | drigbrahma drishyam maya syaditi vedantadindimah || avidyopadhiko
+    jivo mayopadhika ishvarah | maya'vidyagunatitah iti vedantadindimah || buddhipurva'buddhipurvakritanam
+    papakarmanam | prayashcittamahojnana miti vedantadindimah || sakaram ca nirakaram nirgunam ca gunatmakam
+    | tattvam tatparamam brahma iti vedantadindimah || dvijatvam vidhyanushthanat vipratvam vedapathatah
+    | brahmanyam brahmavijnanat iti vedantadindimah || sarvatmana sthitam brahma sarvam brahmatmana sthitam
+    | na karyam karanadbhinna miti vedantadindimah || sattasphuranasaukhyani bhasante sarvavastushu |
+    tasmadbrahmamayam sarva miti vedantadindimah || avasthatritayam yasya kridabhumitaya sthitam | tadeva
+    brahma janiyat iti vedantadindimah|| yanna''dau yashca na'styante tanmadhye bhatamapyasat | ato mithya
+    jagatsarvamiti vedantadindimah || yadastyadau yadastyante yanmadhye bhati tatsvayam | praukamidam
+    satya miti vedantadindimah || purusharthatrayavishtah purushah pashavo dhrivam | moksharthi purushah
+    shreshthah iti vedantadindimah || ghatakudyadikam sarvam mrittikamatrameva ca | tatha brahma jagatsarva
+    miti vedantadindimah || shannihatya trayam hitva dvayam bhisva'khilagatim | ekam buddha''shrute moksha
+    miti vedantadindimah || bhitva shat panca bhittva'tha bhishva'tha caturakhikam | dvayam hitva shrayedeka
+    miti vedantadindimah || deho naha maham dehi dehasakshiti nishcayat | janmamrityupahino'sau iti vedantadindimah
+    || pranonahamaham devah pranassakshiti nishcayat | kshutpipasopashanti ssyat iti vedantadindimah ||
+    mano na'ha maham devo manassakshiti nishcayat | shokamohapahanirasyat vedantadindimah || buddhirna'hamaham
+    devo buddhisakshiti nishcayat | kartribhavanirvrittissyat iti vedantadindimah || najnanam syamaham
+    devo'jnanasakshiti nishcayat | sarvanarthanivrittisyat iti vedantadindimah || aham sakshiti yo vidyat
+    vivicyaivam puna punah | sa eva mukto'sau vidvan iti vedantadindimah || naham maya na tatkaryam na
+    sakshi paramo'smyaham | iti nissamshayajnanat muktirve vedantadindimah || na'ham sarva maham sarvam
+    mayi sarvamiti sphutam | jnate tatve kuto duhkha miti vedantadindimah || dehadipancakoshastha ya satta
+    pratibhasate | sa sattasstma na sandeha iti vedantadindimah || dehadipancakoshastha ya sphurti ranubhuyate
+    | sa sphurtiratma naiva'nya diti vedantadindimah || dehadipancakoshastha ya pritiranubhuyate | sa
+    pritiratma kutasthah iti vedantadindimah || vyomadipancabhutastha yasatta bhasate nrinam | sa satta
+    paramam brahma iti vedantadindimah || vyomadipancabhutastha ya cideka'nubhuyate | sa cideva param
+    brahma iti vedantadindimah || vyomadipancabhutastha ya pritiranubhuyate | sapritireva brahma syat
+    iti vedantadindimah || dehadikoshaga satta ya sa vyomadibhutaga | mano'bhavanna tadbhedah iti vedantadindimah
+    || dehavikoshaga sphurtirya sa vyomadibhutaga | mano'bhava na tadbheda iti vedantadindimah || dehadikoshaga
+    pritirya sa vyomadibhutaga | mana'bhava nna tadbheda iti vedantadindimah|| saccidanandarupatvat brahmaiva'tma
+    na samshayah| pramanakotisanghanat iti vedantadindimah|| na jivabrahmanorbhedah sattarupena vidyate|
+    sattabhede na manam syat iti vedantadindimah|| na jivabrahmanorbhedah sphurtirupena vidyate | sphurtibhede
+    na manam syat iti vedantadindimah || na jivabrahmanorbhedah priyarupena vidyate | priyabhede na manam
+    syat iti vedantadindimah || na jivabrahmanorbhedo nana rupena vidyate | namno rupasya mithyatvat iti
+    vedantadindimah || na jivabrahmanorbhedah pindabrahmandabhedatah | vyashtessamashterekatvat iti vedantadindimah
+    || brahma satyam jaganmithya jivo brahmaiva na h | jivanmuktastu tadvidvan iti vedantadindimah ||
+    na namarupe niyate sarvatra vyabhicaratah | anamarupam sarvam syat iti vedantadindimah || anamarupam
+    sakalam sanmayam cinmayam param | kuto bhedah kuto bandhah iti vedantadindimah || na tattvatkathyate
+    loko namadyairvyabhicaratah| vaturjaratha ityadyai riti vedantadindimah || namarupatmakam vishvamindrajalam
+    vidurbudhah | anamatvadayuktatvat iti vedantadindimah || abhedadarshanam mokshah samsaye bhedadarshanam
+    | sarvavedantasiddhantah iti vedantadindimah || na matabhiniveshitvat na bhashaveshamatratah | mukti
+    rvina''tmavijnanat iti vedantadindimah || na kasyapratishiddhabhih kriyabhi mokshavasana | ishvaranugrahatsa
+    syat iti vedantadindimah || avijnate janma nashtam vijnate janma sarthakam | jnaturatma na dure syat
+    iti vedantadindimah || dashamasya parijnanena''yaso'sti yathah tatha | svastha brahmatmavijnane iti
+    vedantadindimah || upekshyopadhikan doshan grihyante vishama yatha | upekshya drishyam ya dbrahma
+    iti vedantadindimah || sukhamalpam bahuh kleshovishayamahinam nrinam | anantam brahmanishthanam iti
+    vedantadindimah || dhanairva dhanadaih putraih daragarasahodaraih | dhrivam pranaharairduhkham iti
+    vedantadindimah|| supte rutthaya suptyantyam brahmaikam pravicintyatam | natidure nrinam mrityuh iti
+    vedantadindimah || pancanamapikoshanam maya'narthavyayocita | tatsakshi brahma vijnana miti vedantadindimah
+    || dashamatvaparijnane nanajnasya yatha sukham | tatha jivasya satpraptau iti vedantadindimah|| navabhyo'sti
+    param pratyaknasa veda param param | tadvijnanadbhavetturya mukti rvedantadindimah || nava''bhasanavajnatvat
+    navopadhinnavatmana | mithya jnatva'vashishte tu maunam vedantadindimah|| parame brahmani svasmin
+    pravilapya'khilam jagat | gayanadvatamanandam aste vedantadindimah || pratilomanulomabhyam vishvaropapavadayoh
+    | cintane shishyate tatvam iti vedantadindimah || namarupabhimanasthat samsarasarvadehinam | saccidanandadrishtistyat
+    muktirvedantadindimah || sacidanandasatyatve mithyatve namarupayoh| vijnate kimidam jneyam iti vedantadindimah
+    || salambanam niralambam sarvalambavalambitam | alambena'khilalamba miti vedantadindimah|| na kurya
+    nna vijaniyat sarvam brahmetyanusmaran | yatha sukham tatha tishthet iti vedantadindimah|| svakarmapashavashagah
+    prajno'nyo va jano dhruvam | prajnassukham nayetkala miti vedantadindimah|| na vidvan santape cittam
+    karanakarane dhruvam | sarvamatmeti vijnanat iti vedantadindimah naivassbhasam sprishetkarmamithyopadhimapi
+    svayam | kuto'dhishthanamatyacchamiti vedantadindimah|| aho'smaka malam mohairatma brahmeti nirbhayam
+    | shrutibheriravo'dya'pi shruyate shrutiranjanah || vedantabherijhavarah prativadibhayankarah | shruyatam
+    brahmanaih shrimaddakshinamurtyanugrahat || iti shrimatparamahamsa parivrajakacarya shrimacchankara
+    bhagavatpujyapadakritishu vedantadindimah||
+  devanagari: वेदान्तडिण्डिमास्तत्वमेकमुद्धोषयन्ति यत् । आस्तां पुरस्तान्तत्तेजो दक्षिणामूर्तिसञ्ज्ञितम्
+    ॥ आत्माऽनात्मा पदार्थौ द्वौ भोक्तृभोग्यत्वलक्षणौ । ब्रह्मेवाऽऽत्मान देहादिरिति वेदान्तडिण्डिमः ॥ ज्ञानाऽज्ञाने
+    पदार्थों द्वावात्मनो बन्धमुक्तिदौ । ज्ञानान्मुक्ति निर्बन्धोऽन्यदिति वेदान्तडिण्डिमः ॥ ज्ञातृ ज्ञेयं
+    पदार्थौ द्वौ भास्य भासकलक्षणौ । ज्ञाता ब्रह्म जगत् ज्ञेय मिति वेदान्तडिण्डिमः ॥ सुखदुःखे पदार्थौ द्वौ
+    प्रियविप्रियकारकौ । सुखं ब्रह्म जगहुःख मिति वेदान्तडिण्डिमः॥ समष्टिव्यष्टिरूपौ द्वौ पदार्थौ सर्वसम्मतौ
+    । समष्टिरीश्वरो व्यष्टिर्जीवो वेदान्तडिण्डिमः ॥ ज्ञानं कर्म पदार्थौ द्वौ वस्तुकत्रात्म तन्त्रकौ ।
+    ज्ञानान्मोक्षो न कर्मभ्य इति वेदान्तडिण्डिमः ॥ श्रोतव्याऽश्रव्यरूपी द्वौ पदार्थों सुखदुःखदौ । श्रोतव्यं
+    ब्रह्म नैवाऽन्य दिति वेदान्तडिण्डिमः॥ चिन्त्याऽचिन्त्ये पदाथौ द्वौ विश्रान्ति श्रान्तिदायकौ । चिन्त्यं
+    ब्रह्म परं नाऽन्य दिति वेदान्तडिण्डिमः॥ ध्येयाऽध्वेये पदार्थौ द्वौ द्वौ धीसमाध्यसमाधिदौ । ध्यातव्यं
+    ब्रह्म नैवाऽन्य दिति वेदान्तडिण्डिमः॥ योगिनो भोगिनो वाऽपि त्यागिनो रागिणोऽपि च । ज्ञानान्मोक्षो न
+    सन्देह इति वेदान्तडिण्डिमः ॥ न वर्णाश्रम सङ्केतैः न कोपासनादिभिः। ब्रह्मज्ञानं विना मोक्षः इति वेदान्तडिण्डिमः
+    ॥ असत्यस्सर्वसंसारो रसामासादिदूषितः । उपेक्ष्यो ब्रह्म विज्ञेय मिति वेदान्तडिण्डिमः ॥ वृथा क्रियां
+    वृथाऽलापान् वृथावादान् मनोरथान् । त्यत्वैकं ब्रह्म विज्ञेय मिति वेदान्तडिण्डिमः ॥ स्थितो ब्रह्मात्मना
+    जीवो ब्रह्म जीवात्मना स्थितम् । इति सम्पश्यतां मुक्ति रिति वेदान्तडिण्डिमः॥ जीवो ब्रह्मात्मना ज्ञेयो
+    ज्ञेयं जीवात्मना परम् । मुक्तिस्त दैक्यविज्ञान मिति वेदान्तडिण्डिमः ॥ सर्वात्मना परं ब्रह्म श्रोतुरात्मतया
+    स्थितम् । नाऽऽयास स्तव विज्ञप्तौ इति वेदान्तडिण्डिमः ॥ ऐहिकं चाऽऽमुध्मिकं च तापान्तं कर्मसञ्चयम् ।
+    त्यत्वा ब्रह्मैव विज्ञेय मिति वेदान्तडिण्डिमः ॥ अद्वैतद्वैतवादौ द्वौ सूक्ष्मस्थूलदशां गतौ । अद्वैतवादान्मोक्षस्स्या
+    दिति वेदान्तडिण्डिमः ॥ कर्मिणो विनिवर्तन्ते निवर्तन्त उपासकाः। ज्ञानिनो न निवर्तन्ते इति वेदान्तडिण्डिमः
+    ॥ परोक्षाऽसत्फलं कर्मज्ञानं प्रत्यक्षसत्फलम् । ज्ञानमेवाऽभ्यसेत्तस्मात् इति वेदान्तडिण्डिमः ॥ वृथा
+    श्रमोऽयं विदुषा वृथाऽयं कर्मिणां श्रमः । यदि न ब्रह्मविज्ञानं इति ॥ वेदान्तडिण्डिमः ॥ अलं यागैरलं
+    योगैरलं भोगै रलं धनैः । परस्मिन्ब्रह्मणि ज्ञात इति वेदान्तडिण्डिमः ॥ अलं वेदैरलं शास्त्रैरलमं स्मृतिपुराणकैः
+    । परमात्मनि विज्ञाते इति वेदान्तडिण्डिमः ॥ नर्चा न यजुषोऽर्थोऽस्ति न सान्नर्थोऽति कश्चन । जाते ब्रह्मात्मविज्ञाने
+    इति वेदान्तडिण्डिमः ॥ कर्माणि चित्तशुद्ध्यर्थं मैकाग्र्यार्थ मुपासनम् । मोक्षार्थं ब्रह्मविज्ञान मिति
+    वेदान्तडिण्डिमः ॥ सञ्चितागामिकर्माणि दह्यन्ते ज्ञानकर्मणा । प्रारब्धानुभवान्मोक्ष इति वेदान्तडिण्डिमः॥
+    न पुण्यकर्मणा वृद्धिः न हानिः पापकर्मणा । नित्यासङ्गात्मनिष्ठानामिति वेदान्तडिण्डिमः॥ दृग्दृश्यौ द्वौ
+    पदार्थौ तौ परस्परविलक्षणौ । दृग्ब्रह्म दृश्यं माया स्यादिति वेदान्तडिण्डिमः ॥ अविद्योपाधिको जीवो मायोपाधिक
+    ईश्वरः । मायाऽविद्यागुणातीतः इति वेदान्तडिण्डिमः ॥ बुद्धिपूर्वाऽबुद्धिपूर्वकृतानां पापकर्मणाम् । प्रायश्चित्तमहोज्ञान
+    मिति वेदान्तडिण्डिमः ॥ साकारं च निराकारं निर्गुणं च गुणात्मकम् । तत्त्वं तत्परमं ब्रह्म इति वेदान्तडिण्डिमः
+    ॥ द्विजत्वं विध्यनुष्ठानात् विप्रत्वं वेदपाठतः । ब्राह्मण्यं ब्रह्मविज्ञानात् इति वेदान्तडिण्डिमः
+    ॥ सर्वात्मना स्थितं ब्रह्म सर्वं ब्रह्मात्मना स्थितम् । न कार्यं कारणाद्भिन्न मिति वेदान्तडिण्डिमः
+    ॥ सत्तास्फुरणसौख्यानि भासन्ते सर्ववस्तुषु । तस्माद्ब्रह्ममयं सर्व मिति वेदान्तडिण्डिमः ॥ अवस्थात्रितयं
+    यस्य क्रीडाभूमितया स्थितम् । तदेव ब्रह्म जानीयात् इति वेदान्तडिण्डिमः॥ यन्नाऽऽदौ यश्च नाऽस्त्यन्ते
+    तन्मध्ये भातमप्यसत् । अतो मिथ्या जगत्सर्वमिति वेदान्तडिण्डिमः ॥ यदस्त्यादौ यदस्त्यन्ते यन्मध्ये भाति
+    तत्स्वयम् । प्रौकमिदं सत्य मिति वेदान्तडिण्डिमः ॥ पुरुषार्थत्रयाविष्टाः पुरुषाः पशवो धृवम् । मोक्षार्थी
+    पुरुषः श्रेष्ठः इति वेदान्तडिण्डिमः ॥ घटकुड्यादिकं सर्वं मृत्तिकामात्रमेव च । तथा ब्रह्म जगत्सर्व
+    मिति वेदान्तडिण्डिमः ॥ षण्णिहत्य त्रयं हित्वा द्वयं भिस्वाऽखिलागतिम् । एकं बुद्धाऽऽश्रुते मोक्ष मिति
+    वेदान्तडिण्डिमः ॥ भित्वा षट् पञ्च भित्त्वाऽथ भिश्वाऽथ चतुरखिकम् । द्वयं हित्वा श्रयेदेक मिति वेदान्तडिण्डिमः
+    ॥ देहो नाह महं देही देहसाक्षीति निश्चयात् । जन्ममृत्युपहीणोऽसौ इति वेदान्तडिण्डिमः ॥ प्राणोनाहमहं
+    देवः प्राणस्साक्षीति निश्चयात् । क्षुत्पिपासोपशान्ति स्स्यात् इति वेदान्तडिण्डिमः ॥ मनो नाऽह महं देवो
+    मनस्साक्षीति निश्चयात् । शोकमोहापहानिरस्यात् वेदान्तडिण्डिमः ॥ बुद्धिर्नाऽहमहं देवो बुद्धिसाक्षीति
+    निश्चयात् । कर्तृभावनिर्वृत्तिस्स्यात् इति वेदान्तडिण्डिमः ॥ नाज्ञानं स्यामहं देवोऽज्ञानसाक्षीति निश्चयात्
+    । सर्वानर्थनिवृत्तिस्यात् इति वेदान्तडिण्डिमः ॥ अहं साक्षीति यो विद्यात् विविच्यैवं पुन पुनः । स एव
+    मुक्तोऽसौ विद्वान् इति वेदान्तडिण्डिमः ॥ नाहं माया न तत्कार्यं न साक्षी परमोऽस्म्यहम् । इति निस्संशयज्ञानात्
+    मुक्तिर्वे वेदान्तडिण्डिमः ॥ नाऽहं सर्व महं सर्वं मयि सर्वमिति स्फुटम् । ज्ञाते तत्वे कुतो दुःख मिति
+    वेदान्तडिण्डिमः ॥ देहादिपञ्चकोशस्था या सत्ता प्रतिभासते । सा सत्तास्स्त्मा न सन्देह इति वेदान्तडिण्डिमः
+    ॥ देहादिपञ्चकोशस्था या स्फूर्ति रनुभूयते । सा स्फूर्तिरात्मा नैवाऽन्य दिति वेदान्तडिण्डिमः ॥ देहादिपञ्चकोशस्था
+    या प्रीतिरनुभूयते । सा प्रीतिरात्मा कूटस्थः इति वेदान्तडिण्डिमः ॥ व्योमादिपञ्चभूतस्था यासत्ता भासते
+    नृणाम् । सा सत्ता परमं ब्रह्म इति वेदान्तडिण्डिमः ॥ व्योमादिपञ्चभूतस्था या चिदेकाऽनुभूयते । सा चिदेव
+    परं ब्रह्म इति वेदान्तडिण्डिमः ॥ व्योमादिपञ्चभूतस्था या प्रीतिरनुभूयते । साप्रीतिरेव ब्रह्म स्यात्
+    इति वेदान्तडिण्डिमः ॥ देहादिकोशगा सत्ता या सा व्योमादिभूतगा । मानोऽभावान्न तद्भेदः इति वेदान्तडिण्डिमः
+    ॥ देहाविकोशगा स्फूर्तिर्या सा व्योमादिभूतगा । मानोऽभावा न तद्भेद इति वेदान्तडिण्डिमः ॥ देहादिकोशगा
+    प्रीतिर्या सा व्योमादिभूतगा । मानाऽभावा न्न तद्भेद इति वेदान्तडिण्डिमः॥ सच्चिदानन्दरूपत्वात् ब्रह्मैवाऽत्मा
+    न संशयः। प्रमाणकोटिसङ्घानात् इति वेदान्तडिण्डिमः॥ न जीवब्रह्मणोर्भेदः सत्तारूपेण विद्यते। सत्ताभेदे
+    न मानं स्यात् इति वेदान्तडिण्डिमः॥ न जीवब्रह्मणोर्भेदः स्फूर्तिरूपेण विद्यते । स्फूर्तिभेदे न मानं
+    स्यात् इति वेदान्तडिण्डिमः ॥ न जीवब्रह्मणोर्भेदः प्रियरूपेण विद्यते । प्रियभेदे न मानं स्यात् इति
+    वेदान्तडिण्डिमः ॥ न जीवब्रह्मणोर्भेदो नाना रूपेण विद्यते । नाम्नो रूपस्य मिथ्यात्वात् इति वेदान्तडिण्डिमः
+    ॥ न जीवब्रह्मणोर्भेदः पिण्डब्रह्माण्डभेदतः । व्यष्टेस्समष्टेरेकत्वात् इति वेदान्तडिण्डिमः ॥ ब्रह्म
+    सत्यं जगन्मिथ्या जीवो ब्रह्मैव ना ः । जीवन्मुक्तस्तु तद्विद्वान् इति वेदान्तडिण्डिमः ॥ न नामरूपे नियते
+    सर्वत्र व्यभिचारतः । अनामरूपं सर्वं स्यात् इति वेदान्तडिण्डिमः ॥ अनामरूपं सकलं सन्मयं चिन्मयं परम्
+    । कुतो भेदः कुतो बन्धः इति वेदान्तडिण्डिमः ॥ न तत्त्वात्कथ्यते लोको नामाद्यैर्व्यभिचारतः। वटुर्जरठ
+    इत्याद्यै रिति वेदान्तडिण्डिमः ॥ नामरूपात्मकं विश्वमिन्द्रजालं विदुर्बुधाः । अनामत्वादयुक्तत्वात्
+    इति वेदान्तडिण्डिमः ॥ अभेददर्शनं मोक्षः संसाये भेददर्शनम् । सर्ववेदान्तसिद्धान्तः इति वेदान्तडिण्डिमः
+    ॥ न मताभिनिवेशित्वात् न भाषावेशमात्रतः । मुक्ति र्विनाऽऽत्मविज्ञानात् इति वेदान्तडिण्डिमः ॥ न कास्यप्रतिषिद्धाभिः
+    क्रियाभि मोक्षवासना । ईश्वरानुग्रहात्सा स्यात् इति वेदान्तडिण्डिमः ॥ अविज्ञाते जन्म नष्टं विज्ञाते
+    जन्म सार्थकम् । ज्ञातुरात्मा न दूरे स्यात् इति वेदान्तडिण्डिमः ॥ दशमस्य परिज्ञानेनाऽऽयासोऽस्ति यथाः
+    तथा । स्वस्थ ब्रह्मात्मविज्ञाने इति वेदान्तडिण्डिमः ॥ उपेक्ष्योपाधिकान् दोषान् गृह्यन्ते विषमा यथा
+    । उपेक्ष्य दृश्यं य द्ब्रह्म इति वेदान्तडिण्डिमः ॥ सुखमल्पं बहुः क्लेशोविषयमाहिणां नृणाम् । अनन्तं
+    ब्रह्मनिष्ठानां इति वेदान्तडिण्डिमः ॥ धनैर्वा धनदैः पुत्रैः दारागारसहोदरैः । धृवं प्राणहरैर्दुःखं
+    इति वेदान्तडिण्डिमः॥ सुप्ते रुत्थाय सुप्त्यन्त्यं ब्रह्मैकं प्रविचिन्त्यताम् । नातिदूरे नृणां मृत्युः
+    इति वेदान्तडिण्डिमः ॥ पञ्चानामपिकोशानां मायाऽनर्थाव्ययोचिता । तत्साक्षि ब्रह्म विज्ञान मिति वेदान्तडिण्डिमः
+    ॥ दशमत्वपरिज्ञाने ननज्ञस्य यथा सुखम् । तथा जीवस्य सत्प्राप्तौ इति वेदान्तडिण्डिमः॥ नवभ्योऽस्ति परं
+    प्रत्यक्नस वेद परं परम् । तद्विज्ञानाद्भवेत्तुर्या मुक्ति र्वेदान्तडिण्डिमः ॥ नवाऽऽभासानवज्ञत्वात्
+    नवोपाधीन्नवात्मना । मिथ्या ज्ञात्वाऽवशिष्टे तु मौनं वेदान्तडिण्डिमः॥ परमे ब्रह्मणि स्वस्मिन् प्रविलाप्याऽखिलं
+    जगत् । गायनद्वतमानन्दं आस्ते वेदान्तडिण्डिमः ॥ प्रतिलोमानुलोमाभ्यां विश्वारोपापवादयोः । चिन्तने शिष्यते
+    तत्वं इति वेदान्तडिण्डिमः ॥ नामरूपाभिमानस्थात् संसारसर्वदेहिनाम् । सच्चिदानन्ददृष्टिस्त्यात् मुक्तिर्वेदान्तडिण्डिमः
+    ॥ सचिदानन्दसत्यत्वे मिथ्यात्वे नामरूपयोः। विज्ञाते किमिदं ज्ञेयं इति वेदान्तडिण्डिमः ॥ सालम्बनं निरालम्बं
+    सर्वालम्बावलम्बितम् । आलम्बेनाऽखिलालम्ब मिति वेदान्तडिण्डिमः॥ न कुर्या न्न विजानीयात् सर्वं ब्रह्मेत्यनुस्मरन्
+    । यथा सुखं तथा तिष्ठेत् इति वेदान्तडिण्डिमः॥ स्वकर्मपाशवशगः प्राज्ञोऽन्यो वा जनो ध्रुवम् । प्राज्ञस्सुखं
+    नयेत्काल मिति वेदान्तडिण्डिमः॥ न विद्वान् सन्तपे चित्तं करणाकरणे ध्रुवम् । सर्वमात्मेति विज्ञानात्
+    इति वेदान्तडिण्डिमः नैवास्स्भासं स्पृशेत्कर्ममिथ्योपाधिमपि स्वयम् । कुतोऽधिष्ठानमत्यच्छमिति वेदान्तडिण्डिमः॥
+    अहोऽस्माक मलं मोहैरात्मा ब्रह्मेति निर्भयम् । श्रुतिभेरीरवोऽद्याऽपि श्रूयते श्रुतिरञ्जनः ॥ वेदान्तभेरीझवारः
+    प्रतिवादिभयङ्करः । श्रूयतां ब्राह्मणैः श्रीमद्दक्षिणामूर्त्यनुग्रहात् ॥ इति श्रीमत्परमहंस परिव्राजकाचार्य
+    श्रीमच्छङ्कर भगवत्पूज्यपादकृतिषु वेदान्तडिण्डिमः॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_z_misc_major_works/vedAntaDiNDimaH.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Vedanta Dindima
   license: public_domain
-tags:
-- major\_works
-- vedAnta
+tags: []
 priority: true
+aliases: []

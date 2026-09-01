@@ -2,58 +2,76 @@ id: sri-suktam
 category: stotram
 name:
   english: Sri Suktam
-  devanagari: श्रीसूक्तं (पौराणीकम्)
 content:
-  english: devyabhisheke pauranam shrisuktam - hiranyavarnam himaraupyaharam candram tvadiyam ca hiranyarupam
-    | lakshmim mrigirupadharam (1) shriyam tvam madarthamakaraya jatavedah || 1|| yasyam sulakshmyamahamagatayam
-    hiranyago'shvatmajamitradasan | labheyamashu hyanapayinim tam madarthamakaraya jatavedah || 2|| pratyahvaye
-    tamahamashvapurvam devim shriyam madhyaratham samipam | prabodhinim hastisubrimhitenahuta maya sa
-    kila sevatam mam || 3|| kamsosmitam tamihadmavarnamadram suvarnavaranam jvalantim | triptam hi bhaktanatha
-    tarpayantimupahvaye'ham kamalasanastham || 4|| loke jvalantim yashasa prabhasam candramudamuta devajushtam
-    | tam padmarupam sharanam prapadye shriyam vrine tvom vrajatamalakshmih || 5|| vanaspatiste tapaso'dhijato
-    vriksho'tha bilvastarunarkavarne | phalani tasya tvadanugrahena maya alakshmishca nudantu bahyah ||
-    6|| upaitu mam devasakhah kuberah sa dakshakanya manina ca kirtih | jato'smi rashtre kila martyaloke
-    kirtim samriddhim ca dadatu mahyam || 7|| kshuttritkrishangi malinamalakshmim tavagrajam tamutanashayami
-    | sarvamabhutim hyasamriddhimambe grihanca (grihacca) nishkasaya me drutam tvam || 8|| kenapyadharshammatha
-    gandhacihnam pushtam gavashvadiyutam ca nityam | padmalaye sarvajaneshvarim tam pratyahvaye'ham khalu
-    matsamipam || 9|| labhemahi shrimanasashca kamam vacastu satyam ca sukalpitam vai | annasya bhakshyam
-    ca payah pashunam sampaddhi mayyashrayatam yashashca || 10|| mayi prasadam kuru kardama tvam prajavati
-    shrirabhavattvaya hi | kule pratishthapaya mem shriyam vai tvanmataram tamuta padmamalam || 11|| snigdhani
-    capo'bhisrijantvajasram ciklitavasam kuru madgrihe tvam | kule shriyam mataramashume'dya shriputra
-    samvasayatam ca devim || 12|| tam pingalam pushkarinim ca lakshmimadram ca pushtim shubhapadmamalam
-    || candraprakasham ca hiranyarupam madarthamakaraya jatavedah || 13|| adram(adrim) tatha yashtikaram
-    suvarnam tam yashtirupamatha hemamalam | suryaprakasham ca hiranyarupam madarthamakaraya jatavedah
-    || 14|| yasyam prabhutam kanakam ca gavo dasyasturanganpurushamshca satyam | vindeyamashu hyanapayinim
-    tam madarthamakaraya jatavedah || 15|| shriyah pancadashashlokam suktam pauranamanvaham | yah pathejjuhuyaccajyam
-    shriyutah satatam bhavet || 16|| iti pauranikam shrisuktam samaptam | 1 mrigirupadharam shrirdhritva
-    harinirupamaranye sancara ha iti puranavacanat
-  devanagari: देव्यभिषेके पौराणं श्रीसूक्तम् - हिरण्यवर्णां हिमरौप्यहारां चन्द्रां त्वदीयां च हिरण्यरूपाम्
-    । लक्ष्मीं मृगीरूपधरां (१) श्रियं त्वं मदर्थमाकारय जातवेदः ॥ १॥ यस्यां सुलक्ष्म्यामहमागतायां हिरण्यगोऽश्वात्मजमित्रदासान्
-    । लभेयमाशु ह्यनपायिनीं तां मदर्थमाकारय जातवेदः ॥ २॥ प्रत्याह्वये तामहमश्वपूर्वां देवीं श्रियं मध्यरथां
-    समीपम् । प्रबोधिनीं हस्तिसुबृंहितेनाहूता मया सा किल सेवतां माम् ॥ ३॥ कांसोस्मितां तामिहद्मवर्णामाद्रां
-    सुवर्णावरणां ज्वलन्तीम् । तृप्तां हि भक्तानथ तर्पयन्तीमुपह्वयेऽहं कमलासनस्थाम् ॥ ४॥ लोके ज्वलन्तीं
-    यशसा प्रभासां चन्द्रामुदामुत देवजुष्टाम् । तां पद्मरूपां शरणं प्रपद्ये श्रियं वृणे त्वों व्रजतामलक्ष्मीः
-    ॥ ५॥ वनस्पतिस्ते तपसोऽधिजातो वृक्षोऽथ बिल्वस्तरुणार्कवर्णे । फलानि तस्य त्वदनुग्रहेण माया अलक्ष्मीश्च
-    नुदन्तु बाह्याः ॥ ६॥ उपैतु मां देवसखः कुबेरः सा दक्षकन्या मणिना च कीर्तिः । जातोऽस्मि राष्ट्रे किल
-    मर्त्यलोके कीर्तिं समृद्धिं च ददातु मह्यम् ॥ ७॥ क्षुत्तृट्कृशाङ्गी मलिनामलक्ष्मीं तवाग्रजां तामुतनाशयामि
-    । सर्वामभूतिं ह्यसमृद्धिमम्बे गृहाञ्च (गृहाच्च) निष्कासय मे द्रुतं त्वम् ॥ ८॥ केनाप्यधर्षाम्मथ गन्धचिह्नां
-    पुष्टां गवाश्वादियुतां च नित्यम् । पद्मालये सर्वजनेश्वरीं तां प्रत्याह्वयेऽहं खलु मत्समीपम् ॥ ९॥ लभेमहि
-    श्रीमनसश्च कामं वाचस्तु सत्यं च सुकल्पितं वै । अन्नस्य भक्ष्यं च पयः पशूनां सम्पद्धि मय्याश्रयतां
-    यशश्च ॥ १०॥ मयि प्रसादं कुरु कर्दम त्वं प्रजावती श्रीरभवत्त्वया हि । कुले प्रतिष्ठापय में श्रियं वै
-    त्वन्मातरं तामुत पद्ममालाम् ॥ ११॥ स्निग्धानि चापोऽभिसृजन्त्वजस्रं चिक्लीतवासं कुरु मद्गृहे त्वम् ।
-    कुले श्रियं मातरमाशुमेऽद्य श्रीपुत्र संवासयतां च देवीम् ॥ १२॥ तां पिङ्गलां पुष्करिणीं च लक्ष्मीमाद्रां
-    च पुष्टिं शुभपद्ममालाम् ॥ चन्द्रप्रकाशां च हिरण्यरूपां मदर्थमाकारय जातवेदः ॥ १३॥ आद्रां(आद्रीं) तथा
-    यष्टिकरां सुवर्णां तां यष्टिरूपामथ हेममालाम् । सूर्यप्रकाशां च हिरण्यरूपां मदर्थमाकारय जातवेदः ॥ १४॥
-    यस्यां प्रभूतं कनकं च गावो दास्यस्तुरङ्गान्पुरुषांश्च सत्याम् । विन्देयमाशु ह्यनपायिनीं तां मदर्थमाकारय
-    जातवेदः ॥ १५॥ श्रियः पञ्चदशश्लोकं सूक्तं पौराणमन्वहम् । यः पठेज्जुहुयाच्चाज्यं श्रीयुतः सततं भवेत्
-    ॥ १६॥ इति पौराणीकम् श्रीसूक्तं समाप्तम् । १ मृगीरूपधरां श्रीर्धृत्वा हरिणीरूपमरण्ये सञ्चार ह इति पुराणवचनात्
+  english: om || hiranyavarnam harinim suvarnarajatasrajam | candram hiranmayim njatavedo mamavaha ||
+    ta mma avaha jatavedo lakshmimanapagamini m | yasyam hiranyam mpurushanaham || ashvapurvam rathamadhyam
+    hastinada prabodhinim | shriya ndevimupahvaye shrirma devirjushatam || kamso smitam hiranyaprakaramardra
+    ntarpayantim | padme sthita ntamihopahvaye shriyam || candra ya~shasa jvalantim shriyam lo~ke devajushtamudaram
+    | ta mpadminimim sharanamaha 'lakshmirme nashyata vri~ne || adityavarne tapaso 'dhijato vanaspatistava
+    vriksho 'tha bilvah | tasya phalani tapasanudantu mayantarayashca bahya alakshmih || upaitu ma ndevasakhah
+    kirtishca manina saha | pradurbhuto 'smin kirtimriddhi ndadatu me || kshutpipasamala rnashayamyaham
+    | abhutimasamriddhi nnirnuda me grihat || gandhadvara m | ishvarigm sarvabhutana ntamihopahvaye shriyam
+    || rme bhajatu | alakshi ssatyamashimahi | pashunagm rupamannasya mayi shri ya~shah || kardamena prajabhuta
+    mayi sambhava kardama | shriyam va~saya me kule matara mpadmamalinim || apah srijantu snigdhani ciklita
+    vasa me grihe | ni ca devi va~saya me kule || ardra mpushtim pingala mpadmamalinim | candram hiranmayim
+    njatavedo mamavaha || ardram ya~shtim suvarnam hemamalinim | suryam hiranmayim njatavedo mamavaha
+    || ta mma avaha jatavedo lakshmimanapagamini m | yasyam hiranya yashshucih prayato bhutva juhuya manvaham
+    | shriyah pancadasharca nca shrikamassatata njapet || anandah kardamashcaiva ciklita iti vishrutah
+    | rishayaste trayah putra ssvayam shrireva devata || padmanane padma uru padmakshi padmasambhave |
+    tva mbhajasva padmakshi yena saukhyam la~bhamyaham || ashvadayi ca godayi dhanadayi mahadhane | dhana
+    ndevi sarvakamartha siddhaye || putrapautra dhana ndhanyam hastyashvajavigo ratham | prajana mbhavasi
+    mata ayushmanta nkarotu mam || candrabham la~kshmimishanam suryabham shriyamishvarim | candra suryagni
+    sarvabham shri mahalakshmi va~suh | dhanamindro brihaspati ndhanamashnute || vainateya soma mpibatu
+    vritraha | soma ndhanasya somino mahya ndadatu somini || na krodho na ca matsarya nna lobho nashubha
+    matih | bhavanti krita punyana ntu te vibhavari divo abhrasya vidyutah | roha ntu sarvabijanyava brahma
+    dvisho jahi || padmapriye padmini padmahaste padmalaye padma dalayatakshi | vishvapriye vishnu manonukule
+    tvatpadapadma mmayi sannidhatsva || ya sa padmasanastha vipulakatitati padmapatrayatakshi | gambhira
+    vartanabhi sstanabharanamita shubhra vastottariya || lakshmi ssnapita hemakumbhaih | nityam sa padmahasta
+    mama vasatu grihe sarva mangalyayukta || lakshmi nkshira samudra rajatanayam shriranga dhameshvarim
+    | dasibhuta samasta deva vanitam lo~kaika dipankuram | shrimanmanda kataksha labdha vibhava brahmendra
+    gangadharam | tva ntrailokya kutumbinim sarasijam va~nde mukundapriyam || siddhalakshmi ssarasvati
+    | shrilakshmi rvaralakshmishca prasanna mama sarvada || varankushau pashamabhiti mudram | karairvahanti
+    nkamalasanastham | balarkakoti pratibha ntrinetram | bhaje ntam || sarvamangala mangalye shive sarvartha
+    sadhike | sharanye tryambake devi narayani namostute || o mmahadevyai ca vidmahe vishnupatni ca dhimahi
+    | tanno lakshmih pracodaya mbahuputralabham shatasam ndirghamayuh || om shanti
+  devanagari: ओम् ॥ हिर॑ण्यवर्णां॒ हरि॑णीं सु॒वर्ण॑रज॒तस्र॑जाम् । च॒न्द्रां हि॒रण्म॑यीं ञ्जात॑वेदो म॒माव॑ह
+    ॥ ता म्म॒ आव॑ह॒ जात॑वेदो ल॒क्ष्मीमन॑पगा॒मिनी म् । यस्यां॒ हिर॑ण्यं म्पुरु॑षान॒हम् ॥ अ॒श्व॒पू॒र्वां
+    र॑थम॒ध्यां ह॒स्तिना॑द प्र॒बोधि॑नीम् । श्रिय॑ न्दे॒वीमुप॑ह्वये॒ श्रीर्मा॑ दे॒वीर्जु॑षताम् ॥ कां॒सो
+    स्मि॒तां हिर॑ण्यप्रा॒कारा॑मा॒र्द्रा न्त॒र्पय॑न्तीम् । प॒द्मे॒ स्थि॒ता न्तामि॒होप॑ह्वये॒ श्रियम् ॥
+    च॒न्द्रा यँ॒शसा॒ ज्वल॑न्तीं॒ श्रियं॑ लोँ॒के दे॒वजु॑ष्टामुदा॒राम् । ता म्प॒द्मिनी॑मीं॒ शर॑णम॒ह ऽल॒क्ष्मीर्मे॑
+    नश्यता॒ वृँ॑णे ॥ आ॒दि॒त्यव॑र्णे॒ तप॒सो ऽधि॑जा॒तो वन॒स्पति॒स्तव॑ वृ॒क्षो ऽथ॑ बि॒ल्वः । तस्य॒ फला॑नि॒
+    तप॒सानु॑दन्तु मा॒यान्त॑रा॒याश्च॑ बा॒ह्या अ॑ल॒क्ष्मीः ॥ उपै॑तु॒ मा न्दे॑वस॒खः की॒र्तिश्च॒ मणि॑ना स॒ह
+    । प्रा॒दु॒र्भू॒तो ऽस्मिन् की॒र्ति॒मृ॑द्धि न्द॒दातु॑ मे ॥ क्षु॒त्पि॒पा॒साम॑ला र्ना॑शया॒म्यहम् । अभू॑ति॒मस॑मृद्धि॒
+    न्निर्णु॑द मे॒ गृहात् ॥ ग॒न्ध॒द्वा॒रा म् । ई॒श्वरीग्ं॑ सर्व॑भूता॒ना॒ न्तामि॒होप॑ह्वये॒ श्रियम् ॥ र्मे
+    भ॒जतु । अल॒क्षी स्स॒त्यम॑शीमहि । प॒शू॒नाग्ं रू॒पमन्न॑स्य॒ मयि॒ श्री यँशः॑ ॥ क॒र्दमे॑न प्र॑जाभू॒ता॒
+    म॒यि॒ सम्भ॑व क॒र्दम । श्रियं॑ वाँ॒सय॑ मे कु॒ले॒ मा॒तर॑ म्पद्म॒मालि॑नीम् ॥ आपः॑ सृ॒जन्तु॑ स्नि॒ग्धा॒नि॒
+    चि॒क्ली॒त व॑स मे॒ गृहे । नि च॑ दे॒वी वाँ॒सय॑ मे कु॒ले ॥ आ॒र्द्रा म्पु॒ष्टिं॒ पि॒ङ्ग॒ला म्प॑द्ममा॒लिनीम्
+    । च॒न्द्रां हि॒रण्म॑यीं ञ्जात॑वेदो म॒माव॑ह ॥ आ॒र्द्रां यँ॒ष्टिं॒ सु॒व॒र्णां हे॑ममा॒लिनीम् । सू॒र्यां
+    हि॒रण्म॑यीं ञ्जात॑वेदो म॒माव॑ह ॥ ता म्म॒ आव॑ह॒ जात॑वेदो ल॒क्ष्मीमन॑पगा॒मिनी म् । यस्यां॒ हिर॑ण्य॒
+    यश्शुचिः॑ प्रयतो भू॒त्वा॒ जु॒हुया॑ मन्व॑हम् । श्रियः॑ प॒ञ्चद॑शर्च ञ्च श्री॒काम॑स्सत॒त॒ ञ्ज॑पेत् ॥
+    आनन्दः कर्द॑मश्चै॒व चिक्ली॒त इ॑ति वि॒श्रुताः । ऋष॑य॒स्ते त्र॑यः पुत्रा स्स्व॒यं॒ श्रीरे॑व दे॒वता ॥
+    पद्मानने प॑द्म ऊ॒रू॒ प॒द्माक्षी प॑द्मस॒म्भवे । त्व म्भ॒जस्व॑ पद्मा॒क्षी ये॒न सौख्यं॑ लँभा॒म्यहम् ॥
+    अ॒श्वदा॑यी च गोदा॒यी॒ ध॒नदा॑यी म॒हाध॑ने । धन॑ न्दे॒वी स॒र्वका॑मार्थ॒ सिद्ध॑ये ॥ पुत्रपौत्र धन न्धान्यं
+    हस्त्यश्वाजाविगो रथम् । प्रजाना म्भवसि माता आयुष्मन्त ङ्करोतु माम् ॥ चन्द्राभां लँक्ष्मीमीशानां सूर्याभां
+    श्रियमीश्वरीम् । चन्द्र सूर्याग्नि सर्वाभां श्री महालक्ष्मी वँसुः । धनमिन्द्रो बृहस्पति न्धनम॑श्नुते
+    ॥ वैनतेय सोम म्पिबतु वृत्रहा । सोम॒ न्धनस्य सोमिनो॒ मह्य॑ न्ददातु सोमिनी॑ ॥ न क्रोधो न च मात्स॒र्य
+    न्न लोभो॑ नाशुभा मतिः । भवन्ति कृत पुण्याना न्तु॒ ते वि॑भाव॒रि॒ दि॒वो अभ्रस्य विद्यु॑तः । रोह न्तु
+    सर्व॑बीजान्यव ब्रह्म द्वि॒षो ज॑हि ॥ पद्मप्रिये पद्मिनि पद्महस्ते पद्मालये पद्म दलायताक्षी । विश्वप्रिये
+    विष्णु मनोनुकूले त्वत्पादपद्म म्मयि सन्निधत्स्व ॥ या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी ।
+    गम्भीरा वर्तनाभि स्स्तनभरनमिता शुभ्र वस्तोत्तरीया ॥ लक्ष्मी स्स्नापिता हेमकुम्भैः । नित्यं सा पद्महस्ता
+    मम वसतु गृहे सर्व माङ्गल्ययुक्ता ॥ लक्ष्मी ङ्क्षीर समुद्र राजतनयां श्रीरङ्ग धामेश्वरीम् । दासीभूत
+    समस्त देव वनितां लोँकैक दीपाङ्कुराम् । श्रीमन्मन्द कटाक्ष लब्ध विभव ब्रह्मेन्द्र गङ्गाधराम् । त्वा
+    न्त्रैलोक्य कुटुम्बिनीं सरसिजां वँन्दे मुकुन्दप्रियाम् ॥ सिद्धलक्ष्मी स्सरस्वती । श्रीलक्ष्मी र्वरलक्ष्मीश्च
+    प्रसन्ना मम सर्वदा ॥ वराङ्कुशौ पाशमभीति मुद्राम् । करैर्वहन्ती ङ्कमलासनस्थाम् । बालार्ककोटि प्रतिभा
+    न्त्रिनेत्राम् । भजे न्ताम् ॥ सर्वमङ्गल माङ्गल्ये शिवे सर्वार्थ साधिके । शरण्ये त्र्यम्बके देवि नारायणि
+    नमोस्तुते ॥ ओ म्म॒हा॒दे॒व्यै च॑ वि॒द्महे॑ विष्णुप॒त्नी च॑ धीमहि । तन्नो॑ लक्ष्मीः प्रचो॒दया म्ब॒हुपु॑त्रला॒भं
+    श॒तसं न्दी॒र्घमायुः॑ ॥ ॐ शान्ति॒
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_devii/shrIsUktaMpaurANIkam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Sri Suktam
   license: public_domain
-tags:
-- devii
-- lakShmI
-- devI
-- sUkta
+tags: []
 priority: true
+aliases:
+- sri
+- suktam

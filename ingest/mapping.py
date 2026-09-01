@@ -43,6 +43,11 @@ INDEX_MAPPING = {
             # so a query term can match a tag too (see app/es_client.py's
             # _SEARCH_FIELDS), not just exact-match faceting.
             "tags": {"type": "text", "analyzer": "sanskrit_english"},
+            # Compound-title words split out for search (see
+            # ingest/alias_split.py) — "vishnusahasranama" -> ["vishnu",
+            # "sahasranama"] — so a query for the split form still matches
+            # the title, not just an exact/fuzzy match on the fused form.
+            "aliases": {"type": "text", "analyzer": "sanskrit_english"},
             # True for entries matching vignanam.org's curated title index —
             # a relevance-boost signal only (see app/es_client.py), never a
             # filter.

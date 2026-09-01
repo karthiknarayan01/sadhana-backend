@@ -2,127 +2,42 @@ id: ganesha-mahimna-stotram
 category: stotram
 name:
   english: Ganesha Mahimna Stotram
-  devanagari: गणेशमहिम्नस्तोत्रम्
 content:
-  english: shri ganeshaya namah | anirvacyam rupam stavana-nikaro yatra galita- statha vakshye stotram
-    prathamapurushasya'tra mahatah | yato jatam vishvam sthitamapi sada yatra vilayah sa kidriggirvanah
-    sunigamanutah shriganapatih || 1|| ganesham ganeshah shivamiti ca shaivashca vibudha ravim saura vishnum
-    prathamapurusham vishnubhajakah | vadantyeke shakta jagadudayamulam parishivam na jane kim tasmai
-    nama iti param brahma sakalam || 2|| tathesham yogajna ganapatimimam karma nikhilam samimamsa vedantina
-    iti param brahma sakalam | ajam samkhyo brute sakalagunarupam ca satatam prakartaram nyayastvatha
-    jagati bauddha dhiyamiti || 3|| katham jneyo buddheh paratara iyam bahyasaraniryatha dhiryasya syat
-    sa ca tadanurupo ganapatih | mahatkrityam tasya svayamapi mahan sukshmamanuvad dhvanirjyotirbindurgaganasadrishah
-    kim ca sadasat || 4|| anekasyo'parakshi- karacarano'nanta-hridayastatha nanarupo vividhavadanah shriganapatih
-    | anantahvah shaktya vividhagunakarmaikasamaye tvasamkhyatanantabhimata- phalado'nekavishaye || 5||
-    na yasya'nto madhyo na ca bhavati cadih sumahatamaliptah kritvettham sakalamapi khamvat sa ca prithak
-    | smritah samsmartrinam sakalahridayasthah priyakaro namastasmai devaya sakalasuravandyaya mahate
-    || 6|| ganeshadyam bijam dahana-vanita-pallavayutam manushcaikarno'yam pranavasahito'bhishtaphaladam
-    | sabindushcagadyanganakarishichando'sya ca nicrit sa devah pragbijam vipadapi ca shaktirjapakritam
-    || 7|| gakaro herambah saguna iti punirgunamayo dvidha'pyeko jatah prakritipurusho brahma hi ganah
-    | sa ceshashcotpatti-sthiti- layakaro'yam prathamako yato bhutam bhavyam bhavati patirisho ganapatih
-    || 8|| gakarah kanthordhva gajamukhasamo martyasadrisho nakarah kandadho jatharasadrishakara iti ca
-    | adhobhaga h katyam carana iti hisho'sya ca tanu- rvibhatittham nama tribhuvanasamam bhurbhuvahsuvah
-    || 9|| ganesheti tryarnatmakamapi varam nama sukhadam sakritproccairuccaritamiti nribhih pavanakaram
-    | ganeshasyaikasya pratijapakarasyasya sukritam na vijnato namnah sakalamahima kidrishavidhah || 10||
-    ganeshetyahvam yah pravadati muhustasya puratah prapashya~stadvaktram svayamapi ganastishthati tada
-    | svarupasya jnanam tvamuka iti namna'sya bhavati prabodhah suptasya tvakhilamiha samarthyamamuna
-    || 11|| ganesho vishve'smin sthita iha ca vishvam ganapatau ganesho yatraste dhriti- matiranaishvaryamakhilam
-    | samuktam namaikam ganapatipadam mamgalamayam tadekasyam drishteh sakala-vibudhasyekshana- samam
-    || 12|| bahukleshairvyaptah smrita uta ganeshe ca hridaye kshanat kleshan muktobhavati sahasa tvabhracayavat
-    | bane vidyarambhe yudhi ripubhaye kutra gamane praveshe pranante ganapatipadam ca''shu vishati ||
-    13|| ganadhyaksho jyeshthah kapila aparo mamgalanidhi- rdayalurheramabo varada iti cintamanirajah
-    | varanisho dhundhirgajavadananama shivasuto mayuresho gauritanaya iti namani pathati || 14|| mahesho'yam
-    vishnuh sakaviravirinduh kamalajah kshitistoyam vahnih shvasana iti kham tvadrirudadhih | kujastarah
-    shukro gururudubudho'gushca dhanado yamah pasho kavyah shanirakhilarupo ganapatih || 15|| mukham vahvih
-    padau harirapi vidhata prajananam ravirnetre candro hridayamapi kamo'sya madanah | karau shakrah katyamavanirudaram
-    bhati dashanam ganeshasyasan vai kratumayavapushcaiva sakalam || 16|| anardhyalamkarairaruna-vasanairbhushita-
-    tanuh karindrasyah simhasanamupagato bhati budharat | sthitah syattanmadhye'pyudita- ravibimbopama-rucih
-    sthita siddhirvame matiritaraga camarakara || 17|| samantattasyasan pravaramunisiddhah suraganah prashamsantityagre
-    vividhanutibhih sa'njaliputah | bidaujadyairbrahmadibhiranuvrito bhaktanikarai- rganakridamoda-pramuda-vikatadyaih
-    sahacarai h || 18|| vashitvadyashtashtadasha-digakhilallolamanuvag dhritih paduh khadgo'njanarasabalah
-    siddhaya imah | sada prishthe tishtantyanimishidrishastanmukhalaya ganesham sevante'tyatinikatasupayanakarah
-    || 19|| mrigamkasya rambhaprabhritiganika yasya puratah susamgita kurvantyapi kutukagandharvasahitah
-    | mudah paro na'tretyanupamapade dorvigalita sthiram jatam cittam caranamavalokyasya vimalam || 20||
-    harena'yam dhyatastripuramathane ca'suravadhe ganeshah parvatya balivijayakale'pi harina | vidhatra
-    samsrishtavuragapatina kshonidharane naraih siddhau muktau tribhuvanajaye pushpadhanusha || 21|| ayam
-    suprasade sura iva nijanandabhuvane mahan shrimanadyo laghutaragrihe ramkasadrishah | shivadvare dvahstho
-    nripa iva sada bhupatigrihe sthito bhutvomamke shishuganapatirlalanaparah || 22|| amushmin santushte
-    gajavadana evapi vibudhe tataste santushtastribhuvanagatah syurbudhaganah | dayalurherambo na ca bhavati
-    yasmimshca purushe vritha sarvam tasya prajananamatah sandratamasi || 23|| varenyo bhushundirbhrigu-guru-kuja-mudgalamukha
-    hyaparastadbhakta japa-havana-puja-stutiparah | ganesho'yam bhaktapriya iti ca sarvatra gaditam vibhaktiryatraste
-    svayamapi sada tishthati ganah || 24|| mridah kashciddhatoshchada- vilikhita va'pi drishadah smrita
-    vyajanmurtih pathi yadi bahiryena sahasa | ashuddho'ddha drashta pravadati tadahvam ganapateh shrutva
-    shuddho martyo bhavati duritad vismaya iti || 25|| bahirdvarasyordhvam gajavadana-varshmendhanamayam
-    prashastam va kritva vividha kushalaistatra nihitam | prabhavattanmurtya bhavati sadanam mamgalamayam
-    vilokyanandastam bhavati jagato vismaya iti || 26|| site bhadre mase pratisharadi madhyahnasamaye
-    mrido murti kritva ganapatitithau dhundhisadrishim | samarcantyutsahah prabhavati mahan sarva sadane
-    vilokyanandastam prabhavati nrinam vismaya iti || 27|| tatha hyekah shloko varayati mahimno ganapateh
-    katham sa shloke 'smin stuta iti bhavet samprapathite | smritam namasyaikam sakrididamanantahvayasamam
-    yato yasyaikasya stavanasadrisham na'nyadaparam || 28|| gajavadana vibho yad- varnitam vaibhavam te
-    tviha janushi mamettham caru taddarshayashu | tvamasi ca karunayah sagarah kritsnadata- apyati tava
-    bhritako'ham sarvada cintako'smi || 29|| sustotram prapathatu nityametadeva svanandam prati gamane'pyayam
-    sumargah | sacintyam svamanasi tatpadaravindam sthapyagre stavanaphalam natih karishye || 30|| ganeshadevasyam
-    mahatmyametad yah shravayedva'pi pathecca tasya | klesha layam yanti labhecca shighram stri-putra-
-    vidyartha-griham ca muktim || 31|| || iti shripushpadantaviracitam shriganeshamahimnah stotram sampurnam
-    ||
-  devanagari: श्री गणेशाय नमः । अनिर्वाच्यं रूपं स्तवन-निकरो यत्र गलित- स्तथा वक्ष्ये स्तोत्रं प्रथमपुरुषस्याऽत्र
-    महतः । यतो जातं विश्वं स्थितमपि सदा यत्र विलयः स कीदृग्गीर्वाणः सुनिगमनुतः श्रीगणपतिः ॥ १॥ गणेशं गाणेशाः
-    शिवमिति च शैवाश्च विबुधा रविं सौरा विष्णुं प्रथमपुरुषं विष्णुभजकाः । वदन्त्येके शाक्ता जगदुदयमूलां
-    परिशिवां न जाने किं तस्मै नम इति परं ब्रह्म सकलम् ॥ २॥ तथेशं योगज्ञा गणपतिमिमं कर्म निखिलं समीमांसा
-    वेदान्तिन इति परं ब्रह्म सकलम् । अजां सांख्यो ब्रूते सकलगुणरूपां च सततं प्रकर्तारं न्यायस्त्वथ जगति
-    बौद्धा धियमिति ॥ ३॥ कथं ज्ञेयो बुद्धेः परतर इयं बाह्यसरणिर्यथा धीर्यस्य स्यात् स च तदनुरूपो गणपतिः
-    । महत्कृत्यं तस्य स्वयमपि महान् सूक्ष्ममणुवद् ध्वनिर्ज्योतिर्बिन्दुर्गगनसदृशः किं च सदसत् ॥ ४॥ अनेकास्योऽपाराक्षि-
-    करचरणोऽनन्त-हृदयस्तथा नानारूपो विविधवदनः श्रीगणपतिः । अनन्ताह्वः शक्त्या विविधगुणकर्मैकसमये त्वसंख्यातानन्ताभिमत-
-    फलदोऽनेकविषये ॥ ५॥ न यस्याऽन्तो मध्यो न च भवति चादिः सुमहतामलिप्तः कृत्वेत्थं सकलमपि खंवत् स च पृथक्
-    । स्मृतः संस्मर्तॄणां सकलहृदयस्थः प्रियकरो नमस्तस्मै देवाय सकलसुरवन्द्याय महते ॥ ६॥ गणेशाद्यं बीजं
-    दहन-वनिता-पल्लवयुतं मनुश्चैकार्णोऽयं प्रणवसहितोऽभीष्टफलदम् । सबिन्दुश्चागाद्याङ्गणकऋषिछन्दोऽस्य च
-    निचृत् स देवः प्राग्बीजं विपदपि च शक्तिर्जपकृताम् ॥ ७॥ गकारो हेरम्बः सगुण इति पुनिर्गुणमयो द्विधाऽप्येको
-    जातः प्रकृतिपुरुषो ब्रह्म हि गणः । स चेशश्चोत्पत्ति-स्थिति- लयकरोऽयं प्रथमको यतो भूतं भव्यं भवति पतिरीशो
-    गणपतिः ॥ ८॥ गकारः कण्ठोर्ध्व गजमुखसमो मर्त्यसदृशो णकारः कण्डाधो जठरसदृशाकार इति च । अधोभाग ः कट्यां
-    चरण इति हीशोऽस्य च तनु- र्विभातीत्थं नाम त्रिभुवनसमं भूर्भुवःसुवः ॥ ९॥ गणेशेति त्र्यर्णात्मकमपि वरं
-    नाम सुखदं सकृत्प्रोच्चैरुच्चारितमिति नृभिः पावनकरम् । गणेशस्यैकस्य प्रतिजपकरस्यास्य सुकृतं न विज्ञातो
-    नाम्नः सकलमहिमा कीदृशविधः ॥ १०॥ गणेशेत्याह्वां यः प्रवदति मुहुस्तस्य पुरतः प्रपश्यँस्तद्वक्त्रं स्वयमपि
-    गणस्तिष्ठति तदा । स्वरूपस्य ज्ञानं त्वमुक इति नाम्नाऽस्य भवति प्रबोधः सुप्तस्य त्वखिलमिह सामर्थ्यममुना
-    ॥ ११॥ गणेशो विश्वेऽस्मिन् स्थित इह च विश्वं गणपतौ गणेशो यत्रास्ते धृति- मतिरनैश्वर्यमखिलम् । समुक्तं
-    नामैकं गणपतिपदं मंगलमयं तदेकास्यं दृष्टेः सकल-विबुधास्येक्षण- समम् ॥ १२॥ बहुक्लेशैर्व्याप्तः स्मृत
-    उत गणेशे च हृदये क्षणात् क्लेशान् मुक्तोभवति सहसा त्वभ्रचयवत् । बने विद्यारम्भे युधि रिपुभये कुत्र
-    गमने प्रवेशे प्राणान्ते गणपतिपदं चाऽऽशु विशति ॥ १३॥ गणाध्यक्षो ज्येष्ठः कपिल अपरो मंगलनिधि- र्दयालुर्हेरमबो
-    वरद इति चिन्तामणिरजः । वरानीशो ढुण्ढिर्गजवदननामा शिवसुतो मयूरेशो गौरीतनय इति नामानि पठति ॥ १४॥ महेशोऽयं
-    विष्णुः सकविरविरिन्दुः कमलजः क्षितिस्तोयं वह्निः श्वसन इति खं त्वद्रिरूदधिः । कुजस्तारः शुक्रो गुरुरुडुबुधोऽगुश्च
-    धनदो यमः पाशो काव्यः शनिरखिलरूपो गणपतिः ॥ १५॥ मुखं वह्विः पादौ हरिरपि विधाता प्रजननं रविर्नेत्रे चन्द्रो
-    हृदयमपि कामोऽस्य मदनः । करौ शक्रः कट्यामवनिरूदरं भाति दशनं गणेशस्यासन् वै क्रतुमयवपुश्चैव सकलम् ॥
-    १६॥ अनर्ध्यालंकारैररुण-वसनैर्भूषित- तनुः करीन्द्रास्यः सिंहासनमुपगतो भाति बुधराट् । स्थितः स्यात्तन्मध्येऽप्युदित-
-    रविबिम्बोपम-रुचिः स्थिता सिद्धिर्वामे मतिरितरगा चामरकरा ॥ १७॥ समन्तात्तस्यासन् प्रवरमुनिसिद्धाः सुरगणाः
-    प्रशंसन्तीत्यग्रे विविधनुतिभिः साऽञ्जलिपुटाः । बिडौजाद्यैर्ब्रह्मादिभिरनुवृतो भक्तनिकरै- र्गणक्रीडामोद-प्रमुद-विकटाद्यैः
-    सहचरै ः ॥ १८॥ वशित्वाद्यष्टाष्टादश-दिगखिलाल्लोलमनुवाग् धृतिः पादूः खड्गोऽञ्जनरसबलाः सिद्धय इमाः ।
-    सदा पृष्ठे तिष्टन्त्यानिमिषिदृशस्तन्मुखलया गणेशं सेवन्तेऽत्यतिनिकटसूपायनकराः ॥ १९॥ मृगांकास्या रम्भाप्रभृतिगणिका
-    यस्य पुरतः सुसंगीत कुर्वन्त्यपि कुतुकगन्धर्वसहिताः । मुदः पारो नाऽत्रेत्यनुपमपदे दोर्विगलिता स्थिरं
-    जातं चित्तं चरणमवलोक्यास्य विमलम् ॥ २०॥ हरेणाऽयं ध्यातस्त्रिपुरमथने चाऽसुरवधे गणेशः पार्वत्या बलिविजयकालेऽपि
-    हरिणा । विधात्रा संसृष्टावुरगपतिना क्षोणिधरणे नरैः सिद्धौ मुक्तौ त्रिभुवनजये पुष्पधनुषा ॥ २१॥ अयं
-    सुप्रासादे सुर इव निजानन्दभुवने महान् श्रीमानाद्यो लघुतरगृहे रंकसदृशः । शिवद्वारे द्वाःस्थो नृप इव
-    सदा भूपतिगृहे स्थितो भूत्वोमांके शिशुगणपतिर्लालनपरः ॥ २२॥ अमुष्मिन् सन्तुष्टे गजवदन एवापि विबुधे ततस्ते
-    सन्तुष्टास्त्रिभुवनगताः स्युर्बुधगणाः । दयालुर्हेरम्बो न च भवति यस्मिंश्च पुरुषे वृथा सर्वं तस्य प्रजननमतः
-    सान्द्रतमसि ॥ २३॥ वरेण्यो भूशुण्डिर्भृगु-गुरु-कुजा-मुद्गलमुखा ह्यपारास्तद्भक्ता जप-हवन-पूजा-स्तुतिपराः
-    । गणेशोऽयं भक्तप्रिय इति च सर्वत्र गदितं विभक्तिर्यत्रास्ते स्वयमपि सदा तिष्ठति गणः ॥ २४॥ मृदः काश्चिद्धातोश्छद-
-    विलिखिता वाऽपि दृषदः स्मृता व्याजान्मूर्तिः पथि यदि बहिर्येन सहसा । अशुद्धोऽद्धा द्रष्टा प्रवदति तदाह्वां
-    गणपतेः श्रुत्वा शुद्धो मर्त्यो भवति दुरिताद् विस्मय इति ॥ २५॥ बहिर्द्वारस्योर्ध्वं गजवदन-वर्ष्मेन्धनमयं
-    प्रशस्तं वा कृत्वा विविध कुशलैस्तत्र निहितम् । प्रभावात्तन्मूर्त्या भवति सदनं मंगलमयं विलोक्यानन्दस्तां
-    भवति जगतो विस्मय इति ॥ २६॥ सिते भाद्रे मासे प्रतिशरदि मध्याह्नसमये मृदो मूर्ति कृत्वा गणपतितिथौ ढुण्ढिसदृशीम्
-    । समर्चन्त्युत्साहः प्रभवति महान् सर्व सदने विलोक्यानन्दस्ताम् प्रभवति नृणां विस्मय इति ॥ २७॥ तथा
-    ह्येकः श्लोको वरयति महिम्नो गणपतेः कथं स श्लोके ऽस्मिन् स्तुत इति भवेत् सम्प्रपठिते । स्मृतं नामास्यैकं
-    सकृदिदमनन्ताह्वयसमं यतो यस्यैकस्य स्तवनसदृशं नाऽन्यदपरम् ॥ २८॥ गजवदन विभो यद्- वर्णितं वैभवं ते त्विह
-    जनुषि ममेत्थं चारु तद्दर्शयाशु । त्वमसि च करुणायाः सागरः कृत्स्नदाता- अप्यति तव भृतकोऽहं सर्वदा चिन्तकोऽस्मि
-    ॥ २९॥ सुस्तोत्रं प्रपठतु नित्यमेतदेव स्वानन्दं प्रति गमनेऽप्ययं सुमार्गः । सचिन्त्यं स्वमनसि तत्पदारविन्दं
-    स्थाप्याग्रे स्तवनफलं नतीः करिष्ये ॥ ३०॥ गणेशदेवस्यं महात्म्यमेतद् यः श्रावयेद्वाऽपि पठेच्च तस्य ।
-    क्लेशा लयं यान्ति लभेच्च शीघ्रं स्त्री-पुत्र- विद्यार्थ-गृहं च मुक्तिम् ॥ ३१॥ ॥ इति श्रीपुष्पदन्तविरचितं
-    श्रीगणेशमहिम्नः स्तोत्रं सम्पूर्णम् ॥
+  english: anirvacyam rupam stavana nikaro yatra galitah tatha vakshye stotram prathama purushasyatra
+    mahatah | yato jatam vishvasthitimapi sada yatra vilayah sakidriggirvanah sunigama nutah shriganapatih
+    || || gakaro herambah saguna iti pum nirgunamayo dvidhapyekojatah prakriti purusho brahma hi ganah
+    | sa ceshashcotpatti sthiti laya karoyam pramathako yatobhutam bhavyam bhavati patirisho ganapatih
+    || || gakarah kanthordhvam gajamukhasamo martyasadrisho nakarah kanthadho jathara sadrishakara iti
+    ca | adhobhavah katyam carana iti hishosya ca tamah vibhatittham nama tribhuvana samam bhu rbhuva
+    ssuvah || || ganadhyaksho jyeshthah kapila aparo mangalanidhih dayalurherambo varada iti cintamani
+    rajah | varanisho dhundhirgajavadana nama shivasuto mayuresho gauritanaya iti namani pathati || ||
+    maheshoyam vishnuh sa kavi ravirinduh kamalajah kshiti stoyam vahnih shvasana iti kham tvadrirudadhih
+    | kujastarah shukro pururudu budhogucca dhanado yamah pashi kavyah shanirakhila rupo ganapatih ||
+    || mukham vahnih padau harirasi vidhata prajananam ravirnetre candro hridaya mapi kamosya madana |
+    karau shukrah katyamavanirudaram bhati dashanam ganeshasyasan vai kratumaya vapu shcaiva sakalam ||
+    || site bhadre mase pratisharadi madhyahna samaye mrido murtim kritva ganapatitithau dhundhi sadrishim
+    | samarcatyutsahah prabhavati mahan sarvasadane vilokyanandastam prabhavati nrinam vismaya iti ||
+    || ganeshadevasya mahatmyametadyah shravayedvapi pathecca tasya | klesha layam yanti labhecca shighram
+    shriputtra vidyarthi griham ca muktim || || || iti shri ganesha mahimna stotram ||
+  devanagari: अनिर्वाच्यं रूपं स्तवन निकरो यत्र गलितः तथा वक्ष्ये स्तोत्रं प्रथम पुरुषस्यात्र महतः । यतो
+    जातं विश्वस्थितिमपि सदा यत्र विलयः सकीदृग्गीर्वाणः सुनिगम नुतः श्रीगणपतिः ॥ ॥ गकारो हेरम्बः सगुण इति
+    पुं निर्गुणमयो द्विधाप्येकोजातः प्रकृति पुरुषो ब्रह्म हि गणः । स चेशश्चोत्पत्ति स्थिति लय करोयं प्रमथको
+    यतोभूतं भव्यं भवति पतिरीशो गणपतिः ॥ ॥ गकारः कण्ठोर्ध्वं गजमुखसमो मर्त्यसदृशो णकारः कण्ठाधो जठर सदृशाकार
+    इति च । अधोभावः कट्यां चरण इति हीशोस्य च तमः विभातीत्थं नाम त्रिभुवन समं भू र्भुव स्सुवः ॥ ॥ गणाध्यक्षो
+    ज्येष्ठः कपिल अपरो मङ्गलनिधिः दयालुर्हेरम्बो वरद इति चिन्तामणि रजः । वरानीशो ढुण्ढिर्गजवदन नामा शिवसुतो
+    मयूरेशो गौरीतनय इति नामानि पठति ॥ ॥ महेशोयं विष्णुः स कवि रविरिन्दुः कमलजः क्षिति स्तोयं वह्निः श्वसन
+    इति खं त्वद्रिरुदधिः । कुजस्तारः शुक्रो पुरुरुडु बुधोगुच्च धनदो यमः पाशी काव्यः शनिरखिल रूपो गणपतिः
+    ॥ ॥ मुखं वह्निः पादौ हरिरसि विधात प्रजननं रविर्नेत्रे चन्द्रो हृदय मपि कामोस्य मदन । करौ शुक्रः कट्यामवनिरुदरं
+    भाति दशनं गणेशस्यासन् वै क्रतुमय वपु श्चैव सकलम् ॥ ॥ सिते भाद्रे मासे प्रतिशरदि मध्याह्न समये मृदो
+    मूर्तिं कृत्वा गणपतितिथौ ढुण्ढि सदृशीम् । समर्चत्युत्साहः प्रभवति महान् सर्वसदने विलोक्यानन्दस्तां
+    प्रभवति नृणां विस्मय इति ॥ ॥ गणेशदेवस्य माहात्म्यमेतद्यः श्रावयेद्वापि पठेच्च तस्य । क्लेशा लयं यान्ति
+    लभेच्च शीघ्रं श्रीपुत्त्र विद्यार्थि गृहं च मुक्तिम् ॥ ॥ ॥ इति श्री गणेश महिम्न स्तोत्रम् ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_ganesha/gaNeshamahimnastotra.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Ganesha Mahimna Stotram
   license: public_domain
-tags:
-- ganesha
-- stotra
-- puShpadanta
-- mahimna
+tags: []
 priority: true
+aliases:
+- ganesha
+- stotram

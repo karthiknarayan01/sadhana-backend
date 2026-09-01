@@ -2,30 +2,26 @@ id: vande-mataram
 category: stotram
 name:
   english: Vande Mataram
-  devanagari: वन्देमातरम् (ओट्टुरूउन्निनम्पूतिरिप्पादविरचितम्)
 content:
-  english: bangakshaunyam ramacandra dvijate- rdharmakshetre lilayaivavatirnam | satyajnananandavatsalyamurtim
-    nityam vande mataram sharadakhyam || 1|| dehasavatya klishyamanaprapumsam suptam bodham samyagunmilayantim
-    | shokam moham cashu nirmulayantim bhaktya vandemataram sharadakhyam || 2|| mayasindhau majjatah pranivargan
-    premodarenatmapadaplavena | uddhritya dragasya param nayantim murdhna vandemataram sharadakhyam ||
-    3|| tacchabdarthashcandiketi prasiddha- shchandovasacchadito rajatiti | pashyannarcad ramakrishno'pi
-    yam tam dorbhyam vandemataram sharadakhyam || 4|| rambhadinam svarvadhunamadhisham radhadinam manushinamadhinam
-    | artatranairkarpita svakhilartham bhuyo vande mataram sharadakhyam || 5|| iti shriotturuunninamputirippadaviracitam
-    vandemataram stotram sampurnam |
-  devanagari: बङ्गक्षौण्यां रामचन्द्र द्विजाते- र्धर्मक्षेत्रे लीलयैवावतीर्णाम् । सत्यज्ञानानन्दवात्सल्यमूर्तिं
-    नित्यं वन्दे मातरं शारदाख्याम् ॥ १॥ देहासवत्या क्लिश्यमानप्रपुंसां सुप्तं बोधं सम्यगुन्मीलयन्तीम्
-    । शोकं मोहं चाशु निर्मूलयन्तीं भक्त्या वन्देमातरं शारदाख्याम् ॥ २॥ मायासिन्धौ मज्जतः प्राणिवर्गान्
-    प्रेमोदारेणात्मपादप्लवेन । उद्धृत्य द्रागस्य पारं नयन्तीं मूर्ध्ना वन्देमातरं शारदाख्याम् ॥ ३॥ तच्छब्दार्थश्चण्डिकेति
-    प्रसिद्ध- श्छन्दोवासच्छादितो राजतीति । पश्यन्नार्चद् रामकृष्णोऽपि यां तां दोर्भ्यां वन्देमातरं शारदाख्याम्
-    ॥ ४॥ रम्भादीनां स्वर्वधूनामधीशां राधादीनां मानुषीणामधीनाम् । आर्तत्राणैर्कार्पित स्वाखिलार्थां भूयो
-    वन्दे मातरं शारदाख्याम् ॥ ५॥ इति श्रीओट्टुरूउन्निनम्पूतिरिप्पादविरचितं वन्देमातरम् स्तोत्रं सम्पूर्णम्
-    ।
+  english: vandemataram sujalam suphalam malayaja shitalam sasya shyamalam mataram ||vande|| shubhrajyotsna
+    pulakitayaminim pullakusumita drumadala shobhinim suhasinim sumadhura bhashinim sukhadam varadam mataram
+    || vande || kotikoti kantha kalakala ninada karale koti koti bhujairdhrita karavale abala keyano ma
+    eto bale bahubala dharinim namami tarinim ripudala varinim mataram || vande || tumi vidya tumi dharma
+    tumi hridi tumi marma tvam hi pranah sharire bahute tumi ma shakti hridaye tumi ma bhakti to marayi
+    pratima gadi mandire mandire || vande || tvam hi durga dasha viharini vani vidyadayini namami tvam
+    namami kamalam amalam atulam sujalam suphalam mataram || vande || shyamalam saralam susmitam bhushitam
+    dharanim bharanim mataram ||
+  devanagari: वन्देमातरं सुजलां सुफलां मलयज शीतलां सस्य श्यामलां मातरं ॥वन्दे॥ शुभ्रज्योत्स्ना पुलकितयामिनीं
+    पुल्लकुसुमित द्रुमदल शोभिनीं सुहासिनीं सुमधुर भाषिणीं सुखदां वरदां मातरं ॥ वन्दे ॥ कोटिकोटि कण्ठ कलकल
+    निनाद कराले कोटि कोटि भुजैर्धृत करवाले अबला केयनो मा एतो बले बहुबल धारिणीं नमामि तारिणीं रिपुदल वारिणीं
+    मातराम् ॥ वन्दे ॥ तुमि विद्या तुमि धर्म तुमि हृदि तुमि मर्म त्वं हि प्राणाः शरीरे बाहुते तुमि मा शक्ति
+    हृदये तुमि मा भक्ति तो मारयि प्रतिमा गडि मन्दिरे मन्दिरे ॥ वन्दे ॥ त्वं हि दुर्गा दश विहारिणी वाणी
+    विद्यादायिनी नमामि त्वां नमामि कमलां अमलां अतुलां सुजलां सुफलां मातरम् ॥ वन्दे ॥ श्यामलां सरलां सुस्मितां
+    भूषितां धरणीं भरणीं मातरम् ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_deities_misc/vandemAtaram.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Vande Mataram
   license: public_domain
-tags:
-- deities\_misc
-- gurudev
-- rAmakRiShNa
+tags: []
 priority: true
+aliases: []

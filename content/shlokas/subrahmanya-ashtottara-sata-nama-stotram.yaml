@@ -2,41 +2,43 @@ id: subrahmanya-ashtottara-sata-nama-stotram
 category: stotram
 name:
   english: Subrahmanya Ashtottara Sata Nama Stotram
-  devanagari: सुब्रह्मण्याष्टोत्तरशतनामस्तोत्रम्
 content:
-  english: skamdoguha shanmukhashca bhalanetrasutah prabhuh | pimgalah krittikasunuh shikhivaho dvishadbhujah
-    || 1|| dvishannetrashshaktidharah pishitasha prabhamjanah | tarakasurasamhari rakshobalavimardanah
-    || 2|| mattah pramattonmattashca surasainya surakshakah | devasenapatih prajnah kripalo bhaktavatsalah
-    || 3|| umasutashshaktidharah kumarah kraumcadharinah | senaniragnijanma ca vishakhashshamkaratmajah
-    || 4|| shivasvami ganasvami sarvasvami sanatanah | anamtamurtirakshobhyah parvati priyanamdanah ||
-    5|| gamgasutashsharodbhuta ahutah pavakatmajah | jrimbhah prajrimbhah ujjrimbhah kamalasana samstutah
-    || 6|| ekavarno dvivarnashca trivarnassumanoharah | caturvarnah pamcavarnah prajapatirahahpatih ||
-    7|| agnigarbhashshamigarbho vishvaretassurariha | haridvarnashshubhakaro vatushca patuveshabhrit ||
-    8|| pushagabhastirgahano camdravarna kaladharah | mayadharo mahamayi kaivalya shshamkaratmajah ||
-    9|| vishvayonirameyatma tejoyoniranamayah | parameshthi parabrahma vedagarbho viratsutah || 10|| pulimda
-    kanyabhartaca mahasarasvatavritah | ashritakhiladataca coraghno roganashanah || 11|| anamtamurtiranamdashshikhamdikritaketanah
-    | dambhah paramadambhashca mahadambhovrishakapih || 12|| karanotpattidehashca karanatita vigrahah
-    | anishvaro'mritahpranah pranayama parayanah || 13|| viruddhahamta viraghno raktashyamagalo'pica |
-    subrahmanyo guhapritah brahmanyo brahmanapriyah || 14|| | iti shri subrahmanyashtottarashatanamastotram
+  english: shaktihastam virupaksham shikhivaham shadananam | darunam ripurogaghnam bhavaye kukkutadhvajam
+    || iti dhyanam skando guhah shanmukhashca phalanetrasutah prabhuh | pingalah krittikasunuh shikhivaho
+    dvishadbhujah || shshaktidharah pishitasha prabhanjanah | tarakasurasamhari rakshobalavimardanah ||
+    || mattah pramatta unmattah surasainyasurakshakah | devasenapatih prajnah kripalu rbhaktavatsalah
+    || shshaktidharah kumarah krauncadharanah | senani ragnijanma ca vishakhah shankaratmajah || || shivasvami
+    ganasvami sarvasvami sanatanah | anantamurti rakshobhyah parvatipriyanandanah || shsharodbhuta ahutah
+    pavakatmajah | jrimbhah prajrimbha ujjrimbhah kamalasanasamstutah || || ekavarno dvivarnashca trivarnah
+    sumanoharah | caturvarnah pancavarnah prajapati shshamigarbho vishvareta ssurariha | haridvarna shshubhakaro
+    patushca vatuveshabhrit || rgahana shcandravarnah kaladharah | mayadharo mahamayi kaivalya ranamayah
+    | parameshthi parambrahma vedagarbho viratsutah || || pulindakanyabharta ca mahasarasvatavritah |
+    ashritokhiladata ca coraghno roganashanah || shshikhandikritaketanah | dambhah paramadambhashca mahadambho
+    vrishakapih || || karanopattadehashca karanatitavigrahah | anishvaro'mritah pranah pranayamaparayanah
+    || || viruddhahanta viraghno raktashyamagalo'pi ca | subrahmanyo guhah prito brahmanyo brahmanapriyah
+    || || vamshavriddhikaro vedo vedyo'kshayaphalapradah || || iti shri subrahmanyashtottara shatanamastotram
     sampurnam |
-  devanagari: स्कंदोगुह षण्मुखश्च भालनेत्रसुतः प्रभुः । पिंगलः कृत्तिकासूनुः शिखिवाहो द्विषड्भुजः ॥ १॥
-    द्विषण्णेत्रश्शक्तिधरः पिशिताशा प्रभंजनः । तारकासुरसंहारि रक्षोबलविमर्दनः ॥ २॥ मत्तः प्रमत्तोन्मत्तश्च
-    सुरसैन्य सुरक्षकः । देवसेनापतिः प्राज्ञः कृपालो भक्तवत्सलः ॥ ३॥ उमासुतश्शक्तिधरः कुमारः क्रौंचधारिणः
-    । सेनानीरग्निजन्मा च विशाखश्शंकरात्मजः ॥ ४॥ शिवस्वामि गणस्वामि सर्वस्वामि सनातनः । अनंतमूर्तिरक्षोभ्यः
-    पार्वती प्रियनंदनः ॥ ५॥ गंगासुतश्शरोद्भूत आहूतः पावकात्मजः । जॄंभः प्रजॄंभः उज्जॄंभः कमलासन संस्तुतः
-    ॥ ६॥ एकवर्णो द्विवर्णश्च त्रिवर्णस्सुमनोहरः । चतुर्वर्णः पंचवर्णः प्रजापतिरहह्पतिः ॥ ७॥ अग्निगर्भश्शमीगर्भो
-    विश्वरेतास्सुरारिहा । हरिद्वर्णश्शुभकरो वटुश्च पटुवेषभृत् ॥ ८॥ पूषागभस्तिर्गहनो चंद्रवर्ण कलाधरः ।
-    मायाधरो महामायी कैवल्य श्शंकरात्मजः ॥ ९॥ विश्वयोनिरमेयात्मा तेजोयोनिरनामयः । परमेष्ठी परब्रह्म वेदगर्भो
-    विराट्सुतः ॥ १०॥ पुलिंद कन्याभर्ताच महासारस्वतवृतः । अश्रिताखिलदाताच चोरघ्नो रोगनाशनः ॥ ११॥ अनंतमूर्तिरानंदश्शिखंडीकृतकेतनः
-    । डंभः परमडंभश्च महाडंभोवृषाकपिः ॥ १२॥ कारणोत्पत्तिदेहश्च कारणातीत विग्रहः । अनीश्वरोऽमृतःप्राणः प्राणायाम
-    परायणः ॥ १३॥ विरुद्धहंत वीरघ्नो रक्तश्यामगलोऽपिच । सुब्रह्मण्यो गुहप्रीतः ब्रह्मण्यो ब्राह्मणप्रियः
-    ॥ १४॥ । इति श्री सुब्रह्मण्याष्टोत्तरशतनामस्तोत्रं सम्पूर्णम् ।
+  devanagari: शक्तिहस्तं विरूपाक्षं शिखिवाहं षडाननम् । दारुणं रिपुरोगघ्नं भावये कुक्कुटध्वजम् ॥ इति ध्यानम्
+    स्कन्दो गुहः षण्मुखश्च फालनेत्रसुतः प्रभुः । पिङ्गलः कृत्तिकासूनुः शिखिवाहो द्विषड्भुजः ॥ श्शक्तिधरः
+    पिशिताश प्रभञ्जनः । तारकासुरसंहारी रक्षोबलविमर्दनः ॥ ॥ मत्तः प्रमत्त उन्मत्तः सुरसैन्यसुरक्षकः । देवसेनापतिः
+    प्राज्ञः कृपालु र्भक्तवत्सलः ॥ श्शक्तिधरः कुमारः क्रौञ्चधारणः । सेनानी रग्निजन्मा च विशाखः शङ्करात्मजः
+    ॥ ॥ शिवस्वामी गणस्वामी सर्वस्वामी सनातनः । अनन्तमूर्ति रक्षोभ्यः पार्वतीप्रियनन्दनः ॥ श्शरोद्भूत आहूतः
+    पावकात्मजः । जृम्भः प्रजृम्भ उज्जृम्भः कमलासनसंस्तुतः ॥ ॥ एकवर्णो द्विवर्णश्च त्रिवर्णः सुमनोहरः ।
+    चतुर्वर्णः पञ्चवर्णः प्रजापति श्शमीगर्भो विश्वरेता स्सुरारिहा । हरिद्वर्ण श्शुभकरो पटुश्च वटुवेषभृत्
+    ॥ र्गहन श्चन्द्रवर्णः कलाधरः । मायाधरो महामायी कैवल्य रनामयः । परमेष्ठी परम्ब्रह्म वेदगर्भो विराट्सुतः
+    ॥ ॥ पुलिन्दकन्याभर्ता च महासारस्वतावृतः । अश्रितोखिलदाता च चोरघ्नो रोगनाशनः ॥ श्शिखण्डीकृतकेतनः ।
+    डम्भः परमडम्भश्च महाडम्भो वृषाकपिः ॥ ॥ कारणोपात्तदेहश्च कारणातीतविग्रहः । अनीश्वरोऽमृतः प्राणः प्राणायामपरायणः
+    ॥ ॥ विरुद्धहन्ता वीरघ्नो रक्तश्यामगलोऽपि च । सुब्रह्मण्यो गुहः प्रीतो ब्रह्मण्यो ब्राह्मणप्रियः ॥
+    ॥ वंशवृद्धिकरो वेदो वेद्योऽक्षयफलप्रदः ॥ ॥ इति श्री सुब्रह्मण्याष्टोत्तर शतनामस्तोत्रं सम्पूर्णम्
+    ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_subrahmanya/subrahmaNyAShTottarashatanAmastotram.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Subrahmanya Ashtottara Sata
+    Nama Stotram
   license: public_domain
-tags:
-- aShTottarashatanAma
-- subrahmanya
-- stotra
+tags: []
 priority: true
+aliases:
+- subrahmanya
+- ashtottarasatanama
+- stotram

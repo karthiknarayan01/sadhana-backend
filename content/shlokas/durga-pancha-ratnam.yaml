@@ -2,26 +2,28 @@ id: durga-pancha-ratnam
 category: stotram
 name:
   english: Durga Pancha Ratnam
-  devanagari: दुर्गापञ्चरत्नम्
 content:
-  english: tvameva devim svagunairnigudham tvameva shaktih parameshvarasya mam pahi sarveshvari mokshadatri
-    devatmashaktih shrutivakyagita maharshi lokasya purah prasanna guha param vyoma satah pratishtha mam
-    pahi sarveshvari mokshadatri parasya shaktirvividhaiva shruyase svabhaviki jnanabalakriya te mam pahi
-    sarveshvari mokshadatri devatmashabdena shivatmabhuta yatkurmavayavyavaco vivritya tvam pashavicchedakari
-    prasiddha mam pahi sarveshvari mokshadatri tvam brahmapuccha vividha mayuri pratishtha'syupadishta
-    jnanasvarupatmataya'khilanam mam pahi sarveshvari mokshadatri candrashekharendrasarasvati shricaranaih
-    viracitam shri durgapancaratnam sampurnam||
-  devanagari: त्वामेव देवीं स्वगुणैर्निगूढाम् त्वमेव शक्तिः परमेश्वरस्य मां पाहि सर्वेश्वरि मोक्षदात्रि
-    देवात्मशक्तिः श्रुतिवाक्यगीता महर्षि लोकस्य पुरः प्रसन्ना गुहा परं व्योम सतः प्रतिष्ठा मां पाहि सर्वेश्वरि
-    मोक्षदात्रि परास्य शक्तिर्विविधैव श्रूयसे स्वाभाविकी ज्ञानबलक्रिया ते मां पाहि सर्वेश्वरि मोक्षदात्रि
-    देवात्मशब्देन शिवात्मभूता यत्कूर्मवायव्यवचो विवृत्या त्वं पाशविच्छेदकरी प्रसिद्धा मां पाहि सर्वेश्वरि
-    मोक्षदात्रि त्वं ब्रह्मपुच्छा विविधा मयूरी प्रतिष्ठाऽस्युपदिष्ट ज्ञानस्वरूपात्मतयाऽखिलानां मां पाहि
-    सर्वेश्वरि मोक्षदात्रि चन्द्रशेखरेन्द्रसरस्वती श्रीचरणैः विरचितं श्री दुर्गापञ्चरत्नं सम्पूर्णम्॥
+  english: te dhyanayoganugata apashyan tvameva devim svagunairnigudham | tvameva shaktih parameshvarasya
+    mam pahi sarveshvari mokshadatri || || devatmashaktih shrutivakyagita maharshilokasya purah prasanna
+    | guha param vyoma satah pratishtha mam pahi sarveshvari mokshadatri || || parasya shaktih vividhaiva
+    shruyase shvetashvavakyoditadevi durge | svabhaviki jnanabalakriya te mam pahi sarveshvari mokshadatri
+    || || devatmashabdena shivatmabhuta yatkurmavayavyavacovivritya tvam pashavicchedakari prasiddha mam
+    pahi sarveshvari mokshadatri || || tvam brahmapuccha vividha mayuri brahmapratishthasyupadishtagita
+    | jnanasvarupatmatayakhilanam mam pahi sarveshvari mokshadatri || || iti paramapujya shri candrashekharendra
+    sarasvati svami kritam durga pancaratnam sampurnam |
+  devanagari: ते ध्यानयोगानुगता अपश्यन् त्वामेव देवीं स्वगुणैर्निगूढाम् । त्वमेव शक्तिः परमेश्वरस्य मां
+    पाहि सर्वेश्वरि मोक्षदात्रि ॥ ॥ देवात्मशक्तिः श्रुतिवाक्यगीता महर्षिलोकस्य पुरः प्रसन्ना । गुहा परं
+    व्योम सतः प्रतिष्ठा मां पाहि सर्वेश्वरि मोक्षदात्रि ॥ ॥ परास्य शक्तिः विविधैव श्रूयसे श्वेताश्ववाक्योदितदेवि
+    दुर्गे । स्वाभाविकी ज्ञानबलक्रिया ते मां पाहि सर्वेश्वरि मोक्षदात्रि ॥ ॥ देवात्मशब्देन शिवात्मभूता
+    यत्कूर्मवायव्यवचोविवृत्या त्वं पाशविच्छेदकरी प्रसिद्धा मां पाहि सर्वेश्वरि मोक्षदात्रि ॥ ॥ त्वं ब्रह्मपुच्छा
+    विविधा मयूरी ब्रह्मप्रतिष्ठास्युपदिष्टगीता । ज्ञानस्वरूपात्मतयाखिलानां मां पाहि सर्वेश्वरि मोक्षदात्रि
+    ॥ ॥ इति परमपूज्य श्री चन्द्रशेखरेन्द्र सरस्वती स्वामि कृतं दुर्गा पञ्चरत्नं सम्पूर्णम् ।
 meaning: {}
 source_attribution:
-  text_source: stotra-sangrahah (community LaTeX stotra collection) — stotra-sangrahah-master/stotras/shakti/DurgaPancharatnam.tex
+  text_source: vignanam.org (downloaded and provided by the project owner) — Durga Pancha Ratnam
   license: public_domain
-tags:
-- Shakti
-- Pancharatnam
+tags: []
 priority: true
+aliases:
+- durga
+- pancharatnam

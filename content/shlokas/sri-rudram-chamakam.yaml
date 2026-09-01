@@ -1,124 +1,115 @@
 id: sri-rudram-chamakam
-category: veda
+category: stotram
 name:
   english: Sri Rudram Chamakam
-  devanagari: चमकप्रश्नः
 content:
-  english: '|| camakaprashnah || om agnavishnu sajoshasema vardhantu vam girah | dyumnairvajebhiragatam
-    | vajashca me prasavashca me prayatishca me prasitishca me dhitishca me kratushca me svarashca me
-    shlokashca me shravashca me shrutishca me jyotishca me suvashca me pranashca me''panashca me vyanashca
-    me''sushca me cittam ca ma adhitam ca me vakca me manashca me cakshushca me shrotram ca me dakshashca
-    me balam ca ma ojashca me sahashca ma ayushca me jara ca ma atma ca me tanushca me sharma ca me varma
-    ca me''ngani ca me''sthani ca me parushi ca me sharirani ca me || 1|| jyaishthyam ca ma adhipatyam
-    ca me manyushca me bhamashca me''mashca me''mbhashca me jema ca me mahima ca me varima ca me prathima
-    ca me varshma ca me draghuya ca me vriddham ca me vriddhishca me satyam ca me shraddha ca me jagacca
-    me dhanam ca me vashashca me tvishishca me krida ca me modashca me jatam ca me janishyamanam ca me
-    suktam ca me sukritam ca me vittam ca me vedyam ca me bhutam ca me bhavishyacca me sugam ca me supatham
-    ca ma riddham ca ma riddhishca me kliptam ca me kliptishca me matishca me sumatishca me || 2|| sham
-    ca me mayashca me priyam ca me''nukamashca me kamashca me saumanasashca me bhadram ca me shreyashca
-    me vasyashca me yashashca me bhagashca me dravinam ca me yanta ca me dharta ca me kshemashca me dhritishca
-    me vishvam ca me mahashca me samvicca me jnatram ca me sushca me prasushca me siram ca me layashca
-    ma ritam ca me''mritam ca me''yakshmam ca me''namayacca me jivatushca me dirghayutvam ca me''namitram
-    ca me''bhayam ca me sugam ca me shayanam ca me susha ca me sudinam ca me || 3|| urkca me sunrita ca
-    me payashca me rasashca me ghritam ca me madhu ca me sagdhishca me sapitishca me krishishca me vrishtishca
-    me jaitram ca ma audbhidyam ca me rayishca me rayashca me pushtam ca me pushtishca me vibhu ca me
-    prabhu ca me bahu ca me bhuyashca me purnam ca me purnataram ca me''kshitishca me kuyavashca me''nnam
-    ca me''kshucca me vrihayashca me yavashca me mashashca me tilashca me mudgashca me khalvashca me godhumashca
-    me masurashca me priyangavashca me''navashca me shyamakashca me nivarashca me || 4|| ashma ca me mrittika
-    ca me girayashca me parvatashca me sikatashca me vanaspatayashca me hiranyam ca me''yashca me sisam
-    ca me trapushca me shyamam ca me loham ca me''gnishca ma apashca me virudhashca ma oshadhayashca me
-    krishtapacyam ca me''krishtapacyam ca me gramyashca me pashava aranyashca yajnena kalpantam vittam
-    ca me vittishca me bhutam ca me bhutishca me vasu ca me vasatishca me karma ca me shaktishca me''rthashca
-    ma emashca ma itishca me gatishca me || 5|| agnishca ma indrashca me somashca ma indrashca me savita
-    ca ma indrashca me sarasvati ca ma indrashca me pusha ca ma indrashca me brihaspatishca ma indrashca
-    me mitrashca ma indrashca me varunashca ma indrashca me tvashta ca ma indrashca me dhata ca ma indrashca
-    me vishnushca ma indrashca me''shvinau ca ma indrashca me marutashca ma indrashca me vishve ca me
-    deva indrashca me prithivi ca ma indrashca me''ntariksham ca ma indrashca me dyaushca ma indrashca
-    me dishashca ma indrashca me murdha ca ma indrashca me prajapatishca ma indrashca me || 6|| ashushca
-    me rashmishca me''dabhyashca me''dhipatishca ma upashushca me''ntaryamashca ma aindravayavashca me
-    maitravarunashca ma ashvinashca me pratiprasthanashca me shukrashca me manthi ca ma agrayanashca me
-    vaishvadevashca me dhruvashca me vaishvanarashca ma ritugrahashca me''tigrahyashca ma aindragnashca
-    me vaishvadevashca me marutvatiyashca me mahendrashca ma adityashca me savitrashca me sarasvatashca
-    me paushnashca me patnivatashca me hariyojanashca me || 7|| idhmashca me barhishca me vedishca me
-    dhishniyashca me srucashca me camasashca me gravanashca me svaravashca ma uparavashca me''dhishavane
-    ca me dronakalashashca me vayavyani ca me putabhricca ma adhavaniyashca ma agnidhram ca me havirdhanam
-    ca me grihashca me sadashca me purodashashca me pacatashca me''vabhrithashca me svagakarashca me ||
-    8|| agnishca me gharmashca me''rkashca me suryashca me pranashca me''shvamedhashca me prithivi ca
-    me''ditishca me ditishca me dyaushca me shakkvarirangulayo dishashca me yajnena kalpantamrikca me
-    sama ca me stomashca me yajushca me diksha ca me tapashca ma ritushca me vratam ca me''horatrayorvrishtya
-    brihadrathantare ca me yajnena kalpetam || 9|| garbhashca me vatsashca me tryavishca me tryavi ca
-    me dityavat ca me dityauhi ca me pancavishca me pancavi ca me trivatsashca me trivatsa ca me turyavat
-    ca me turyauhi ca me pashthavat ca me pashthauhi ca ma uksha ca me vasha ca ma rishabhashca me vehacca
-    me''nadvanca me dhenushca ma ayuryajnena kalpatam prano yajnena kalpatamapano yajnena kalpatam vyano
-    yajnena kalpatam cakshuryajnena kalpata shrotram yajnena kalpatam mano yajnena kalpatam vagyajnena
-    kalpatamatma yajnena kalpatam yajno yajnena kalpatam || 10|| eka ca me tisrashca me panca ca me sapta
-    ca me nava ca ma ekadasha ca me trayodasha ca me pancadasha ca me saptadasha ca me navadasha ca ma
-    ekavishatishca me trayovishatishca me pancavishatishca me saptavishatishca me navavishatishca ma ekatrishacca
-    me trayastrishacca me catasrashca me''shtau ca me dvadasha ca me shodasha ca me vishatishca me caturvishatishca
-    me''shtavishatishca me dvatrishacca me shattrishacca me catvarishacca me catushcatvarishacca me''shtacatvarishacca
+  english: om agnavishnu sajoshasemavardhantu va ngirah | dyumnairvajebhiragatam | vajashca me prasavashca
+    me prayatishca me prasitishca me dhitishca me kratushca me svarashca me shlokashca me shravashca me
+    shrutishca me jyotishca me suvashca me pranashca me 'panashca me vyanashca me nca me vakca me manashca
+    me cakshushca me shrotra nca me dakshashca me bala nca ma ojashca me sahashca ma ayushca me jara ca
+    ma atma ca me tanushca me sharma ca me varma ca me 'sthani ca me parugmshi ca me sharirani ca me ||
+    nca me manyushca me bhamashca me 'mbhashca me jema ca me mahima ca me varima ca me prathima ca me
+    var shma ca me draghuya ca me vriddha nca me vriddhishca me satya nca me shraddha ca me jagacca me
+    dhana nca me vashashca me tvishishca me krida ca me modashca me jata nca me bhavishyacca me suga nca
+    ma riddhishca me klipta nca me kliptishca me matishca me sumatishca me || nca me mayashca me priya
+    'nukamashca me kamashca me saumanasashca me bhadra nca me shreyashca me vasyashca me yashashca me
+    bhagashca me dravina nca me yanta ca me dharta ca me kshemashca me dhritishca me vishva nca me mahashca
+    me sam vi~cca me jnatra nca me sushca me prasushca me sira nca me layashca ma rita 'namayacca me jivatushca
+    me dirghayutva nca me susha ca me sudina || urkca me sunrita ca me payashca me rasashca me ghrita
+    nca me madhu ca me sagdhishca me sapitishca me krishishca me vrishtishca me jaitra nca me rayishca
+    me rayashca me pushta nca me pushtishca me vibhu ca me prabhu ca me bahu ca me bhuyashca me purna
+    'kshitishca me kuyavashca me 'kshucca me vrihayashca me yava shca me mudgashca me khalva shca me priyangavashca
+    me 'navashca me shyamaka || ashma ca me mrittika ca me girayashca me parvatashca me sikatashca me
+    vanaspatayashca me hiranya nca me trapushca me shyama 'gnishca ma apashca me virudhashca ma oshadhayashca
+    me krishtapacya nca me gramyashca me pashava aranyashca yajnena kalpantam vitta nca me vittishca me
+    bhuta nca me bhutishca me vasu ca me vasatishca me karma ca me shaktishca me 'rthashca ma emashca
+    ma itishca me gatishca me || || agnishca ma indrashca me somashca ma indrashca me savita ca ma indrashca
+    me sarasvati ca ma indrashca me pusha ca ma indrashca me brihaspatishca ma indrashca me mitrashca
+    ma indrashca me varunashca ma indrashca me tvashtha ca ma indrashca me dhata ca ma indrashca me vishnushca
+    ma indrashca me 'shvinau ca ma indrashca me marutashca ma indrashca me vishve ca me deva indrashca
+    me prithivi ca ma indrashca me nca ma indrashca me dyaushca ma indrashca me dishashca ma indrashca
+    me murdha ca ma indrashca me prajapatishca ma indrashca me || || agmshushca me rashmishca me 'dhipatishca
+    ma upagmshushca me 'ntaryamashca ma aindravayavashca me maitravarunashca ma ashvinashca me pratiprasthanashca
+    me shukrashca me manthi ca ma agrayanashca me vaishvadevashca me dhruvashca me vaishvanarashca ma
+    ritugrahashca me shca ma aindragnashca me vaishvadevashca me marutvatiya shca me mahendrashca ma adityashca
+    me savitrashca me sarasvatashca me paushnashca me patnivatashca me hariyojanashca me || || idhmashca
+    me barhishca me vedishca me dhishniyashca me srucashca me camasashca me gravanashca me svaravashca
+    ma uparavashca me 'dhishavane ca me dronakalashashca me vayavyani ca me putabhricca ma adhavaniyashca
+    ma agni nca me grihashca me sadashca me purodasha 'vabhrithashca me svagakarashca me || || agnishca
+    me gharmashca me 'rkashca me suryashca me pranashca me 'shvamedhashca me prithivi ca me 'ditishca
+    me ditishca me dyaushca me shakvarirangulayo dishashca me yajnena kalpantamrikca me sama ca me stomashca
+    me yajushca me diksha ca me tapashca ma ritushca me vrata rvrishtya brihadrathantare ca me yajnena
+    kalpetam || shca me vatsashca me tryavishca me tryavica me dityavat ca me dityauhi ca me pancavishca
+    me pancavi ca me trivatsashca me trivatsa ca me turyavat ca me turyauhi ca me pashthavat ca me pashthauhi
+    ca ma uksha ca me vasha ca ma rishabhashca me vehacca me 'nadvanca me dhenushca ma ayuryajnena kalpatam
+    prano yajnena kalpatamapano yajnena kalpatam vyano yajnena kalpatam cakshuryajnena kalpatag shrotram
+    ya~jnena kalpatam mano yajnena kalpatam vagyajnena kalpatamatma yajnena kalpatam yajno yajnena kalpatam
+    || || eka ca me tisrashca me panca ca me sapta ca me nava ca ma ekadasha ca me trayodasha ca me pancadasha
+    ca me saptadasha ca me navadasha ca ma ekavigmshatishca me trayovigmshatishca me pancavigmshatishca
+    me saptavigmshatishca me navavigmshatishca ma ekatrigmshacca me trayastrigmshacca me catasrashca me
+    'shtau ca me dvadasha ca me shodasha ca me vigmshatishca me caturvigmshatishca me 'shtavigmshatishca
+    me dvatrigmshacca me shat trigmshacca me catvarigmshacca me catushcatvarigmshacca me 'shtacatvarigmshacca
     me vajashca prasavashcapijashca kratushca suvashca murdha ca vyashniyashcantyayanashcantyashca bhauvanashca
-    bhuvanashcadhipatishca || 11|| om ida devahurmanuryajnanirbrihaspatirukthamadani shasishadvishvedevah
-    suktavacah prithivimatarma ma hisirmadhu manishye madhu janishye madhu vakshyami madhu vadishyami
-    madhumatim devebhyo vacamudyasa shushrushenyam manushyebhyastam ma deva avantu shobhayai pitaro''numadantu||
-    om shantih shantih shantih || || om shantih shantih shantih || || iti shri krishnayajurvediya taittiriya
-    samhitayam caturthakande saptamah prapathakah ||'
-  devanagari: ॥ चमकप्रश्नः ॥ ॐ अग्नाविष्णू सजोषसेमा वर्धन्तु वां गिरः । द्युम्नैर्वाजेभिरागतम् । वाजश्च
-    मे प्रसवश्च मे प्रयतिश्च मे प्रसितिश्च मे धीतिश्च मे क्रतुश्च मे स्वरश्च मे श्लोकश्च मे श्रावश्च मे
-    श्रुतिश्च मे ज्योतिश्च मे सुवश्च मे प्राणश्च मेऽपानश्च मे व्यानश्च मेऽसुश्च मे चित्तं च म आधीतं च
-    मे वाक्च मे मनश्च मे चक्षुश्च मे श्रोत्रं च मे दक्षश्च मे बलं च म ओजश्च मे सहश्च म आयुश्च मे जरा च
-    म आत्मा च मे तनूश्च मे शर्म च मे वर्म च मेऽङ्गानि च मेऽस्थानि च मे परूषि च मे शरीराणि च मे ॥ १॥ ज्यैष्ठ्यं
-    च म आधिपत्यं च मे मन्युश्च मे भामश्च मेऽमश्च मेऽम्भश्च मे जेमा च मे महिमा च मे वरिमा च मे प्रथिमा
-    च मे वर्ष्मा च मे द्राघुया च मे वृद्धं च मे वृद्धिश्च मे सत्यं च मे श्रद्धा च मे जगच्च मे धनं च मे
-    वशश्च मे त्विषिश्च मे क्रीडा च मे मोदश्च मे जातं च मे जनिष्यमाणं च मे सूक्तं च मे सुकृतं च मे वित्तं
-    च मे वेद्यं च मे भूतं च मे भविष्यच्च मे सुगं च मे सुपथं च म ऋद्धं च म ऋद्धिश्च मे कॢप्तं च मे कॢप्तिश्च
-    मे मतिश्च मे सुमतिश्च मे ॥ २॥ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं
-    च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च
-    मे विश्वं च मे महश्च मे संविच्च मे ज्ञात्रं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च म ऋतं च मेऽमृतं
-    च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च
-    मे सूषा च मे सुदिनं च मे ॥ ३॥ ऊर्क्च मे सूनृता च मे पयश्च मे रसश्च मे घृतं च मे मधु च मे सग्धिश्च
-    मे सपीतिश्च मे कृषिश्च मे वृष्टिश्च मे जैत्रं च म औद्भिद्यं च मे रयिश्च मे रायश्च मे पुष्टं च मे पुष्टिश्च
-    मे विभु च मे प्रभु च मे बहु च मे भूयश्च मे पूर्णं च मे पूर्णतरं च मेऽक्षितिश्च मे कूयवाश्च मेऽन्नं
-    च मेऽक्षुच्च मे व्रीहयश्च मे यवाश्च मे माषाश्च मे तिलाश्च मे मुद्गाश्च मे खल्वाश्च मे गोधूमाश्च मे
-    मसुराश्च मे प्रियङ्गवश्च मेऽणवश्च मे श्यामकाश्च मे नीवाराश्च मे ॥ ४॥ अश्मा च मे मृत्तिका च मे गिरयश्च
-    मे पर्वताश्च मे सिकताश्च मे वनस्पतयश्च मे हिरण्यं च मेऽयश्च मे सीसं च मे त्रपुश्च मे श्यामं च मे लोहं
-    च मेऽग्निश्च म आपश्च मे वीरुधश्च म ओषधयश्च मे कृष्टपच्यं च मेऽकृष्टपच्यं च मे ग्राम्याश्च मे पशव आरण्याश्च
-    यज्ञेन कल्पन्तां वित्तं च मे वित्तिश्च मे भूतं च मे भूतिश्च मे वसु च मे वसतिश्च मे कर्म च मे शक्तिश्च
-    मेऽर्थश्च म एमश्च म इतिश्च मे गतिश्च मे ॥ ५॥ अग्निश्च म इन्द्रश्च मे सोमश्च म इन्द्रश्च मे सविता च
-    म इन्द्रश्च मे सरस्वती च म इन्द्रश्च मे पूषा च म इन्द्रश्च मे बृहस्पतिश्च म इन्द्रश्च मे मित्रश्च
-    म इन्द्रश्च मे वरुणश्च म इन्द्रश्च मे त्वष्टा च म इन्द्रश्च मे धाता च म इन्द्रश्च मे विष्णुश्च म इन्द्रश्च
-    मेऽश्विनौ च म इन्द्रश्च मे मरुतश्च म इन्द्रश्च मे विश्वे च मे देवा इन्द्रश्च मे पृथिवी च म इन्द्रश्च
-    मेऽन्तरिक्षं च म इन्द्रश्च मे द्यौश्च म इन्द्रश्च मे दिशश्च म इन्द्रश्च मे मूर्धा च म इन्द्रश्च मे
-    प्रजापतिश्च म इन्द्रश्च मे ॥ ६॥ अशुश्च मे रश्मिश्च मेऽदाभ्यश्च मेऽधिपतिश्च म उपाशुश्च मेऽन्तर्यामश्च
-    म ऐन्द्रवायवश्च मे मैत्रावरुणश्च म आश्विनश्च मे प्रतिप्रस्थानश्च मे शुक्रश्च मे मन्थी च म आग्रयणश्च
-    मे वैश्वदेवश्च मे ध्रुवश्च मे वैश्वानरश्च म ऋतुग्रहाश्च मेऽतिग्राह्याश्च म ऐन्द्राग्नश्च मे वैश्वदेवश्च
-    मे मरुत्वतीयाश्च मे माहेन्द्रश्च म आदित्यश्च मे सावित्रश्च मे सारस्वतश्च मे पौष्णश्च मे पात्नीवतश्च
-    मे हारियोजनश्च मे ॥ ७॥ इध्मश्च मे बर्हिश्च मे वेदिश्च मे धिष्णियाश्च मे स्रुचश्च मे चमसाश्च मे ग्रावाणश्च
-    मे स्वरवश्च म उपरवाश्च मेऽधिषवणे च मे द्रोणकलशश्च मे वायव्यानि च मे पूतभृच्च म आधवनीयश्च म आग्नीध्रं
-    च मे हविर्धानं च मे गृहाश्च मे सदश्च मे पुरोडाशाश्च मे पचताश्च मेऽवभृथश्च मे स्वगाकारश्च मे ॥ ८॥ अग्निश्च
-    मे घर्मश्च मेऽर्कश्च मे सूर्यश्च मे प्राणश्च मेऽश्वमेधश्च मे पृथिवी च मेऽदितिश्च मे दितिश्च मे द्यौश्च
-    मे शक्क्वरीरङ्गुलयो दिशश्च मे यज्ञेन कल्पन्तामृक्च मे साम च मे स्तोमश्च मे यजुश्च मे दीक्षा च मे तपश्च
-    म ऋतुश्च मे व्रतं च मेऽहोरात्रयोर्वृष्ट्या बृहद्रथन्तरे च मे यज्ञेन कल्पेताम् ॥ ९॥ गर्भाश्च मे वत्साश्च
-    मे त्र्यविश्च मे त्र्यवी च मे दित्यवाट् च मे दित्यौही च मे पञ्चाविश्च मे पञ्चावी च मे त्रिवत्सश्च
-    मे त्रिवत्सा च मे तुर्यवाट् च मे तुर्यौही च मे पष्ठवाट् च मे पष्ठौही च म उक्षा च मे वशा च म ऋषभश्च
-    मे वेहच्च मेऽनड्वाञ्च मे धेनुश्च म आयुर्यज्ञेन कल्पतां प्राणो यज्ञेन कल्पतामपानो यज्ञेन कल्पतां व्यानो
-    यज्ञेन कल्पतां चक्षुर्यज्ञेन कल्पता श्रोत्रं यज्ञेन कल्पतां मनो यज्ञेन कल्पतां वाग्यज्ञेन कल्पतामात्मा
-    यज्ञेन कल्पतां यज्ञो यज्ञेन कल्पताम् ॥ १०॥ एका च मे तिस्रश्च मे पञ्च च मे सप्त च मे नव च म एकादश च
-    मे त्रयोदश च मे पञ्चदश च मे सप्तदश च मे नवदश च म एकविशतिश्च मे त्रयोविशतिश्च मे पञ्चविशतिश्च मे सप्तविशतिश्च
-    मे नवविशतिश्च म एकत्रिशच्च मे त्रयस्त्रिशच्च मे चतस्रश्च मेऽष्टौ च मे द्वादश च मे षोडश च मे विशतिश्च
-    मे चतुर्विशतिश्च मेऽष्टाविशतिश्च मे द्वात्रिशच्च मे षट्त्रिशच्च मे चत्वरिशच्च मे चतुश्चत्वारिशच्च
-    मेऽष्टाचत्वारिशच्च मे वाजश्च प्रसवश्चापिजश्च क्रतुश्च सुवश्च मूर्धा च व्यश्नियश्चान्त्यायनश्चान्त्यश्च
-    भौवनश्च भुवनश्चाधिपतिश्च ॥ ११॥ ॐ इडा देवहूर्मनुर्यज्ञनीर्बृहस्पतिरुक्थामदानि शसिषद्विश्वेदेवाः सूक्तवाचः
-    पृथिवीमातर्मा मा हिसीर्मधु मनिष्ये मधु जनिष्ये मधु वक्ष्यामि मधु वदिष्यामि मधुमतीं देवेभ्यो वाचमुद्यास
-    शुश्रूषेण्यां मनुष्येभ्यस्तं मा देवा अवन्तु शोभायै पितरोऽनुमदन्तु॥ ॐ शान्तिः शान्तिः शान्तिः ॥ ॥ ॐ
-    शान्तिः शान्तिः शान्तिः ॥ ॥ इति श्री कृष्णयजुर्वेदीय तैत्तिरीय संहितायां चतुर्थकाण्डे सप्तमः प्रपाठकः
-    ॥
+    bhuvanashcadhipatishca || rbrihaspatirukthamadani shagmsishadvishve deva ktavacah prithivimatarma
+    ma higmsirmadhu manishye madhu janishye madhu vakshyami madhu vadishyami madhumati ndevebhyo vacamudyasagmshushrushenya
+    bhyastam ma deva avantu shobhayai pitaro 'numadantu || om shanti
+  devanagari: ॐ अग्ना॑विष्णू स॒जोष॑से॒माव॑र्धन्तु वा॒ ङ्गिरः॑ । द्यु॒म्नैर्वाजे॑भि॒राग॑तम् । वाज॑श्च मे
+    प्रस॒वश्च॑ मे॒ प्रय॑तिश्च मे॒ प्रसि॑तिश्च मे धी॒तिश्च॑ मे॒ क्रतु॑श्च मे॒ स्वर॑श्च मे॒ श्लोक॑श्च मे
+    श्रा॒वश्च॑ मे॒ श्रुति॑श्च मे॒ ज्योति॑श्च मे॒ सुव॑श्च मे प्रा॒णश्च॑ मे ऽपा॒नश्च॑ मे व्या॒नश्च॒ मे ञ्च
+    मे॒ वाक्च॑ मे॒ मन॑श्च मे॒ चक्षु॑श्च मे॒ श्रोत्र॑ ञ्च मे॒ दक्ष॑श्च मे॒ बल॑ ञ्च म॒ ओज॑श्च मे॒ सह॑श्च
+    म॒ आयु॑श्च मे ज॒रा च॑ म आ॒त्मा च॑ मे त॒नूश्च॑ मे॒ शर्म॑ च मे॒ वर्म॑ च॒ मे ऽस्थानि॑ च मे॒ परूग्ं॑षि
+    च मे॒ शरी॑राणि च मे ॥ ञ्च मे म॒न्युश्च॑ मे॒ भाम॑श्च॒ मे ऽम्भ॑श्च मे जे॒मा च॑ मे महि॒मा च॑ मे वरि॒मा
+    च॑ मे प्रथि॒मा च॑ मे व॒र् ष्मा च॑ मे द्राघु॒या च॑ मे वृ॒द्ध ञ्च॑ मे॒ वृद्धि॑श्च मे स॒त्य ञ्च॑ मे श्र॒द्धा
+    च॑ मे॒ जग॑च्च मे॒ धन॑ ञ्च मे॒ वश॑श्च मे॒ त्विषि॑श्च मे क्री॒डा च॑ मे॒ मोद॑श्च मे जा॒त ञ्च॑ मे भवि॒ष्यच्च॑
+    मे सु॒ग ञ्च॑ म॒ ऋद्धि॑श्च मे कॢ॒प्त ञ्च॑ मे॒ कॢप्ति॑श्च मे म॒तिश्च॑ मे सुम॒तिश्च॑ मे ॥ ञ्च॑ मे॒ मय॑श्च
+    मे प्रि॒य ऽनुका॒मश्च॑ मे॒ काम॑श्च मे सौमन॒सश्च॑ मे भ॒द्र ञ्च॑ मे॒ श्रेय॑श्च मे॒ वस्य॑श्च मे॒ यश॑श्च
+    मे॒ भग॑श्च मे॒ द्रवि॑ण ञ्च मे य॒न्ता च॑ मे ध॒र्ता च॑ मे॒ क्षेम॑श्च मे॒ धृति॑श्च मे॒ विश्व॑ ञ्च मे॒
+    मह॑श्च मे सं॒ विँच्च॑ मे॒ ज्ञात्र॑ ञ्च मे॒ सूश्च॑ मे प्र॒सूश्च॑ मे॒ सीर॑ ञ्च मे ल॒यश्च॑ म ऋ॒त ऽना॑मयच्च
+    मे जी॒वातु॑श्च मे दीर्घायु॒त्व ञ्च मे सू॒षा च॑ मे सु॒दिन॑ ॥ ऊर्क्च॑ मे सू॒नृता॑ च मे॒ पय॑श्च मे॒ रस॑श्च
+    मे घृ॒त ञ्च॑ मे॒ मधु॑ च मे॒ सग्धि॑श्च मे॒ सपी॑तिश्च मे कृ॒षिश्च॑ मे॒ वृष्टि॑श्च मे॒ जैत्र॑ ञ्च मे
+    र॒यिश्च॑ मे॒ राय॑श्च मे पु॒ष्ट ञ्च॑ मे॒ पुष्टि॑श्च मे वि॒भु च॑ मे प्र॒भु च॑ मे ब॒हु च॑ मे॒ भूय॑श्च
+    मे पू॒र्ण ऽक्षि॑तिश्च मे॒ कूय॑वाश्च॒ मे ऽक्षु॑च्च मे व्री॒हय॑श्च मे॒ यवा श्च मे मु॒द्गाश्च॑ मे ख॒ल्वा
+    श्च मे प्रि॒यङ्ग॑वश्च॒ मे ऽण॑वश्च मे श्या॒माका ॥ अश्मा॑ च मे॒ मृत्ति॑का च मे गि॒रय॑श्च मे॒ पर्व॑ताश्च
+    मे॒ सिक॑ताश्च मे॒ वन॒स्पत॑यश्च मे॒ हिर॑ण्य ञ्च॒ मे त्रपु॑श्च मे श्या॒म ऽग्निश्च॑ म॒ आप॑श्च मे वी॒रुध॑श्च
+    म॒ ओष॑धयश्च मे कृष्टप॒च्य ञ्च॑ मे ग्रा॒म्याश्च॑ मे प॒शव॑ आर॒ण्याश्च॑ य॒ज्ञेन॑ कल्पन्तां वि॒त्त ञ्च॑
+    मे॒ वित्ति॑श्च मे भू॒त ञ्च॑ मे॒ भूति॑श्च मे॒ वसु॑ च मे वस॒तिश्च॑ मे॒ कर्म॑ च मे॒ शक्ति॑श्च॒ मे ऽर्थ॑श्च
+    म॒ एम॑श्च म॒ इति॑श्च मे॒ गति॑श्च मे ॥ ॥ अ॒ग्निश्च॑ म॒ इन्द्र॑श्च मे॒ सोम॑श्च म॒ इन्द्र॑श्च मे सवि॒ता
+    च॑ म॒ इन्द्र॑श्च मे॒ सर॑स्वती च म॒ इन्द्र॑श्च मे पू॒षा च॑ म॒ इन्द्र॑श्च मे॒ बृह॒स्पति॑श्च म॒ इन्द्र॑श्च
+    मे मि॒त्रश्च॑ म॒ इन्द्र॑श्च मे॒ वरु॑णश्च म॒ इन्द्र॑श्च मे॒ त्वष्ठा॑ च म॒ इन्द्र॑श्च मे धा॒ता च॑ म॒
+    इन्द्र॑श्च मे॒ विष्णु॑श्च म॒ इन्द्र॑श्च मे॒ ऽश्विनौ॑ च म॒ इन्द्र॑श्च मे म॒रुत॑श्च म॒ इन्द्र॑श्च मे॒
+    विश्वे॑ च मे दे॒वा इन्द्र॑श्च मे पृथि॒वी च॑ म॒ इन्द्र॑श्च मे॒ ञ्च म॒ इन्द्र॑श्च मे॒ द्यौश्च॑ म॒ इन्द्र॑श्च
+    मे॒ दिश॑श्च म॒ इन्द्र॑श्च मे मू॒र्धा च॑ म॒ इन्द्र॑श्च मे प्र॒जाप॑तिश्च म॒ इन्द्र॑श्च मे ॥ ॥ अ॒ग्ं॒शुश्च॑
+    मे र॒श्मिश्च॒ मे ऽधि॑पतिश्च म उपा॒ग्ं॒शुश्च॑ मे ऽन्तर्या॒मश्च॑ म ऐन्द्रवाय॒वश्च॑ मे मैत्रावरु॒णश्च॑
+    म आश्वि॒नश्च॑ मे प्रतिप्र॒स्थान॑श्च मे शु॒क्रश्च॑ मे म॒न्थी च॑ म आग्रय॒णश्च॑ मे वैश्वदे॒वश्च॑ मे ध्रु॒वश्च॑
+    मे वैश्वान॒रश्च॑ म ऋतुग्र॒हाश्च॑ मे श्च म ऐन्द्रा॒ग्नश्च॑ मे वैश्वदे॒वश्च॑ मे मरुत्व॒तीया श्च मे माहे॒न्द्रश्च॑
+    म आदि॒त्यश्च॑ मे सावि॒त्रश्च॑ मे सारस्व॒तश्च॑ मे पौ॒ष्णश्च॑ मे पात्नीव॒तश्च॑ मे हारियोज॒नश्च॑ मे ॥
+    ॥ इ॒ध्मश्च॑ मे ब॒र्॒हिश्च॑ मे॒ वेदि॑श्च मे॒ धिष्णि॑याश्च मे॒ स्रुच॑श्च मे चम॒साश्च॑ मे॒ ग्रावा॑णश्च
+    मे॒ स्वर॑वश्च म उपर॒वाश्च॑ मे ऽधि॒षव॑णे च मे द्रोणकल॒शश्च॑ मे वाय॒व्या॑नि च मे पूत॒भृच्च॑ म आधव॒नीय॑श्च
+    म॒ आग्नी ञ्च मे गृ॒हाश्च॑ मे॒ सद॑श्च मे पुरो॒डाशा ऽवभृ॒थश्च॑ मे स्वगाका॒रश्च॑ मे ॥ ॥ अ॒ग्निश्च॑ मे
+    घ॒र्मश्च॑ मे॒ ऽर्कश्च॑ मे॒ सूर्य॑श्च मे प्रा॒णश्च॑ मे ऽश्वमे॒धश्च॑ मे पृथि॒वी च॒ मे ऽदि॑तिश्च मे॒
+    दिति॑श्च मे॒ द्यौश्च॑ मे॒ शक्व॑रीर॒ङ्गुल॑यो॒ दिश॑श्च मे य॒ज्ञेन॑ कल्पन्ता॒मृक्च॑ मे॒ साम॑ च मे॒ स्तोम॑श्च
+    मे॒ यजु॑श्च मे दी॒क्षा च॑ मे॒ तप॑श्च म ऋ॒तुश्च॑ मे व्र॒त र्वृ॒ष्ट्या बृ॑हद्रथन्त॒रे च॑ मे य॒ज्ञेन॑
+    कल्पेताम् ॥ श्च मे व॒त्साश्च॑ मे॒ त्र्यवि॑श्च मे त्र्य॒वीच॑ मे दित्य॒वाट् च॑ मे दित्यौ॒ही च॑ मे॒ पञ्चा॑विश्च
+    मे पञ्चा॒वी च॑ मे त्रिव॒त्सश्च॑ मे त्रिव॒त्सा च॑ मे तुर्य॒वाट् च॑ मे तुर्यौ॒ही च॑ मे पष्ठ॒वाट् च॑
+    मे पष्ठौ॒ही च॑ म उ॒क्षा च॑ मे व॒शा च॑ म ऋष॒भश्च॑ मे वे॒हच्च॑ मे ऽन॒ड्वाञ्च॑ मे धे॒नुश्च॑ म॒ आयु॑र्य॒ज्ञेन॑
+    कल्पतां प्रा॒णो य॒ज्ञेन॑ कल्पतामपा॒नो य॒ज्ञेन॑ कल्पतां व्या॒नो य॒ज्ञेन॑ कल्पतां॒ चक्षु॑र्य॒ज्ञेन॑
+    कल्पता॒ग्॒ श्रोत्रं॑ यँ॒ज्ञेन॑ कल्पतां॒ मनो॑ य॒ज्ञेन॑ कल्पतां॒ वाग्य॒ज्ञेन॑ कल्पतामा॒त्मा य॒ज्ञेन॑
+    कल्पतां य॒ज्ञो य॒ज्ञेन॑ कल्पताम् ॥ ॥ एका॑ च मे ति॒स्रश्च॑ मे॒ पञ्च॑ च मे स॒प्त च॑ मे॒ नव॑ च म॒ एका॑दश
+    च मे॒ त्रयो॑दश च मे॒ पञ्च॑दश च मे स॒प्तद॑श च मे॒ नव॑दश च म॒ एक॑विग्ंशतिश्च मे॒ त्रयो॑विग्ंशतिश्च मे॒
+    पञ्च॑विग्ंशतिश्च मे स॒प्तविग्ं॑शतिश्च मे॒ नव॑विग्ंशतिश्च म॒ एक॑त्रिग्ंशच्च मे॒ त्रय॑स्त्रिग्ंशच्च
+    मे॒ चत॑स्रश्च मे॒ ऽष्टौ च॑ मे॒ द्वाद॑श च मे॒ षोड॑श च मे विग्ंश॒तिश्च॑ मे॒ चतु॑र्विग्ंशतिश्च मे॒ ऽष्टाविग्ं॑शतिश्च
+    मे॒ द्वात्रिग्ं॑शच्च मे॒ षट् त्रिग्ं॑शच्च मे चत्वारि॒ग्ं॒शच्च॑ मे॒ चतु॑श्चत्वारिग्ंशच्च मे॒ ऽष्टाच॑त्वारिग्ंशच्च
+    मे॒ वाज॑श्च प्रस॒वश्चा॑पि॒जश्च॒ क्रतु॑श्च॒ सुव॑श्च मू॒र्धा च॒ व्यश्नि॑यश्चान्त्याय॒नश्चान्त्य॑श्च
+    भौव॒नश्च॒ भुव॑न॒श्चाधि॑पतिश्च ॥ र्बृह॒स्पति॑रुक्थाम॒दानि॑ शग्ंसिष॒द्विश्वे॑ दे॒वा क्त॒वाचः॒ पृथि॑विमात॒र्मा
+    मा॑ हिग्ंसी॒र्मधु॑ मनिष्ये॒ मधु॑ जनिष्ये॒ मधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒ मधु॑मती न्दे॒वेभ्यो॒ वाच॒मुद्यासग्ंशुश्रूषे॒ण्या
+    भ्य॒स्तं मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरो ऽनु॑मदन्तु ॥ ॐ शान्ति॒
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_shiva/rudram.html (Chamakam section
-    extracted from the combined source document)
+  text_source: vignanam.org (downloaded and provided by the project owner) — Sri Rudram Chamakam
   license: public_domain
-tags:
-- rudram
-- shiva
-- veda
+tags: []
 priority: true
+aliases:
+- sri
+- rudra
+- chamakam

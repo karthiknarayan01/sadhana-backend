@@ -2,44 +2,40 @@ id: panduranga-ashtakam
 category: stotram
 name:
   english: Panduranga Ashtakam
-  devanagari: पाण्डुरङ्गाष्टकम् (शङ्कराचार्यविरचितम्)
 content:
-  english: mahayogapithe tate bhimarathya varam pundarikaya datum munindraih | samagatya tishthantamanamdakamdam
-    parabrahmalingam bhaje pandurangam || 1|| tatidvasasam nilameghavabhasam ramamamdiram sumdaram citprakasham
-    | varam tvishtakayam samanyastapadam parabrahmalingam bhaje pandurangam || 2|| pramanam bhavabdheridam
+  english: mahayogapithe tate bhimarathya varam pundarikaya datum munindraih | samagatya tishthantamanandakandam
+    parabrahmalingam bhaje pandurangam || || tatidvasasam nilameghavabhasam ramamandiram sundaram citprakasham
+    | varam tvishtakayam samanyastapadam parabrahmalingam bhaje pandurangam || || pramanam bhavabdheridam
     mamakanam nitambah karabhyam dhrito yena tasmat | vidhaturvasatyai dhrito nabhikoshah parabrahmalingam
-    bhaje pandurangam || 3|| sphuratkaustubhalankritam kanthadeshe shriya jushtakeyurakam shrinivasam
-    | shivam shamtamidyam varam lokapalam parabrahmalingam bhaje pandurangam || 4|| sharaccamdrabimbananam
-    caruhasam lasatkundalakramtagandasthalamtam | japaragabimbadharam kanjanetram parabrahmalingam bhaje
-    pandurangam|h|| 5|| kiritojvalatsarvadikpramtabhagam surairarcitam divyaratnairanarghaih | tribhangakritim
-    barhamalyavatamsam parabrahmalingam bhaje pandurangam|h|| 6|| vibhum venunadam caramtam duramtam svayam
-    lilaya gopavesham dadhanam | gavam vrindakanandadam caruhasam parabrahmalingam bhaje pandurangam ||
-    7|| ajam rukminipranasanjivanam tam param dhama kaivalyamekam turiyam | prasannam prapannartiham devadevam
-    parabrahmalingam bhaje pandurangam || 8|| stavam panduramgasya vai punyadam ye pathantyekacittena
-    bhaktya ca nityam | bhavambhonidhim te vitirtvantakale hareralayam shashvatam prapnuvanti || || iti
-    shrimatparamahamsaparivrajakacaryasya shrigovindabhagavatpujyapadashishyasya shrimacchankarabhagavatah
-    kritau pandurangashtakam sampurnam ||
-  devanagari: महायोगपीठे तटे भीमरथ्या वरं पुण्डरीकाय दातुं मुनीन्द्रैः । समागत्य तिष्ठन्तमानंदकंदं परब्रह्मलिङ्गं
-    भजे पाण्डुरङ्गम् ॥ १॥ तटिद्वाससं नीलमेघावभासं रमामंदिरं सुंदरं चित्प्रकाशम् । वरं त्विष्टकायां समन्यस्तपादं
-    परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ २॥ प्रमाणं भवाब्धेरिदं मामकानां नितम्बः कराभ्यां धृतो येन तस्मात्
-    । विधातुर्वसत्यै धृतो नाभिकोशः परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ३॥ स्फुरत्कौस्तुभालङ्कृतं कण्ठदेशे
-    श्रिया जुष्टकेयूरकं श्रीनिवासम् । शिवं शांतमीड्यं वरं लोकपालं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ४॥
-    शरच्चंद्रबिंबाननं चारुहासं लसत्कुण्डलाक्रांतगण्डस्थलांतम् । जपारागबिंबाधरं कञ्जनेत्रं परब्रह्मलिङ्गं
-    भजे पाण्डुरङ्गम्।ह्॥ ५॥ किरीटोज्वलत्सर्वदिक्प्रांतभागं सुरैरर्चितं दिव्यरत्नैरनर्घैः । त्रिभङ्गाकृतिं
-    बर्हमाल्यावतंसं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम्।ह्॥ ६॥ विभुं वेणुनादं चरंतं दुरंतं स्वयं लीलया गोपवेषं
-    दधानम् । गवां वृन्दकानन्ददं चारुहासं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ७॥ अजं रुक्मिणीप्राणसञ्जीवनं
+    bhaje pandurangam || || sphuratkaustubhalankritam kanthadeshe shriya jushtakeyurakam shrinivasam |
+    shivam shantamidyam varam lokapalam parabrahmalingam bhaje pandurangam || || sharaccandrabimbananam
+    caruhasam lasatkundalakrantagandasthalantam | japaragabimbadharam kanjanetram parabrahmalingam bhaje
+    pandurangam || || kiritojjvalatsarvadikprantabhagam surairarcitam divyaratnairanarghaih | tribhangakritim
+    barhamalyavatamsam parabrahmalingam bhaje pandurangam || || vibhum venunadam carantam durantam svayam
+    lilaya gopavesham dadhanam | gavam brindakanandadam caruhasam parabrahmalingam bhaje pandurangam ||
+    || ajam rukminipranasanjivanam tam param dhama kaivalyamekam turiyam | prasannam prapannartiham devadevam
+    parabrahmalingam bhaje pandurangam || || stavam pandurangasya vai punyadam ye pathantyekacittena bhaktya
+    ca nityam | bhavambhonidhim te'pi tirtvantakale hareralayam shashvatam prapnuvanti || || iti shrimatparamahamsa
+    parivrajakacarya shrimacchankarabhagavatpadacarya viracitam shri pandurangashtakam |
+  devanagari: महायोगपीठे तटे भीमरथ्या वरं पुण्डरीकाय दातुं मुनीन्द्रैः । समागत्य तिष्ठन्तमानन्दकन्दं परब्रह्मलिङ्गं
+    भजे पाण्डुरङ्गम् ॥ ॥ तटिद्वाससं नीलमेघावभासं रमामन्दिरं सुन्दरं चित्प्रकाशम् । वरं त्विष्टकायां समन्यस्तपादं
+    परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ॥ प्रमाणं भवाब्धेरिदं मामकानां नितम्बः कराभ्यां धृतो येन तस्मात्
+    । विधातुर्वसत्यै धृतो नाभिकोशः परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ॥ स्फुरत्कौस्तुभालङ्कृतं कण्ठदेशे
+    श्रिया जुष्टकेयूरकं श्रीनिवासम् । शिवं शान्तमीड्यं वरं लोकपालं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ॥
+    शरच्चन्द्रबिम्बाननं चारुहासं लसत्कुण्डलाक्रान्तगण्डस्थलान्तम् । जपारागबिम्बाधरं कञ्जनेत्रं परब्रह्मलिङ्गं
+    भजे पाण्डुरङ्गम् ॥ ॥ किरीटोज्ज्वलत्सर्वदिक्प्रान्तभागं सुरैरर्चितं दिव्यरत्नैरनर्घैः । त्रिभङ्गाकृतिं
+    बर्हमाल्यावतंसं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ॥ विभुं वेणुनादं चरन्तं दुरन्तं स्वयं लीलया गोपवेषं
+    दधानम् । गवां बृन्दकानन्ददं चारुहासं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ॥ अजं रुक्मिणीप्राणसञ्जीवनं
     तं परं धाम कैवल्यमेकं तुरीयम् । प्रसन्नं प्रपन्नार्तिहं देवदेवं परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥
-    ८॥ स्तवं पाण्डुरंगस्य वै पुण्यदं ये पठन्त्येकचित्तेन भक्त्या च नित्यम् । भवांभोनिधिं ते वितीर्त्वान्तकाले
-    हरेरालयं शाश्वतं प्राप्नुवन्ति ॥ ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
-    श्रीमच्छङ्करभगवतः कृतौ पाण्डुरङ्गाष्टकं सम्पूर्णम् ॥
+    ॥ स्तवं पाण्डुरङ्गस्य वै पुण्यदं ये पठन्त्येकचित्तेन भक्त्या च नित्यम् । भवाम्भोनिधिं तेऽपि तीर्त्वान्तकाले
+    हरेरालयं शाश्वतं प्राप्नुवन्ति ॥ ॥ इति श्रीमत्परमहंस परिव्राजकाचार्य श्रीमच्छङ्करभगवत्पादाचार्य विरचितं
+    श्री पाण्डुरङ्गाष्टकम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_vishhnu/panduranga8.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Panduranga Ashtakam
   license: public_domain
-tags:
-- aShTaka
-- vishhnu
-- krishna
-- vishnu
-- shankarAchArya
+tags: []
 priority: true
+aliases:
+- panduranga
+- ashtakam

@@ -2,33 +2,45 @@ id: surya-suktam
 category: stotram
 name:
   english: Surya Suktam
-  devanagari: सूर्यसूक्तम् (ऋग्वेद १।११५।१-६ चित्रं देवानामुदगादनीकं)
 content:
-  english: 115 pancadashottarashatatamam suktam angirasah kutsa rishih, suryodevata, nicrit trishtup (1,2,6)
-    , virat trishtup (3), trishtupchandah (4,5), dhaivatah svarah | citram devanamudagadanikam cakshurmitrasya
-    varunasyagneh | apra dyavaprithivi antariksham surya atma jagatastasthushashca || 1|115|01 suryo devimushasam
-    rocamanam maryo na yoshamabhyeti pashcat | yatra naro devayanto yugani vitanvate prati bhadraya bhadram
-    || 1|115|02 bhadra ashva haritah suryasya citra etagva anumadyasah | namasyanto diva a prishthamasthuh
-    pari dyavaprithivi yanti sadyah || 1|115|03 tatsuryasya devatvam tanmahitvam madhya kartorvitatam
-    sam jabhara | yadedayukta haritah sadhasthadadratri vasastanute simasmai || 1|115|04 tanmitrasya varunasyabhicakshe
-    suryo rupam krinute dyorupasthe | anantamanyadrushadasya pajah krishnamanyaddharitah sam bharanti
-    || 1|115|05 adya deva udita suryasya niramhasah piprita niravadyat | tanno mitro varuno mamahantamaditih
-    sindhuh prithivi uta dyauh || 1|115|06
-  devanagari: ११५ पञ्चदशोत्तरशततमं सूक्तम् आङ्गिरसः कुत्स ऋषिः, सूर्योदेवता, निचृत् त्रिष्तुप् (१,२,६)
-    , विराट् त्रिष्टुप् (३), त्रिष्टुप्छन्दः (४,५), धैवतः स्वरः । चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य
-    वरुणस्याग्नेः । आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥ १।११५।०१ सूर्यो देवीमुषसं
-    रोचमानां मर्यो न योषामभ्येति पश्चात् । यत्रा नरो देवयन्तो युगानि वितन्वते प्रति भद्राय भद्रम् ॥ १।११५।०२
-    भद्रा अश्वा हरितः सूर्यस्य चित्रा एतग्वा अनुमाद्यासः । नमस्यन्तो दिव आ पृष्ठमस्थुः परि द्यावापृथिवी
-    यन्ति सद्यः ॥ १।११५।०३ तत्सूर्यस्य देवत्वं तन्महित्वं मध्या कर्तोर्विततं सं जभार । यदेदयुक्त हरितः
-    सधस्थादाद्रात्री वासस्तनुते सिमस्मै ॥ १।११५।०४ तन्मित्रस्य वरुणस्याभिचक्षे सूर्यो रूपं कृणुते द्योरुपस्थे
-    । अनन्तमन्यद्रुशदस्य पाजः कृष्णमन्यद्धरितः सं भरन्ति ॥ १।११५।०५ अद्या देवा उदिता सूर्यस्य निरंहसः
-    पिपृता निरवद्यात् । तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ १।११५।०६
+  english: namo mitrasya varunasya cakshase maho devaya tadritam saparyata | duredrishe devajataya ketave
+    divasputraya suryaya shamsata || sa ma satyoktih pari patu vishvato dyava ca yatra tatanannahani ca
+    | vishvamanyanni vishate yadejati vishvahapo vishvahodeti suryah || na te adevah pradivo ni vasate
+    yadetashebhih patarai ratharyasi | pracinamanyadanu vartate raja udanyena jyatisha yasi surya || yena
+    surya jyotisha badhase tamo jagacca vishvamudiyar shi bhanuna | tenasmadvishvamaniramanahutimapamivamapa
+    dushshvapnyam suva || vishvasya hi preshito rakshasi vratamahelayannuccarasi svadha anu | yadadya
+    tva suryopabravamahai ta nno deva anu mamsirata kratum || nno dyavaprithivi tanna apa indrah shrinvantu
+    maruto havam va~cah | ma shune bhuma suryasya sandrishi bhadra njivanto jaranamashimahi || vishvaha
+    tva sumanasa ssucakshasah prajavanto anamiva anagasah | udyanta ntva mitramaho divedive jyogjivah
+    prati pashyema surya || mahi jyotirbibhrata ntva vicakshana bhasvanta ncakshushecakshushe mayah |
+    arohanta mbrihatah pajasaspari vaya njivah prati pashyema surya || yasya te vishva bhuvanani ketuna
+    pra cerate ni ca vishante aktubhih | anagastvena harikesha suryahnahna no vasyasavasyasodihi || nno
+    bhava cakshasa sha mbhanuna sham hima sha nghrinena | yatha shamadhvanchamasaddurone tatsurya dravina
+    ndeva ubhayaya janmane sharma yacchata dvipade catushpade | adatpibadurjayamanamashita yadvo devashcakrima
+    jihvaya guru manaso va prayuti devahelanam | arava yo no abhi ducchunayate tasmintadeno vasavo ni
+    dhetana ||
+  devanagari: नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑से म॒हो दे॒वाय॒ तदृ॒तं स॑पर्यत । दू॒रे॒दृशे॑ दे॒वजा॑ताय के॒तवे॑
+    दि॒वस्पु॒त्राय॒ सू॒र्या॑य शंसत ॥ सा मा॑ स॒त्योक्तिः॒ परि॑ पातु वि॒श्वतो॒ द्यावा॑ च॒ यत्र॑ त॒तन॒न्नहा॑नि
+    च । विश्व॑म॒न्यन्नि वि॑शते॒ यदेज॑ति वि॒श्वाहापो॑ वि॒श्वाहोदे॑ति॒ सूर्यः॑ ॥ न ते॒ अदे॑वः प्र॒दिवो॒
+    नि वा॑सते॒ यदे॑त॒शेभिः॑ पत॒रै र॑थ॒र्यसि॑ । प्रा॒चीन॑म॒न्यदनु॑ वर्तते॒ रज॒ उद॒न्येन॒ ज्याति॑षा यासि
+    सूर्य ॥ येन॑ सूर्य॒ ज्योति॑षा॒ बाध॑से॒ तमो॒ जग॑च्च॒ विश्व॑मुदि॒यर् षि॑ भा॒नुना॑ । तेना॒स्मद्विश्वा॒मनि॑रा॒मना॑हुति॒मपामी॑वा॒मप॑
+    दु॒ष्ष्वप्न्यं॑ सुव ॥ विश्व॑स्य॒ हि प्रेषि॑तो॒ रक्ष॑सि व्र॒तमहे॑लयन्नु॒च्चर॑सि स्व॒धा अनु॑ । यद॒द्य
+    त्वा॑ सूर्योप॒ब्रवा॑महै॒ त न्नो॑ दे॒वा अनु॑ मंसीरत॒ क्रतु॑म् ॥ न्नो॒ द्यावा॑पृथि॒वी तन्न॒ आप॒ इन्द्रः॑
+    शृण्वन्तु म॒रुतो॒ हवं॒ वँचः॑ । मा शूने॑ भूम॒ सूर्य॑स्य स॒न्दृशि॑ भ॒द्र ञ्जीव॑न्तो जर॒णाम॑शीमहि ॥ वि॒श्वाहा॑
+    त्वा सु॒मन॑स स्सु॒चक्ष॑सः प्र॒जाव॑न्तो अनमी॒वा अना॑गसः । उ॒द्यन्त॑ न्त्वा मित्रमहो दि॒वेदि॑वे॒ ज्योग्जी॒वाः
+    प्रति॑ पश्येम सूर्य ॥ महि॒ ज्योति॒र्बिभ्र॑त न्त्वा विचक्षण॒ भास्व॑न्त॒ ञ्चक्षु॑षेचक्षुषे॒ मयः॑ । आ॒रोह॑न्त
+    म्बृह॒तः पाज॑स॒स्परि॑ व॒य ञ्जी॒वाः प्रति॑ पश्येम सूर्य ॥ यस्य॑ ते॒ विश्वा॒ भुव॑नानि के॒तुना॒ प्र चेर॑ते॒
+    नि च॑ वि॒शन्ते॑ अ॒क्तुभिः॑ । अ॒ना॒गा॒स्त्वेन॑ हरिकेश सू॒र्याह्ना॑ह्ना नो॒ वस्य॑सावस्य॒सोदि॑हि ॥ न्नो॑
+    भव॒ चक्ष॑सा॒ श म्भा॒नुना॒ शं हि॒मा श ङ्घृणेन॑ । यथा॒ शमध्व॒ञ्छमस॑द्दुरो॒णे तत्सू॑र्य॒ द्रवि॑ण न्देवा
+    उ॒भया॑य॒ जन्म॑ने॒ शर्म॑ यच्छत द्वि॒पदे॒ चतु॑ष्पदे । अ॒दत्पिब॑दू॒र्जय॑मान॒माशि॑त॒ यद्वो॑ देवाश्चकृ॒म
+    जि॒ह्वया॑ गु॒रु मन॑सो वा॒ प्रयु॑ती देव॒हेल॑नम् । अरा॑वा॒ यो नो॑ अ॒भि दु॑च्छुना॒यते॒ तस्मि॒न्तदेनो॑
+    वसवो॒ नि धे॑तन ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/sUryasUktamRigveda.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Surya Suktam
   license: public_domain
-tags:
-- veda
-- sUkta
-- svara
+tags: []
 priority: true
+aliases:
+- surya
+- suktam

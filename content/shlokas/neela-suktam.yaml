@@ -1,0 +1,19 @@
+id: neela-suktam
+category: stotram
+name:
+  english: Neela Suktam
+content:
+  english: ngrinahi | ghritavati savitaradhipatyaih payasvatirantirashano astu | dhruva disham vi~shnupatnyaghora
+    'syeshanasahasoya manota rmatarishvota vayussandhuvanavata abhi no grinantu | vishtambho divodharunah
+    prithivya asyeshyana jagato vishnupatni || om shanti
+  devanagari: ङ्गृ॒णा॒हि॒ । घृ॒तव॑ती सवित॒राधि॑पत्यैः॒ पय॑स्वती॒रन्ति॒राशा॑नो अस्तु । ध्रु॒वा दि॒शां विँष्णु॑प॒त्न्यघो॑रा॒
+    ऽस्येशा॑ना॒सह॑सो॒या म॒नोता र्मात॒रिश्वो॒त वा॒युस्स॑न्धुवा॒नावाता॑ अ॒भि नो॑ गृणन्तु । वि॒ष्ट॒म्भो दि॒वोध॒रुणः॑
+    पृथि॒व्या अ॒स्येश्या॑ना॒ जग॑तो॒ विष्णु॑पत्नी ॥ ॐ शान्ति॒
+meaning: {}
+source_attribution:
+  text_source: vignanam.org (downloaded and provided by the project owner) — Neela Suktam
+  license: public_domain
+tags: []
+priority: true
+aliases:
+- suktam

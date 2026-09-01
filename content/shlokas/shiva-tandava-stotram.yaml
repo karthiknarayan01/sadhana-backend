@@ -2,81 +2,58 @@ id: shiva-tandava-stotram
 category: stotram
 name:
   english: Shiva Tandava Stotram
-  devanagari: शिवताण्डवस्तोत्रम् (रावणकृतम्)
 content:
-  english: '|| atha ravanakritashivatandavastotram || || shriganeshaya namah || jatatavigalajjalapravahapavitasthale
-    gale''valambya lambitam bhujangatungamalikam | damaddamaddamaddamanninadavaddamarvayam cakara candatandavam
-    tanotu nah shivah shivam || 1|| jatakatahasambhramabhramannilimpanirjhari- vilolavicivallarivirajamanamurddhani
-    | dhagaddhagaddhagajjvalallalatapattapavake kishoracandrashekhare ratih pratikshanam mama || 2|| dharadharendranandinivilasabandhubandhura-
+  english: jatatavigalajjalapravahapavitasthale galevalambya lambitam bhujangatungamalikam | damaddamaddamaddamanninadavaddamarvayam
+    cakara candatandavam tanotu nah shivah shivam || || jatakatahasambhramabhramannilimpanirjhari vilolavicivallarivirajamanamurdhani
+    | dhagaddhagaddhagajjvalallalatapattapavake kishoracandrashekhare ratih pratikshanam mama || || dharadharendranandinivilasabandhubandhura
     sphuraddigantasantatipramodamanamanase | kripakatakshadhoraniniruddhadurdharapadi kvaciddigambare
-    ( kvaciccidambare ) mano vinodametu vastuni || 3|| jatabhujangapingalasphuratphanamaniprabha- kadambakunkumadravapraliptadigvadhumukhe
-    | madandhasindhurasphurattvaguttariyamedure (sindhurasuratva) mano vinodamadbhutam bibhartu bhutabhartari
-    || 4|| sahasralocanaprabhrityasheshalekhashekhara- prasunadhulidhoranividhusaranghripithabhuh | bhujangarajamalaya
-    nibaddhajatajutakah shriyai ciraya jayatam cakorabandhushekharah || 5|| (shriye) lalatacatvarajvaladdhananjayasphulingabha-
-    nipitapancasayakam namannilimpanayakam | (sphulingaya nipita) sudhamayukhalekhaya virajamanashekharam
-    mahakapali sampade shiro jatalamastu nah || 6|| (mahah kapali sampade sarijjatalamastu nah ||) karalabhalapattikadhagaddhagaddhagajjvala-
-    ddhananjayahutikritapracandapancasayake | dharadharendranandinikucagracitrapatraka- prakalpanaikashilpini
-    trilocane ratirmama || 7|| navinameghamandaliniruddhadurdharasphurat|h- kuhunishithinitamahprabandhabaddhakandharah
-    | (prabaddhabaddha) nilimpanirjharidharastanotu krittisindhurah kalanidhanabandhurah shriyam jagaddhurandharah
-    || 8|| praphullanilapankajaprapancakalimaprabha- ''valambikanthakandaliruciprabaddhakandharam | smaracchidam
-    puracchidam bhavacchidam makhacchidam gajacchidandhakacchidam tamantakacchidam bhaje || 9|| akharva
-    ( agarva ) sarvamangalakalakadambamanjari- rasapravahamadhurivijrimbhanamadhuvratam | smarantakam
-    purantakam bhavantakam makhantakam gajantakandhakantakam tamantakantakam bhaje || 10|| jayatvadabhravibhramabhramadbhujangamashvasa-
-    (jayatyada) dvinirgamatkramasphuratkaralabhalahavyavat | dhimiddhimiddhimiddhvananmridangatungamangala-
-    (dhimim dhimim dhimim dhvanan) dhvanikramapravartitapracandatandavah shivah || 11|| drishadvicitratalpayorbhujangamauktikasrajor-
-    garishtharatnaloshthayoh suhridvipakshapakshayoh | trinaravindacakshushoh prajamahimahendrayoh samapravrittikah
-    kada sadashivam bhajamyaham || 12|| (samam pravartayanmanah kada sadashivam bhaje ||) kada nilimpanirjharinikunjakotare
-    vasan|h vimuktadurmatih sada shirahsthamanjalim vahan | vilolalolalocano lalamabhalalagnakah (vimuktalolalocanalalamabhalalagnakam)
-    shiveti mantramuccaran kada sukhi bhavamyaham || 13|| nilimpanathanagarikadambamaulamallika- nigumphanirbharaksharanmadhushnikamanoharah
-    | tanotu no manomudam vinodinimaharnisham parashriyah param padam tadangajatvisham cayah || 14|| pracandavadavanalaprabhashubhapracarani
-    mahashtasiddhikaminijana''vahutajalpana | vimuktavamalocanavivahakalikadhvanih shiveti mantrabhushana
-    jagajjayaya jayatam || 15|| imam hi nityamevamuktamuttamottamam stavam pathansmaranbruvannaro vishuddhimetisantatam
-    | hare gurau subhaktimashu yati na''nyatha gatim vimohanam hi dehinam sushankarasya cintanam || 16||
-    pujavasanasamaye dashavaktragitam yah shambhupujanaparam pathati pradoshe | tasya sthiram rathagajendraturangayuktam
-    lakshmim sadaiva sumukhim pradadati shambhuh || 17|| (lakshmim prasadasamaye pradadati shambhuh) ||
-    iti shriravanakritam shivatandavastotram sampurnam || and guru varna-s alternate| sho there are eight
-    ḻġ (laghu-guru) pairs, making up 16 syllables of eac line| the last shloka carry 15-19 verses| there
-    are tvo additional verses sin in some version namami parvatipatim namami jahnavipatim namami bhaktavatsalam
-    namami bhalalocanam | namami candrashekharam namami duhkhamocanam tadiyapadapankajam smaramyaham nateshvaram
-    || 16|| ravanena kritam stotram yah pathecchivasannidhau | putrapautradikam saukhyam labhate mokshameva
-    ca || 19|| iti dashakandharaviracitam shivatandavastotram samaptam |'
-  devanagari: ॥ अथ रावणकृतशिवताण्डवस्तोत्रम् ॥ ॥ श्रीगणेशाय नमः ॥ जटाटवीगलज्जलप्रवाहपावितस्थले गलेऽवलम्ब्य
-    लम्बितां भुजङ्गतुङ्गमालिकाम् । डमड्डमड्डमड्डमन्निनादवड्डमर्वयं चकार चण्डताण्डवं तनोतु नः शिवः शिवम्
-    ॥ १॥ जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी- विलोलवीचिवल्लरीविराजमानमूर्द्धनि । धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके
-    किशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम ॥ २॥ धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर- स्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे
-    । कृपाकटाक्षधोरणीनिरुद्धदुर्धरापदि क्वचिद्दिगम्बरे ( क्वचिच्चिदम्बरे ) मनो विनोदमेतु वस्तुनि ॥ ३॥
-    जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभा- कदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे । मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे
-    (सिन्धुरासुरत्व) मनो विनोदमद्भुतं बिभर्तु भूतभर्तरि ॥ ४॥ सहस्रलोचनप्रभृत्यशेषलेखशेखर- प्रसूनधूलिधोरणीविधूसराङ्घ्रिपीठभूः
-    । भुजङ्गराजमालया निबद्धजाटजूटकः श्रियै चिराय जायतां चकोरबन्धुशेखरः ॥ ५॥ (श्रिये) ललाटचत्वरज्वलद्धनञ्जयस्फुलिङ्गभा-
-    निपीतपञ्चसायकं नमन्निलिम्पनायकम् । (स्फुलिङ्गया निपीत) सुधामयूखलेखया विराजमानशेखरं महाकपालि सम्पदे
-    शिरो जटालमस्तु नः ॥ ६॥ (महः कपालि सम्पदे सरिज्जटालमस्तु नः ॥) करालभालपट्टिकाधगद्धगद्धगज्ज्वल- द्धनञ्जयाहुतीकृतप्रचण्डपञ्चसायके
-    । धराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रक- प्रकल्पनैकशिल्पिनि त्रिलोचने रतिर्मम ॥ ७॥ नवीनमेघमण्डलीनिरुद्धदुर्धरस्फुरत्।ह्-
-    कुहूनिशीथिनीतमःप्रबन्धबद्धकन्धरः । (प्रबद्धबद्ध) निलिम्पनिर्झरीधरस्तनोतु कृत्तिसिन्धुरः कलानिधानबन्धुरः
-    श्रियं जगद्धुरन्धरः ॥ ८॥ प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभा- ऽवलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम् ।
-    स्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं गजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे ॥ ९॥ अखर्व ( अगर्व ) सर्वमङ्गलाकलाकदम्बमञ्जरी-
-    रसप्रवाहमाधुरीविजृम्भणामधुव्रतम् । स्मरान्तकं पुरान्तकं भवान्तकं मखान्तकं गजान्तकान्धकान्तकं तमन्तकान्तकं
-    भजे ॥ १०॥ जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वस- (जयत्यद) द्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाट् । धिमिद्धिमिद्धिमिद्ध्वनन्मृदङ्गतुङ्गमङ्गल-
-    (धिमिं धिमिं धिमिं ध्वनन्) ध्वनिक्रमप्रवर्तितप्रचण्डताण्डवः शिवः ॥ ११॥ दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्-
-    गरिष्ठरत्नलोष्ठयोः सुहृद्विपक्षपक्षयोः । तृणारविन्दचक्षुषोः प्रजामहीमहेन्द्रयोः समप्रवृत्तिकः कदा
-    सदाशिवं भजाम्यहम् ॥ १२॥ (समं प्रवर्तयन्मनः कदा सदाशिवं भजे ॥) कदा निलिम्पनिर्झरीनिकुञ्जकोटरे वसन्।ह्
-    विमुक्तदुर्मतिः सदा शिरःस्थमञ्जलिं वहन् । विलोललोललोचनो ललामभाललग्नकः (विमुक्तलोललोचनाललामभाललग्नकं)
-    शिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम् ॥ १३॥ निलिम्पनाथनागरीकदम्बमौलमल्लिका- निगुम्फनिर्भरक्षरन्मधूष्णिकामनोहरः
-    । तनोतु नो मनोमुदं विनोदिनीमहर्निशं परश्रियः परं पदं तदङ्गजत्विषां चयः ॥ १४॥ प्रचण्डवाडवानलप्रभाशुभप्रचारणी
-    महाष्टसिद्धिकामिनीजनाऽवहूतजल्पना । विमुक्तवामलोचनाविवाहकालिकध्वनिः शिवेति मन्त्रभूषणा जगज्जयाय जायताम्
-    ॥ १५॥ इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं पठन्स्मरन्ब्रुवन्नरो विशुद्धिमेतिसन्ततम् । हरे गुरौ सुभक्तिमाशु
-    याति नाऽन्यथा गतिं विमोहनं हि देहिनां सुशङ्करस्य चिन्तनम् ॥ १६॥ पूजावसानसमये दशवक्त्रगीतं यः शम्भुपूजनपरं
-    पठति प्रदोषे । तस्य स्थिरां रथगजेन्द्रतुरङ्गयुक्तां लक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः ॥ १७॥ (लक्ष्मीं
-    प्रसादसमये प्रददाति शम्भुः) ॥ इति श्रीरावणकृतं शिवताण्डवस्तोत्रं सम्पूर्णम् ॥ अन्द् गुरु वर्न-स् अल्तेर्नते।
-    षो थेरे अरे एइघ्त् ळ्ग़् (लघु-गुरु) पैर्स्, मकिन्ग् उप् १६ स्य्ल्लब्लेस् ओफ़् एअच् लिने। ठे लस्त् श्लोक
-    चर्र्य् १५-१९ वेर्सेस्। ठेरे अरे त्वो अद्दितिओनल् वेर्सेस् सीन् इन् सोमे वेर्सिओन् नमामि पार्वतीपतिं
-    नमामि जाह्नवीपतिं नमामि भक्तवत्सलं नमामि भाललोचनम् । नमामि चन्द्रशेखरं नमामि दुःखमोचनं तदीयपादपङ्कजं
-    स्मराम्यहं नटेश्वरम् ॥ १६॥ रावणेन कृतं स्तोत्रं यः पठेच्छिवसन्निधौ । पुत्रपौत्रादिकं सौख्यं लभते मोक्षमेव
-    च ॥ १९॥ इति दशकन्धरविरचितं शिवताण्डवस्तोत्रं समाप्तम् ।
+    mano vinodametu vastuni || || jatabhujangapingalasphuratphanamaniprabha kadambakunkumadravapraliptadigvadhumukhe
+    | madandhasindhurasphurattvaguttariyamedure mano vinodamadbhutam bibhartu bhutabhartari || || sahasralocanaprabhrityasheshalekhashekhara
+    prasunadhulidhorani vidhusaranghripithabhuh | bhujangarajamalaya nibaddhajatajutakah shriyai ciraya
+    jayatam cakorabandhushekharah || || lalatacatvarajvaladdhananjayasphulingabha nipitapancasayakam namannilimpanayakam
+    | sudhamayukhalekhaya virajamanashekharam mahakapalisampadeshirojatalamastu nah || || karalaphalapattikadhagaddhagaddhagajjvala
+    ddhananjayadharikritapracandapancasayake | dharadharendranandinikucagracitrapatraka prakalpanaikashilpini
+    trilocane matirmama || || navinameghamandali niruddhadurdharasphurat kuhunishithinitamah prabandhabandhukandharah
+    | nilimpanirjharidharastanotu krittisindhurah kalanidhanabandhurah shriyam jagaddhurandharah || ||
+    praphullanilapankajaprapancakalimaprabha vilambikanthakandaliruciprabaddhakandharam | smaracchidam
+    puracchidam bhavacchidam makhacchidam gajacchidandhakacchidam tamantakacchidam bhaje || || agarvasarvamangalakalakadambamanjari
+    rasapravahamadhuri vijrimbhanamadhuvratam | smarantakam purantakam bhavantakam makhantakam gajantakandhakantakam
+    tamantakantakam bhaje || || jayatvadabhravibhramabhramadbhujangamashvasa dvinirgamatkramasphuratkaralaphalahavyavat
+    | dhimiddhimiddhimidhvananmridangatungamangala dhvanikramapravartita pracandatandavah shivah || ||
+    drishadvicitratalpayorbhujangamauktikasrajor garishtharatnaloshthayoh suhridvipakshapakshayoh | trinaravindacakshushoh
+    prajamahimahendrayoh samam pravartayanmanah kada sadashivam bhaje || || kada nilimpanirjharinikunjakotare
+    vasan vimuktadurmatih sada shirahsthamanjalim vahan | vimuktalolalocano lalataphalalagnakah shiveti
+    mantramuccaran sada sukhi bhavamyaham || || imam hi nityamevamuktamuttamottamam stavam pathansmaranbruvannaro
+    vishuddhimetisantatam | hare gurau subhaktimashu yati nanyatha gatim vimohanam hi dehinam sushankarasya
+    cintanam || || pujavasanasamaye dashavaktragitam yah shambhupujanaparam pathati pradoshe | tasya sthiram
+    rathagajendraturangayuktam lakshmim sadaiva sumukhim pradadati shambhuh ||
+  devanagari: जटाटवीगलज्जलप्रवाहपावितस्थले गलेवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् । डमड्डमड्डमड्डमन्निनादवड्डमर्वयं
+    चकार चण्डताण्डवं तनोतु नः शिवः शिवम् ॥ ॥ जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी विलोलवीचिवल्लरीविराजमानमूर्धनि
+    । धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके किशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम ॥ ॥ धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर
+    स्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे । कृपाकटाक्षधोरणीनिरुद्धदुर्धरापदि क्वचिद्दिगम्बरे मनो विनोदमेतु
+    वस्तुनि ॥ ॥ जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभा कदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे । मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे
+    मनो विनोदमद्भुतं बिभर्तु भूतभर्तरि ॥ ॥ सहस्रलोचनप्रभृत्यशेषलेखशेखर प्रसूनधूलिधोरणी विधूसराङ्घ्रिपीठभूः
+    । भुजङ्गराजमालया निबद्धजाटजूटकः श्रियै चिराय जायतां चकोरबन्धुशेखरः ॥ ॥ ललाटचत्वरज्वलद्धनञ्जयस्फुलिङ्गभा
+    निपीतपञ्चसायकं नमन्निलिम्पनायकम् । सुधामयूखलेखया विराजमानशेखरं महाकपालिसम्पदेशिरोजटालमस्तु नः ॥ ॥
+    करालफालपट्टिकाधगद्धगद्धगज्ज्वल द्धनञ्जयाधरीकृतप्रचण्डपञ्चसायके । धराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रक
+    प्रकल्पनैकशिल्पिनि त्रिलोचने मतिर्मम ॥ ॥ नवीनमेघमण्डली निरुद्धदुर्धरस्फुरत् कुहूनिशीथिनीतमः प्रबन्धबन्धुकन्धरः
+    । निलिम्पनिर्झरीधरस्तनोतु कृत्तिसिन्धुरः कलानिधानबन्धुरः श्रियं जगद्धुरन्धरः ॥ ॥ प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभा
+    विलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम् । स्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं गजच्छिदान्धकच्छिदं तमन्तकच्छिदं
+    भजे ॥ ॥ अगर्वसर्वमङ्गलाकलाकदम्बमञ्जरी रसप्रवाहमाधुरी विजृम्भणामधुव्रतम् । स्मरान्तकं पुरान्तकं भवान्तकं
+    मखान्तकं गजान्तकान्धकान्तकं तमन्तकान्तकं भजे ॥ ॥ जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वस द्विनिर्गमत्क्रमस्फुरत्करालफालहव्यवाट्
+    । धिमिद्धिमिद्धिमिध्वनन्मृदङ्गतुङ्गमङ्गल ध्वनिक्रमप्रवर्तित प्रचण्डताण्डवः शिवः ॥ ॥ दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्
+    गरिष्ठरत्नलोष्ठयोः सुहृद्विपक्षपक्षयोः । तृणारविन्दचक्षुषोः प्रजामहीमहेन्द्रयोः समं प्रवर्तयन्मनः
+    कदा सदाशिवं भजे ॥ ॥ कदा निलिम्पनिर्झरीनिकुञ्जकोटरे वसन् विमुक्तदुर्मतिः सदा शिरःस्थमञ्जलिं वहन् ।
+    विमुक्तलोललोचनो ललाटफाललग्नकः शिवेति मन्त्रमुच्चरन् सदा सुखी भवाम्यहम् ॥ ॥ इमं हि नित्यमेवमुक्तमुत्तमोत्तमं
+    स्तवं पठन्स्मरन्ब्रुवन्नरो विशुद्धिमेतिसन्ततम् । हरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं विमोहनं हि
+    देहिनां सुशङ्करस्य चिन्तनम् ॥ ॥ पूजावसानसमये दशवक्त्रगीतं यः शम्भुपूजनपरं पठति प्रदोषे । तस्य स्थिरां
+    रथगजेन्द्रतुरङ्गयुक्तां लक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_shiva/shivtAND.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Shiva Tandava Stotram
   license: public_domain
-tags:
-- shiva
-- stotra
+tags: []
 priority: true
+aliases:
+- shiva
+- stotram

@@ -2,60 +2,42 @@ id: manyu-suktam
 category: stotram
 name:
   english: Manyu Suktam
-  devanagari: मन्युसूक्तम् (ऋग्वेद १०।८३, १०।८४)
 content:
-  english: shrigurubhyo namah harih om | rigvedasamhitayam dashamam mandalam, 83 tryashititamam suktam,
-    rishih manyustapasah, devata manyuh, chandah 1 viradjagati, 2 trishtup, 3, 6 virat|htrishtup, 4 padanicrittrishtup,
-    5, 7 nicrittrishtup, svarah 1 nishadah, 2-7 dhaivatah || rigvedasamhitayam dashamam mandalam, 84 caturashititamam
-    suktam, rishih manyustapasah, devata manyuh, chandah 1, 3 trishtup, 2 bhuriktrishtup, 4, 5 padanicrijjagati,
-    6 arcisvaradjagati, 7 viradjagati, svarah 1-3 dhaivatah, 4-7 nishadah || yaste manyo'vidhadvajra sayaka
-    saha ojah pushyati vishvamanushak | sahyama dasamaryam tvaya yuja sahaskritena sahasa sahasvata ||
-    10|083|01 manyurindro manyurevasa devo manyurhota varuno jatavedah | manyum visha iḻate manushiryah
-    pahi no manyo tapasa sajoshah || 10|083|02 abhihi manyo tavasastaviyantapasa yuja vi jahi shatrun
-    | amitraha vritraha dasyuha ca vishva vasunya bhara tvam nah || 10|083|03 tvam hi manyo abhibhutyojah
-    svayambhurbhamo abhimatishahah | vishvacarshanih sahurih sahavanasmasvojah pritanasu dhehi || 10|083|04
-    abhagah sannapa pareto asmi tava kratva tavishasya pracetah | tam tva manyo akraturjihiḻaham sva tanurbaladeyaya
-    mehi || 10|083|05 ayam te asmyupa mehyarvanpraticinah sahure vishvadhayah | manyo vajrinnabhi mama
-    vavritsva hanava dasyu~ruta bodhyapeh || 10|083|06 abhi prehi dakshinato bhava me'dha vritrani janghanava
-    bhuri | juhomi te dharunam madhvo agramubha upamshu prathama pibava || 10|083|07 tvaya manyo sarathamarujanto
-    harshamanaso dhrishita marutvah | tigmeshava ayudha samshishana abhi pra yantu naro agnirupah || 10|084|01
-    agniriva manyo tvishitah sahasva senanirnah sahure huta edhi | hatvaya shatrunvi bhajasva veda ojo
-    mimano vi mridho nudasva || 10|084|02 sahasva manyo abhimatimasme rujanmrinanpramrinanprehi shatrun
-    | ugram te pajo nanva rurudhre vashi vasham nayasa ekaja tvam || 10|084|03 eko bahunamasi manyaviḻito
-    vishamvisham yudhaye sam shishadhi | akrittaruktvaya yuja vayam dyumantam ghosham vijayaya krinmahe
-    || 10|084|04 vijeshakridindra ivanavabravo3'smakam manyo adhipa bhaveha | priyam te nama sahure grinimasi
-    vidma tamutsam yata ababhutha || 10|084|05 abhutya sahaja vajra sayaka saho bibharshyabhibhuta uttaram
-    | kratva no manyo saha medyedhi mahadhanasya puruhuta samsriji || 10|084|06 samsrishtam dhanamubhayam
-    samakritamasmabhyam dattam varunashca manyuh | bhiyam dadhana hridayeshu shatravah parajitaso apa
-    ni layantam || 10|084|07 om shantih shantih shantih | harih om |
-  devanagari: श्रीगुरुभ्यो नमः हरिः ॐ । ऋग्वेदसंहितायां दशमं मण्डलं, ८३ त्र्यशीतितमं सूक्तम्, ऋषिः मन्युस्तापसः,
-    देवता मन्युः, छन्दः १ विराड्जगती, २ त्रिष्टुप्, ३, ६ विराट्।ह्त्रिष्टुप्, ४ पादनिचृत्त्रिष्टुप्, ५,
-    ७ निचृत्त्रिष्टुप्, स्वरः १ निषादः, २-७ धैवतः ॥ ऋग्वेदसंहितायां दशमं मण्डलं, ८४ चतुरशीतितमं सूक्तम्,
-    ऋषिः मन्युस्तापसः, देवता मन्युः, छन्दः १, ३ त्रिष्टुप्, २ भुरिक्त्रिष्टुप्, ४, ५ पादनिचृज्जगती, ६
-    आर्चीस्वराड्जगती, ७ विराड्जगती, स्वरः १-३ धैवतः, ४-७ निषादः ॥ यस्ते मन्योऽविधद्वज्र सायक सह ओजः पुष्यति
-    विश्वमानुषक् । साह्याम दासमार्यं त्वया युजा सहस्कृतेन सहसा सहस्वता ॥ १०।०८३।०१ मन्युरिन्द्रो मन्युरेवास
-    देवो मन्युर्होता वरुणो जातवेदाः । मन्युं विश ईळते मानुषीर्याः पाहि नो मन्यो तपसा सजोषाः ॥ १०।०८३।०२
-    अभीहि मन्यो तवसस्तवीयान्तपसा युजा वि जहि शत्रून् । अमित्रहा वृत्रहा दस्युहा च विश्वा वसून्या भरा त्वं
-    नः ॥ १०।०८३।०३ त्वं हि मन्यो अभिभूत्योजाः स्वयम्भूर्भामो अभिमातिषाहः । विश्वचर्षणिः सहुरिः सहावानस्मास्वोजः
-    पृतनासु धेहि ॥ १०।०८३।०४ अभागः सन्नप परेतो अस्मि तव क्रत्वा तविषस्य प्रचेतः । तं त्वा मन्यो अक्रतुर्जिहीळाहं
-    स्वा तनूर्बलदेयाय मेहि ॥ १०।०८३।०५ अयं ते अस्म्युप मेह्यर्वाङ्प्रतीचीनः सहुरे विश्वधायः । मन्यो वज्रिन्नभि
-    मामा ववृत्स्व हनाव दस्यूँरुत बोध्यापेः ॥ १०।०८३।०६ अभि प्रेहि दक्षिणतो भवा मेऽधा वृत्राणि जङ्घनाव
-    भूरि । जुहोमि ते धरुणं मध्वो अग्रमुभा उपांशु प्रथमा पिबाव ॥ १०।०८३।०७ त्वया मन्यो सरथमारुजन्तो हर्षमाणासो
-    धृषिता मरुत्वः । तिग्मेषव आयुधा संशिशाना अभि प्र यन्तु नरो अग्निरूपाः ॥ १०।०८४।०१ अग्निरिव मन्यो त्विषितः
-    सहस्व सेनानीर्नः सहुरे हूत एधि । हत्वाय शत्रून्वि भजस्व वेद ओजो मिमानो वि मृधो नुदस्व ॥ १०।०८४।०२
-    सहस्व मन्यो अभिमातिमस्मे रुजन्मृणन्प्रमृणन्प्रेहि शत्रून् । उग्रं ते पाजो नन्वा रुरुध्रे वशी वशं नयस
-    एकज त्वम् ॥ १०।०८४।०३ एको बहूनामसि मन्यवीळितो विशंविशं युधये सं शिशाधि । अकृत्तरुक्त्वया युजा वयं
-    द्युमन्तं घोषं विजयाय कृण्महे ॥ १०।०८४।०४ विजेषकृदिन्द्र इवानवब्रवो३ऽस्माकं मन्यो अधिपा भवेह । प्रियं
-    ते नाम सहुरे गृणीमसि विद्मा तमुत्सं यत आबभूथ ॥ १०।०८४।०५ आभूत्या सहजा वज्र सायक सहो बिभर्ष्यभिभूत
-    उत्तरम् । क्रत्वा नो मन्यो सह मेद्येधि महाधनस्य पुरुहूत संसृजि ॥ १०।०८४।०६ संसृष्टं धनमुभयं समाकृतमस्मभ्यं
-    दत्तां वरुणश्च मन्युः । भियं दधाना हृदयेषु शत्रवः पराजितासो अप नि लयन्ताम् ॥ १०।०८४।०७ ॐ शान्तिः शान्तिः
-    शान्तिः । हरिः ॐ ।
+  english: atha manyusuktam rigveda samhita 'vidhad vajra sayaka saha ojah pushyati vishvamanushak | sahyama
+    dasamarya yuja sahaskritena sahasa sahasvata || manyurevasa devo manyur hota varuno jatave vi~sha
+    ilate manushiryah pahi no manyo tapasa sajoshah ntapasa yuja vi jahi shatru n | amitraha vritraha
+    dasyuha ca vishva vasunya bhara tva abhimatishahah | vishvacar vanasmasvojah pritanasu dhehi || to
+    asmi tava kratva tavishasya pracetah | ta manyo akraturjihilaham svatanurbaladeya asmyupa mehyarvan
+    praticina ssahure vishvadhayah | manyo vajrinnabhi mama vavritsvahana || abhi prehi dakshinato bhava
+    me vritrani janghanava bhuri | juhomi te dharuna mmadhvo agramubha upamshu prathama pibava || manyo
+    sarathamarujanto har shamanaso dhrishita marutvah | tigmeshava ayudha samshisha || agniriva manyo
+    tvishita ssahasva senanirnah sahure huta e dhi | hatvaya shatrun vi bhajasva veda ojo mima || sahasva
+    manyo abhima nanva rurudhre vashi vasha bahunamasi manyavilito visham yu~dhaye sam shishadhi | akrittaru
+    || vijeshakridindra ivanavabravo mmanyo adhipa bhaveha nte nama sahure grinimasi vidmatamutsam tya
+    sahaja vajra sayaka saho shyabhibhuta uttaram | kratva dhi mahadhanasya puruhuta samsriji || va~runashca
+    manyuh | bhiya na hridayeshu shatravah para jitaso apa nilayantam || || dhanvana ga dhanvanajinjayema
+    dhanvana tivra nkrinoti dhanvana sarvah jayema || om shanta prithivi shivamantariksha 'bhayanno astu
+    | shiva dishah pradisha uddisho vishvatah paripantu sarvata
+  devanagari: अथ मन्युसूक्तं ऋग्वेद संहिता ऽवि॑धद् वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक् । सा॒ह्याम॒
+    दास॒मार्य॒ यु॒जा सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥ म॒न्युरे॒वास॑ दे॒वो म॒न्युर् होता॒ वरु॑णो जा॒तवे विँश॑
+    ईलते॒ मानु॑षी॒र्याः पा॒हि नो मन्यो॒ तप॑सा स॒जोषाः न्तप॑सा यु॒जा वि ज॑हि शत्रू न् । अ॒मि॒त्र॒हा वृ॑त्र॒हा
+    द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्व अभिमातिषा॒हः । वि॒श्वच॑र् वान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥
+    तो अस्मि॒ तव॒ क्रत्वा तवि॒षस्य॑ प्रचेतः । त मन्यो अक्र॒तुर्जि॑हीला॒हं स्वात॒नूर्ब॑ल॒देया अ॒स्म्युप॒
+    मेह्य॒र्वाङ् प्र॑तीची॒न स्स॑हुरे विश्वधायः । मन्यो वज्रिन्न॒भि मामा व॑वृत्स्वहना ॥ अ॒भि प्रेहि॑ दक्षिण॒तो
+    भ॑वा॒ मे वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑ । जु॒होमि॑ ते ध॒रुण॒ म्मध्वो॒ अग्र॑मुभा उ॑पां॒शु प्र॑थ॒मा पि॑बाव
+    ॥ मन्यो स॒रथ॑मारु॒जन्तो॒ हर् ष॑माणासो धृषि॒ता म॑रुत्वः । ति॒ग्मेष॑व॒ आयु॑धा सं॒शिशा ॥ अ॒ग्निरि॑व मन्यो
+    त्विषि॒त स्स॑हस्व सेना॒नीर्नः॑ सहुरे हू॒त ए धि । ह॒त्वाय॒ शत्रू॒न् वि भ॑जस्व॒ वेद॒ ओजो॒ मिमा ॥ सह॑स्व
+    मन्यो अ॒भिमा न॒न्वा रु॑रुध्रे व॒शी वश बहू॒नाम॑सि मन्यवीलि॒तो विशं युँ॒धये॒ सं शि॑शाधि । अकृ॑त्तरु॒
+    ॥ वि॒जे॒ष॒कृदिन्द्र॑ इवानवब्र॒वो॒ म्मन्यो अधि॒पा भ॑वे॒ह न्ते॒ नाम॑ सहुरे गृणीमसि वि॒द्मातमुत्सं॒ त्या
+    सह॒जा व॑ज्र सायक॒ सहो ष्यभिभूत॒ उत्त॑रम् । क्रत्वा धि महाध॒नस्य॑ पुरुहूत सं॒सृजि॑ ॥ वँरु॑णश्च म॒न्युः
+    । भिय॒ ना॒ हृद॑येषु॒ शत्र॑वः॒ परा जितासो॒ अप॒ निल॑यन्ताम् ॥ ॥ धन्व॑ना॒ गा धन्व॑ना॒जिञ्ज॑येम॒ धन्व॑ना
+    ती॒व्रा ङ्कृ॑णोति॒ धन्व॑ना॒ सर्वाः जयेम ॥ ॐ शान्ता॑ पृथिवी शि॑वम॒न्तरिक्ष॒ ऽभ॑यन्नो अस्तु । शि॒वा॒
+    दिशः॑ प्र॒दिश॑ उ॒द्दिशो वि॒श्वतः॒ परि॑पान्तु स॒र्वत॒
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/manyusUktam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Manyu Suktam
   license: public_domain
-tags:
-- veda
-- svara
-- sUkta
+tags: []
 priority: true
+aliases:
+- suktam

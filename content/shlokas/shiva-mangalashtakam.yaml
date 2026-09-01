@@ -2,31 +2,32 @@ id: shiva-mangalashtakam
 category: stotram
 name:
   english: Shiva Mangalashtakam
-  devanagari: शिवमङ्गलाष्टकम् (भवाय चन्द्रचूडाय निर्गुणाय गुणात्मने)
 content:
-  english: bhavaya candracudaya nirgunaya gunatmane | kalakalaya rudraya nilagrivaya mangalam || 1|| vrisharudhaya
-    bhimaya vyaghracarmambaraya ca | pashunam pataye tubhyam gaurikantaya mangalam || 2|| bhasmoddhulitadehaya
-    vyalayajnopavitine | rudrakshamalabhushaya vyomakeshaya mangalam || 3|| suryacandragninetraya namah
-    kailasavasine | saccidanandarupaya pramatheshaya mangalam || 4|| mrityumjayaya sambaya srishtisthityantakarine
-    | tryambakaya sushantaya trilokeshaya mangalam || 5|| gamgadharaya somaya namo hariharatmane | ugraya
-    tripuraghnaya vamadevaya mangalam || 6|| sadyojataya sharvaya divyajnanapradayine | ishanaya namastubhyam
-    pancavaktraya mangalam || 7|| sadashivasvarupaya namastatpurushaya ca | aghorayaca ghoraya mahadevaya
-    mangalam || 8|| mangalashtakametadvai shambhoryah kirtayeddine | tasya mrityubhayam nasti rogapidabhayam
-    tatha || 9 || iti shrishivamangalashtakam sampurnam |
-  devanagari: भवाय चन्द्रचूडाय निर्गुणाय गुणात्मने । कालकालाय रुद्राय नीलग्रीवाय मङ्गलम् ॥ १॥ वृषारूढाय
-    भीमाय व्याघ्रचर्माम्बराय च । पशूनां पतये तुभ्यं गौरीकान्ताय मङ्गलम् ॥ २॥ भस्मोद्धूलितदेहाय व्यालयज्ञोपवीतिने
-    । रुद्राक्षमालाभूषाय व्योमकेशाय मङ्गलम् ॥ ३॥ सूर्यचन्द्राग्निनेत्राय नमः कैलासवासिने । सच्चिदानन्दरूपाय
-    प्रमथेशाय मङ्गलम् ॥ ४॥ मृत्युंजयाय सांबाय सृष्टिस्थित्यन्तकारिणे । त्र्यंबकाय सुशान्ताय त्रिलोकेशाय
-    मङ्गलम् ॥ ५॥ गंगाधराय सोमाय नमो हरिहरात्मने । उग्राय त्रिपुरघ्नाय वामदेवाय मङ्गलम् ॥ ६॥ सद्योजाताय
-    शर्वाय दिव्यज्ञानप्रदायिने । ईशानाय नमस्तुभ्यं पञ्चवक्त्राय मङ्गलम् ॥ ७॥ सदाशिवस्वरूपाय नमस्तत्पुरुषाय
-    च । अघोरायच घोराय महादेवाय मङ्गलम् ॥ ८॥ मङ्गलाष्टकमेतद्वै शंभोर्यः कीर्तयेद्दिने । तस्य मृत्युभयं
-    नास्ति रोगपीडाभयं तथा ॥ ९ ॥ इति श्रीशिवमङ्गलाष्टकं सम्पूर्णम् ।
+  english: bhavaya candracudaya nirgunaya gunatmane | kalakalaya rudraya nilagrivaya mangalam || || vrisharudhaya
+    bhimaya vyaghracarmambaraya ca | pashunampataye tubhyam gaurikantaya mangalam || || bhasmoddhulitadehaya
+    nagayajnopavitine | rudrakshamalabhushaya vyomakeshaya mangalam || || suryacandragninetraya namah
+    kailasavasine | saccidanandarupaya pramatheshaya mangalam || || mrityunjayaya sambaya srishtisthityantakarine
+    | trayambakaya shantaya trilokeshaya mangalam || || gangadharaya somaya namo hariharatmane | ugraya
+    tripuraghnaya vamadevaya mangalam || || sadyojataya sharvaya bhavya jnanapradayine | ishanaya namastubhyam
+    pancavakraya mangalam || || sadashiva svarupaya namastatpurushaya ca | aghoraya ca ghoraya mahadevaya
+    mangalam || || shricamundapreritena racitam mangalaspadam | tasyabhishtapradam shambhoh yah pathenmangalashtakam
+    || || mahadevasya devasya yah pathenmangalashtakam | sarvartha siddhi mapnoti sa sayujyam tatah param
+    ||
+  devanagari: भवाय चन्द्रचूडाय निर्गुणाय गुणात्मने । कालकालाय रुद्राय नीलग्रीवाय मङ्गलम् ॥ ॥ वृषारूढाय
+    भीमाय व्याघ्रचर्माम्बराय च । पशूनाम्पतये तुभ्यं गौरीकान्ताय मङ्गलम् ॥ ॥ भस्मोद्धूलितदेहाय नागयज्ञोपवीतिने
+    । रुद्राक्षमालाभूषाय व्योमकेशाय मङ्गलम् ॥ ॥ सूर्यचन्द्राग्निनेत्राय नमः कैलासवासिने । सच्चिदानन्दरूपाय
+    प्रमथेशाय मङ्गलम् ॥ ॥ मृत्युञ्जयाय साम्बाय सृष्टिस्थित्यन्तकारिणे । त्रयम्बकाय शान्ताय त्रिलोकेशाय
+    मङ्गलम् ॥ ॥ गङ्गाधराय सोमाय नमो हरिहरात्मने । उग्राय त्रिपुरघ्नाय वामदेवाय मङ्गलम् ॥ ॥ सद्योजाताय
+    शर्वाय भव्य ज्ञानप्रदायिने । ईशानाय नमस्तुभ्यं पञ्चवक्राय मङ्गलम् ॥ ॥ सदाशिव स्वरूपाय नमस्तत्पुरुषाय
+    च । अघोराय च घोराय महादेवाय मङ्गलम् ॥ ॥ श्रीचामुण्डाप्रेरितेन रचितं मङ्गलास्पदम् । तस्याभीष्टप्रदं
+    शम्भोः यः पठेन्मङ्गलाष्टकम् ॥ ॥ महादेवस्य देवस्य यः पठेन्मङ्गलाष्टकम् । सर्वार्थ सिद्धि माप्नोति स
+    सायुज्यं ततः परम् ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_shiva/shivamangalAShTaka.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Shiva Mangalashtakam
   license: public_domain
-tags:
-- aShTaka
-- shiva
-- mangala
+tags: []
 priority: true
+aliases:
+- shiva
+- mangalashtakam

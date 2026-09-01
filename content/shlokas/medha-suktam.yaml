@@ -2,63 +2,32 @@ id: medha-suktam
 category: stotram
 name:
   english: Medha Suktam
-  devanagari: मेधासूक्तम्
 content:
-  english: taittiriyaranyakam - 4 prapathakah 10 - anuvakah 41-44 om yashchandasamrishabho vishvarupah
-    | chandobhyo'dhyamritathsambabhuva | sa mendro medhaya sprinotu | amritasya devadharano bhuyasam |
-    shariram me vicarshanam | jihva me madhumattama | karnabhyam bhurivishruvam | brahmanah kosho'si medhaya
-    pihitah | shrutam me gopaya | om shantih shantih shantih || om medhadevi jushamana na agadvishvaci
-    bhadra sumanasyamana | tvaya jushta nudamana duruktan brihadvadema vidathe suvirah | tvaya jushta
-    rishirbhavati devi tvaya brahma''gatashriruta tvaya | tvaya jushtashcitram vindate vasu sano jushasva
-    dravino na medhe || medham ma indro dadatu medham devi sarasvati | medham me ashvinavubhavadhattam
-    pushkarasraja | apsarasu ca ya medha gandharveshu ca yanmanah | daivim medha sarasvati sa mam medha
-    surabhirjushata svaha || amam medha surabhirvishvarupa hiranyavarna jagati jagamya | urjasvati payasa
-    pinvamana sa mam medha supratika jushantam | mayi medham mayi prajam mayyagnistejo dadhatu mayi medham
-    mayi prajam mayindra indriyam dadhatu mayi medham mayi prajam mayi suryo bhrajo dadhatu | om mahadevyai
-    ca vidmahe brahmapatni ca dhimahi | tanno vani pracodayat | om hamsa hamsaya vidmahe paramahamsaya
-    dhimahi | tanno hamsah pracodayat | om shantih shantih shantih || nihsvarah - medhasuktam taittiriyaranyakam
-    - 4 prapathakah 10 - anuvakah 41-44 om yashchandasamrishabho vishvarupah | chandobhyo'dhyamritathsambabhuva
-    | sa mendro medhaya sprinotu | amritasya devadharano bhuyasam | shariram me vicarshanam | jihva me
-    madhumattama | karnabhyam bhurivishruvam | brahmanah kosho'si medhaya pihitah | shrutam me gopaya
-    | om shantih shantih shantih || om medhadevi jushamana na agadvishvaci bhadra sumanasyamana | tvaya
-    jushta nudamana duruktan brihadvadema vidathe suvirah | tvaya jushta rishirbhavati devi tvaya brahma''gatashriruta
-    tvaya | tvaya jushtashcitram vindate vasu sano jushasva dravino na medhe || medham ma indro dadatu
-    medham devi sarasvati | medham me ashvinavubhavadhattam pushkarasraja | apsarasu ca ya medha gandharveshu
-    ca yanmanah | daivim medha sarasvati sa mam medha surabhirjushata svaha || amam medha surabhirvishvarupa
-    hiranyavarna jagati jagamya | urjasvati payasa pinvamana sa mam medha supratika jushantam | mayi medham
-    mayi prajam mayyagnistejo dadhatu mayi medham mayi prajam mayindra indriyam dadhatu mayi medham mayi
-    prajam mayi suryo bhrajo dadhatu | om mahadevyai ca vidmahe brahmapatni ca dhimahi | tanno vani pracodayat
-    | om hamsa hamsaya vidmahe paramahamsaya dhimahi | tanno hamsah pracodayat | om shantih shantih shantih
-    || Encoded vith accents by ṟajagopal iyer
-  devanagari: तैत्तिरीयारण्यकम् - ४ प्रपाठकः १० - अनुवाकः ४१-४४ ॐ यश्छन्दसामृषभो विश्वरूपः । छन्दोभ्योऽध्यमृताथ्संबभूव
-    । स मेन्द्रो मेधया स्पृणोतु । अमृतस्य देवधारणो भूयासम् । शरीरं मे विचर्षणम् । जिह्वा मे मधुमत्तमा
-    । कर्णाभ्यां भूरिविश्रुवम् । ब्रह्मणः कोशोऽसि मेधया पिहितः । श्रुतं मे गोपाय । ॐ शान्तिः शान्तिः शान्तिः
-    ॥ ॐ मेधादेवी जुषमाणा न आगाद्विश्वाची भद्रा सुमनस्यमाना । त्वया जुष्टा नुदमाना दुरुक्तान् बृहद्वदेम
-    विदथे सुवीराः । त्वया जुष्ट ऋषिर्भवति देवि त्वया ब्रह्माऽऽगतश्रीरुत त्वया । त्वया जुष्टश्चित्रं विन्दते
-    वसु सानो जुषस्व द्रविणो न मेधे ॥ मेधां म इन्द्रो ददातु मेधां देवी सरस्वती । मेधां मे अश्विनावुभावाधत्तां
-    पुष्करस्रजा । अप्सरासु च या मेधा गन्धर्वेषु च यन्मनः । दैवीं मेधा सरस्वती सा मां मेधा सुरभिर्जुषता
-    स्वाहा ॥ आमां मेधा सुरभिर्विश्वरूपा हिरण्यवर्णा जगती जगम्या । ऊर्जस्वती पयसा पिन्वमाना सा मां मेधा
-    सुप्रतीका जुषन्ताम् । मयि मेधां मयि प्रजां मय्यग्निस्तेजो दधातु मयि मेधां मयि प्रजां मयीन्द्र इन्द्रियं
-    दधातु मयि मेधां मयि प्रजां मयि सूर्यो भ्राजो दधातु । ॐ महादेव्यै च विद्महे ब्रह्मपत्नी च धीमहि । तन्नो
-    वाणी प्रचोदयात् । ॐ हंस हंसाय विद्महे परमहंसाय धीमहि । तन्नो हंसः प्रचोदयात् । ॐ शान्तिः शान्तिः शान्तिः
-    ॥ निःस्वराः - मेधासूक्तम् तैत्तिरीयारण्यकम् - ४ प्रपाठकः १० - अनुवाकः ४१-४४ ॐ यश्छन्दसामृषभो विश्वरूपः
-    । छन्दोभ्योऽध्यमृताथ्संबभूव । स मेन्द्रो मेधया स्पृणोतु । अमृतस्य देवधारणो भूयासम् । शरीरं मे विचर्षणम्
-    । जिह्वा मे मधुमत्तमा । कर्णाभ्यां भूरिविश्रुवम् । ब्रह्मणः कोशोऽसि मेधया पिहितः । श्रुतं मे गोपाय
-    । ॐ शान्तिः शान्तिः शान्तिः ॥ ॐ मेधादेवी जुषमाणा न आगाद्विश्वाची भद्रा सुमनस्यमाना । त्वया जुष्टा
-    नुदमाना दुरुक्तान् बृहद्वदेम विदथे सुवीराः । त्वया जुष्ट ऋषिर्भवति देवि त्वया ब्रह्माऽऽगतश्रीरुत त्वया
-    । त्वया जुष्टश्चित्रं विन्दते वसु सानो जुषस्व द्रविणो न मेधे ॥ मेधां म इन्द्रो ददातु मेधां देवी सरस्वती
-    । मेधां मे अश्विनावुभावाधत्तां पुष्करस्रजा । अप्सरासु च या मेधा गन्धर्वेषु च यन्मनः । दैवीं मेधा सरस्वती
-    सा मां मेधा सुरभिर्जुषता स्वाहा ॥ आमां मेधा सुरभिर्विश्वरूपा हिरण्यवर्णा जगती जगम्या । ऊर्जस्वती पयसा
-    पिन्वमाना सा मां मेधा सुप्रतीका जुषन्ताम् । मयि मेधां मयि प्रजां मय्यग्निस्तेजो दधातु मयि मेधां मयि
-    प्रजां मयीन्द्र इन्द्रियं दधातु मयि मेधां मयि प्रजां मयि सूर्यो भ्राजो दधातु । ॐ महादेव्यै च विद्महे
-    ब्रह्मपत्नी च धीमहि । तन्नो वाणी प्रचोदयात् । ॐ हंस हंसाय विद्महे परमहंसाय धीमहि । तन्नो हंसः प्रचोदयात्
-    । ॐ शान्तिः शान्तिः शान्तिः ॥ Eन्चोदेद् विथ् आच्चेन्त्स् ब्य् ऱजगोपल् ईयेर्
+  english: ya~shchandasamrishabho vishvarupah | chandobhyo thsambabhuva | sa mendro medhaya sprinotu |
+    amritasya devadharano bhuyasam | sharira shanam | jihva me madhumattama | karna bhyam bhurivishruvam
+    | brahmanah kosho 'si medhaya pihitah | shruta mme gopaya || om shanti mmedhadevi jushamana na aga
+    dvishvaci bhadra sumanasya mana | tvaya jushta nudamana durukta nbrihadvadema vidathe suvirah | tvaya
+    jushta rishirbhavati devi tvaya brahma ''gatashriruta tvaya | tvaya jushtashcitram vi~ndate vasu sa
+    no jushasva dravino na medhe || medha mma indro dadatu medha ndevi sarasvati | medha mme ashvinavubha
+    mpushkarasraja | apsarasu ca ya medha gandharveshu ca yanmanah | daivi mmedha sarasvati sa ma rvishvarupa
+    hiranyavarna jagati jagamya | urjasvati payasa pinvamana sa ma mmedha supratika jushantam || mayi
+    medha mmayindra indriya mmayi suryo bhrajo dadhatu || om hamsa hamsaya vidmahe paramahamsaya dhimahi
+    | tanno hamsah pracodaya
+  devanagari: यँश्छन्द॑सामृष॒भो वि॒श्वरू॑पः । छन्दो॒भ्यो थ्सम्ब॒भूव॑ । स मेन्द्रो॑ मे॒धया स्पृणोतु । अ॒मृत॑स्य
+    देव॒धार॑णो भूयासम् । शरी॑र षणम् । जि॒ह्वा मे॒ मधु॑मत्तमा । कर्णा भ्यां॒ भूरि॒विश्रु॑वम् । ब्रह्म॑णः
+    को॒शो॑ ऽसि मे॒धया पि॑हितः । श्रु॒त म्मे॑ गोपाय ॥ ॐ शान्ति॒ म्मे॒धादे॒वी जु॒षमा॑णा न॒ आगा द्वि॒श्वाची॑
+    भ॒द्रा सु॑मन॒स्य मा॑ना । त्वया॒ जुष्टा॑ नु॒दमा॑ना दु॒रुक्ता न्बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः । त्वया॒
+    जुष्ट॑ ऋ॒षिर्भ॑वति देवि॒ त्वया॒ ब्रह्मा॑ ऽऽग॒तश्री॑रु॒त त्वया । त्वया॒ जुष्ट॑श्चि॒त्रं विँ॑न्दते वसु॒
+    सा नो॑ जुषस्व॒ द्रवि॑णो न मेधे ॥ मे॒धा म्म॒ इन्द्रो॑ ददातु मे॒धा न्दे॒वी सर॑स्वती । मे॒धा म्मे॑ अ॒श्विना॑वु॒भा
+    म्पुष्क॑रस्रजा । अ॒प्स॒रासु॑ च॒ या मे॒धा ग॑न्ध॒र्वेषु॑ च॒ यन्मनः॑ । दैवी म्मे॒धा सर॑स्वती॒ सा मा र्वि॒श्वरू॑पा॒
+    हिर॑ण्यवर्णा॒ जग॑ती जग॒म्या । ऊर्ज॑स्वती॒ पय॑सा॒ पिन्व॑माना॒ सा मा म्मे॒धा सु॒प्रती॑का जुषन्ताम् ॥
+    मयि॑ मे॒धा म्मयीन्द्र॑ इन्द्रि॒य म्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ ॐ हं॒स॒ हं॒साय॑ वि॒द्महे॑ परमहं॒साय॑
+    धीमहि । तन्नो॑ हंसः प्रचो॒दया
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_veda/medhasukta.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Medha Suktam
   license: public_domain
-tags:
-- sUkta
-- veda
-- svara
+tags: []
 priority: true
+aliases:
+- suktam

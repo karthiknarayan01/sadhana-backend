@@ -2,78 +2,71 @@ id: nirguna-manasa-puja
 category: stotram
 name:
   english: Nirguna Manasa Puja
-  devanagari: निर्गुणमानसपूजा
 content:
-  english: shishya uvaca | akhande saccidanande nirvikalpaikarupini | sthite'dvitiyabhave'pi katham puja
-    vidhiyate || 1|| purnasyavahanam kutra sarvadharasya casanam|h | svacchasya padyamarghyam ca shuddhasyacamanam
-    kutah || 2|| nirmalasya kutah snanam vaso vishvodarasya ca | agotrasya tvavarnasya kutastasyopavitakam|h
-    || 3|| nirlepasya kuto gandhah pushpam nirvasanasya ca | nirvisheshasya ka bhusha ko'lankaro nirakriteh
-    || 4|| niranjanasya kim dhupairdipairva sarvasakshinah | nijanandaikatriptasya naivedyam kim bhavediha
-    || 5|| vishvanandayitustasya kim tambulam prakalpyate | svayamprakashacidrupo yo'savarkadibhasakah
-    || 6|| giyate shrutibhistasya nirajanavidhih kutah | pradakshinamanantasya pranamo'dvayavastunah ||
-    7|| vedavacamavedyasya kim va stotram vidhiyate | antarbahih samsthitasyodvasanavidhih kutah || 8||
-    gururuvaca | aradhayami manisamnibhamatmalingam|h mayapurihridayapankajasamnivishtam|h | shraddhanadivimalacittajalabhishekai-
-    rnityam samadhikusumairnapunarbhavaya || 9|| ayameko'vashishto'smityevamavahayecchivam|h | asanam
-    kalpayetpashcatsvapratishthatmacintanam|h || 10|| punyapaparajahsango mama nastiti vedanam|h | padyam
-    samarpayedvidvansarvakalmashanashanam|h || 11|| anadikalpavidhritamulajnanajalanjalim|h | visrijedatmalingasya
-    tadevarghyasamarpanam|h || 12|| brahmanandabdhikallolakanakotyamshaleshakam|h | pibantindradaya iti
-    dhyanamacamanam matam|h || 13|| brahmanandajalenaiva lokah sarve pariplutah | acchedyo'yamiti dhyanamabhishecanamatmanah
-    || 14|| niravaranacaitanyam prakasho'smiti cintanam|h | atmalingasya sadvastramityevam cintayenmunih
-    || 15|| trigunatmasheshalokamalikasutramasmyaham|h | iti nishcayamevatra hyupavitam param matam|h
-    || 16|| anekavasanamishraprapanco'yam dhrito maya | nanyenetyanusandhanamatmanashcandanam bhavet|h
-    || 17|| rajahsattvatamovrittityagarupaistilakshataih | atmalingam yajennityam jivanmuktiprasiddhaye
-    || 18|| ishvaro gururatmeti bhedatrayavivarjitaih | bilvapatrairadvitiyairatmalingam yajecchivam|h
-    || 19|| samastavasanatyagam dhupam tasya vicintayet|h | jyotirmayatmavijnanam dipam sandarshayedbudhah
-    || 20|| naivedyamatmalingasya brahmandakhyam mahodanam|h | pibanandarasam svadu mrityurasyopasecanam|h
-    || 21|| ajnanocchishtakarasya kshalanam jnanavarina | vishuddhasyatmalingasya hastaprakshalanam smaret|h
-    || 22|| ragadigunashunyasya shivasya paramatmanah | saragavishayabhyasatyagastambulacarvanam|h ||
-    23|| ajnanadhvantavidhvamsapracandamatibhaskaram|h | atmano brahmatajnanam nirajanamihatmanah || 24||
-    vividhabrahmasamdrishtirmalikabhiralankritam|h | purnanandatmatadrishtim pushpanjalimanusmaret|h ||
-    25|| paribhramanti brahmandasahasrani mayishvare | kutasthacalarupo'hamiti dhyanam pradakshinam|h
-    || 26|| vishvavandyo'hamevasmi nasti vandyo madanyatah | ityalocanamevatra svatmalingasya vandanam|h
-    || 27|| atmanah satkriya prokta kartavyabhavabhavana | namarupavyatitatmacintanam namakirtanam|h ||
-    28|| shravanam tasya devasya shrotavyabhavacintanam|h | mananam tvatmalingasya mantavyabhavacintanam|h
-    || 29|| dhyatavyabhavavijnanam nididhyasanamatmanah | samastabhrantiviksheparahityenatmanishthata
-    || 30|| samadhiratmano nama nanyaccittasya vibhramah | tatraiva bahmani sada cittavishrantirishyate
-    || 31|| evam vedantakalpoktasvatmalingaprapujanam|h | kurvannamaranam vapi kshanam va susamahitah
-    || 32|| sarvadurvasanajalam padapamsumiva tyajet|h | vidhuyajnanaduhkhaugham mokshanandam samashnute
-    || 33|| || iti shrimatparamahamsaparivrajakacaryasya shrigovimdabhagavatpujyapadashishyasya shrimacchankarabhagavatah
-    viracita nirgunamanasapuja samapta ||
-  devanagari: शिष्य उवाच । अखण्डे सच्चिदानन्दे निर्विकल्पैकरूपिणि । स्थितेऽद्वितीयभावेऽपि कथं पूजा विधीयते
-    ॥ १॥ पूर्णस्यावाहनं कुत्र सर्वाधारस्य चासनम्।ह् । स्वच्छस्य पाद्यमर्घ्यं च शुद्धस्याचमनं कुतः ॥ २॥
-    निर्मलस्य कुतः स्नानं वासो विश्वोदरस्य च । अगोत्रस्य त्ववर्णस्य कुतस्तस्योपवीतकम्।ह् ॥ ३॥ निर्लेपस्य
-    कुतो गन्धः पुष्पं निर्वासनस्य च । निर्विशेषस्य का भूषा कोऽलङ्कारो निराकृतेः ॥ ४॥ निरञ्जनस्य किं धूपैर्दीपैर्वा
-    सर्वसाक्षिणः । निजानन्दैकतृप्तस्य नैवेद्यं किं भवेदिह ॥ ५॥ विश्वानन्दयितुस्तस्य किं ताम्बूलं प्रकल्प्यते
-    । स्वयंप्रकाशचिद्रूपो योऽसावर्कादिभासकः ॥ ६॥ गीयते श्रुतिभिस्तस्य नीराजनविधिः कुतः । प्रदक्षिणमनन्तस्य
-    प्रणामोऽद्वयवस्तुनः ॥ ७॥ वेदवाचामवेद्यस्य किं वा स्तोत्रं विधीयते । अन्तर्बहिः संस्थितस्योद्वासनविधिः
-    कुतः ॥ ८॥ गुरुरुवाच । आराधयामि मणिसंनिभमात्मलिङ्गम्।ह् मायापुरीहृदयपङ्कजसंनिविष्टम्।ह् । श्रद्धानदीविमलचित्तजलाभिषेकै-
-    र्नित्यं समाधिकुसुमैर्नपुनर्भवाय ॥ ९॥ अयमेकोऽवशिष्टोऽस्मीत्येवमावाहयेच्छिवम्।ह् । आसनं कल्पयेत्पश्चात्स्वप्रतिष्ठात्मचिन्तनम्।ह्
-    ॥ १०॥ पुण्यपापरजःसङ्गो मम नास्तीति वेदनम्।ह् । पाद्यं समर्पयेद्विद्वन्सर्वकल्मषनाशनम्।ह् ॥ ११॥ अनादिकल्पविधृतमूलाज्ञानजलाञ्जलिम्।ह्
-    । विसृजेदात्मलिङ्गस्य तदेवार्घ्यसमर्पणम्।ह् ॥ १२॥ ब्रह्मानन्दाब्धिकल्लोलकणकोट्यंशलेशकम्।ह् । पिबन्तीन्द्रादय
-    इति ध्यानमाचमनं मतम्।ह् ॥ १३॥ ब्रह्मानन्दजलेनैव लोकाः सर्वे परिप्लुताः । अच्छेद्योऽयमिति ध्यानमभिषेचनमात्मनः
-    ॥ १४॥ निरावरणचैतन्यं प्रकाशोऽस्मीति चिन्तनम्।ह् । आत्मलिङ्गस्य सद्वस्त्रमित्येवं चिन्तयेन्मुनिः ॥
-    १५॥ त्रिगुणात्माशेषलोकमालिकासूत्रमस्म्यहम्।ह् । इति निश्चयमेवात्र ह्युपवीतं परं मतम्।ह् ॥ १६॥ अनेकवासनामिश्रप्रपञ्चोऽयं
-    धृतो मया । नान्येनेत्यनुसन्धानमात्मनश्चन्दनं भवेत्।ह् ॥ १७॥ रजःसत्त्वतमोवृत्तित्यागरूपैस्तिलाक्षतैः
-    । आत्मलिङ्गं यजेन्नित्यं जीवन्मुक्तिप्रसिद्धये ॥ १८॥ ईश्वरो गुरुरात्मेति भेदत्रयविवर्जितैः । बिल्वपत्रैरद्वितीयैरात्मलिङ्गं
-    यजेच्छिवम्।ह् ॥ १९॥ समस्तवासनात्यागं धूपं तस्य विचिन्तयेत्।ह् । ज्योतिर्मयात्मविज्ञानं दीपं सन्दर्शयेद्बुधः
-    ॥ २०॥ नैवेद्यमात्मलिङ्गस्य ब्रह्माण्डाख्यं महोदनम्।ह् । पिबानन्दरसं स्वादु मृत्युरस्योपसेचनम्।ह् ॥
-    २१॥ अज्ञानोच्छिष्टकरस्य क्षालनं ज्ञानवारिणा । विशुद्धस्यात्मलिङ्गस्य हस्तप्रक्षालनं स्मरेत्।ह् ॥ २२॥
-    रागादिगुणशून्यस्य शिवस्य परमात्मनः । सरागविषयाभ्यासत्यागस्ताम्बूलचर्वणम्।ह् ॥ २३॥ अज्ञानध्वान्तविध्वंसप्रचण्डमतिभास्करम्।ह्
-    । आत्मनो ब्रह्मताज्ञानं नीराजनमिहात्मनः ॥ २४॥ विविधब्रह्मसंदृष्टिर्मालिकाभिरलङ्कृतम्।ह् । पूर्णानन्दात्मतादृष्टिं
-    पुष्पाञ्जलिमनुस्मरेत्।ह् ॥ २५॥ परिभ्रमन्ति ब्रह्माण्डसहस्राणि मयीश्वरे । कूटस्थाचलरूपोऽहमिति ध्यानं
-    प्रदक्षिणम्।ह् ॥ २६॥ विश्ववन्द्योऽहमेवास्मि नास्ति वन्द्यो मदन्यतः । इत्यालोचनमेवात्र स्वात्मलिङ्गस्य
-    वन्दनम्।ह् ॥ २७॥ आत्मनः सत्क्रिया प्रोक्ता कर्तव्याभावभावना । नामरूपव्यतीतात्मचिन्तनं नामकीर्तनम्।ह्
-    ॥ २८॥ श्रवणं तस्य देवस्य श्रोतव्याभावचिन्तनम्।ह् । मननं त्वात्मलिङ्गस्य मन्तव्याभावचिन्तनम्।ह् ॥ २९॥
-    ध्यातव्याभावविज्ञानं निदिध्यासनमात्मनः । समस्तभ्रान्तिविक्षेपराहित्येनात्मनिष्ठता ॥ ३०॥ समाधिरात्मनो
-    नाम नान्यच्चित्तस्य विभ्रमः । तत्रैव बह्मणि सदा चित्तविश्रान्तिरिष्यते ॥ ३१॥ एवं वेदान्तकल्पोक्तस्वात्मलिङ्गप्रपूजनम्।ह्
-    । कुर्वन्नामरणं वापि क्षणं वा सुसमाहितः ॥ ३२॥ सर्वदुर्वासनाजालं पदपांसुमिव त्यजेत्।ह् । विधूयाज्ञानदुःखौघं
-    मोक्षानन्दं समश्नुते ॥ ३३॥ ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविंदभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः
-    विरचिता निर्गुणमानसपूजा समाप्ता ॥
+  english: shishya uvaca akhande saccidanande nirvikalpaikarupini | sthite'dvitiyabhave'pi katham puja
+    vidhiyate || || purnasyavahanam kutra sarvadharasya casanam | svacchasya padyamarghyam ca shuddhasyacamanam
+    kutah || || nirmalasya kutah snanam vaso vishvodarasya ca | agotrasya tvavarnasya kutastasyopavitakam
+    || || nirlepasya kuto gandhah pushpam nirvasanasya ca | nirvisheshasya ka bhusha ko'lankaro nirakriteh
+    || || niranjanasya kim dhupairdipairva sarvasakshinah | nijanandaikatriptasya naivedyam kim bhavediha
+    || || vishvanandayitustasya kim tambulam prakalpate | svayamprakashacidrupo yo'savarkadibhasakah ||
+    || giyate shrutibhistasya nirajanavidhih kutah | pradakshinamanantasya pranamo'dvayavastunah || ||
+    vedavacamavedyasya kim va stotram vidhiyate | antarbahih samsthitasya udvasanavidhih kutah || || shri
+    gururuvaca aradhayami manisannibhamatmalingam mayapurihridayapankajasannivishtam | shraddhanadivimalacittajalabhishekai
+    rnityam samadhikusumairnapunarbhavaya || || ayameko'vashishto'smityevamavahayecchivam | asanam kalpayetpashcatsvapratishthatmacintanam
+    || || punyapaparajahsango mama nastiti vedanam | padyam samarpayedvidvansarvakalmashanashanam || ||
+    anadikalpavidhritamulajnanajalanjalim | visrijedatmalingasya tadevarghyasamarpanam || || brahmanandabdhikallolakanakotyamshaleshakam
+    | pibantindradaya iti dhyanamacamanam matam || || brahmanandajalenaiva lokah sarve pariplutah | acchedyo'yamiti
+    dhyanamabhishecanamatmanah || || niravaranacaitanyam prakasho'smiti cintanam | atmalingasya sadvastramityevam
+    cintayenmunih || || trigunatmasheshalokamalikasutramasmyaham | iti nishcayamevatra hyupavitam param
+    matam || || anekavasanamishraprapanco'yam dhrito maya | nanyenetyanusandhanamatmanashcandanam bhavet
+    || || rajahsattvatamovrittityagarupaistilakshataih | atmalingam yajennityam jivanmuktiprasiddhaye
+    || || ishvaro gururatmeti bhedatrayavivarjitaih | bilvapatrairadvitiyairatmalingam yajecchivam ||
+    || samastavasanatyagam dhupam tasya vicintayet | jyotirmayatmavijnanam dipam sandarshayedbudhah ||
+    || naivedyamatmalingasya brahmandakhyam mahodanam | pibanandarasam svadu mrityurasyopasecanam || ||
+    ajnanocchishtakarasya kshalanam jnanavarina | vishuddhasyatmalingasya hastaprakshalanam smaret ||
+    || ragadigunashunyasya shivasya paramatmanah | saragavishayabhyasatyagastambulacarvanam || || ajnanadhvantavidhvamsapracandamatibhaskaram
+    | atmano brahmatajnanam nirajanamihatmanah || || vividhabrahmasandrishtirmalikabhiralankritam | purnanandatmatadrishtim
+    pushpanjalimanusmaret || || paribhramanti brahmandasahasrani mayishvare | kutasthacalarupo'hamiti
+    dhyanam pradakshinam || || vishvavandyo'hamevasmi nasti vandyo madanyatah | ityalocanamevatra svatmalingasya
+    vandanam || || atmanah satkriya prokta kartavyabhavabhavana | namarupavyatitatmacintanam namakirtanam
+    || || shravanam tasya devasya shrotavyabhavacintanam | mananam tvatmalingasya mantavyabhavacintanam
+    || || dhyatavyabhavavijnanam nididhyasanamatmanah | samastabhrantiviksheparahityenatmanishthata ||
+    || samadhiratmano nama nanyaccittasya vibhramah | tatraiva bahmani sada cittavishrantirishyate ||
+    || evam vedantakalpoktasvatmalingaprapujanam | kurvanna maranam vapi kshanam va susamahitah || ||
+    sarvadurvasanajalam padapamsumiva tyajet | vidhuyajnanaduhkhaugham mokshanandam samashnute ||
+  devanagari: शिष्य उवाच अखण्डे सच्चिदानन्दे निर्विकल्पैकरूपिणि । स्थितेऽद्वितीयभावेऽपि कथं पूजा विधीयते
+    ॥ ॥ पूर्णस्यावाहनं कुत्र सर्वाधारस्य चासनम् । स्वच्छस्य पाद्यमर्घ्यं च शुद्धस्याचमनं कुतः ॥ ॥ निर्मलस्य
+    कुतः स्नानं वासो विश्वोदरस्य च । अगोत्रस्य त्ववर्णस्य कुतस्तस्योपवीतकम् ॥ ॥ निर्लेपस्य कुतो गन्धः
+    पुष्पं निर्वासनस्य च । निर्विशेषस्य का भूषा कोऽलङ्कारो निराकृतेः ॥ ॥ निरञ्जनस्य किं धूपैर्दीपैर्वा
+    सर्वसाक्षिणः । निजानन्दैकतृप्तस्य नैवेद्यं किं भवेदिह ॥ ॥ विश्वानन्दयितुस्तस्य किं ताम्बूलं प्रकल्पते
+    । स्वयम्प्रकाशचिद्रूपो योऽसावर्कादिभासकः ॥ ॥ गीयते श्रुतिभिस्तस्य नीराजनविधिः कुतः । प्रदक्षिणमनन्तस्य
+    प्रणामोऽद्वयवस्तुनः ॥ ॥ वेदवाचामवेद्यस्य किं वा स्तोत्रं विधीयते । अन्तर्बहिः संस्थितस्य उद्वासनविधिः
+    कुतः ॥ ॥ श्री गुरुरुवाच आराधयामि मणिसन्निभमात्मलिङ्गम् मायापुरीहृदयपङ्कजसन्निविष्टम् । श्रद्धानदीविमलचित्तजलाभिषेकै
+    र्नित्यं समाधिकुसुमैर्नपुनर्भवाय ॥ ॥ अयमेकोऽवशिष्टोऽस्मीत्येवमावाहयेच्छिवम् । आसनं कल्पयेत्पश्चात्स्वप्रतिष्ठात्मचिन्तनम्
+    ॥ ॥ पुण्यपापरजःसङ्गो मम नास्तीति वेदनम् । पाद्यं समर्पयेद्विद्वन्सर्वकल्मषनाशनम् ॥ ॥ अनादिकल्पविधृतमूलाज्ञानजलाञ्जलिम्
+    । विसृजेदात्मलिङ्गस्य तदेवार्घ्यसमर्पणम् ॥ ॥ ब्रह्मानन्दाब्धिकल्लोलकणकोट्यंशलेशकम् । पिबन्तीन्द्रादय
+    इति ध्यानमाचमनं मतम् ॥ ॥ ब्रह्मानन्दजलेनैव लोकाः सर्वे परिप्लुताः । अच्छेद्योऽयमिति ध्यानमभिषेचनमात्मनः
+    ॥ ॥ निरावरणचैतन्यं प्रकाशोऽस्मीति चिन्तनम् । आत्मलिङ्गस्य सद्वस्त्रमित्येवं चिन्तयेन्मुनिः ॥ ॥ त्रिगुणात्माशेषलोकमालिकासूत्रमस्म्यहम्
+    । इति निश्चयमेवात्र ह्युपवीतं परं मतम् ॥ ॥ अनेकवासनामिश्रप्रपञ्चोऽयं धृतो मया । नान्येनेत्यनुसन्धानमात्मनश्चन्दनं
+    भवेत् ॥ ॥ रजःसत्त्वतमोवृत्तित्यागरूपैस्तिलाक्षतैः । आत्मलिङ्गं यजेन्नित्यं जीवन्मुक्तिप्रसिद्धये ॥
+    ॥ ईश्वरो गुरुरात्मेति भेदत्रयविवर्जितैः । बिल्वपत्रैरद्वितीयैरात्मलिङ्गं यजेच्छिवम् ॥ ॥ समस्तवासनात्यागं
+    धूपं तस्य विचिन्तयेत् । ज्योतिर्मयात्मविज्ञानं दीपं सन्दर्शयेद्बुधः ॥ ॥ नैवेद्यमात्मलिङ्गस्य ब्रह्माण्डाख्यं
+    महोदनम् । पिबानन्दरसं स्वादु मृत्युरस्योपसेचनम् ॥ ॥ अज्ञानोच्छिष्टकरस्य क्षालनं ज्ञानवारिणा । विशुद्धस्यात्मलिङ्गस्य
+    हस्तप्रक्षालनं स्मरेत् ॥ ॥ रागादिगुणशून्यस्य शिवस्य परमात्मनः । सरागविषयाभ्यासत्यागस्ताम्बूलचर्वणम्
+    ॥ ॥ अज्ञानध्वान्तविध्वंसप्रचण्डमतिभास्करम् । आत्मनो ब्रह्मताज्ञानं नीराजनमिहात्मनः ॥ ॥ विविधब्रह्मसन्दृष्टिर्मालिकाभिरलङ्कृतम्
+    । पूर्णानन्दात्मतादृष्टिं पुष्पाञ्जलिमनुस्मरेत् ॥ ॥ परिभ्रमन्ति ब्रह्माण्डसहस्राणि मयीश्वरे । कूटस्थाचलरूपोऽहमिति
+    ध्यानं प्रदक्षिणम् ॥ ॥ विश्ववन्द्योऽहमेवास्मि नास्ति वन्द्यो मदन्यतः । इत्यालोचनमेवात्र स्वात्मलिङ्गस्य
+    वन्दनम् ॥ ॥ आत्मनः सत्क्रिया प्रोक्ता कर्तव्याभावभावना । नामरूपव्यतीतात्मचिन्तनं नामकीर्तनम् ॥ ॥ श्रवणं
+    तस्य देवस्य श्रोतव्याभावचिन्तनम् । मननं त्वात्मलिङ्गस्य मन्तव्याभावचिन्तनम् ॥ ॥ ध्यातव्याभावविज्ञानं
+    निदिध्यासनमात्मनः । समस्तभ्रान्तिविक्षेपराहित्येनात्मनिष्ठता ॥ ॥ समाधिरात्मनो नाम नान्यच्चित्तस्य
+    विभ्रमः । तत्रैव बह्मणि सदा चित्तविश्रान्तिरिष्यते ॥ ॥ एवं वेदान्तकल्पोक्तस्वात्मलिङ्गप्रपूजनम् ।
+    कुर्वन्ना मरणं वापि क्षणं वा सुसमाहितः ॥ ॥ सर्वदुर्वासनाजालं पदपांसुमिव त्यजेत् । विधूयाज्ञानदुःखौघं
+    मोक्षानन्दं समश्नुते ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_z_misc_shankara/nirgunamaanasapuujaa.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Nirguna Manasa Puja
   license: public_domain
-tags:
-- pUjA
-- shankarAchArya
+tags: []
 priority: true
+aliases:
+- manasapuja

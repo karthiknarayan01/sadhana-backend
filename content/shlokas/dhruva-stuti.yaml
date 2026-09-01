@@ -2,48 +2,59 @@ id: dhruva-stuti
 category: stotram
 name:
   english: Dhruva Stuti
-  devanagari: ध्रुवस्तुतिः
 content:
-  english: yo'ntah pravishya mama vacamimam prasuptam sanjivayatyakhilashaktidharah svadhamna anyamshca
-    hastacaranashravanatvagadin pranannamo bhagavate purushaya tubhyam ekastvameva bhagavannidamatmashaktya
-    mayakhyayorugunaya mahadadyashesham srishtva'nuvishya purushastadasadguneshu naneva darushu vibhavasuvadvibhasi
-    tvaddattaya vayunayedamacashta vishvam suptaprabuddha iva natha bhavatprapannah tasyapavargyasharanam
-    tava padamulam vismaryate kritavida kathamartabandho nunam vimushtamatayastava mayaya te ye tvam bhavapyayavimokshanamanyahetoh
-    arcanti kalpakatarum kunapopabhogyam icchanti yatsparshajam niraye'pi nrinam ya nirvritistanubhritam
-    tava padapadma dhyanadbhavajjanakathashravanena va syat sa brahmani svamahimanyapi natha ma bhut kim
-    tvantakasilulitatpatatam vimanat bhaktim muhuh pravahatam tvayi me prasango bhuyadananta mahatamamalashayanam
-    yenanjasolbanamuruvyasanam bhavabdhim neshye bhavadgunakathamritapanamattah te na smarantyatitaram
-    priyamisha martyam ye canvadah sutasuhridgrihavittadarah ye tvabjanabha bhavadiyapadaravinda saugandhyalubdhahridayeshu
-    kritaprasangah tiryannagadvijasarisripadevadaitya martyadibhih paricitam sadasadvishesham rupam sthavishthamaja
-    te mahadadyanekam natah param parama vedmi na yatra vadah kalpanta etadakhilam jatharena grihnan shete
-    pumansvadriganantasakhastadanke yannabhisindhuruhakancanalokapadma garbhe dyumanbhagavate pranato'smi
-    tasmai tvam nityamuktaparishuddhavibuddha atma kutastha adipurusho bhagavamstryadhishah yad buddhyavasthitimakhanditaya
-    svadrishtya drashta sthitavadhimakho vyatirikta asse yasminviruddhagatayo hyanisham patanti vidyadayo
-    vividhashaktaya anupurvyat tad brahma vishvabhavamekamanantamadyam anandamatramavikaramaham prapadye
-    satyashisho hi bhagavamstava padapadmam ashistathanubhajatah purusharthamurteh apyevamarya bhagavan
-    paripati dinan vashreva vatsakamanugrahakataro'sman ||iti shrimadbhagavate mahapurane paramahamsyam
-    samhitayam caturthe skandhe navame'dhyaye shri dhruvastutih sampurna||
-  devanagari: योऽन्तः प्रविश्य मम वाचमिमां प्रसुप्तां सञ्जीवयत्यखिलशक्तिधरः स्वधाम्ना अन्यांश्च हस्तचरणश्रवणत्वगादीन्
-    प्राणान्नमो भगवते पुरुषाय तुभ्यम् एकस्त्वमेव भगवन्निदमात्मशक्त्या मायाख्ययोरुगुणया महदाद्यशेषम् सृष्ट्वाऽनुविश्य
-    पुरुषस्तदसद्गुणेषु नानेव दारुषु विभावसुवद्विभासि त्वद्दत्तया वयुनयेदमचष्ट विश्वं सुप्तप्रबुद्ध इव
-    नाथ भवत्प्रपन्नः तस्यापवर्ग्यशरणं तव पादमूलं विस्मर्यते कृतविदा कथमार्तबन्धो नूनं विमुष्टमतयस्तव मायया
-    ते ये त्वां भवाप्ययविमोक्षणमन्यहेतोः अर्चन्ति कल्पकतरुं कुणपोपभोग्यम् इच्छन्ति यत्स्पर्शजं निरयेऽपि
-    नॄणाम् या निर्वृतिस्तनुभृतां तव पादपद्म ध्यानाद्भवज्जनकथाश्रवणेन वा स्यात् सा ब्रह्मणि स्वमहिमन्यपि
-    नाथ मा भूत् किं त्वन्तकासिलुलितात्पततां विमानात् भक्तिं मुहुः प्रवहतां त्वयि मे प्रसङ्गो भूयादनन्त
-    महताममलाशयानाम् येनाञ्जसोल्बणमुरुव्यसनं भवाब्धिं नेष्ये भवद्गुणकथामृतपानमत्तः ते न स्मरन्त्यतितरां
-    प्रियमीश मर्त्यं ये चान्वदः सुतसुहृद्गृहवित्तदाराः ये त्वब्जनाभ भवदीयपदारविन्द सौगन्ध्यलुब्धहृदयेषु
-    कृतप्रसङ्गाः तिर्यङ्नगद्विजसरीसृपदेवदैत्य मर्त्यादिभिः परिचितं सदसद्विशेषम् रूपं स्थविष्ठमज ते महदाद्यनेकं
-    नातः परं परम वेद्मि न यत्र वादः कल्पान्त एतदखिलं जठरेण गृह्णन् शेते पुमान्स्वदृगनन्तसखस्तदङ्के यन्नाभिसिन्धुरुहकाञ्चनलोकपद्म
-    गर्भे द्युमान्भगवते प्रणतोऽस्मि तस्मै त्वं नित्यमुक्तपरिशुद्धविबुद्ध आत्मा कूटस्थ आदिपुरुषो भगवांस्त्र्यधीशः
-    यद् बुद्ध्यवस्थितिमखण्डितया स्वदृष्ट्या द्रष्टा स्थितावधिमखो व्यतिरिक्त आस्से यस्मिन्विरुद्धगतयो ह्यनिशं
-    पतन्ति विद्यादयो विविधशक्तय आनुपूर्व्यात् तद् ब्रह्म विश्वभवमेकमनन्तमाद्यम् आनन्दमात्रमविकारमहं प्रपद्ये
-    सत्याशिषो हि भगवंस्तव पादपद्मम् आशीस्तथानुभजतः पुरुषार्थमूर्तेः अप्येवमर्य भगवान् परिपाति दीनान् वाश्रेव
-    वत्सकमनुग्रहकातरोऽस्मान् ॥इति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां चतुर्थे स्कन्धे नवमेऽध्याये
-    श्री ध्रुवस्तुतिः सम्पूर्णा॥
+  english: vishnupuranantargata mukhya stuti shlokah dhruva uvaca | bhumirapo'nalo vayuh kham mano buddhireva
+    ca | bhutadiradiprakritiryasya rupam nato'smi tam || || shuddhah sukshmo'khilavyapi pradhanatparatah
+    puman | yasya rupam namastasmai purushaya gunashine || || bhuradinam samastanam gandhadinam ca shashvatah
+    | buddhyadinam pradhanasya purushasya ca yah parah || || tam brahmabhutamatmanamasheshajagatah patim
+    | prapadye sharanam shuddham tvadrupam parameshvara || || brihattvadbrimhanatvacca yadrupam brahmasanjnitam
+    | tasmai namaste sarvatmanyogicintyavikarine || || sahasrashirsha purushah sahasrakshah sahasrapat
+    | sarvavyapi bhuvah sparshadatyatishthaddashangulam || || yadbhutam yacca vai bhavyam purushottama
+    tadbhavan | tvatto virat svarat samrat tvattashcapyadhipurushah || || atyaricyata so'dhashca tiryagurdhvam
+    ca vai bhuvah | tvatto vishvamidam jatam tvatto bhutabhavishyati || || tvadrupadharinashcantah sarvabhutamidam
+    jagat | tvatto yajnah sarvahutah prishadajyam pashurdvidha || || tvatta rico'tha samani tvattashchandamsi
+    jajnire | tvatto yajumshyajayanta tvatto'shvashcaikato datah || || gavastvattah samudbhutastvatto'ja
+    avayo mrigah | tvanmukhadbrahmanastvatto bahoh kshatramajayata || || vaishyastavorujah shudrastava
+    padbhyam samudgatah | akshnoh suryo'nilah pranaccandrama manasastava || || prano'ntahsushirajjato
+    mukhadagnirajayata | nabhito gaganam dyaushca shirasah samavartata || || dishah shrotratkshitih padbhyam
+    tvattah sarvamabhudidam || || nyagrodhah sumahanalpe yatha bije vyavasthitah | samyame vishvamakhilam
+    bijabhute tatha tvayi || || bijadankurasambhuto nyagrodhah sa samucchritah | vistaram ca yatha yati
+    tvattah srishtau tatha jagat || || yatha hi kadali nanya tvakpatradapi drishyate | evam vishvasya
+    nanyastvam tvatsthayishvara drishyate || || hladini sandhini samvittvayyeka sarvasamsthitau | hladatapakari
+    mishra tvayi no gunavarjite || || prithagbhutaikabhutaya bhutabhutaya te namah | prabhutabhutabhutaya
+    tubhyam bhutatmane namah || || vyaktam pradhanapurushau virat samrat svarat tatha | vibhavyate'ntahkarane
+    purusheshvakshayo bhavan || || sarvasmin sarvabhutastvam sarvah sarvasvarupadhrik | sarvam tvattastatashca
+    tvam namah sarvatmane'stu te || || sarvatmako'si sarvesha sarvabhutasthito yatah | kathayami tatah
+    kim te sarvam vetsi hridi sthitam || || sarvatmansarvabhutesha sarvasattvasamudbhava | sarvabhuto
+    bhavanvetti sarvasattvamanoratham || || yo me manoratho natha saphalah sa tvaya kritah | tapashca
+    taptam saphalam yaddrishto'si jagatpate ||
+  devanagari: विष्णुपुराणान्तर्गता मुख्य स्तुति श्लोकाः ध्रुव उवाच । भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव
+    च । भूतादिरादिप्रकृतिर्यस्य रूपं नतोऽस्मि तम् ॥ ॥ शुद्धः सूक्ष्मोऽखिलव्यापी प्रधानात्परतः पुमान् ।
+    यस्य रूपं नमस्तस्मै पुरुषाय गुणाशिने ॥ ॥ भूरादीनां समस्तानां गन्धादीनां च शाश्वतः । बुद्ध्यादीनां
+    प्रधानस्य पुरुषस्य च यः परः ॥ ॥ तं ब्रह्मभूतमात्मानमशेषजगतः पतिम् । प्रपद्ये शरणं शुद्धं त्वद्रूपं
+    परमेश्वर ॥ ॥ बृहत्त्वाद्बृंहणत्वाच्च यद्रूपं ब्रह्मसञ्ज्ञितम् । तस्मै नमस्ते सर्वात्मन्योगिचिन्त्याविकारिणे
+    ॥ ॥ सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात् । सर्वव्यापी भुवः स्पर्शादत्यतिष्ठद्दशाङ्गुलम् ॥ ॥ यद्भूतं
+    यच्च वै भव्यं पुरुषोत्तम तद्भवान् । त्वत्तो विराट् स्वराट् सम्राट् त्वत्तश्चाप्यधिपूरुषः ॥ ॥ अत्यरिच्यत
+    सोऽधश्च तिर्यगूर्ध्वं च वै भुवः । त्वत्तो विश्वमिदं जातं त्वत्तो भूतभविष्यती ॥ ॥ त्वद्रूपधारिणश्चान्तः
+    सर्वभूतमिदं जगत् । त्वत्तो यज्ञः सर्वहुतः पृषदाज्यं पशुर्द्विधा ॥ ॥ त्वत्त ऋचोऽथ सामानि त्वत्तश्छन्दांसि
+    जज्ञिरे । त्वत्तो यजूंष्यजायन्त त्वत्तोऽश्वाश्चैकतो दतः ॥ ॥ गावस्त्वत्तः समुद्भूतास्त्वत्तोऽजा अवयो
+    मृगाः । त्वन्मुखाद्ब्राह्मणास्त्वत्तो बाहोः क्षत्रमजायत ॥ ॥ वैश्यास्तवोरुजाः शूद्रास्तव पद्भ्यां समुद्गताः
+    । अक्ष्णोः सूर्योऽनिलः प्राणाच्चन्द्रमा मनसस्तव ॥ ॥ प्राणोऽन्तःसुषिराज्जातो मुखादग्निरजायत । नाभितो
+    गगनं द्यौश्च शिरसः समवर्तत ॥ ॥ दिशः श्रोत्रात्क्षितिः पद्भ्यां त्वत्तः सर्वमभूदिदम् ॥ ॥ न्यग्रोधः
+    सुमहानल्पे यथा बीजे व्यवस्थितः । संयमे विश्वमखिलं बीजभूते तथा त्वयि ॥ ॥ बीजादङ्कुरसम्भूतो न्यग्रोधः
+    स समुच्छ्रितः । विस्तारं च यथा याति त्वत्तः सृष्टौ तथा जगत् ॥ ॥ यथा हि कदली नान्या त्वक्पत्रादपि दृश्यते
+    । एवं विश्वस्य नान्यस्त्वं त्वत्स्थायीश्वर दृश्यते ॥ ॥ ह्लादिनी सन्धिनी संवित्त्वय्येका सर्वसंस्थितौ
+    । ह्लादतापकरी मिश्रा त्वयि नो गुणवर्जिते ॥ ॥ पृथग्भूतैकभूताय भूतभूताय ते नमः । प्रभूतभूतभूताय तुभ्यं
+    भूतात्मने नमः ॥ ॥ व्यक्तं प्रधानपुरुषौ विराट् सम्राट् स्वराट् तथा । विभाव्यतेऽन्तःकरणे पुरुषेष्वक्षयो
+    भवान् ॥ ॥ सर्वस्मिन् सर्वभूतस्त्वं सर्वः सर्वस्वरूपधृक् । सर्वं त्वत्तस्ततश्च त्वं नमः सर्वात्मनेऽस्तु
+    ते ॥ ॥ सर्वात्मकोऽसि सर्वेश सर्वभूतस्थितो यतः । कथयामि ततः किं ते सर्वं वेत्सि हृदि स्थितम् ॥ ॥ सर्वात्मन्सर्वभूतेश
+    सर्वसत्त्वसमुद्भव । सर्वभूतो भवान्वेत्ति सर्वसत्त्वमनोरथम् ॥ ॥ यो मे मनोरथो नाथ सफलः स त्वया कृतः
+    । तपश्च तप्तं सफलं यद्दृष्टोऽसि जगत्पते ॥
 meaning: {}
 source_attribution:
-  text_source: stotra-sangrahah (community LaTeX stotra collection) — stotra-sangrahah-master/stotras/krishna/DhruvakrtaBhagavatStavam.tex
+  text_source: vignanam.org (downloaded and provided by the project owner) — Dhruva Stuti
   license: public_domain
-tags:
-- Vishnu
+tags: []
 priority: true
+aliases:
+- stuti

@@ -2,48 +2,31 @@ id: kalabhairava-ashtakam
 category: stotram
 name:
   english: Kalabhairava Ashtakam
-  devanagari: आल्तेर्नतिवे
 content:
-  english: devarajasevyamanapavanamghripankajam vyalayajnasutramindushekharam kripakaram | naradadiyogivrindavanditam
-    digambaram kashikapuradhinathakalabhairavam bhaje || 1|| bhanukotibhasvaram bhavabdhitarakam param
-    nilakanthamipsitarthadayakam trilocanam | kalakalamambujakshamakshashulamaksharam kashikapuradhinathakalabhairavam
-    bhaje || 2|| shulatamkapashadandapanimadikaranam shyamakayamadidevamaksharam niramayam | bhimavikramam
-    prabhum vicitratandavapriyam kashikapuradhinathakalabhairavam bhaje || 3|| bhuktimuktidayakam prashastacaruvigraham
-    bhaktavatsalam sthitam samastalokavigraham | (sthiram) vinikvananmanojnahemakinkinilasatkatim (nikvanan)
-    kashikapuradhinathakalabhairavam bhaje || 4|| dharmasetupalakam tvadharmamarganashakam (nashanam)
-    karmapashamocakam susharmadayakam vibhum | svarnavarnasheshapashashobhitamgamandalam (keshapasha,
-    nirmalam) kashikapuradhinathakalabhairavam bhaje || 5|| ratnapadukaprabhabhiramapadayugmakam nityamadvitiyamishtadaivatam
-    niramjanam | mrityudarpanashanam karaladamshtramokshadam (bhushanam) kashikapuradhinathakalabhairavam
-    bhaje || 6|| attahasabhinnapadmajandakoshasamtatim drishtipatanashtapapajalamugrashasanam | ashtasiddhidayakam
-    kapalamalikadharam kashikapuradhinathakalabhairavam bhaje || 7|| bhutasamghanayakam vishalakirtidayakam
-    kashivasalokapunyapapashodhakam vibhum | (kashivasi) nitimargakovidam puratanam jagatpatim kashikapuradhinathakalabhairavam
-    bhaje || 8|| || phalashrutih || kalabhairavashtakam pathamti ye manoharam jnanamuktisadhanam vicitrapunyavardhanam
-    | shokamohadainyalobhakopatapanashanam (lobhadainya) prayanti kalabhairavamghrisannidhim nara dhruvam
-    || (te prayanti kalabhairavamghrisannidhim dhruvam ||) || iti shrimatparamahamsaparivrajakacaryasya
-    shrigovindabhagavatpujyapadashishyasya shrimacchankarabhagavatah kritau shri kalabhairavashtakam sampurnam
-    || shankaracarya, Volume 18, page 89| there is a similar one in shivarahasya amshah 11 adhyayah 34
-    | 53-61||
-  devanagari: देवराजसेव्यमानपावनांघ्रिपङ्कजं व्यालयज्ञसूत्रमिन्दुशेखरं कृपाकरम् । नारदादियोगिवृन्दवन्दितं
-    दिगंबरं काशिकापुराधिनाथकालभैरवं भजे ॥ १॥ भानुकोटिभास्वरं भवाब्धितारकं परं नीलकण्ठमीप्सितार्थदायकं
-    त्रिलोचनम् । कालकालमंबुजाक्षमक्षशूलमक्षरं काशिकापुराधिनाथकालभैरवं भजे ॥ २॥ शूलटंकपाशदण्डपाणिमादिकारणं
-    श्यामकायमादिदेवमक्षरं निरामयम् । भीमविक्रमं प्रभुं विचित्रताण्डवप्रियं काशिकापुराधिनाथकालभैरवं भजे
-    ॥ ३॥ भुक्तिमुक्तिदायकं प्रशस्तचारुविग्रहं भक्तवत्सलं स्थितं समस्तलोकविग्रहम् । (स्थिरम्) विनिक्वणन्मनोज्ञहेमकिङ्किणीलसत्कटिं
-    (निक्वणन्) काशिकापुराधिनाथकालभैरवं भजे ॥ ४॥ धर्मसेतुपालकं त्वधर्ममार्गनाशकं (नाशनं) कर्मपाशमोचकं सुशर्मदायकं
-    विभुम् । स्वर्णवर्णशेषपाशशोभितांगमण्डलं (केशपाश, निर्मलं) काशिकापुराधिनाथकालभैरवं भजे ॥ ५॥ रत्नपादुकाप्रभाभिरामपादयुग्मकं
-    नित्यमद्वितीयमिष्टदैवतं निरंजनम् । मृत्युदर्पनाशनं करालदंष्ट्रमोक्षदं (भूषणं) काशिकापुराधिनाथकालभैरवं
-    भजे ॥ ६॥ अट्टहासभिन्नपद्मजाण्डकोशसंततिं दृष्टिपातनष्टपापजालमुग्रशासनम् । अष्टसिद्धिदायकं कपालमालिकाधरं
-    काशिकापुराधिनाथकालभैरवं भजे ॥ ७॥ भूतसंघनायकं विशालकीर्तिदायकं काशिवासलोकपुण्यपापशोधकं विभुम् । (काशिवासि)
-    नीतिमार्गकोविदं पुरातनं जगत्पतिं काशिकापुराधिनाथकालभैरवं भजे ॥ ८॥ ॥ फलश्रुतिः ॥ कालभैरवाष्टकं पठंति
-    ये मनोहरं ज्ञानमुक्तिसाधनं विचित्रपुण्यवर्धनम् । शोकमोहदैन्यलोभकोपतापनाशनं (लोभदैन्य) प्रयान्ति कालभैरवांघ्रिसन्निधिं
-    नरा ध्रुवम् ॥ (ते प्रयान्ति कालभैरवांघ्रिसन्निधिं ध्रुवम् ॥) ॥ इति श्रीमत्परमहंसपरिव्राजकाचर्यस्य
-    श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ श्री कालभैरवाष्टकं सम्पूर्णम् ॥ षन्करचर्य,
-    Vओलुमे १८, पगे ८९। ठेरे इस् अ सिमिलर् ओने इन् षिवरहस्य अंशः ११ अध्यायः ३४ । ५३-६१॥
+  english: shekharam kripakaram | naradadi vanditam digambaram kashikapuradhinatha kalabhairavam bhaje
+    || bhasvaram bhavabdhitarakam param nilakantha dayakam trilocanam | kalakala maksharam kashikapuradhinatha
+    kalabhairavam bhaje || maksharam niramayam | bhimavikramam prabhum vicitra tandava priyam kashikapuradhinatha
+    kalabhairavam bhaje || vigraham bhaktavatsalam sthiram samastaloka kashikapuradhinatha kalabhairavam
+    bhaje || palakam tvadharmamarga nashakam dayakam vibhum | svarnavarna kashikapuradhinatha kalabhairavam
+    bhaje || daivatam niranjanam | mrityudarpa kashikapuradhinatha kalabhairavam bhaje || dharam kashikapuradhinatha
+    kalabhairavam bhaje || kovidam puratanam jagatpatim kashikapuradhinatha kalabhairavam bhaje || ||
+    kalabhairavashtakam pathanti ye manoharam jnanamukti te prayanti kalabhairavanghri sannidhim dhruvam
+    || iti shrimatparamahamsaparivrajakacaryasya shrigovindabhagavatpujyapadashishyasya shrimacchankarabhagavatah
+    kritau shri kalabhairavashtakam sampurnam |
+  devanagari: शेखरं कृपाकरम् । नारदादि वन्दितं दिगम्बरं काशिकापुराधिनाथ कालभैरवं भजे ॥ भास्वरं भवब्धितारकं
+    परं नीलकण्ठ दायकं त्रिलोचनम् । कालकाल मक्षरं काशिकापुराधिनाथ कालभैरवं भजे ॥ मक्षरं निरामयम् । भीमविक्रमं
+    प्रभुं विचित्र ताण्डव प्रियं काशिकापुराधिनाथ कालभैरवं भजे ॥ विग्रहं भक्तवत्सलं स्थिरं समस्तलोक काशिकापुराधिनाथ
+    कालभैरवं भजे ॥ पालकं त्वधर्ममार्ग नाशकं दायकं विभुम् । स्वर्णवर्ण काशिकापुराधिनाथ कालभैरवं भजे ॥ दैवतं
+    निरञ्जनम् । मृत्युदर्प काशिकापुराधिनाथ कालभैरवं भजे ॥ धरं काशिकापुराधिनाथ कालभैरवं भजे ॥ कोविदं पुरातनं
+    जगत्पतिं काशिकापुराधिनाथ कालभैरवं भजे ॥ ॥ कालभैरवाष्टकं पठन्ति ये मनोहरं ज्ञानमुक्ति ते प्रयान्ति
+    कालभैरवाङ्घ्रि सन्निधिं ध्रुवम् ॥ इति श्रीमत्परमहंसपरिव्राजकाचर्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
+    श्रीमच्छङ्करभगवतः कृतौ श्री कालभैरवाष्टकं सम्पूर्णम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_shiva/kaalabhairava.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Kalabhairava Ashtakam
   license: public_domain
-tags:
-- aShTaka
-- shiva
-- shankarAchArya
+tags: []
 priority: true
+aliases:
+- kalabhairava
+- ashtakam

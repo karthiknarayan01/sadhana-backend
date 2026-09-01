@@ -7,12 +7,15 @@ from app.schemas import Highlight, SearchResult
 # Search always happens against the English name/content fields only (the
 # spec: users type in English regardless of which language they want to
 # *read* results in) — the other languages on each document are returned
-# unindexed, for the client to switch to locally. tags (source-provided
-# deity/genre keywords, e.g. "durgA, devii, stotra" — see ingest/schema.py)
-# get a middling boost: more curated-relevant than a random content match,
-# but a title match is still the strongest signal something's the right
-# document.
-_SEARCH_FIELDS = ["name.english^3", "tags^2", "content.english"]
+# unindexed, for the client to switch to locally. Weights step down by
+# specificity: an exact/fuzzy title match is the strongest signal; aliases
+# (title split into words, e.g. "vishnu sahasranama" for the fused
+# "vishnusahasranama" — see ingest/alias_split.py) are almost as strong,
+# since they're still matching the title, just not its fused-compound form;
+# tags (source-provided deity/genre keywords) are more curated-relevant
+# than a random content match but weaker than any title-derived signal;
+# content is the implicit 1x baseline.
+_SEARCH_FIELDS = ["name.english^3", "aliases^2.5", "tags^2", "content.english"]
 MAX_QUERY_LENGTH = 200
 
 

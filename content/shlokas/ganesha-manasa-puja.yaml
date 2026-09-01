@@ -2,44 +2,221 @@ id: ganesha-manasa-puja
 category: stotram
 name:
   english: Ganesha Manasa Puja
-  devanagari: गणेशमानसपूजा २
 content:
-  english: raktambhodhisthapotollasadarunasarojadhirudham trinetram pasham caivankusham vai varadamabhayadam
-    bahubhirdharayantam | shaktya yuktam gajasyam prithutarajatharam nagayajnopavitam devam candrardhacudam
-    sakalabhayaharam vighnarajam namami || 1|| nanaratnavicitrakam ramanikam simhasanam kalpitam snanam
-    jahnavivarina ganapate pitambaram grihyatam | kanthe mauktikamalika shrutiyuge dve dharite kundale
-    nanaratnavirajito ravivibhayuktah kiritah shire || 2|| bhale carcitakesharam mrigamadamodankitam candanam
-    nanavrikshasamudgatam sukusumam mandaradurvashamih | guggullodbhavadhupakam viracitam dipam tvadagre
-    sthitam bhakshyam modakasamyutam ganapate kshirodanam grihyatam || 3|| tambulam manasa maya viracitam
-    jambuphalam dakshinam sashtangam pranato'smi te mama kritam puja grihana prabho | me kamah satatam
-    tavarcanavidhau buddhistavalingane sveccha te mukhadarshane ganapate bhaktistu padambuje || 4|| mata
-    ganeshashca pita ganesho bhrata ganeshashca sakha ganeshah | vidya ganesho dravinam ganeshah svami
-    ganeshah sharanam ganeshah || 5|| ito ganeshah parato ganeshah yato yato yami tato ganeshah | ganeshadevadaparam
-    na kincit tasmat ganesham sharanam prapadye || 6|| bud|hdhya kritam vacanajam manasendriyairyad dehena
-    jagritisushuptijasvapnajam yat | yadyacca karma hi maya sakalam parasmai gajananaya varadaya samarpaye
-    tat || 7|| dehena vaca manasa kritan me samsargikan jagritasvapnajatan | saushuptatauryan sakalaparadhan
-    kshamasva heramba dayanidhe tvam || 8|| dinanathadayanidhe suraganaih samsevyamana dvija - brahmeshanamahendrasheshagirijagandharvasiddhaih
-    stuta | sarvarishtanivaranaikanipuna trailokyanatha prabho bhakti me saphalam kurushva sakalan kshantvaparadhan
-    mama || 9||
-  devanagari: रक्ताम्भोधिस्थपोतोल्लसदरुणसरोजाधिरूढं त्रिनेत्रं पाशं चैवाङ्कुशं वै वरदमभयदं बाहुभिर्धारयन्तम्
-    । शक्त्या युक्तं गजास्यं पृथुतरजठरं नागयज्ञोपवीतं देवं चन्द्रार्धचूडं सकलभयहरं विघ्नराजं नमामि ॥ १॥
-    नानारत्नविचित्रकं रमणिकं सिंहासनं कल्पितं स्नानं जाह्नविवारिणा गणपते पिताम्बरं गृह्यताम् । कण्ठे मौक्तिकमालिका
-    श्रुतियुगे द्वे धारिते कुण्डले नानारत्नविराजितो रविविभायुक्तः किरीटः शिरे ॥ २॥ भाले चर्चितकेशरं मृगमदामोदाङ्कितं
-    चन्दनं नानावृक्षसमुद्गतं सुकुसुमं मन्दारदूर्वाशमीः । गुग्गूल्लोद्भवधूपकं विरचितं दीपं त्वदग्रे स्थितं
-    भक्ष्यं मोदकसंयुतं गणपते क्षीरोदनं गृह्यताम् ॥ ३॥ ताम्बूलं मनसा मया विरचितं जम्बूफलं दक्षिणां साष्टाङ्गं
-    प्रणतोऽस्मि ते मम कृतां पूजा गृहाण प्रभो । मे कामः सततं तवार्चनविधौ बुद्धिस्तवालिङ्गने स्वेच्छा ते
-    मुखदर्शने गणपते भक्तिस्तु पादाम्बुजे ॥ ४॥ माता गणेशश्च पिता गणेशो भ्राता गणेशश्च सखा गणेशः । विद्या
-    गणेशो द्रविणं गणेशः स्वामी गणेशः शरणं गणेशः ॥ ५॥ इतो गणेशः परतो गणेशः यतो यतो यामि ततो गणेशः । गणेशदेवादपरं
-    न किञ्चित् तस्मात् गणेशं शरणं प्रपद्ये ॥ ६॥ बुद्।ह्ध्या कृतं वचनजं मनसेन्द्रियैर्यद् देहेन जागृतिसुषुप्तिजस्वप्नजं
-    यत् । यद्यच्च कर्म हि मया सकलं परस्मै गजाननाय वरदाय समर्पये तत् ॥ ७॥ देहेन वाचा मनसा कृतान् मे सांसर्गिकान्
-    जागृतस्वप्नजातान् । सौषुप्ततौर्यान् सकलापराधान् क्षमस्व हेरम्ब दयानिधे त्वम् ॥ ८॥ दीनानाथदयानिधे सुरगणैः
-    संसेव्यमान द्विज - ब्रह्मेशानमहेन्द्रशेषगिरिजागन्धर्वसिद्धैः स्तुत । सर्वारिष्टनिवारणैकनिपुण त्रैलोक्यनाथ
-    प्रभो भक्ति मे सफलां कुरुष्व सकलान् क्षान्त्वापराधान् मम ॥ ९॥
+  english: gritsamada uvaca | vighneshaviryani vicitrakani bandijanairmagadhakaih smritani | shrutva samuttishtha
+    gajanana tvam brahme jaganmangalakam kurushva || || evam maya prarthita vighnaraja shcittena cotthaya
+    bahirganeshah | tam nirgatam vikshya namanti devah shambhvadayo yogimukhastathaham || || shaucadikam
+    te parikalpayami heramba vai dantavishuddhimevam | vastrena samprokshya mukharavindam devam sabhayam
+    viniveshayami || || dvijadisarvairabhivanditam ca shukadibhirmodasumodakadyaih | sambhashya calokya
+    samutthitam tam sumandapam kalpya niveshayami || || ratnaih sudiptaih pratibimbitam tam pashyami cittena
+    vinayakam ca | tatrasanam ratnasuvarnayuktam sankalpya devam viniveshayami || || siddhya ca buddhya
+    saha vighnaraja padyam kuru premabharena sarvaih | suvasitam niramatho grihana cittena dattam ca sukhoshnabhavam
+    || || tatah suvastrena ganeshamadau samprokshya durvadibhirarcayami | cittena bhavapriya dinabandho
+    mano vilinam kuru te padabje || || karpurakailadisuvasitam tu sukalpitam toyamatho grihana | acamya
+    tenaiva gajanana tvam kripakatakshena vilokayashu || || pravalamuktaphalahatakadyaih susamskritam
+    hyantarabhavakena | anarghyamarghyam saphalam kurushva maya pradattam ganaraja dhundhe || || saugandhyayuktam
+    madhuparkamadyam sankalpitam bhavayutam grihana | punastathacamya vinayaka tvam bhaktamshca bhaktesha
+    surakshayashu || || suvasitam campakajatikadyai stailam maya kalpitameva dhundhe | grihana tena pravimardayami
+    sarvangamevam tava sevanaya || || tatah sukhoshnena jalena caha manekatirthahritakena dhundhe | cittena
+    shuddhena ca snapayami snanam maya dattamatho grihana || || tatah payahsnanamacintyabhava grihana
+    toyasya tatha ganesha | punardadhisnanamanamaya tvam cittena dattam ca jalasya caiva || || tato ghritasnanamaparavandya
+    sutirthajam vighnahara prasida | grihana cittena sukalpitam tu tato madhusnanamatho jalasya || ||
+    susharkarayuktamatho grihana snanam maya kalpitameva dhundhe | tato jalasnanamaghapahantri vighnesha
+    mayabhramam varayashu || || suyakshapankasthamatho grihana snanam pareshadhipate tatashca | kaumandalisambhavajam
+    kurushva vishuddhamevam parikalpitam tu || || tatastu suktairmanasa ganesham sampujya durvadibhiralpabhavaih
+    | aparakairmandalabhutabrahma naspatyakaistam hyabhishecayami || || tatah suvastrena tu pronchanam
+    tvam grihana cittena maya sukalpitam | tato vishuddhena jalena dhundhe hyacantamevam kuru vighnaraja
+    || || agnau vishuddhe tu grihana vastre hyanarghyamaulye manasa maya te | datte paricchadya nijatmadeham
+    tabhyam mayuresha janamshca palaya || || acamya vighnesha punastathaiva cittena dattam mukhamuttariyam
+    | grihana bhaktapratipalaka tvam namo yatha tarakasamyutam tu || || yajnopavitam trigunasvarupam sauvarnamevam
+    hyahinathabhutam | bhavena dattam gananatha tattvam grihana bhaktoddhritikaranaya || || acantamevam
+    manasa pradattam kurushva shuddhena jalena dhundhe | punashca kaumandalakena pahi vishvam prabho khelakaram
+    sada te || || udyaddineshabhamatho grihana sindurakam te manasa pradattam | sarvangasamlepanamadaradvai
+    kurushva heramba ca tena purnam || || sahasrashirsham manasa maya tvam dattam kiritam tu suvarnajam
+    vai | anekaratnaih khacitam grihana brahmesha te mastakashobhanaya || || vicitraratnaih kanakena dhundhe
+    yutani cittena maya paresha | dattani nanapadakundalani grihana shurpashrutibhushanaya || || shundavibhusharthamanantakhelin
+    suvarnajam kancukamagrihana | ratnaishca yuktam manasa maya ya ddattam prabho tatsaphalam kurushva
+    || || suvarnaratnaishca yutani dhundhe sadaikadantabharanani kalpya | grihana cudakritaye paresha
+    dattani dantasya ca shobhanartham || || ratnaih suvarnena kritani tani grihana catvari maya prakalpya
+    | sambhushaya tvam katakani natha caturbhujeshu hyaja vighnaharin || || vicitraratnaih khacitam suvarna
+    sambhutakam grihya maya pradattam | tathangulishvangulikam ganesha cittena samshobhaya tatparesha
+    || || vicitraratnaih khacitani dhundhe keyurakani hyatha kalpitani | suvarnajani pramathadhinatha
+    grihana dattani tu bahushu tvam || || pravalamuktaphalaratnajaistvam suvarnasutraishca grihana kanthe
+    | cittena datta vividhashca mala urodare shobhaya vighnaraja || || candram lalate gananatha purnam
+    vriddhikshayabhyam tu vihinamadyam | samshobhaya tvam varasamyutam te bhaktipriyatvam prakatikurushva
+    || || cintamanim cintitadam paresha hriddeshagam jyotirmayam kurushva | manim sadanandasukhapradam
+    ca vighnesha dinarthada palayasva || || nabhau phanisham ca sahasrashirsham samveshtanenaiva ganadhinatha
+    | bhaktam subhusham kuru bhushanena varapradanam saphalam paresha || || katitate ratnasuvarnayuktam
+    kancim sucittena ca dharayami | vighnesha jyotirganadipanim te prasida bhaktam kuru mam dayabdhe ||
+    || heramba te ratnasuvarnayukte sunupure manjirake tathaiva | sukinkininadayute subuddhya supadayoh
+    shobhaya me pradatte || || ityadi nanavidhabhushanani tavecchaya manasakalpitani | sambhushayamyeva
+    tvadangakeshu vicitradhatuprabhavani dhundhe || || sucandanam raktamamoghaviryam sugharshitam hyashtakagandhamukhyaih
+    | yuktam maya kalpitamekadanta grihana te tvangavilepanartham || || lipteshu vaicitryamathashtagandhai
+    rangeshu te'ham prakaromi citram | prasida cittena vinayaka tvam tatah suraktam ravimeva phale ||
+    || ghritena vai kunkumakena raktan sutandulamste parikalpayami | phale ganadhyaksha grihana pahi bhaktan
+    subhaktipriya dinabandho || || grihana bho campakamalatini jalapankajani sthalapankajani | cittena
+    dattani ca mallikani pushpani nanavidhavrikshajani || || pushpopari tvam manasa grihana heramba mandarashamidalani
+    | maya sucittena prakalpitani hyaparakani pranavakrite tu || || durvankuranvai manasa pradattam stripancapatrairyutakamshca
+    snigdhan | grihana vighneshvara sankhyaya tvam hinamshca sarvopari vakratunda || || dashangabhutam
+    manasa maya te dhupam pradattam ganaraja dhundhe | grihana saurabhyakaram paresha siddhya ca buddhya
+    saha bhaktapala || || dipam suvartya yutamadaratte dattam maya manasakam ganesha | grihana nanavidhajam
+    ghritadi tailadisambhutamamoghadrishte || || bhojyam ca lehyam ganaraja peyam coshyam ca nanavidhashadrasadhyam
+    | grihana naivedyamatho maya te sukalpitam pushtipate mahatman || || suvasitam bhojanamadhyabhage
+    jalam maya dattamatho grihana | kamandalustham manasa ganesha pibasva vishvadikatriptikarin || ||
+    tatah karodvartanakam grihana saugandhyayuktam mukhamarjanaya | suvasitenaiva sutirthajena sukalpitam
+    natha grihana dhundhe || || punastathacamya suvasitam ca dattam maya tirthajalam pibasva | prakalpya
+    vighnesha tatah param te sampronchanam hastamukhe karomi || || drakshadirambhaphalacutakani kharjurakarkandhukadadimani
+    | susvadayuktani maya prakalpya grihana dattani phalani dhundhe || || punarjalenaiva karadikam te
+    sankshalayami manasa ganesha | suvasitam toyamatho pibasva maya pradattam manasa paresha || || ashtangayuktam
+    gananatha dattam tambulakam te manasa maya vai | grihana vighneshvara bhavayuktam sada sakrittundavishodhanartham
+    || || tato maya kalpitake ganesha mahasane ratnasuvarnayukte | mandarakarpasakayuktavastrai ranarghyasanchaditake
+    prasida || || tatastvadiyavaranam paresha sampujayami manasa yathavat | nanopacaraih paramapriyaistu
+    tvatpritikamarthamanathabandho || || grihana lambodara dakshinam te hyasankhyabhutam manasa pradattam
+    | sauvarnamudradikamukhyabhavam pahi prabho vishvamidam ganesha || || rajopacaranvividhangrihana hastyashvachatradikamadaradvai
+    | cittena dattan gananatha dhundhe hyaparasankhyan sthirajangamamste || || danaya nanavidharupakamste
+    grihana dattanmanasa maya vai | padarthabhutan sthirajangamamshca heramba mam taraya mohabhavat ||
+    || mandarapushpani shamidalani durvankuramste manasa dadami | heramba lambodara dinapala grihana bhaktam
+    kuru mam pade te || || tato haridramabiram gulalam sindurakam te parikalpayami | suvasitam vastu suvasabhutai
+    rgrihana brahmeshvara shobhanartham || || tatah shukadyah shivavishnumukhya indradayah sheshamukhastathanye
+    | munindrakah sevakabhavayuktah sabhasanastham pranamanti dhundhim || || vamangake shaktiyuta ganesham
+    siddhistu nanavidhasiddhibhistam | atyantabhavena susevate tu mayasvarupa paramarthabhuta || || ganeshvaram
+    dakshinabhagasamstha buddhih kalabhishca subodhikabhih | vidyabhirevam bhajate paresha mayasu sankhyapradacittarupah
+    || || pramodamodadayah prishthabhage ganeshvaram bhavayuta bhajante | bhakteshvara mudgalashambhumukhyah
+    shukadayastam sma puro bhajante || || gandharvamukhya madhuram jagushca ganeshagitam vividhasvarupam
+    | nrityam kalayuktamatho purasta ccakrustatha hyapsaraso vicitram || || ityadinanavidhabhavayuktaih
+    samsevitam vighnapatim bhajami | cittena dhyatva tu niranjanam vai karomi nanavidhadipayuktam || ||
+    caturbhujam pashadharam ganesham tathankusham dantayutam tamevam | trinetrayuktam tvabhayankaram tam
+    mahodaram caikaradam gajasyam || || sarpopavitam gajakarnadharam vibhutibhih sevitapadapadmam | dhyayedganesham
+    vividhaprakaraih supujitam shaktiyutam paresham || || tato japam vai manasa karomi svamulamantrasya
+    vidhanayuktam | asankhyabhutam ganaraja haste samarpayamyeva grihana dhundhe || || arartikam karpurakadibhuta
+    maparadipam prakaromi purnam | cittena lambodara tam grihana hyajnanadhvantaghaharam nijanam || ||
+    vedeshu vighneshvarakaih sumantraih sumantritam pushpadalam prabhutam | grihana cittena maya pradatta
+    maparavrittya tvatha mantrapushpam || || aparavritya stutimekadantam grihana cittena kritam ganesha
+    | yuktam shrutismartabhavaih puranaih sarvaih pareshadhipate maya te || || pradakshina manasakalpitasta
+    grihana lambodara bhavayuktah | sankhyavihina vividhasvarupa bhaktan sada raksha bhavarnavadvai ||
+    || natim tato vighnapate grihana sashtangakadyam vividhasvarupam | sankhyavihinam manasa kritam te
+    siddhya ca buddhya paripalayashu || || nyunatiriktam tu maya kritam ce ttadarthamante manasa grihana
+    | durvankuranvighnapate pradattan sampurnamevam kuru pujanam me || || kshamasva vighnadhipate madiyan
+    sadaparadhan vividhasvarupan | bhaktim madiyam saphalam kurushva samprarthayami manasa ganesha ||
+    || tatah prasannena gajananena dattam prasadam shirasabhivandya | svamastake tam paridharayami cittena
+    vighneshvaramanato'smi || || utthaya vighneshvara eva tasma dgatastatastvantaradhanashaktya | shivadayastam
+    pranipatya sarve gatah sucittena ca cintayami || || sarvannamaskritya tato'hameva bhajami cittena
+    ganadhipam tam | svasthanamagatya mahanubhavai rbhaktairganeshasya ca khelayami || || evam trikaleshu
+    ganadhipam tam cittena nityam paripujayami | tenaiva tushtah pradadatu bhavam vishveshvaro bhaktimayam
+    tu mahyam || || ganeshapadodakapanakam ca hyucchishtagandhasya sulepanam tu | nirmalyasandharanakam
+    subhojyam lambodarasyastu hi bhuktashesham || || yam yam karomyeva tadeva diksha ganeshvarasyastu
+    sada ganesha | prasida nityam tava padabhaktam kurushva mam brahmapate dayalo || || tatastu shayyam
+    parikalpayami mandarakarpasakavastrayuktam | suvasapushpadibhirarcitam te grihana nidram kuru vighnaraja
+    || || siddhya ca buddhya sahitam ganesha sunidritam vikshya tathahameva | gatva svavasam ca karomi
+    nidram dhyatva hridi brahmapatim tadiyah || || etadrisham saukhyamamoghashakte dehi prabho manasajam
+    ganesha | mahyam ca tenaiva kritartharupo bhavami bhaktirasalalaso'ham || || gargya uvaca | evam nityam
+    maharaja gritsamado mahayashah | cakara manasim pujam yogindranam guruh svayam || || ya etam manasim
+    pujam karishyati narottamah | pathishyati sada so'pi ganapatyo bhavishyati || || shravayishyati yo
+    martyah shroshyate bhavasamyutah | sa kramena mahipala brahmabhuto bhavishyati || || yam yamicchati
+    tam tam vai saphalam tasya jayate | ante svanandagah so'pi yogivandyo bhavishyati || || iti shrimadantye
+    maudgalye ganeshamanasapuja sampurnam |
+  devanagari: गृत्समद उवाच । विघ्नेशवीर्याणि विचित्रकाणि बन्दीजनैर्मागधकैः स्मृतानि । श्रुत्वा समुत्तिष्ठ
+    गजानन त्वं ब्राह्मे जगन्मङ्गलकं कुरुष्व ॥ ॥ एवं मया प्रार्थित विघ्नराज श्चित्तेन चोत्थाय बहिर्गणेशः
+    । तं निर्गतं वीक्ष्य नमन्ति देवाः शम्भ्वादयो योगिमुखास्तथाहम् ॥ ॥ शौचादिकं ते परिकल्पयामि हेरम्ब वै
+    दन्तविशुद्धिमेवम् । वस्त्रेण सम्प्रोक्ष्य मुखारविन्दं देवं सभायां विनिवेशयामि ॥ ॥ द्विजादिसर्वैरभिवन्दितं
+    च शुकादिभिर्मोदसुमोदकाद्यैः । सम्भाष्य चालोक्य समुत्थितं तं सुमण्डपं कल्प्य निवेशयामि ॥ ॥ रत्नैः सुदीप्तैः
+    प्रतिबिम्बितं तं पश्यामि चित्तेन विनायकं च । तत्रासनं रत्नसुवर्णयुक्तं सङ्कल्प्य देवं विनिवेशयामि
+    ॥ ॥ सिद्ध्या च बुद्ध्या सह विघ्नराज पाद्यं कुरु प्रेमभरेण सर्वैः । सुवासितं नीरमथो गृहाण चित्तेन दत्तं
+    च सुखोष्णभावम् ॥ ॥ ततः सुवस्त्रेण गणेशमादौ सम्प्रोक्ष्य दूर्वादिभिरर्चयामि । चित्तेन भावप्रिय दीनबन्धो
+    मनो विलीनं कुरु ते पदाब्जे ॥ ॥ कर्पूरकैलादिसुवासितं तु सुकल्पितं तोयमथो गृहाण । आचम्य तेनैव गजानन
+    त्वं कृपाकटाक्षेण विलोकयाशु ॥ ॥ प्रवालमुक्ताफलहाटकाद्यैः सुसंस्कृतं ह्यन्तरभावकेन । अनर्घ्यमर्घ्यं
+    सफलं कुरुष्व मया प्रदत्तं गणराज ढुण्ढे ॥ ॥ सौगन्ध्ययुक्तं मधुपर्कमाद्यं सङ्कल्पितं भावयुतं गृहाण ।
+    पुनस्तथाचम्य विनायक त्वं भक्तांश्च भक्तेश सुरक्षयाशु ॥ ॥ सुवासितं चम्पकजातिकाद्यै स्तैलं मया कल्पितमेव
+    ढुण्ढे । गृहाण तेन प्रविमर्दयामि सर्वाङ्गमेवं तव सेवनाय ॥ ॥ ततः सुखोष्णेन जलेन चाह मनेकतीर्थाहृतकेन
+    ढुण्ढे । चित्तेन शुद्धेन च स्नापयामि स्नानं मया दत्तमथो गृहाण ॥ ॥ ततः पयःस्नानमचिन्त्यभाव गृहाण तोयस्य
+    तथा गणेश । पुनर्दधिस्नानमनामय त्वं चित्तेन दत्तं च जलस्य चैव ॥ ॥ ततो घृतस्नानमपारवन्द्य सुतीर्थजं
+    विघ्नहर प्रसीद । गृहाण चित्तेन सुकल्पितं तु ततो मधुस्नानमथो जलस्य ॥ ॥ सुशर्करायुक्तमथो गृहाण स्नानं
+    मया कल्पितमेव ढुण्ढे । ततो जलस्नानमघापहन्तृ विघ्नेश मायाभ्रमं वारयाशु ॥ ॥ सुयक्षपङ्कस्थमथो गृहाण स्नानं
+    परेशाधिपते ततश्च । कौमण्डलीसम्भवजं कुरुष्व विशुद्धमेवं परिकल्पितं तु ॥ ॥ ततस्तु सूक्तैर्मनसा गणेशं
+    सम्पूज्य दूर्वादिभिरल्पभावैः । अपारकैर्मण्डलभूतब्रह्म णस्पत्यकैस्तं ह्यभिषेचयामि ॥ ॥ ततः सुवस्त्रेण
+    तु प्रोञ्छनं त्वं गृहाण चित्तेन मया सुकल्पितम् । ततो विशुद्धेन जलेन ढुण्ढे ह्याचान्तमेवं कुरु विघ्नराज
+    ॥ ॥ अग्नौ विशुद्धे तु गृहाण वस्त्रे ह्यनर्घ्यमौल्ये मनसा मया ते । दत्ते परिच्छाद्य निजात्मदेहं ताभ्यां
+    मयूरेश जनांश्च पालय ॥ ॥ आचम्य विघ्नेश पुनस्तथैव चित्तेन दत्तं मुखमुत्तरीयम् । गृहाण भक्तप्रतिपालक
+    त्वं नमो यथा तारकसंयुतं तु ॥ ॥ यज्ञोपवीतं त्रिगुणस्वरूपं सौवर्णमेवं ह्यहिनाथभूतम् । भावेन दत्तं गणनाथ
+    तत्त्वं गृहाण भक्तोद्धृतिकारणाय ॥ ॥ आचान्तमेवं मनसा प्रदत्तं कुरुष्व शुद्धेन जलेन ढुण्ढे । पुनश्च
+    कौमण्डलकेन पाहि विश्वं प्रभो खेलकरं सदा ते ॥ ॥ उद्यद्दिनेशाभमथो गृहाण सिन्दूरकं ते मनसा प्रदत्तम्
+    । सर्वाङ्गसंलेपनमादराद्वै कुरुष्व हेरम्ब च तेन पूर्णम् ॥ ॥ सहस्रशीर्षं मनसा मया त्वं दत्तं किरीटं
+    तु सुवर्णजं वै । अनेकरत्नैः खचितं गृहाण ब्रह्मेश ते मस्तकशोभनाय ॥ ॥ विचित्ररत्नैः कनकेन ढुण्ढे युतानि
+    चित्तेन मया परेश । दत्तानि नानापदकुण्डलानि गृहाण शूर्पश्रुतिभूषणाय ॥ ॥ शुण्डाविभूषार्थमनन्तखेलिन्
+    सुवर्णजं कञ्चुकमागृहाण । रत्नैश्च युक्तं मनसा मया य द्दत्तं प्रभो तत्सफलं कुरुष्व ॥ ॥ सुवर्णरत्नैश्च
+    युतानि ढुण्ढे सदैकदन्ताभरणानि कल्प्य । गृहाण चूडाकृतये परेश दत्तानि दन्तस्य च शोभनार्थम् ॥ ॥ रत्नैः
+    सुवर्णेन कृतानि तानि गृहाण चत्वारि मया प्रकल्प्य । सम्भूषय त्वं कटकानि नाथ चतुर्भुजेषु ह्यज विघ्नहारिन्
+    ॥ ॥ विचित्ररत्नैः खचितं सुवर्ण सम्भूतकं गृह्य मया प्रदत्तम् । तथाङ्गुलीष्वङ्गुलिकं गणेश चित्तेन संशोभय
+    तत्परेश ॥ ॥ विचित्ररत्नैः खचितानि ढुण्ढे केयूरकाणि ह्यथ कल्पितानि । सुवर्णजानि प्रमथाधिनाथ गृहाण दत्तानि
+    तु बाहुषु त्वम् ॥ ॥ प्रवालमुक्ताफलरत्नजैस्त्वं सुवर्णसूत्रैश्च गृहाण कण्ठे । चित्तेन दत्ता विविधाश्च
+    माला उरोदरे शोभय विघ्नराज ॥ ॥ चन्द्रं ललाटे गणनाथ पूर्णं वृद्धिक्षयाभ्यां तु विहीनमाद्यम् । संशोभय
+    त्वं वरसंयुतं ते भक्तिप्रियत्वं प्रकटीकुरुष्व ॥ ॥ चिन्तामणिं चिन्तितदं परेश हृद्देशगं ज्योतिर्मयं
+    कुरुष्व । मणिं सदानन्दसुखप्रदं च विघ्नेश दीनार्थद पालयस्व ॥ ॥ नाभौ फणीशं च सहस्रशीर्षं संवेष्टनेनैव
+    गणाधिनाथ । भक्तं सुभूषं कुरु भूषणेन वरप्रदानं सफलं परेश ॥ ॥ कटीतटे रत्नसुवर्णयुक्तां काञ्चीं सुचित्तेन
+    च धारयामि । विघ्नेश ज्योतिर्गणदीपनीं ते प्रसीद भक्तं कुरु मां दयाब्धे ॥ ॥ हेरम्ब ते रत्नसुवर्णयुक्ते
+    सुनूपुरे मञ्जिरके तथैव । सुकिङ्किणीनादयुते सुबुद्ध्या सुपादयोः शोभय मे प्रदत्ते ॥ ॥ इत्यादि नानाविधभूषणानि
+    तवेच्छया मानसकल्पितानि । सम्भूषयाम्येव त्वदङ्गकेषु विचित्रधातुप्रभवानि ढुण्ढे ॥ ॥ सुचन्दनं रक्तममोघवीर्यं
+    सुघर्षितं ह्यष्टकगन्धमुख्यैः । युक्तं मया कल्पितमेकदन्त गृहाण ते त्वङ्गविलेपनार्थम् ॥ ॥ लिप्तेषु वैचित्र्यमथाष्टगन्धै
+    रङ्गेषु तेऽहं प्रकरोमि चित्रम् । प्रसीद चित्तेन विनायक त्वं ततः सुरक्तं रविमेव फाले ॥ ॥ घृतेन वै कुङ्कुमकेन
+    रक्तान् सुतण्डुलांस्ते परिकल्पयामि । फाले गणाध्यक्ष गृहाण पाहि भक्तान् सुभक्तिप्रिय दीनबन्धो ॥ ॥ गृहाण
+    भो चम्पकमालतीनि जलपङ्कजानि स्थलपङ्कजानि । चित्तेन दत्तानि च मल्लिकानि पुष्पाणि नानाविधवृक्षजानि ॥
+    ॥ पुष्पोपरि त्वं मनसा गृहाण हेरम्ब मन्दारशमीदलानि । मया सुचित्तेन प्रकल्पितानि ह्यपारकाणि प्रणवाकृते
+    तु ॥ ॥ दूर्वाङ्कुरान्वै मनसा प्रदत्तां स्त्रिपञ्चपत्रैर्युतकांश्च स्निग्धान् । गृहाण विघ्नेश्वर सङ्ख्यया
+    त्वं हीनांश्च सर्वोपरि वक्रतुण्ड ॥ ॥ दशाङ्गभूतं मनसा मया ते धूपं प्रदत्तं गणराज ढुण्ढे । गृहाण सौरभ्यकरं
+    परेश सिद्ध्या च बुद्ध्या सह भक्तपाल ॥ ॥ दीपं सुवर्त्या युतमादरात्ते दत्तं मया मानसकं गणेश । गृहाण
+    नानाविधजं घृतादि तैलादिसम्भूतममोघदृष्टे ॥ ॥ भोज्यं च लेह्यं गणराज पेयं चोष्यं च नानाविधषड्रसाढ्यम्
+    । गृहाण नैवेद्यमथो मया ते सुकल्पितं पुष्टिपते महात्मन् ॥ ॥ सुवासितं भोजनमध्यभागे जलं मया दत्तमथो गृहाण
+    । कमण्डलुस्थं मनसा गणेश पिबस्व विश्वादिकतृप्तिकारिन् ॥ ॥ ततः करोद्वर्तनकं गृहाण सौगन्ध्ययुक्तं मुखमार्जनाय
+    । सुवासितेनैव सुतीर्थजेन सुकल्पितं नाथ गृहाण ढुण्ढे ॥ ॥ पुनस्तथाचम्य सुवासितं च दत्तं मया तीर्थजलं
+    पिबस्व । प्रकल्प्य विघ्नेश ततः परं ते सम्प्रोञ्छनं हस्तमुखे करोमि ॥ ॥ द्राक्षादिरम्भाफलचूतकानि खार्जूरकार्कन्धुकदाडिमानि
+    । सुस्वादयुक्तानि मया प्रकल्प्य गृहाण दत्तानि फलानि ढुण्ढे ॥ ॥ पुनर्जलेनैव करादिकं ते सङ्क्षालयामि
+    मनसा गणेश । सुवासितं तोयमथो पिबस्व मया प्रदत्तं मनसा परेश ॥ ॥ अष्टाङ्गयुक्तं गणनाथ दत्तं ताम्बूलकं
+    ते मनसा मया वै । गृहाण विघ्नेश्वर भावयुक्तं सदा सकृत्तुण्डविशोधनार्थम् ॥ ॥ ततो मया कल्पितके गणेश महासने
+    रत्नसुवर्णयुक्ते । मन्दारकार्पासकयुक्तवस्त्रै रनर्घ्यसञ्छादितके प्रसीद ॥ ॥ ततस्त्वदीयावरणं परेश सम्पूजयामि
+    मनसा यथावत् । नानोपचारैः परमप्रियैस्तु त्वत्प्रीतिकामार्थमनाथबन्धो ॥ ॥ गृहाण लम्बोदर दक्षिणां ते ह्यसङ्ख्यभूतां
+    मनसा प्रदत्ताम् । सौवर्णमुद्रादिकमुख्यभावां पाहि प्रभो विश्वमिदं गणेश ॥ ॥ राजोपचारान्विविधान्गृहाण
+    हस्त्यश्वछत्रादिकमादराद्वै । चित्तेन दत्तान् गणनाथ ढुण्ढे ह्यपारसङ्ख्यान् स्थिरजङ्गमांस्ते ॥ ॥ दानाय
+    नानाविधरूपकांस्ते गृहाण दत्तान्मनसा मया वै । पदार्थभूतान् स्थिरजङ्गमांश्च हेरम्ब मां तारय मोहभावात्
+    ॥ ॥ मन्दारपुष्पाणि शमीदलानि दूर्वाङ्कुरांस्ते मनसा ददामि । हेरम्ब लम्बोदर दीनपाल गृहाण भक्तं कुरु
+    मां पदे ते ॥ ॥ ततो हरिद्रामबिरं गुलालं सिन्दूरकं ते परिकल्पयामि । सुवासितं वस्तु सुवासभूतै र्गृहाण
+    ब्रह्मेश्वर शोभनार्थम् ॥ ॥ ततः शुकाद्याः शिवविष्णुमुख्या इन्द्रादयः शेषमुखास्तथान्ये । मुनीन्द्रकाः
+    सेवकभावयुक्ताः सभासनस्थं प्रणमन्ति ढुण्ढिम् ॥ ॥ वामाङ्गके शक्तियुता गणेशं सिद्धिस्तु नानाविधसिद्धिभिस्तम्
+    । अत्यन्तभावेन सुसेवते तु मायास्वरूपा परमार्थभूता ॥ ॥ गणेश्वरं दक्षिणभागसंस्था बुद्धिः कलाभिश्च सुबोधिकाभिः
+    । विद्याभिरेवं भजते परेश मायासु साङ्ख्यप्रदचित्तरूपाः ॥ ॥ प्रमोदमोदादयः पृष्ठभागे गणेश्वरं भावयुता
+    भजन्ते । भक्तेश्वरा मुद्गलशम्भुमुख्याः शुकादयस्तं स्म पुरो भजन्ते ॥ ॥ गन्धर्वमुख्या मधुरं जगुश्च गणेशगीतं
+    विविधस्वरूपम् । नृत्यं कलायुक्तमथो पुरस्ता च्चक्रुस्तथा ह्यप्सरसो विचित्रम् ॥ ॥ इत्यादिनानाविधभावयुक्तैः
+    संसेवितं विघ्नपतिं भजामि । चित्तेन ध्यात्वा तु निरञ्जनं वै करोमि नानाविधदीपयुक्तम् ॥ ॥ चतुर्भुजं पाशधरं
+    गणेशं तथाङ्कुशं दन्तयुतं तमेवम् । त्रिनेत्रयुक्तं त्वभयङ्करं तं महोदरं चैकरदं गजास्यम् ॥ ॥ सर्पोपवीतं
+    गजकर्णधारं विभूतिभिः सेवितपादपद्मम् । ध्यायेद्गणेशं विविधप्रकारैः सुपूजितं शक्तियुतं परेशम् ॥ ॥ ततो
+    जपं वै मनसा करोमि स्वमूलमन्त्रस्य विधानयुक्तम् । असङ्ख्यभूतं गणराज हस्ते समर्पयाम्येव गृहाण ढुण्ढे
+    ॥ ॥ आरार्तिकां कर्पूरकादिभूता मपारदीपां प्रकरोमि पूर्णाम् । चित्तेन लम्बोदर तां गृहाण ह्यज्ञानध्वान्ताघहरां
+    निजानाम् ॥ ॥ वेदेषु विघ्नेश्वरकैः सुमन्त्रैः सुमन्त्रितं पुष्पदलं प्रभूतम् । गृहाण चित्तेन मया प्रदत्त
+    मपारवृत्त्या त्वथ मन्त्रपुष्पम् ॥ ॥ अपारवृत्या स्तुतिमेकदन्तं गृहाण चित्तेन कृतां गणेश । युक्तां श्रुतिस्मार्तभवैः
+    पुराणैः सर्वैः परेशाधिपते मया ते ॥ ॥ प्रदक्षिणा मानसकल्पितास्ता गृहाण लम्बोदर भावयुक्ताः । सङ्ख्याविहीना
+    विविधस्वरूपा भक्तान् सदा रक्ष भवार्णवाद्वै ॥ ॥ नतिं ततो विघ्नपते गृहाण साष्टाङ्गकाद्यां विविधस्वरूपाम्
+    । सङ्ख्याविहीनां मनसा कृतां ते सिद्ध्या च बुद्ध्या परिपालयाशु ॥ ॥ न्यूनातिरिक्तं तु मया कृतं चे त्तदर्थमन्ते
+    मनसा गृहाण । दूर्वाङ्कुरान्विघ्नपते प्रदत्तान् सम्पूर्णमेवं कुरु पूजनं मे ॥ ॥ क्षमस्व विघ्नाधिपते
+    मदीयान् सदापराधान् विविधस्वरूपान् । भक्तिं मदीयां सफलां कुरुष्व सम्प्रार्थयामि मनसा गणेश ॥ ॥ ततः प्रसन्नेन
+    गजाननेन दत्तं प्रसादं शिरसाभिवन्द्य । स्वमस्तके तं परिधारयामि चित्तेन विघ्नेश्वरमानतोऽस्मि ॥ ॥ उत्थाय
+    विघ्नेश्वर एव तस्मा द्गतस्ततस्त्वन्तरधानशक्त्या । शिवादयस्तं प्रणिपत्य सर्वे गताः सुचित्तेन च चिन्तयामि
+    ॥ ॥ सर्वान्नमस्कृत्य ततोऽहमेव भजामि चित्तेन गणाधिपं तम् । स्वस्थानमागत्य महानुभावै र्भक्तैर्गणेशस्य
+    च खेलयामि ॥ ॥ एवं त्रिकालेषु गणाधिपं तं चित्तेन नित्यं परिपूजयामि । तेनैव तुष्टः प्रददातु भावं विश्वेश्वरो
+    भक्तिमयं तु मह्यम् ॥ ॥ गणेशपादोदकपानकं च ह्युच्छिष्टगन्धस्य सुलेपनं तु । निर्माल्यसन्धारणकं सुभोज्यं
+    लम्बोदरस्यास्तु हि भुक्तशेषम् ॥ ॥ यं यं करोम्येव तदेव दीक्षा गणेश्वरस्यास्तु सदा गणेश । प्रसीद नित्यं
+    तव पादभक्तं कुरुष्व मां ब्रह्मपते दयालो ॥ ॥ ततस्तु शय्यां परिकल्पयामि मन्दारकार्पासकवस्त्रयुक्ताम्
+    । सुवासपुष्पादिभिरर्चितां ते गृहाण निद्रां कुरु विघ्नराज ॥ ॥ सिद्ध्या च बुद्ध्या सहितं गणेश सुनिद्रितं
+    वीक्ष्य तथाहमेव । गत्वा स्ववासं च करोमि निद्रां ध्यात्वा हृदि ब्रह्मपतिं तदीयः ॥ ॥ एतादृशं सौख्यममोघशक्ते
+    देहि प्रभो मानसजं गणेश । मह्यं च तेनैव कृतार्थरूपो भवामि भक्तिरसलालसोऽहम् ॥ ॥ गार्ग्य उवाच । एवं नित्यं
+    महाराज गृत्समदो महायशाः । चकार मानसीं पूजां योगीन्द्राणां गुरुः स्वयम् ॥ ॥ य एतां मानसीं पूजां करिष्यति
+    नरोत्तमः । पठिष्यति सदा सोऽपि गाणपत्यो भविष्यति ॥ ॥ श्रावयिष्यति यो मर्त्यः श्रोष्यते भावसंयुतः ।
+    स क्रमेण महीपाल ब्रह्मभूतो भविष्यति ॥ ॥ यं यमिच्छति तं तं वै सफलं तस्य जायते । अन्ते स्वानन्दगः सोऽपि
+    योगिवन्द्यो भविष्यति ॥ ॥ इति श्रीमदान्त्ये मौद्गल्ये गणेशमानसपूजा सम्पूर्णम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_ganesha/gaNeshamAnasapUjA2.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Ganesha Manasa Puja
   license: public_domain
-tags:
-- pUjA
-- ganesha
+tags: []
 priority: true
+aliases:
+- ganesha
+- manasapuja

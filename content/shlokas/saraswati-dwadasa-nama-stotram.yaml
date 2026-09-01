@@ -2,27 +2,24 @@ id: saraswati-dwadasa-nama-stotram
 category: stotram
 name:
   english: Saraswati Dwadasa Nama Stotram
-  devanagari: सरस्वतीद्वादशनामस्तोत्रम्
 content:
-  english: sarasvatimaham vande vinapustakadharinim | hamsavahasamayuktam vidyadanakarim mama || 1|| prathamam
-    bharati nama dvitiyam ca sarasvati | tritiyam sharada devi caturtham hamsavahini || 2|| pashcamam
-    jagati khyata shashtham vanishvari tatha | kaumari saptamam prokta ashtamam brahmacarini || 3|| navamam
-    buddhidatri ca dashamam varadayini | ekadasham kshudraghanta dvadasham bhuvaneshvari || 4|| brahmi
-    dvadashanamani trisandhyam yah pathennarah | sarvasiddhikari tasya prasanna parameshvari | sa me vasatu
-    jihvagre brahmarupa sarasvati || 5|| iti sarasvatidvadashanamastotram sampurnam |
-  devanagari: सरस्वतीमहं वन्दे वीणापुस्तकधारिणीम् । हंसवाहसमायुक्तां विद्यादानकरीं मम ॥ १॥ प्रथमं भारती
-    नाम द्वितीयं च सरस्वती । तृतीयं शारदा देवी चतुर्थं हंसवाहिनी ॥ २॥ पश्चमं जगति ख्याता षष्ठं वाणीश्वरी
-    तथा । कौमारी सप्तमं प्रोक्ता अष्टमं ब्रह्मचारिणी ॥ ३॥ नवमं बुद्धिदात्री च दशमं वरदायिनी । एकादशं क्षुद्रघण्टा
-    द्वादशं भुवनेश्वरी ॥ ४॥ ब्राह्मी द्वादशनामानि त्रिसन्ध्यं यः पठेन्नरः । सर्वसिद्धिकरी तस्य प्रसन्ना
-    परमेश्वरी । सा मे वसतु जिह्वाग्रे ब्रह्मरूपा सरस्वती ॥ ५॥ इति सरस्वतीद्वादशनामस्तोत्रं सम्पूर्णम्
-    ।
+  english: sarasvati tvayam drishtya vinapustakadharini | hamsavaha samayukta vidyadanakari mama || ||
+    prathamam bharati nama dvitiyam ca sarasvati | tritiyam sharadadevi caturtham hamsavahana || || pancamam
+    jagatikhyatam shashtham vagishvari tatha | kaumari saptamam proktamashtamam brahmacarini || || navamam
+    buddhidhatri ca dashamam varadayini | ekadasham kshudraghanta dvadasham bhuvaneshvari || || brahmi
+    dvadasha namani trisandhyam yah pathennarah | sarvasiddhikari tasya prasanna parameshvari | sa me
+    vasatu jihvagre brahmarupa sarasvati ||
+  devanagari: सरस्वती त्वयं दृष्ट्या वीणापुस्तकधारिणी । हंसवाह समायुक्ता विद्यादानकरी मम ॥ ॥ प्रथमं भारती
+    नामा द्वितीयं च सरस्वती । तृतीयं शारदादेवी चतुर्थं हंसवाहना ॥ ॥ पञ्चमं जगतीख्यातं षष्ठं वागीश्वरी
+    तथा । कौमारी सप्तमं प्रोक्तमष्टमं ब्रह्मचारिणी ॥ ॥ नवमं बुद्धिधात्री च दशमं वरदायिनी । एकादशं क्षुद्रघण्टा
+    द्वादशं भुवनेश्वरी ॥ ॥ ब्राह्मी द्वादश नामानि त्रिसन्ध्यं यः पठेन्नरः । सर्वसिद्धिकरी तस्य प्रसन्ना
+    परमेश्वरी । सा मे वसतु जिह्वाग्रे ब्रह्मरूपा सरस्वती ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_devii/sarasvatIdvAdashanAmastotram.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Saraswati Dwadasa Nama Stotram
   license: public_domain
-tags:
-- devii
-- sarasvatI
-- dvAdasha
-- devI
+tags: []
 priority: true
+aliases:
+- saraswati
+- namastotram

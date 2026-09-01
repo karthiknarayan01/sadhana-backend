@@ -2,34 +2,33 @@ id: abhirami-stotram
 category: stotram
 name:
   english: Abhirami Stotram
-  devanagari: अभिरामिस्तोत्रम्
 content:
-  english: namaste lalite devi shrimatsimhasaneshvari | bhaktanamishtade matah abhirami namo'stute ||
-    1|| candrodayam kritavati tatankena maheshvari | ayurdehi jaganmatah abhirami namo'stute || 2|| sudhaghateshashrikante
-    sharanagatavatsale | arogyam dehi me nityamabhirami namo'stute || 3|| kalyani mangalam dehi jaganmangalakarini
-    | aishvaryam dehi me nityamabhirami namo'stute || 4|| candramandalamadhyasthe mahatripurasundari |
-    shricakrarajanilaye abhirami namo'stute || 5|| rajivalocane purne purnacandravidhayini | saubhagyam
-    dehi me nityamabhirami namo'stute || 6|| ganeshaskandajanani vedarupe dhaneshvari | vidyam ca dehi
-    me kirtimabhirami namo'stute || 7|| suvasinipriye matah saumangalyavivardhini | mangalyam dehi me
-    nityamabhirami namo'stute || 8|| markandeya mahabhakta subrahmanya supujite | shrirajarajeshvari tvam
-    hyabhirami namo'stute || 9|| sannidhyam kuru kalyani mama pujagrihe shubhe | bimbe dipe tatha pushpe
-    haridrakunkume mama || 10|| abhiramya idam stotram yah pathecchaktisannidhau | ayurbalam yasho varco
-    mangalam ca bhavetsukham || 11|| iti abhiramistotram sampurnam |
-  devanagari: नमस्ते ललिते देवि श्रीमत्सिंहासनेश्वरि । भक्तानामिष्टदे मातः अभिरामि नमोऽस्तुते ॥ १॥ चन्द्रोदयं
-    कृतवती ताटङ्केन महेश्वरि । आयुर्देहि जगन्मातः अभिरामि नमोऽस्तुते ॥ २॥ सुधाघटेशश्रीकान्ते शरणागतवत्सले
-    । आरोग्यं देहि मे नित्यमभिरामि नमोऽस्तुते ॥ ३॥ कल्याणि मङ्गलं देहि जगन्मङ्गलकारिणि । ऐश्वर्यं देहि
-    मे नित्यमभिरामि नमोऽस्तुते ॥ ४॥ चन्द्रमण्डलमध्यस्थे महात्रिपुरसुन्दरि । श्रीचक्रराजनिलये अभिरामि नमोऽस्तुते
-    ॥ ५॥ राजीवलोचने पूर्णे पूर्णचन्द्रविधायिनि । सौभाग्यं देहि मे नित्यमभिरामि नमोऽस्तुते ॥ ६॥ गणेशस्कन्दजननि
-    वेदरूपे धनेश्वरि । विद्यां च देहि मे कीर्तिमभिरामि नमोऽस्तुते ॥ ७॥ सुवासिनीप्रिये मातः सौमाङ्गल्यविवर्धिनी
-    । माङ्गल्यं देहि मे नित्यमभिरामि नमोऽस्तुते ॥ ८॥ मार्कण्डेय महाभक्त सुब्रह्मण्य सुपूजिते । श्रीराजराजेश्वरी
-    त्वं ह्यभिरामि नमोऽस्तुते ॥ ९॥ सान्निध्यं कुरु कल्याणी मम पूजागृहे शुभे । बिम्बे दीपे तथा पुष्पे हरिद्राकुङ्कुमे
-    मम ॥ १०॥ अभिराम्या इदं स्तोत्रं यः पठेच्छक्तिसन्निधौ । आयुर्बलं यशो वर्चो मङ्गलं च भवेत्सुखम् ॥ ११॥
-    इति अभिरामिस्तोत्रं सम्पूर्णम् ।
+  english: namaste lalite devi shrimatsimhasaneshvari | bhaktanamishtade matah abhirami namo'stu te ||
+    || candrodayam kritavati tatankena maheshvari | ayurdehi jaganmatah abhirami namo'stu te || || sudhaghateshashrikante
+    sharanagatavatsale | arogyam dehi me nityam abhirami namo'stu te || || kalyani mangalam dehi jaganmangalakarini
+    | aishvaryam dehi me nityam abhirami namo'stu te || || candramandalamadhyasthe mahatripurasundari
+    | shricakrarajanilaye abhirami namo'stu te || || rajivalocane purne purnacandravidhayini | saubhagyam
+    dehi me nityam abhirami namo'stu te || || ganeshaskandajanani vedarupe dhaneshvari | vidyam ca dehi
+    me kirtim abhirami namo'stu te || || suvasinipriye matah saumangalyavivardhini | mangalyam dehi me
+    nityam abhirami namo'stu te || || markandeya mahabhakta subrahmanya supujite | shrirajarajeshvari
+    tvam hyabhirami namo'stu te || || sannidhyam kuru kalyani mama pujagrihe shubhe | bimbe dipe tatha
+    pushpe haridra kunkume mama || || abhiramya idam stotram yah pathecchaktisannidhau | ayurbalam yasho
+    varco mangalam ca bhavetsukham || || iti shriabhiramibhattar krita shri abhirami stotram |
+  devanagari: नमस्ते ललिते देवि श्रीमत्सिंहासनेश्वरि । भक्तानामिष्टदे मातः अभिरामि नमोऽस्तु ते ॥ ॥ चन्द्रोदयं
+    कृतवती ताटङ्केन महेश्वरि । आयुर्देहि जगन्मातः अभिरामि नमोऽस्तु ते ॥ ॥ सुधाघटेशश्रीकान्ते शरणागतवत्सले
+    । आरोग्यं देहि मे नित्यं अभिरामि नमोऽस्तु ते ॥ ॥ कल्याणि मङ्गलं देहि जगन्मङ्गलकारिणि । ऐश्वर्यं देहि
+    मे नित्यं अभिरामि नमोऽस्तु ते ॥ ॥ चन्द्रमण्डलमध्यस्थे महात्रिपुरसुन्दरि । श्रीचक्रराजनिलये अभिरामि
+    नमोऽस्तु ते ॥ ॥ राजीवलोचने पूर्णे पूर्णचन्द्रविधायिनि । सौभाग्यं देहि मे नित्यं अभिरामि नमोऽस्तु ते
+    ॥ ॥ गणेशस्कन्दजननि वेदरूपे धनेश्वरि । विद्यां च देहि मे कीर्तिं अभिरामि नमोऽस्तु ते ॥ ॥ सुवासिनीप्रिये
+    मातः सौमाङ्गल्यविवर्धिनी । माङ्गल्यं देहि मे नित्यं अभिरामि नमोऽस्तु ते ॥ ॥ मार्कण्डेय महाभक्त सुब्रह्मण्य
+    सुपूजिते । श्रीराजराजेश्वरी त्वं ह्यभिरामि नमोऽस्तु ते ॥ ॥ सान्निध्यं कुरु कल्याणी मम पूजागृहे शुभे
+    । बिम्बे दीपे तथा पुष्पे हरिद्रा कुङ्कुमे मम ॥ ॥ अभिराम्या इदं स्तोत्रं यः पठेच्छक्तिसन्निधौ । आयुर्बलं
+    यशो वर्चो मङ्गलं च भवेत्सुखम् ॥ ॥ इति श्रीअभिरामिभट्टार् कृत श्री अभिरामि स्तोत्रम् ।
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_devii/abhirAmistotram.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Abhirami Stotram
   license: public_domain
-tags:
-- devii
-- devI
+tags: []
 priority: true
+aliases:
+- stotram

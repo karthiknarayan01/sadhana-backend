@@ -2,49 +2,44 @@ id: ganga-stotram
 category: stotram
 name:
   english: Ganga Stotram
-  devanagari: गङ्गास्तोत्रम् ०१ (शङ्कराचार्यरचितं देवि सुरेश्वरि भगवति)
 content:
-  english: devi sureshvari bhagavati gange tribhuvanatarini taralatarange | shankaramauliviharini vimale
-    mama matirastam tava padakamale || 1|| bhagirathi sukhadayini matastava jalamahima nigame khyatah
-    | na'ham jane tava mahimanam pahi kripamayi mamajnanam || 2|| haripadapadyatarangini gange himavidhumuktadhavalatarange
-    | durikuru mama dushkritibharam kuru kripaya bhavasagaraparam || 3|| tava jalamamalam yena nipitam
-    paramapadam khalu tena grihitam | matargange tvayi yo bhaktah kila tam drashtum na yamah shaktah ||
-    4|| patitoddharini jahnavi gange khanditagirivaramanditabhange | bhishmajanani he munivarakanye patitanivarini
-    tribhuvanadhanye || 5|| kalpalatamiva phaladam loke pranamati yastvam na patati shoke | paravaraviharini
-    gange vimukhayuvatikritataralapange || 6|| tava cenmatah srotah snatah punarapi jathare so'pi na jatah
-    | narakanivarini jahnavi gange kalushavinashini mahimottunge || 7|| punarasadange punyatarange jaya
-    jaya jahnavi karunapange | indramukutamanirajitacarane sukhade shubhade bhrityasharanye || 8|| rogam
-    shokam tapam papam hara me bhagavati kumatikalapam | tribhuvanasare vasudhahare tvamasi gatirmama
-    khalu samsare || 9|| gatirmaya alakanande paramanande kuru karunamayi kataravandye | tava tatanikate
-    yasya nivasah khalu vaikunthe tasya nivasah || 10|| varamiha nire kamatho minah kim va tire sharatah
-    kshinah | athava shvapaco malino dinastava na hi dure nripatikulinah || 11|| bho bhuvaneshvari punye
-    dhanye devi dravamayi munivarakanye | gangastavamimamamalam nityam pathati naro yah sa jayati satyam
-    || 12|| yesham hridaye gangabhaktistesham bhavati sada sukhamuktih | madhurakantapanjhatikabhih paramanandakalitalalitabhih
-    || 13|| gangastotramidam bhavasaram vanchitaphaladam vimalam saram | shankarasevakashankararacitam
-    pathati sukhistava iti ca samaptah || 14|| || iti shrimacchankaracaryaviracitam gangastotram sampurnam
-    ||
-  devanagari: देवि सुरेश्वरि भगवति गङ्गे त्रिभुवनतारिणि तरलतरङ्गे । शङ्करमौलिविहारिणि विमले मम मतिरास्तां
-    तव पदकमले ॥ १॥ भागीरथि सुखदायिनि मातस्तव जलमहिमा निगमे ख्यातः । नाऽहं जाने तव महिमानं पाहि कृपामयि
-    मामज्ञानम् ॥ २॥ हरिपदपाद्यतरङ्गिणि गङ्गे हिमविधुमुक्ताधवलतरङ्गे । दूरीकुरु मम दुष्कृतिभारं कुरु कृपया
-    भवसागरपारम् ॥ ३॥ तव जलममलं येन निपीतं परमपदं खलु तेन गृहीतम् । मातर्गङ्गे त्वयि यो भक्तः किल तं द्रष्टुं
-    न यमः शक्तः ॥ ४॥ पतितोद्धारिणि जाह्नवि गङ्गे खण्डितगिरिवरमण्डितभङ्गे । भीष्मजननि हे मुनिवरकन्ये पतितनिवारिणि
-    त्रिभुवनधन्ये ॥ ५॥ कल्पलतामिव फलदाम् लोके प्रणमति यस्त्वां न पतति शोके । पारावारविहारिणि गङ्गे विमुखयुवतिकृततरलापाङ्गे
-    ॥ ६॥ तव चेन्मातः स्रोतः स्नातः पुनरपि जठरे सोऽपि न जातः । नरकनिवारिणि जाह्नवि गङ्गे कलुषविनाशिनि महिमोत्तुङ्गे
-    ॥ ७॥ पुनरसदङ्गे पुण्यतरङ्गे जय जय जाह्नवि करुणापाङ्गे । इन्द्रमुकुटमणिराजितचरणे सुखदे शुभदे भृत्यशरण्ये
-    ॥ ८॥ रोगं शोकं तापं पापं हर मे भगवति कुमतिकलापम् । त्रिभुवनसारे वसुधाहारे त्वमसि गतिर्मम खलु संसारे
-    ॥ ९॥ गतिर्मय अलकानन्दे परमानन्दे कुरु करुणामयि कातरवन्द्ये । तव तटनिकटे यस्य निवासः खलु वैकुण्ठे तस्य
-    निवासः ॥ १०॥ वरमिह नीरे कमठो मीनः किं वा तीरे शरटः क्षीणः । अथवा श्वपचो मलिनो दीनस्तव न हि दूरे नृपतिकुलीनः
-    ॥ ११॥ भो भुवनेश्वरि पुण्ये धन्ये देवि द्रवमयि मुनिवरकन्ये । गङ्गास्तवमिमममलं नित्यं पठति नरो यः स
-    जयति सत्यम् ॥ १२॥ येषां हृदये गङ्गाभक्तिस्तेषां भवति सदा सुखमुक्तिः । मधुराकान्तापञ्झटिकाभिः परमानन्दकलितललिताभिः
-    ॥ १३॥ गङ्गास्तोत्रमिदं भवसारं वाञ्छितफलदम् विमलं सारम् । शङ्करसेवकशङ्कररचितं पठति सुखीस्तव इति च समाप्तः
-    ॥ १४॥ ॥ इति श्रीमच्छङ्कराचार्यविरचितं गङ्गास्तोत्रं सम्पूर्णम् ॥
+  english: gange tribhuvanatarini taralatarange | shankaramauliviharini vimale mama matirastam tava padakamale
+    || || bhagirathisukhadayini matastava jalamahima nigame khyatah | naham jane tava mahimanam pahi kripamayi
+    mamajnanam || || haripadapadyatarangini gange himavidhumuktadhavalatarange | durikuru mama dushkritibharam
+    kuru kripaya bhavasagaraparam || || tava jalamamalam yena nipitam paramapadam khalu tena grihitam
+    | matargange tvayi yo bhaktah kila tam drashtum na yamah shaktah || || patitoddharini jahnavi gange
+    khandita girivaramandita bhange | bhishmajanani he munivarakanye patitanivarini tribhuvana dhanye
+    || || kalpalatamiva phaladam loke pranamati yastvam na patati shoke | paravaraviharini gange vimukhayuvati
+    kritataralapange || || tava cenmatah srotah snatah punarapi jathare sopi na jatah | narakanivarini
+    jahnavi gange kalushavinashini mahimottunge || || punarasadange punyatarange jaya jaya jahnavi karunapange
+    | indramukutamanirajitacarane sukhade shubhade bhrityasharanye || || rogam shokam tapam papam hara
+    me bhagavati kumatikalapam | tribhuvanasare vasudhahare tvamasi gatirmama khalu samsare || || alakanande
+    paramanande kuru karunamayi kataravandye | tava tatanikate yasya nivasah khalu vaikunthe tasya nivasah
+    || || varamiha nire kamatho minah kim va tire sharatah kshinah | athavashvapaco malino dinastava na
+    hi dure nripatikulinah || || bho bhuvaneshvari punye dhanye devi dravamayi munivarakanye | gangastavamimamamalam
+    nityam pathati naro yah sa jayati satyam || || yesham hridaye ganga bhaktistesham bhavati sada sukhamuktih
+    | madhurakanta panjhatikabhih paramanandakalitalalitabhih || || gangastotramidam bhavasaram vanchitaphaladam
+    vimalam saram | shankarasevaka shankara racitam pathati sukhih tava iti ca samaptah ||
+  devanagari: गङ्गे त्रिभुवनतारिणि तरलतरङ्गे । शङ्करमौलिविहारिणि विमले मम मतिरास्तां तव पदकमले ॥ ॥ भागीरथिसुखदायिनि
+    मातस्तव जलमहिमा निगमे ख्यातः । नाहं जाने तव महिमानं पाहि कृपामयि मामज्ञानम् ॥ ॥ हरिपदपाद्यतरङ्गिणि
+    गङ्गे हिमविधुमुक्ताधवलतरङ्गे । दूरीकुरु मम दुष्कृतिभारं कुरु कृपया भवसागरपारम् ॥ ॥ तव जलममलं येन निपीतं
+    परमपदं खलु तेन गृहीतम् । मातर्गङ्गे त्वयि यो भक्तः किल तं द्रष्टुं न यमः शक्तः ॥ ॥ पतितोद्धारिणि जाह्नवि
+    गङ्गे खण्डित गिरिवरमण्डित भङ्गे । भीष्मजननि हे मुनिवरकन्ये पतितनिवारिणि त्रिभुवन धन्ये ॥ ॥ कल्पलतामिव
+    फलदां लोके प्रणमति यस्त्वां न पतति शोके । पारावारविहारिणि गङ्गे विमुखयुवति कृततरलापाङ्गे ॥ ॥ तव चेन्मातः
+    स्रोतः स्नातः पुनरपि जठरे सोपि न जातः । नरकनिवारिणि जाह्नवि गङ्गे कलुषविनाशिनि महिमोत्तुङ्गे ॥ ॥ पुनरसदङ्गे
+    पुण्यतरङ्गे जय जय जाह्नवि करुणापाङ्गे । इन्द्रमुकुटमणिराजितचरणे सुखदे शुभदे भृत्यशरण्ये ॥ ॥ रोगं शोकं
+    तापं पापं हर मे भगवति कुमतिकलापम् । त्रिभुवनसारे वसुधाहारे त्वमसि गतिर्मम खलु संसारे ॥ ॥ अलकानन्दे
+    परमानन्दे कुरु करुणामयि कातरवन्द्ये । तव तटनिकटे यस्य निवासः खलु वैकुण्ठे तस्य निवासः ॥ ॥ वरमिह नीरे
+    कमठो मीनः किं वा तीरे शरटः क्षीणः । अथवाश्वपचो मलिनो दीनस्तव न हि दूरे नृपतिकुलीनः ॥ ॥ भो भुवनेश्वरि
+    पुण्ये धन्ये देवि द्रवमयि मुनिवरकन्ये । गङ्गास्तवमिमममलं नित्यं पठति नरो यः स जयति सत्यम् ॥ ॥ येषां
+    हृदये गङ्गा भक्तिस्तेषां भवति सदा सुखमुक्तिः । मधुराकन्ता पञ्झटिकाभिः परमानन्दकलितललिताभिः ॥ ॥ गङ्गास्तोत्रमिदं
+    भवसारं वाञ्छितफलदं विमलं सारम् । शङ्करसेवक शङ्कर रचितं पठति सुखीः तव इति च समाप्तः ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_devii/gangastotra.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Ganga Stotram
   license: public_domain
-tags:
-- devii
-- nadI
-- stotra
-- devI
+tags: []
 priority: true
+aliases:
+- ganga
+- stotram

@@ -2,24 +2,22 @@ id: manasa-satatam-smaraniyam
 category: stotram
 name:
   english: Manasa Satatam Smaraniyam
-  devanagari: मनसा सततं स्मरणीयम्
 content:
-  english: manasa satatam smaraniyam vacasa satatam vadaniyam lokahitam mama karaniyam || dhru||| na bhogabhavane
-    ramaniyam na ca sukhashayane shayaniyam | aharnisham jagaraniyam lokahitam mama karaniyam || 1|| na
-    jatu duhkham gananiyam na ca nijasaukhyam mananiyam | karyakshetre tvaraniyam lokahitam mama karaniyam
-    || 2|| duhkhasagare taraniyam kashtaparvate caraniyam | vipattivipine bhramaniyam lokahitam mama karaniyam
-    || 3|| gahanaranye ghanandhakare bandhujana ye sthita gahvare | tatra maya sancaraniyam lokahitam
-    mama karaniyam || 4|| - daॅ shridhara bhaskara varnekara
-  devanagari: मनसा सततं स्मरणीयं वचसा सततं वदनीयं लोकहितं मम करणीयम् ॥ ध्रु।॥ न भोगभवने रमणीयं न च सुखशयने
-    शयनीयम् । अहर्निशं जागरणीयं लोकहितं मम करणीयम् ॥ १॥ न जातु दुःखं गणनीयं न च निजसौख्यं मननीयम् । कार्यक्षेत्रे
-    त्वरणीयं लोकहितं मम करणीयम् ॥ २॥ दुःखसागरे तरणीयं कष्टपर्वते चरणीयम् । विपत्तिविपिने भ्रमणीयं लोकहितं
-    मम करणीयम् ॥ ३॥ गहनारण्ये घनान्धकारे बन्धुजना ये स्थिता गह्वरे । तत्र मया सञ्चरणीयं लोकहितं मम करणीयम्
-    ॥ ४॥ - डाॅ श्रीधर भास्कर वर्णेकर
+  english: manasa satatam smaraniyam vacasa satatam vadaniyam lokahitam mama karaniyam || lokahitam ||
+    na bhogabhavane ramaniyam na ca sukhashayane shayaniyanam aharnisham jagaraniyam lokahitam mama karaniyam
+    || manasa || na jatu duhkham gananiyam na ca nijasaukhyam mananiyam karyakshetre tvaraniyam lokahitam
+    mama karaniyam || manasa || duhkhasagare taraniyam kashtaparvate caraniyam vipattivipine bhramaniyam
+    lokahitam mama karaniyam || manasa || gahanaranye ghanandhakare bandhujana ye sthita gahvare tatra
+    maya sancaraniyam lokahitam mama karaniyam || manasa || racana shridhara bhaskara varnèkara
+  devanagari: मनसा सततं स्मरणीयम् वचसा सततं वदनीयम् लोकहितं मम करणीयम् ॥ लोकहितम् ॥ न भोगभवने रमणीयम्
+    न च सुखशयने शयनीयनम् अहर्निशं जागरणीयम् लोकहितं मम करणीयम् ॥ मनसा ॥ न जातु दुःखं गणनीयम् न च निजसौख्यं
+    मननीयम् कार्यक्षेत्रे त्वरणीयम् लोकहितं मम करणीयम् ॥ मनसा ॥ दुःखसागरे तरणीयम् कष्टपर्वते चरणीयम् विपत्तिविपिने
+    भ्रमणीयम् लोकहितं मम करणीयम् ॥ मनसा ॥ गहनारण्ये घनान्धकारे बन्धुजना ये स्थिता गह्वरे तत्रा मया सञ्चरणीयम्
+    लोकहितं मम करणीयम् ॥ मनसा ॥ रचन श्रीधर भास्कर वर्णॆकर
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_z_misc_general/manasAsatataMsmaraNIyam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Manasa Satatam Smaraniyam
   license: public_domain
-tags:
-- misc
-- sanskritgeet
+tags: []
 priority: true
+aliases: []

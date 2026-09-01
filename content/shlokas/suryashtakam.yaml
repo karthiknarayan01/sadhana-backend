@@ -2,36 +2,35 @@ id: suryashtakam
 category: stotram
 name:
   english: Suryashtakam
-  devanagari: सूर्याष्टकम् १ (आदिदेव नमस्तुभ्यं प्रसीद मम)
 content:
-  english: '|| shri ganeshaya namah || samba uvaca || adideva namastubhyam prasida mama bhaskara | divakara
-    namastubhyam prabhakara namo''stute || 1|| saptashvarathamarudham pracandam kashyapatmajam | shvetapadmadharam
-    devam tam suryam pranamamyaham || 2|| lohitam rathamarudham sarvalokapitamaham | mahapapaharam devam
-    tam suryam pranamamyaham || 3|| traigunyam ca mahashuram brahmavishnumaheshvaram | mahapapaharam devam
-    tam suryam pranamamyaham || 4|| brimhitam tejahpunjam ca vayumakashameva ca | prabhum ca sarvalokanam
-    tam suryam pranamamyaham || 5|| bandhukapushpasankasham harakundalabhushitam | ekacakradharam devam
-    tam suryam pranamamyaham || 6|| tam suryam jagatkartaram mahatejahpradipanam | mahapapaharam devam
-    tam suryam pranamamyaham || 7|| tam suryam jagatam natham jnanavijnanamokshadam | mahapapaharam devam
-    tam suryam pranamamyaham || 8|| suryashtakam pathennityam grahapidapranashanam | aputro labhate putram
-    daridro dhanavanbhavet || 9|| amisham madhupanam ca yah karoti raverdine | saptajanma bhavedrogi pratijanma
-    daridrata || 10|| stritailamadhumamsani yastyajettu raverdine | na vyadhih shokadaridryam suryalokam
-    sa gacchati || 11|| iti shrisuryashtakastotram sampurnam ||'
-  devanagari: ॥ श्री गणेशाय नमः ॥ साम्ब उवाच ॥ आदिदेव नमस्तुभ्यं प्रसीद मम भास्कर । दिवाकर नमस्तुभ्यं
-    प्रभाकर नमोऽस्तुते ॥ १॥ सप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम् । श्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्
-    ॥ २॥ लोहितं रथमारूढं सर्वलोकपितामहम् । महापापहरं देवं तं सूर्यं प्रणमाम्यहम् ॥ ३॥ त्रैगुण्यं च महाशूरं
-    ब्रह्माविष्णुमहेश्वरम् । महापापहरं देवं तं सूर्यं प्रणमाम्यहम् ॥ ४॥ बृंहितं तेजःपुञ्जं च वायुमाकाशमेव
-    च । प्रभुं च सर्वलोकानां तं सूर्यं प्रणमाम्यहम् ॥ ५॥ बन्धूकपुष्पसङ्काशं हारकुण्डलभूषितम् । एकचक्रधरं
-    देवं तं सूर्यं प्रणमाम्यहम् ॥ ६॥ तं सूर्यं जगत्कर्तारं महातेजःप्रदीपनम् । महापापहरं देवं तं सूर्यं
-    प्रणमाम्यहम् ॥ ७॥ तं सूर्यं जगतां नाथं ज्ञानविज्ञानमोक्षदम् । महापापहरं देवं तं सूर्यं प्रणमाम्यहम्
-    ॥ ८॥ सूर्याष्टकं पठेन्नित्यं ग्रहपीडाप्रणाशनम् । अपुत्रो लभते पुत्रं दरिद्रो धनवान्भवेत् ॥ ९॥ आमिशं
-    मधुपानं च यः करोति रवेर्दिने । सप्तजन्म भवेद्रोगी प्रतिजन्म दरिद्रता ॥ १०॥ स्त्रीतैलमधुमांसानि यस्त्यजेत्तु
-    रवेर्दिने । न व्याधिः शोकदारिद्र्यं सूर्यलोकं स गच्छति ॥ ११॥ इति श्रीसूर्याष्टकस्तोत्रं सम्पूर्णम्
+  english: shamba uvaca adideva namastubhyam prasida mama bhaskara | divakara namastubhyam prabhakara
+    namo'stute || || saptashva ratha marudham pracandam kashyapatmajam | shveta padmadharam devam tam
+    suryam pranamamyaham || || lohitam rathamarudham sarva loka pitamaham | maha papa haram devam tam
+    suryam pranamamyaham || || traigunyam ca mahashuram brahma vishnu maheshvaram | maha papa haram devam
+    tam suryam pranamamyaham || || brimhitam tejasam punjam vayu makasha meva ca | prabhum ca sarvalokanam
+    tam suryam pranamamyaham || || bandhuka pushpasankasham hara kundala bhushitam | eka cakradharam devam
+    tam suryam pranamamyaham || || vishvesham vishva kartaram mahatejah pradipanam | maha papa haram devam
+    tam suryam pranamamyaham || || tam suryam jagatam natham jnana vijnana mokshadam | maha papa haram
+    devam tam suryam pranamamyaham || || phalashriti suryashtakam pathennityam grahapida pranashanam |
+    aputro labhate putram daridro dhanavan bhavet || amisham madhupanam ca yah karoti raverdhine | sapta
+    janma bhavedrogi janma karma daridrata || stri taila madhu mamsani ye tyajanti raverdine | na vyadhi
+    shoka daridryam suryalokam sa gacchati || iti shri shivaproktam shri suryashtakam sampurnam ||
+  devanagari: शाम्ब उवाच आदिदेव नमस्तुभ्यं प्रसीद मम भास्कर । दिवाकर नमस्तुभ्यं प्रभाकर नमोऽस्तुते ॥ ॥
+    सप्ताश्व रथ मारूढं प्रचण्डं कश्यपात्मजम् । श्वेत पद्मधरं देवं तं सूर्यं प्रणमाम्यहम् ॥ ॥ लोहितं रथमारूढं
+    सर्व लोक पितामहम् । महा पाप हरं देवं तं सूर्यं प्रणमाम्यहम् ॥ ॥ त्रैगुण्यं च महाशूरं ब्रह्म विष्णु
+    महेश्वरम् । महा पाप हरं देवं तं सूर्यं प्रणमाम्यहम् ॥ ॥ बृंहितं तेजसां पुञ्जं वायु माकाश मेव च । प्रभुं
+    च सर्वलोकानां तं सूर्यं प्रणमाम्यहम् ॥ ॥ बन्धूक पुष्पसङ्काशं हार कुण्डल भूषितम् । एक चक्रधरं देवं
+    तं सूर्यं प्रणमाम्यहम् ॥ ॥ विश्वेशं विश्व कर्तारं महातेजः प्रदीपनम् । महा पाप हरं देवं तं सूर्यं प्रणमाम्यहम्
+    ॥ ॥ तं सूर्यं जगतां नाथं ज्ञान विज्ञान मोक्षदम् । महा पाप हरं देवं तं सूर्यं प्रणमाम्यहम् ॥ ॥ फलशृति
+    सूर्याष्टकं पठेन्नित्यं ग्रहपीडा प्रणाशनम् । अपुत्रो लभते पुत्रं दरिद्रो धनवान् भवेत् ॥ आमिषं मधुपानं
+    च यः करोति रवेर्धिने । सप्त जन्म भवेद्रोगी जन्म कर्म दरिद्रता ॥ स्त्री तैल मधु मांसानि ये त्यजन्ति
+    रवेर्दिने । न व्याधि शोक दारिद्र्यं सूर्यलोकं स गच्छति ॥ इति श्री शिवप्रोक्तं श्री सूर्याष्टकं सम्पूर्णम्
     ॥
 meaning: {}
 source_attribution:
-  text_source: sanskritdocuments.org — https://sanskritdocuments.org/doc_z_misc_navagraha/sUryAShTakam.html
+  text_source: vignanam.org (downloaded and provided by the project owner) — Suryashtakam
   license: public_domain
-tags:
-- aShTaka
-- navagraha
+tags: []
 priority: true
+aliases:
+- surya

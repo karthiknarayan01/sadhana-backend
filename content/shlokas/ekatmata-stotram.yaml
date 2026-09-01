@@ -2,71 +2,70 @@ id: ekatmata-stotram
 category: stotram
 name:
   english: Ekatmata Stotram
-  devanagari: एकात्मतास्तोत्रम्
 content:
-  english: om saccidandarupaya namo'stu paramatmane jyotirmayasvarupaya vishvamangalyamurtaye ||1 || prakritih
-    pancabhutani graha lokah svarastatha dishah kalashca sarvesham sada kurvantu mangalam|| 2|| ratnakaradhautapadam
-    himalayakiritinim brahmarajarshiratnadhyam vande bharatamataram ||3|| mahendro malayah sahyo devatatma
-    himalayah dhyeyo raivatako vindhyo girishcaravalistatha ||4 || ganga sarasvati sindhurbrahmaputrashca
-    gandaki kaveri yamuna reva krishna goda mahanadi ||5 ayodhya mathura maya kashi kamci avantika vaishali
-    dvarika dhyeya puri takshashila gaya ||6 || prayagah pataliputram vijayanagaram mahat indraprastham
-    somanathastathamritasarah priyam ||7 || caturvedah puranani sarvopanishadastatha ramayanam bharatam
-    ca gita shaddarshanani ca ||8|| jainagamastripitakah gurugranthah satam girah esha jnananidhih shreshthah
-    shraddheyo hridi sarvada ||9|| arundhatyanasuya ca savitri janaki sati draupadi kannage gargi mira
-    durgavati tatha ||10|| lakshmi ahalya cannamma rudramamba suvikrama nivedita sarada ca pranamya matri
-    devatah ||11|| shri ramo bharatah krishno bhishmo dharmastatharjunah markamdeyo harishcandra prahlado
-    narado dhruvah ||12|| hanuman janako vyaso vasishthashca shuko balih dadhici vishvakarmanau prithu
-    valmiki bhargavah ||13|| bhagirathashcaikalavyo manurdhanvantaristatha shibishca rantidevashca puranodgitakirtayah
-    ||14|| buddha jinendra gorakshah paninishca patamjalih shamkaro madhva nimbarkau shri ramanuja vallabhau
-    ||15|| jhulelalotha caitanyah tiruvalluvarastatha nayanmaralavarashca kambashca basaveshvarah ||16||
-    devalo ravidasashca kabiro guru nanakah narasi tulasidaso dashamesho dridhavratah ||17|| shrimacchankaradevashca
-    bamdhu sayana madhavau jnaneshvarastukarama ramadasah purandarah ||18|| birasa sahajanando ramanandastatha
-    mahan vitarantu sadaivaite daivim shadgunasampadam ||19|| ravivarma bhatakhamde bhagyacandrah sa bhopatih
-    kalavamtashca vikhyatah smaraniya niramtaram ||20|| bharatarshih kalidasah shribhojo janakastatha
-    suradasastyagarajo rasakhanashca satkavih ||21|| agastyah kambu kaundinyau rajendrashcola vamshajah
-    ashokah pushya mitrashca kharavelah sunitiman ||22|| canakya candraguptau ca vikramah shalivahanah
-    samudraguptah shriharshah shailemdro bapparavalah ||23|| lacidbhaskara varma ca yashodharma ca hunajit
-    shrikrishnadevarayashca lalitaditya udbalah ||24|| musunurinayakau tau pratapah shiva bhupatih ranajitasimha
-    ityete vira vikhyata vikramah ||25|| vaijnanikashca kapilah kanadah shushrutastatha carako bhaskaracaryo
-    varahamihira sudhih ||26|| nagarjuna bharadvaja aryabhatto vasurbudhah dhyeyo vemkata ramashca vijna
-    ramanujayah ||27|| ramakrishno dayanando ravindro ramamohanah ramatirtho'ravindashca vivekananda udyashah
-    ||28|| dadabhai gopabamdhustilako gamdhiradritah ramano malaviyashca shrisubrahmanyabharati ||29||
-    subhashah pranavanandah krantiviro vinayakah thakkaro bhimaravashca phule narayano guruh ||30|| sanghashaktipranetarau
-    keshavo madhavastatha smaraniyah sadaivaite navacaitanyadayakah ||31|| anukta ye bhaktah prabhucaranasamsaktahridayah
-    anirdishtah vira adhisamaramuddhvastaripavah samajoddhartarah suhitakaravijnananipunah namastebhyo
-    bhuyatsakalasujanebhyah pratidinam || 32|| idamekatmatastotram shraddhaya yah sada pathet sa rashtradharmanishthavan
-    akhandam bharatam smaret ||33|| || vande bharatamataram ||
-  devanagari: ॐ सच्चिदान्दरूपाय नमोऽस्तु परमात्मने ज्योतिर्मयस्वरूपाय विश्वमाङ्गल्यमूर्तये ॥१ ॥ प्रकृतिः
-    पञ्चभूतानि ग्रहा लोकाः स्वरास्तथा दिशः कालश्च सर्वेषां सदा कुर्वन्तु मङ्गलम्।। २।। रत्नाकराधौतपदां
-    हिमालयकिरीटिनीम् ब्रह्मराजर्षिरत्नाढ्यां वन्दे भारतमातरम् ॥३॥ महेन्द्रो मलयः सह्यो देवतात्मा हिमालयः
-    ध्येयो रैवतको विन्ध्यो गिरिश्चारावलिस्तथा ॥४ ॥ गङ्गा सरस्वती सिन्धुर्ब्रह्मपुत्रश्च गण्डकी कावेरी
-    यमुना रेवा कृष्णा गोदा महानदी ॥५ अयोध्या मथुरा माया काशी कांची अवन्तिका वैशाली द्वारिका ध्येया पुरी
-    तक्षशिला गया ॥६ ॥ प्रयागः पाटलिपुत्रं विजयानगरं महत् इन्द्रप्रस्थं सोमनाथस्तथामृतसरः प्रियम् ॥७ ॥
-    चतुर्वेदाः पुराणानि सर्वोपनिषदस्तथा रामायणं भारतं च गीता षड्दर्शनानि च ॥८॥ जैनागमास्त्रिपिटकः गुरुग्रन्थः
-    सतां गिरः एष ज्ञाननिधिः श्रेष्ठः श्रद्धेयो हृदि सर्वदा ॥९॥ अरुन्धत्यनसूय च सावित्री जानकी सती द्रौपदी
-    कन्नगे गार्गी मीरा दुर्गावती तथा ॥१०॥ लक्ष्मी अहल्या चन्नम्मा रुद्रमाम्बा सुविक्रमा निवेदिता सारदा
-    च प्रणम्य मातृ देवताः ॥११॥ श्री रामो भरतः कृष्णो भीष्मो धर्मस्तथार्जुनः मार्कंडेयो हरिश्चन्द्र प्रह्लादो
-    नारदो ध्रुवः ॥१२॥ हनुमान् जनको व्यासो वसिष्ठश्च शुको बलिः दधीचि विश्वकर्माणौ पृथु वाल्मीकि भार्गवः
-    ॥१३॥ भगीरथश्चैकलव्यो मनुर्धन्वन्तरिस्तथा शिबिश्च रन्तिदेवश्च पुराणोद्गीतकीर्तयः ॥१४॥ बुद्ध जिनेन्द्र
-    गोरक्शः पाणिनिश्च पतंजलिः शंकरो मध्व निंबार्कौ श्री रामानुज वल्लभौ ॥१५॥ झूलेलालोथ चैतन्यः तिरुवल्लुवरस्तथा
-    नायन्मारालवाराश्च कंबश्च बसवेश्वरः ॥१६॥ देवलो रविदासश्च कबीरो गुरु नानकः नरसी तुलसीदासो दशमेषो दृढव्रतः
-    ॥१७॥ श्रीमच्छङ्करदेवश्च बंधू सायन माधवौ ज्ञानेश्वरस्तुकाराम रामदासः पुरन्दरः ॥१८॥ बिरसा सहजानन्दो
-    रमानन्दस्तथा महान् वितरन्तु सदैवैते दैवीं षड्गुणसंपदम् ॥१९॥ रविवर्मा भातखंडे भाग्यचन्द्रः स भोपतिः
-    कलावंतश्च विख्याताः स्मरणीया निरंतरम् ॥२०॥ भरतर्षिः कालिदासः श्रीभोजो जनकस्तथा सूरदासस्त्यागराजो रसखानश्च
-    सत्कविः ॥२१॥ अगस्त्यः कंबु कौन्डिण्यौ राजेन्द्रश्चोल वंशजः अशोकः पुश्य मित्रश्च खारवेलः सुनीतिमान्
-    ॥२२॥ चाणक्य चन्द्रगुप्तौ च विक्रमः शालिवाहनः समुद्रगुप्तः श्रीहर्षः शैलेंद्रो बप्परावलः ॥२३॥ लाचिद्भास्कर
-    वर्मा च यशोधर्मा च हूणजित् श्रीकृष्णदेवरायश्च ललितादित्य उद्बलः ॥२४॥ मुसुनूरिनायकौ तौ प्रतापः शिव
-    भूपतिः रणजितसिंह इत्येते वीरा विख्यात विक्रमाः ॥२५॥ वैज्ञानिकाश्च कपिलः कणादः शुश्रुतस्तथा चरको भास्कराचार्यो
-    वराहमिहिर सुधीः ॥२६॥ नागार्जुन भरद्वाज आर्यभट्टो वसुर्बुधः ध्येयो वेंकट रामश्च विज्ञा रामानुजायः ॥२७॥
-    रामकृष्णो दयानन्दो रवीन्द्रो राममोहनः रामतीर्थोऽरविन्दाश्च विवेकानन्द उद्यशः ॥२८॥ दादाभाई गोपबंधुस्तिलको
-    गांधिरादृताः रमणो मालवीयश्च श्रीसुब्रह्मण्यभारती ॥२९॥ सुभाषः प्रणवानन्दः क्रान्तिवीरो विनायकः ठक्करो
-    भीमरावश्च फुले नारायणो गुरुः ॥३०॥ सङ्घशक्तिप्रणेतारौ केशवो माधवस्तथा स्मरणीयाः सदैवैते नवचैतन्यदायकाः
-    ॥३१॥ अनुक्ता ये भक्ताः प्रभुचरणसंसक्तहृदयाः अनिर्दिष्टाः वीरा अधिसमरमुद्ध्वस्तरिपवः समाजोद्धर्तारः
-    सुहितकरविज्ञाननिपुणाः नमस्तेभ्यो भूयात्सकलसुजनेभ्यः प्रतिदिनम् ॥ ३२॥ इदमेकात्मतास्तोत्रं श्रद्धया
-    यः सदा पठेत् स राष्ट्रधर्मनिष्ठावान् अखण्डं भारतं स्मरेत् ॥३३॥ ॥ वन्दे भारतमातरम् ॥
+  english: om saccidananda rupaya namostu paramatmane | jyotirmaya svarupaya vishvamangalyamurtaye ||
+    prakritih panca bhutani grahalokah svara stadha | dishah kalashca sarvesham sada kurvantu mangalam
+    || ratnakara dhautapadam himalaya kiritinim | brahmarajarshi ratnadhyam vande bharata mataram || mahendro
+    malayah sahyo devatatma himalayah | dhyeyo raivatako vindhyo girishcaravalistadha || ganga sarasvati
+    sindhur brahmaputrashca gandaki | kaveri yamuna reva krishnagoda mahanadi || ayodhya madhura maya
+    kashikanci avantika | vaishali dvarika dhyeya puri takshashila gaya || prayagah patali putram vijayanagaram
+    mahat | indraprasdham somanadhah tadhamritasarah priyam || caturvedah puranani sarvopanishadastadha
+    | ramayanam bharatam ca gita shaddarshanani ca || jainagama stripitaka gurugrandhah satam girah |
+    eshah jnananidhih shreshthah hridi sarvada || arundhatyanasuya ca savitri janaki sati | draupadi kannagi
+    gargi mira durgavati tadha || lakshmi rahalya cènnamma rudramamba suvikrama | nivedita sharada ca
+    pranamyah matridevatah || shriramo bharatah krishno bhishmo dharma stadharjunah | markandeya harishcandrah
+    prahlado narado dhruvah || hanuman janako vyaso vashishthashca shuko balih | dadhici vishvakarmanau
+    pridhu valmiki bhargavah || bhagiradhashcaikalavyo manurdhanvantaristadha | shibishca rantidevashca
+    puranodgita kirtayah || buddhojinendra gorakshah tiruvalluvarastadha | nayanmaralavarashca kambashca
+    basaveshvarah || devalo ravidasashca kabiro gurunanakah | narasistulasidaso dashamesho dridhavratah
+    || shrimat shankaradevashca bandhu sayanamadhavau | jnaneshvara stukaramo ramadasah purandarah ||
+    viraja sahajanando ramasandstadha mahan | vitarastu sadaivaite daivim sadguna sampadam || bharatarshih
+    kalidasah shribhojo jakanastadha | suradasastyagarajo rasakhanashca satkavih || ravivarma bharatakhande
+    bhagyacandrah sa bhupatih | kalavantashca vikhyatah smaraniya nirantaram || agastyah kambukaundinyau
+    rajendrashcolavamshajah | ashokah pushyamitrashca kharavelah sunitiman || canakya candraguptau ca
+    vikramah shalivahanah | samudra guptah shri harshahshailendro bapparavalah || lacit bhaskaravarmaca
+    yashodharma ca hunajit | shrikrishnadevarayashca lalitaditya udbalah || musunuri nayaka tau pratapah
+    shivabhupatih | ranajit simha ityete vira vikhyata vikramah || vaijnanikashca kapilah kanadah shushrata
+    stadha | carako bhaskaracaryo varahamiharah sudhih || nagarjuno bharadvajah aryabhatto vasurbhudhah
+    | dhyeyo venkataramashca vijna ramanujadayah || ramakrishno dayanando ravindro ramamohanah | ramatirdho
+    ravindashca vivekananda udyashah || dadabhayi gopabandhuh tilako gandhiradritah | ramano malaviyashca
+    shri subrahmanya bharati || subhashah pranavanandah krantiviro vinayakah | thakkaro bhimaravashca
+    pulenarayano guruh || sanghashaktih pranetarau keshavo madhavashtadha | smaraniya sadaivaite navacaitanyadayakah
+    || anukta ye bhaktah prabhucarana samsakta hridayah | avijnata virah adhisamaramuddhvastaripavah ||
+    samajoddhartarah suhitakaravijnana nipunah | nama stebhyo bhuyat sakala sujanebhyah pratidinam ||
+    idamekatmatastotram shraddhaya yah sada pathet | sa rashtra dharma nishtavan akhandam bharatam smaret
+  devanagari: ॐ सच्चिदानन्द रूपाय नमोस्तु परमात्मने । ज्योतिर्मय स्वरूपाय विश्वमाङ्गल्यमूर्तये ॥ प्रकृतिः
+    पञ्च भूतानि ग्रहालोकाः स्वरा स्तधा । दिशः कालश्च सर्वेषां सदा कुर्वन्तु मङ्गलम् ॥ रत्नाकरा धौतपदां
+    हिमालय किरीटिनीम् । ब्रह्मराजर्षि रत्नाढ्यां वन्दे भारत मातरम् ॥ महेन्द्रो मलयः सह्यो देवतात्मा हिमालयः
+    । ध्येयो रैवतको विन्ध्यो गिरिश्चारावलिस्तधा ॥ गङ्गा सरस्वती सिन्धुर् ब्रह्मपुत्रश्च गण्डकी । कावेरी
+    यमुना रेवा कृष्णागोदा महानदी ॥ अयोध्या मधुरा माया काशीकाञ्ची अवन्तिका । वैशाली द्वारिका ध्येया पुरी
+    तक्षशिला गया ॥ प्रयागः पाटली पुत्रं विजयानगरं महत् । इन्द्रप्रस्धं सोमनाधः तधामृतसरः प्रियम् ॥ चतुर्वेदाः
+    पुराणानि सर्वोपनिषदस्तधा । रामायणं भारतं च गीता षड्दर्शनानि च ॥ जैनागमा स्त्रिपिटका गुरुग्रन्धः सतां
+    गिरः । एषः ज्ञाननिधिः श्रेष्ठः हृदि सर्वदा ॥ अरुन्धत्यनसूय च सावित्री जानकी सती । द्रौपदी कण्णगी गार्गी
+    मीरा दुर्गावती तधा ॥ लक्ष्मी रहल्या चॆन्नम्मा रुद्रमाम्बा सुविक्रमा । निवेदिता शारदा च प्रणम्याः मातृदेवताः
+    ॥ श्रीरामो भरतः कृष्णो भीष्मो धर्म स्तधार्जुनः । मार्कण्डेया हरिश्चन्द्रः प्रह्लादो नारदो ध्रुवः ॥
+    हनुमान् जनको व्यासो वशिष्ठश्च शुको बलिः । दधीचि विश्वकर्माणौ पृधु वाल्मीकि भार्गवाः ॥ भगीरधश्चैकलव्यो
+    मनुर्धन्वन्तरिस्तधा । शिबिश्च रन्तिदेवश्च पुराणोद्गीत कीर्तयः ॥ बुद्धोजिनेन्द्रा गोरक्षः तिरुवल्लुवरस्तधा
+    । नायन्मारालवाराश्च कम्बश्च बसवेश्वरः ॥ देवलो रविदासश्च कबीरो गुरुनानकः । नरसिस्तुलसीदासो दशमेशो दृढव्रतः
+    ॥ श्रीमत् शङ्करदेवश्च बन्धू सायणमाधवौ । ज्ञानेश्वर स्तुकारामो रामदासः पुरन्दरः ॥ विरजा सहजानन्दो रामासन्द्स्तधा
+    महान् । वितरस्तु सदैवैते दैवीं सद्गुण सम्पदम् ॥ भरतर्षिः कालिदासः श्रीभोजो जकणस्तधा । सूरदासस्त्यागराजो
+    रसखानश्च सत्कविः ॥ रविवर्मा भारतखण्डे भाग्यचन्द्रः स भूपतिः । कलावन्तश्च विख्याताः स्मरणीय निरन्तरम्
+    ॥ अगस्त्यः कम्बुकौण्डिन्यौ राजेन्द्रश्चोलवंशजः । अशोकः पुष्यमित्रश्च खारवेलाः सुनीतिमान् ॥ चाणक्य
+    चन्द्रगुप्तौ च विक्रमः शालिवाहनः । समुद्र गुप्तः श्री हर्षःशैलेन्द्रो बप्परावलः ॥ लाचित् भास्करवर्माच
+    यशोधर्मा च हूणजित् । श्रीकृष्णदेवरायश्च ललितादित्य उद्बलः ॥ मुसुनूरि नायका तौ प्रतापः शिवभूपतिः ।
+    रणजित् सिंह इत्येते वीरा विख्यात विक्रमाः ॥ वैज्ञानिकाश्च कपिलः कणादः शुश्रत स्तधा । चरको भास्कराचार्यो
+    वराहमिहरः सुधीः ॥ नागार्जुनो भरद्वाजः आर्यभट्टो वसुर्भुधः । ध्येयो वेङ्कटरामश्च विज्ञा रामानुजादयः
+    ॥ रामकृष्णो दयानन्दो रवीन्द्रो राममोहनः । रामतीर्धो रविन्दश्च विवेकानन्द उड्यशाः ॥ दादाभायी गोपबन्धुः
+    तिलको गान्धिरादृताः । रमणो मालवीयश्च श्री सुब्रह्मण्य भारती ॥ सुभाषः प्रणवानन्दः क्रान्तिवीरो विनायकः
+    । ठक्करो भीमरावश्च पुलेनारायणो गुरुः ॥ सङ्घशक्तिः प्रणेतारौ केशवो माधवश्तधा । स्मरणीया सदैवैते नवचैतन्यदायकाः
+    ॥ अनुक्ता ये भक्ताः प्रभुचरण संसक्त हृदयाः । अविज्ञाता वीराः अधिसमरमुद्ध्वस्तरिपवः ॥ समाजोद्धर्तारः
+    सुहितकरविज्ञान निपुणाः । नम स्तेभ्यो भूयात् सकल सुजनेभ्यः प्रतिदिनम् ॥ इदमेकात्मतास्तोत्रं श्रद्धया
+    यः सदा पठेत् । स राष्ट्र धर्म निष्टावान् अखण्डं भारतं स्मरेत्
 meaning: {}
 source_attribution:
-  text_source: Sanskrit Wikisource — https://sa.wikisource.org/wiki/एकात्मतास्तोत्रम्
+  text_source: vignanam.org (downloaded and provided by the project owner) — Ekatmata Stotram
   license: public_domain
 tags: []
 priority: true
+aliases:
+- stotram

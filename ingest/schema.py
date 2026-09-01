@@ -40,10 +40,10 @@ class ShlokaEntry(BaseModel):
     # `category` above). Not every source provides these — empty for those.
     tags: list[str] = []
     # True when this entry's name matches a title on vignanam.org's curated
-    # prayer index (see ingest/reference/vignanam_canonical_titles.txt) —
-    # used as a search-relevance boost, not a filter: it never suppresses a
-    # genuinely better-matching non-canonical result, it just tips ties and
-    # near-ties toward the prayers people are most likely searching for.
+    # prayer index — used as a search-relevance boost, not a filter: it
+    # never suppresses a genuinely better-matching non-canonical result, it
+    # just tips ties and near-ties toward the prayers people are most
+    # likely searching for.
     priority: bool = False
     # Sanskrit titles are conventionally written as one fused compound
     # (sandhi) — "vishnusahasranama" — but people search using the split

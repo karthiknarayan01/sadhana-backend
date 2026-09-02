@@ -124,11 +124,24 @@ gcloud compute ssh sadhana-elasticsearch --zone=<your-zone> --tunnel-through-iap
 uv run python -m ingest.run \
   --content-dir content/shlokas \
   --es-host http://localhost:9200 \
-  --es-api-key "$(gcloud secrets versions access latest --secret=es-api-key)"
+  --es-user elastic \
+  --es-password "$(gcloud secrets versions access latest --secret=es-elastic-password)"
 ```
 
-If that last command fails because `es-api-key` has no version yet, give
-`es-startup.sh` a bit longer — see step 4.
+Use the `elastic` superuser (`es-elastic-password`), not `es-api-key` — that
+key is minted read-only on `shlokas` (see `es-startup.sh`), on purpose,
+since it's what the running `search-api` service uses to *query* ES. It
+doesn't have `create_index`/write privileges, so `ingest/run.py` can't use
+it — that's what `--es-user`/`--es-password` are for.
+
+If the command above fails because `es-elastic-password` has no version
+yet, that's a different, earlier step — see step 4.
+
+Re-running ingestion later (a corpus update, say) uses this same command —
+`index_entries()` upserts by each entry's own slug, so it's safe to run
+again without duplicating anything. To fully replace the corpus instead
+(e.g. after deleting entries, not just editing them), delete the index
+first: `curl -X DELETE http://localhost:9200/shlokas -u elastic:<password>`.
 
 ### 6. Set GitHub Actions repo variables
 

@@ -1,3 +1,4 @@
+import logging
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 
@@ -6,9 +7,12 @@ from fastapi import Depends, FastAPI, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
+from app.analytics import record_events
 from app.config import settings
 from app.es_client import SearchUnavailableError, build_client, search_shlokas
-from app.schemas import SearchResponse
+from app.schemas import SearchResponse, UsageEventBatch
+
+_logger = logging.getLogger("uvicorn.error")
 
 
 @asynccontextmanager
@@ -70,3 +74,20 @@ async def search(
 ) -> SearchResponse:
     results, has_more = await search_shlokas(client, q, page=page)
     return SearchResponse(results=results, has_more=has_more)
+
+
+# Always 202, even on failure — analytics has no user-visible behavior to
+# protect (the app doesn't retry or show anything for this call either, see
+# analytics_service.dart), so there's nothing to gain by surfacing a real
+# error status here, only a chance of the app mishandling it as if it were
+# a real API failure.
+@app.post("/events", status_code=202)
+async def record_usage(
+    batch: UsageEventBatch,
+    client: AsyncElasticsearch = Depends(get_es_client),
+) -> dict[str, str]:
+    try:
+        await record_events(client, batch.events)
+    except Exception as exc:
+        _logger.warning("Failed to record usage events: %s", exc)
+    return {"status": "accepted"}

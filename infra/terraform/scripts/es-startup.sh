@@ -81,17 +81,9 @@ if echo "${EXISTING_API_KEY}" | grep -q '"name"'; then
   echo "es-api-key already has a version — not re-minting."
 else
   echo "Minting the search-api Elasticsearch API key..."
-  # search_only stays read-only on shlokas — search-api never needs to
-  # write actual content. usage_writer is separate and broader (create_index
-  # + write, not just read) since search-api's own /events handler is what
-  # creates and populates usage_events (see app/analytics.py) — there's no
-  # separate ingest-style tool for that index the way there is for shlokas.
   ENCODED_KEY=$(curl -s -u "elastic:${ELASTIC_PASSWORD}" -X POST "http://localhost:9200/_security/api_key" \
     -H "Content-Type: application/json" \
-    -d '{"name": "sadhana-search-api", "role_descriptors": {
-      "search_only": {"index": [{"names": ["shlokas"], "privileges": ["read"]}]},
-      "usage_writer": {"index": [{"names": ["usage_events"], "privileges": ["create_index", "read", "write"]}]}
-    }}' \
+    -d '{"name": "sadhana-search-api", "role_descriptors": {"search_only": {"index": [{"names": ["shlokas"], "privileges": ["read"]}]}}}' \
     | python3 -c "import sys,json; print(json.load(sys.stdin)['encoded'])")
 
   curl -s -H "Authorization: Bearer ${TOKEN}" -H "Content-Type: application/json" \

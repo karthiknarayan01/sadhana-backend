@@ -51,32 +51,6 @@ uv run python -m ingest.run --content-dir content/shlokas --dry-run   # validate
 uv run python -m ingest.run --content-dir content/shlokas --es-host http://localhost:9200
 ```
 
-### Crawling sources (`ingest/crawl/`, local-only)
-
-Optional tooling that stages new entries from public-domain Sanskrit
-sources, for review before they join `content/shlokas/`. It only ever reads
-the Devanagari text — `content.english` is produced locally by mechanical
-phonetic transliteration (`ingest/crawl/common.py:to_plain_english`), never
-by translating meaning, and `meaning.*` is always left empty. Consistent
-with "nothing here bulk-scrapes any single site" above: run this against a
-few sources for modest amounts each (`--max-entries`), not once against one
-site for everything it has.
-
-```
-uv run python -m ingest.crawl.run --source wikisource \
-    --category स्तोत्राणि --category-label stotram \
-    --max-entries 30 --contact-email you@example.com
-
-uv run python -m ingest.crawl.run --source sanskritdocuments \
-    --category-path /sanskrit/stotra/ --category-label stotram \
-    --max-entries 30 --contact-email you@example.com
-```
-
-Output lands in `content/shlokas_staging/` (gitignored) — review it, then
-move the entries you want into `content/shlokas/` and run `ingest/run.py`
-as usual. vignanam.org is deliberately not a supported source: its
-`robots.txt` explicitly disallows `ClaudeBot`/`anthropic-ai`.
-
 ## Development
 
 ```
@@ -91,11 +65,12 @@ promotion PR (see `.github/workflows/enforce-dev-to-main.yml`).
 
 ## Infra
 
-Elasticsearch runs self-hosted on a single private GCE VM (no external IP) —
-never exposed to the internet directly. This Cloud Run service is the only
-public entry point, reaching Elasticsearch over a private VPC (Direct VPC
-egress) with Cloud Armor rate-limiting incoming requests per-IP ahead of it.
-See `infra/terraform/` and `infra/terraform/README.md` for the resources and
-one-time manual bootstrap (state bucket, Workload Identity Federation, the
-ES VM's bootstrap password and API key). Nothing there has been applied yet —
-`terraform apply` is a deliberate, explicit, human-run step.
+Elasticsearch and search-api both run self-hosted on a single private GCE
+VM (`e2-small`, no external IP) — never exposed to the internet directly.
+A Google Cloud external HTTPS Load Balancer is the only public entry point
+(`https://34-54-97-93.sslip.io`), terminating TLS via a free sslip.io-based
+managed cert and reaching the VM over a private VPC, with Cloud Armor
+rate-limiting incoming requests per-IP ahead of it. See `infra/terraform/`
+and `infra/terraform/README.md` for the resources — already applied and
+live for the `sadhana-backend-305666` project; every push to `dev`
+redeploys automatically.

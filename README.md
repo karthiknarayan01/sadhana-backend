@@ -74,3 +74,14 @@ rate-limiting incoming requests per-IP ahead of it. See `infra/terraform/`
 and `infra/terraform/README.md` for the resources — already applied and
 live for the `sadhana-backend-305666` project; every push to `dev`
 redeploys automatically.
+
+## Traffic visibility
+
+The load balancer's backend service has request logging enabled
+(`log_config` in `infra/terraform/lb.tf`) — every request (path, status,
+latency, source IP) lands in Cloud Logging automatically, no app code
+involved. In the GCP Console: **Monitoring → Dashboards** has an
+auto-populated one for the load balancer (request count, latency, error
+rate, chartable per day/week); **Logging → Logs Explorer**, filtered to
+`resource.type="http_load_balancer"`, has the raw per-request log entries
+for anything more specific.

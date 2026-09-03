@@ -67,6 +67,16 @@ resource "google_compute_backend_service" "search_api" {
     balancing_mode        = "RATE"
     max_rate_per_endpoint = 100
   }
+
+  # Every request through the LB (path, status, latency, source IP) lands
+  # in Cloud Logging automatically — request-volume/usage visibility with
+  # no app code and no data ever collected from the app itself. sample_rate
+  # 1.0 logs everything; traffic here is nowhere near the volume where
+  # sampling down would matter.
+  log_config {
+    enable      = true
+    sample_rate = 1.0
+  }
 }
 
 resource "google_compute_managed_ssl_certificate" "primary" {

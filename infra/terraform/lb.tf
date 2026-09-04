@@ -68,14 +68,15 @@ resource "google_compute_backend_service" "search_api" {
     max_rate_per_endpoint = 100
   }
 
-  # Every request through the LB (path, status, latency, source IP) lands
-  # in Cloud Logging automatically — request-volume/usage visibility with
-  # no app code and no data ever collected from the app itself. sample_rate
-  # 1.0 logs everything; traffic here is nowhere near the volume where
-  # sampling down would matter.
+  # Request logging is deliberately OFF: an LB request log entry carries the
+  # client IP, full URL (so the ?q= search text), user-agent and referer,
+  # and we don't want to retain any of that. Request *volume* — the only
+  # thing we actually want — comes for free from the Cloud Monitoring
+  # metric loadbalancing.googleapis.com/https/request_count, which is
+  # aggregate and holds no per-request data. The search text alone is
+  # logged by the app itself (see app/main.py), nothing else.
   log_config {
-    enable      = true
-    sample_rate = 1.0
+    enable = false
   }
 }
 

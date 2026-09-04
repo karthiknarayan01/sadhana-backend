@@ -1,3 +1,4 @@
+import logging
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 
@@ -9,6 +10,15 @@ from fastapi.responses import JSONResponse
 from app.config import settings
 from app.es_client import SearchUnavailableError, build_client, search_shlokas
 from app.schemas import SearchResponse
+
+# The one thing this service records about traffic: the search text itself,
+# for a rough sense of what people look for and how much. Goes to the
+# uvicorn.error channel (always configured, stderr) — from there to the
+# container's own rotating logs on the VM, not shipped anywhere. No IP, no
+# user-agent, no identifier is logged alongside it (see Dockerfile's
+# --no-access-log and the LB's disabled request logging). Request *counts*
+# come separately from the LB's aggregate Cloud Monitoring metric.
+_search_log = logging.getLogger("uvicorn.error")
 
 
 @asynccontextmanager
@@ -68,5 +78,6 @@ async def search(
     page: int = Query(0, ge=0, le=_MAX_PAGE),
     client: AsyncElasticsearch = Depends(get_es_client),
 ) -> SearchResponse:
+    _search_log.info("search q=%r page=%d", q, page)
     results, has_more = await search_shlokas(client, q, page=page)
     return SearchResponse(results=results, has_more=has_more)

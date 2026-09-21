@@ -34,6 +34,26 @@ class ShlokaEntry(BaseModel):
     content: dict[str, str]
     meaning: dict[str, str] = {}
     source_attribution: SourceAttribution
+    # Free-text keywords from the source itself (e.g. sanskritdocuments.org
+    # .itx files carry a "% Category" line — deity/genre keywords like
+    # "durgA, devii, stotra", not the same thing as this entry's own single
+    # `category` above). Not every source provides these — empty for those.
+    tags: list[str] = []
+    # True when this entry's name matches a title on vignanam.org's curated
+    # prayer index — used as a search-relevance boost, not a filter: it
+    # never suppresses a genuinely better-matching non-canonical result, it
+    # just tips ties and near-ties toward the prayers people are most
+    # likely searching for.
+    priority: bool = False
+    # Sanskrit titles are conventionally written as one fused compound
+    # (sandhi) — "vishnusahasranama" — but people search using the split
+    # words ("vishnu sahasranama"). Not a grammatical sandhi-vigraha
+    # (that's a much harder, still-unsolved-in-general problem); a
+    # dictionary-based greedy segmentation against known deity names and
+    # genre/type words (see ingest/alias_split.py), good enough to recover
+    # the common case without asserting linguistic correctness. Empty when
+    # the title doesn't segment confidently.
+    aliases: list[str] = []
 
     @field_validator("name", "content")
     @classmethod
@@ -58,4 +78,7 @@ class ShlokaEntry(BaseModel):
             "meaning": self.meaning,
             "source_attribution": self.source_attribution.model_dump(),
             "languages_available": self.languages_available,
+            "tags": self.tags,
+            "priority": self.priority,
+            "aliases": self.aliases,
         }

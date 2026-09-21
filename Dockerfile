@@ -16,4 +16,8 @@ RUN uv sync --no-dev
 # auth to make that matter locally.
 ENV PORT=8080
 EXPOSE 8080
-CMD ["sh", "-c", "uv run --no-sync uvicorn app.main:app --host 0.0.0.0 --port ${PORT}"]
+# --no-access-log: uvicorn's per-request access line includes the peer IP
+# and the full "GET /search?q=..." path. The app logs the search text on
+# its own terms (app/main.py) and we don't want the IP retained, so the
+# stock access log is off.
+CMD ["sh", "-c", "uv run --no-sync uvicorn app.main:app --host 0.0.0.0 --port ${PORT} --no-access-log"]

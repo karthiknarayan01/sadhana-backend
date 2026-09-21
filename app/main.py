@@ -1,12 +1,24 @@
+import logging
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 
 from elasticsearch import AsyncElasticsearch
 from fastapi import Depends, FastAPI, Query, Request
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
+from app.config import settings
 from app.es_client import SearchUnavailableError, build_client, search_shlokas
 from app.schemas import SearchResponse
+
+# The one thing this service records about traffic: the search text itself,
+# for a rough sense of what people look for and how much. Goes to the
+# uvicorn.error channel (always configured, stderr) — from there to the
+# container's own rotating logs on the VM, not shipped anywhere. No IP, no
+# user-agent, no identifier is logged alongside it (see Dockerfile's
+# --no-access-log and the LB's disabled request logging). Request *counts*
+# come separately from the LB's aggregate Cloud Monitoring metric.
+_search_log = logging.getLogger("uvicorn.error")
 
 
 @asynccontextmanager
@@ -21,6 +33,25 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
 
 app = FastAPI(title="Sadhana Search API", lifespan=lifespan)
+
+# Elasticsearch refuses from+size beyond index.max_result_window (default
+# 10,000) with a 400, rather than just returning nothing — bounding `page`
+# here means a stray/malicious page number gets a clean 422 from FastAPI's
+# own validation instead of an ES error leaking through.
+_MAX_PAGE = (10_000 // settings.search_page_size) - 1
+
+# Wildcard is safe here specifically because this endpoint takes no
+# credentials/cookies and returns nothing user-specific — a public,
+# read-only search API with no per-caller state to leak. Without this, the
+# Flutter *web* build's browser fetch calls are silently blocked by the
+# browser's same-origin policy (Android/iOS are unaffected — CORS is a
+# browser-only mechanism, invisible on native).
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["GET"],
+    allow_headers=["*"],
+)
 
 
 def get_es_client(request: Request) -> AsyncElasticsearch:
@@ -44,7 +75,9 @@ async def health() -> dict[str, str]:
 @app.get("/search", response_model=SearchResponse)
 async def search(
     q: str = Query(..., min_length=1, max_length=200),
+    page: int = Query(0, ge=0, le=_MAX_PAGE),
     client: AsyncElasticsearch = Depends(get_es_client),
 ) -> SearchResponse:
-    results = await search_shlokas(client, q)
-    return SearchResponse(results=results)
+    _search_log.info("search q=%r page=%d", q, page)
+    results, has_more = await search_shlokas(client, q, page=page)
+    return SearchResponse(results=results, has_more=has_more)

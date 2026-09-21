@@ -38,6 +38,20 @@ INDEX_MAPPING = {
             "id": {"type": "keyword"},
             "category": {"type": "keyword"},
             "languages_available": {"type": "keyword"},
+            # Source-provided deity/genre keywords (e.g. sanskritdocuments.org
+            # .itx files' "% Category" line) — same analyzer as name/content
+            # so a query term can match a tag too (see app/es_client.py's
+            # _SEARCH_FIELDS), not just exact-match faceting.
+            "tags": {"type": "text", "analyzer": "sanskrit_english"},
+            # Compound-title words split out for search (see
+            # ingest/alias_split.py) — "vishnusahasranama" -> ["vishnu",
+            # "sahasranama"] — so a query for the split form still matches
+            # the title, not just an exact/fuzzy match on the fused form.
+            "aliases": {"type": "text", "analyzer": "sanskrit_english"},
+            # True for entries matching vignanam.org's curated title index —
+            # a relevance-boost signal only (see app/es_client.py), never a
+            # filter.
+            "priority": {"type": "boolean"},
             "source_attribution": {
                 "properties": {
                     "text_source": {"type": "keyword", "index": False},

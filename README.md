@@ -65,8 +65,23 @@ promotion PR (see `.github/workflows/enforce-dev-to-main.yml`).
 
 ## Infra
 
-Elasticsearch runs self-hosted on a single private GCE VM (no external IP) —
-never exposed to the internet directly. This Cloud Run service is the only
-public entry point, reaching Elasticsearch over a private VPC. Cloud Armor
-rate-limits incoming requests per-IP. See `infra/terraform/` (added once the
-infra phase lands — not yet in this scaffold).
+Elasticsearch and search-api both run self-hosted on a single private GCE
+VM (`e2-small`, no external IP) — never exposed to the internet directly.
+A Google Cloud external HTTPS Load Balancer is the only public entry point
+(`https://34-54-97-93.sslip.io`), terminating TLS via a free sslip.io-based
+managed cert and reaching the VM over a private VPC, with Cloud Armor
+rate-limiting incoming requests per-IP ahead of it. See `infra/terraform/`
+and `infra/terraform/README.md` for the resources — already applied and
+live for the `sadhana-backend-305666` project; every push to `dev`
+redeploys automatically.
+
+## Traffic visibility
+
+The load balancer's backend service has request logging enabled
+(`log_config` in `infra/terraform/lb.tf`) — every request (path, status,
+latency, source IP) lands in Cloud Logging automatically, no app code
+involved. In the GCP Console: **Monitoring → Dashboards** has an
+auto-populated one for the load balancer (request count, latency, error
+rate, chartable per day/week); **Logging → Logs Explorer**, filtered to
+`resource.type="http_load_balancer"`, has the raw per-request log entries
+for anything more specific.

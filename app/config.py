@@ -10,5 +10,10 @@ class Settings(BaseSettings):
     es_api_key: str | None = None
     es_index: str = "shlokas"
 
+    # Deliberately not client-controlled (see app/main.py's /search) — a
+    # tuning knob for us to turn if a given page size proves too slow /
+    # too heavy over the wire, not something a client can inflate.
+    search_page_size: int = 10
+
 
 settings = Settings()

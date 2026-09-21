@@ -6,6 +6,10 @@ __pycache__/
 .ruff_cache/
 *.egg-info/
 
+# ingest/crawl/ output — reviewed by hand, then moved into content/shlokas/
+# (which is tracked); the staging dir itself is scratch space, not the record.
+content/shlokas_staging/
+
 infra/terraform/.terraform/
 infra/terraform/*.tfstate
 infra/terraform/*.tfstate.*

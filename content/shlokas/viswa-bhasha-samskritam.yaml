@@ -1,0 +1,27 @@
+id: viswa-bhasha-samskritam
+category: stotram
+name:
+  english: Viswa Bhasha Samskritam
+content:
+  english: saralabhasha samskritam sarasabhasha samskritam | sarasasaralamanojnamangaladevabhasha samskritam
+    || || madhurabhasha samskritam mridulabhasha samskritam | mridulamadhuramanoharamritatulyabhasha samskritam
+    || || devabhasha samskritam vedabhasha samskritam | bhedabhavavinashakam khalu divyabhasha samskritam
+    || || amritabhasha samskritam atulabhasha samskritam | sukritijanahridi parilasitashubhavaradabhasha
+    samskritam || || bhuvanabhasha samskritam bhavanabhasha samskritam | bharatabhuvi parilasitakavyamanojnabhasha
+    samskritam || || shastrabhasha samskritam shastrabhasha samskritam | shastrashastrabhridarshabharatarashtrabhasha
+    samskritam || || dharmabhasha samskritam karmabhasha samskritam | dharmakarmapracodakam khalu vishvabhasha
+    samskritam ||
+  devanagari: सरलभाषा संस्कृतं सरसभाषा संस्कृतम् । सरससरलमनोज्ञमङ्गलदेवभाषा संस्कृतम् ॥ ॥ मधुरभाषा संस्कृतं
+    मृदुलभाषा संस्कृतम् । मृदुलमधुरमनोहरामृततुल्यभाषा संस्कृतम् ॥ ॥ देवभाषा संस्कृतं वेदभाषा संस्कृतम्
+    । भेदभावविनाशकं खलु दिव्यभाषा संस्कृतम् ॥ ॥ अमृतभाषा संस्कृतं अतुलभाषा संस्कृतम् । सुकृतिजनहृदि परिलसितशुभवरदभाषा
+    संस्कृतम् ॥ ॥ भुवनभाषा संस्कृतं भवनभाषा संस्कृतम् । भरतभुवि परिलसितकाव्यमनोज्ञभाषा संस्कृतम् ॥ ॥ शस्त्रभाषा
+    संस्कृतं शास्त्रभाषा संस्कृतम् । शस्त्रशास्त्रभृदार्षभारतराष्ट्रभाषा संस्कृतम् ॥ ॥ धर्मभाषा संस्कृतं
+    कर्मभाषा संस्कृतम् । धर्मकर्मप्रचोदकं खलु विश्वभाषा संस्कृतम् ॥
+meaning: {}
+source_attribution:
+  text_source: vignanam.org (downloaded and provided by the project owner) — Viswa Bhasha Samskritam
+  license: public_domain
+tags: []
+priority: true
+aliases:
+- kritam

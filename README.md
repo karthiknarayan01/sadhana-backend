@@ -1,9 +1,11 @@
 # Sadhana Backend
 
+![Demo](https://raw.githubusercontent.com/karthiknarayan01/sadhana-app/dev/screenshots/demo.gif)
+
 A small, read-only search API backing the shloka/sutra search feature of the
 [Sadhana app](https://github.com/karthiknarayan01/sadhana-app). Elasticsearch
 is the only datastore — no Postgres, no user accounts, no writes at request
-time.
+time. The search screens in the demo above are this service responding live.
 
 ## API
 
